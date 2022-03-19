@@ -1,0 +1,16 @@
+23:48:26.792 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+23:48:27.075 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+java.lang.IllegalArgumentException: Illegal character in opaque part at index 8: derby:C:\Users\Administrator/public_main;create=true
+	at java.base/java.net.URI.create(URI.java:906)
+	at io.alunity.sql.DatabaseCredentials.getURI(DatabaseCredentials.java:27)
+	at io.alunity.sql.DatabaseCredentials.getName(DatabaseCredentials.java:31)
+	at io.alunity.Server.loadData(Server.java:134)
+	at io.alunity.Server.lambda$main$0(Server.java:179)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 8: derby:C:\Users\Administrator/public_main;create=true
+	at java.base/java.net.URI$Parser.fail(URI.java:2938)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3109)
+	at java.base/java.net.URI$Parser.parse(URI.java:3145)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URI.create(URI.java:904)
+	... 5 common frames omitted

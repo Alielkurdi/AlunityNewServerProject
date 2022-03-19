@@ -1,0 +1,2 @@
+[DonatedLog] [2021-11-19T23:27:46.8981785] Donated [DonationItem{itemId=608, itemAmount=1, itemName='FIVE_HUNDRED', claimedDate=null, transaction=null}]
+[DonatedLog] [2021-11-19T23:28:52.479726] Donated [DonationItem{itemId=608, itemAmount=1, itemName='FIVE_HUNDRED', claimedDate=null, transaction=null}]

@@ -1,0 +1,2 @@
+[CommandLog] [2021-11-07T14:05:02.268402] scott0 typed command staff at X: 3092 Y:3491
+[CommandLog] [2021-11-07T17:19:12.5404574] scott0 typed command max at X: 3035 Y:6067

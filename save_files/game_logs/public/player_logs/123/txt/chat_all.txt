@@ -1,0 +1,5 @@
+[PublicChatLog] [2021-11-16T22:11:47.3938195] De
+[PublicChatLog] [2021-11-16T22:13:43.570596] Uj
+[ClanChatLog] [2021-11-16T22:14:13.0578418] Channel=Help, message=/ hi
+[PublicChatLog] [2021-11-16T22:20:33.6560605] De
+[ClanChatLog] [2021-11-16T22:20:35.4610489] Channel=Help, message=/ hi

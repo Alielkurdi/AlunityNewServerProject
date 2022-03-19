@@ -1,0 +1,54 @@
+23:44:39.928 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+com.fasterxml.jackson.databind.JsonMappingException: while parsing a block mapping
+ in 'reader', line 16, column 3:
+      url: "jdbc:mysql://92.204.221.12 ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 18, column 28:
+      password: "e&{51EbB4O.m" //im trust you fully you can go  ... 
+                               ^
+
+ at [Source: (File); line: 18, column: 13] (through reference chain: io.alunity.ServerConfiguration["hiscores_database"])
+	at com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:394)
+	at com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:353)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.wrapAndThrow(BeanDeserializerBase.java:1714)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:290)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:151)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3070)
+	at io.alunity.util.JsonUtil.fromYaml(JsonUtil.java:124)
+	at io.alunity.Server.loadConfiguration(Server.java:240)
+	at io.alunity.Server.lambda$main$0(Server.java:173)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: com.fasterxml.jackson.dataformat.yaml.snakeyaml.error.MarkedYAMLException: while parsing a block mapping
+ in 'reader', line 16, column 3:
+      url: "jdbc:mysql://92.204.221.12 ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 18, column 28:
+      password: "e&{51EbB4O.m" //im trust you fully you can go  ... 
+                               ^
+
+ at [Source: (File); line: 18, column: 27]
+	at com.fasterxml.jackson.dataformat.yaml.snakeyaml.error.MarkedYAMLException.from(MarkedYAMLException.java:27)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLParser.nextToken(YAMLParser.java:359)
+	at com.fasterxml.jackson.core.JsonParser.nextFieldName(JsonParser.java:861)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:295)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:151)
+	at com.fasterxml.jackson.databind.deser.impl.FieldProperty.deserializeAndSet(FieldProperty.java:138)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:288)
+	... 7 common frames omitted
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 16, column 3:
+      url: "jdbc:mysql://92.204.221.12 ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 18, column 28:
+      password: "e&{51EbB4O.m" //im trust you fully you can go  ... 
+                               ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:572)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.getEvent(ParserImpl.java:168)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLParser.nextToken(YAMLParser.java:355)
+	... 12 common frames omitted

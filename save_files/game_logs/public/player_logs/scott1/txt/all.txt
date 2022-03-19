@@ -1,0 +1,13 @@
+[ConnectionLog] [2021-11-27T21:29:08.3734188] Logged in
+[ClickButtonLog] [2021-11-27T21:29:28.8255883] Clicked: 95004, new: false
+[ClickButtonLog] [2021-11-27T21:29:30.0266032] Clicked: 94242, new: false
+[ClickButtonLog] [2021-11-27T21:29:32.4316219] Clicked: 9157, new: false
+[CommandLog] [2021-11-27T21:29:38.4506721] scott1 typed command master at X: 3090 Y:3490
+[CommandLog] [2021-11-27T21:29:40.249687] scott1 typed command max at X: 3090 Y:3490
+[PublicChatLog] [2021-11-27T21:29:42.0546985] -.-
+[ClickButtonLog] [2021-11-27T21:48:01.6409402] Clicked: 9154, new: false
+[ConnectionLog] [2021-12-06T23:36:03.1033777] Logged in
+[ChangeAddressLog] [2021-12-06T23:36:03.1073748] Changed mac address from '127.0.0.1' to '5.175.19.214'.
+[ChangeAddressLog] [2021-12-06T23:36:03.1073748] Changed ip address from '127.0.0.1' to '5.175.19.214'.
+[ClickObjectLog] [2021-12-06T23:36:08.5243535] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-12-06T23:36:15.259703] Clicked: 9154, new: false

@@ -1,0 +1,59 @@
+20:01:59.843 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+20:02:00.350 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+20:02:00.695 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+20:02:00.866 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.033s)
+20:02:00.888 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+20:02:00.890 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+20:02:09.761 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+20:02:10.515 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+20:02:11.479 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+20:02:11.656 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+20:02:30.827 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+20:02:33.142 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+20:02:33.460 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+20:02:33.666 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+20:02:33.677 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:01.610 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=1, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=463.5 MB/615 MB]
+20:03:01.951 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:06.027 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:06.028 [pool-9-thread-3] INFO  i.alunity.net.login.RS2LoginProtocol - New player registered: Scott
+20:03:06.031 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:06.140 [pool-9-thread-3] ERROR i.alunity.net.login.RS2LoginProtocol - Could not load display name for Scott, newPlayer=true
+20:03:06.142 [pool-9-thread-3] INFO  i.alunity.net.login.RS2LoginProtocol - Login rejected with code INVALID_USERNAME_OR_PASSWORD for player player[loginName=scott, displayName=null, ip=127.0.0.1, mac=127.0.0.1, uuid=c9688532-e26b-4cb9-923f-72332e66c622] 
+20:03:08.922 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:26.502 [pool-9-thread-7] INFO  i.alunity.net.login.RS2LoginProtocol - New player registered: Scott
+20:03:26.501 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:26.505 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:26.507 [pool-9-thread-7] ERROR i.alunity.net.login.RS2LoginProtocol - Could not load display name for Scott, newPlayer=true
+20:03:26.507 [pool-9-thread-7] INFO  i.alunity.net.login.RS2LoginProtocol - Login rejected with code INVALID_USERNAME_OR_PASSWORD for player player[loginName=scott, displayName=null, ip=127.0.0.1, mac=127.0.0.1, uuid=c9688532-e26b-4cb9-923f-72332e66c622] 
+20:03:28.427 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:31.880 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=13ms, handshakes-per-tick=0, memory=501.2 MB/615 MB]
+20:03:43.386 [pool-9-thread-2] INFO  i.alunity.net.login.RS2LoginProtocol - New player registered: Scott
+20:03:43.387 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:43.388 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:03:43.390 [pool-9-thread-2] ERROR i.alunity.net.login.RS2LoginProtocol - Could not load display name for Scott, newPlayer=true
+20:03:43.390 [pool-9-thread-2] INFO  i.alunity.net.login.RS2LoginProtocol - Login rejected with code INVALID_USERNAME_OR_PASSWORD for player player[loginName=scott, displayName=null, ip=127.0.0.1, mac=127.0.0.1, uuid=c9688532-e26b-4cb9-923f-72332e66c622] 
+20:04:03.714 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=13ms, handshakes-per-tick=0, memory=479.7 MB/615 MB]
+20:04:39.133 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=451.2 MB/615 MB]
+20:05:12.514 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=410.7 MB/615 MB]
+20:05:44.527 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=362.7 MB/615 MB]
+20:06:21.828 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=17ms, handshakes-per-tick=0, memory=319.2 MB/615 MB]
+20:06:35.908 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:06:52.393 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=511.5 MB/615 MB]
+20:07:01.200 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:07:01.200 [pool-9-thread-8] INFO  i.alunity.net.login.RS2LoginProtocol - New player registered: Scott
+20:07:01.201 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:07:01.217 [pool-9-thread-8] INFO  i.alunity.net.login.RS2LoginProtocol - Player login queued [name=Scott, mac=, ip=127.0.0.1:58721, time=12ms]
+20:07:22.588 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=17ms, handshakes-per-tick=0, memory=472.7 MB/615 MB]
+20:07:54.461 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=17ms, handshakes-per-tick=0, memory=425.2 MB/615 MB]
+20:08:24.945 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=17ms, handshakes-per-tick=0, memory=376.7 MB/615 MB]
+20:08:55.135 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=326.3 MB/615 MB]
+20:09:25.216 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=514.7 MB/615 MB]
+20:09:55.312 [GameThread] INFO  io.alunity.GameThread - Status [runtime=7m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=465.2 MB/615 MB]
+20:10:25.397 [GameThread] INFO  io.alunity.GameThread - Status [runtime=7m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=418.2 MB/615 MB]
+20:10:55.496 [GameThread] INFO  io.alunity.GameThread - Status [runtime=8m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=368.5 MB/615 MB]
+20:11:25.578 [GameThread] INFO  io.alunity.GameThread - Status [runtime=8m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=320.2 MB/615 MB]
+20:11:55.767 [GameThread] INFO  io.alunity.GameThread - Status [runtime=9m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=508.7 MB/615 MB]
+20:12:25.863 [GameThread] INFO  io.alunity.GameThread - Status [runtime=9m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=462.5 MB/615 MB]
+20:12:55.944 [GameThread] INFO  io.alunity.GameThread - Status [runtime=10m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=404.2 MB/615 MB]
+20:13:26.031 [GameThread] INFO  io.alunity.GameThread - Status [runtime=10m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=346.5 MB/615 MB]

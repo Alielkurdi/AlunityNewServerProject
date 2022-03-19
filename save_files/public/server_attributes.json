@@ -1,0 +1,33 @@
+{
+  "attributes": {},
+  "intMap": {},
+  "doubleMap": {},
+  "booleanMap": {},
+  "longMap": {},
+  "stringMap": {
+    "leaderboard_last_select": "2022-03-19"
+  },
+  "listMap": {
+    "starters": [
+      "127.0.0.1",
+      "127.0.0.1",
+      "127.0.0.1",
+      "127.0.0.1",
+      "127.0.0.1",
+      "5.175.19.214",
+      "34-E1-2D-D3-3B-E6",
+      "20-4E-F6-28-98-51",
+      "20-4E-F6-28-98-51",
+      "5.175.19.214",
+      "D8-BB-C1-54-AB-3C"
+    ],
+    "referalls": []
+  },
+  "hashSetMap": {
+    "referalls_map": [
+      "D8-BB-C1-54-AB-3C",
+      "37.201.225.60",
+      "127.0.0.1"
+    ]
+  }
+}

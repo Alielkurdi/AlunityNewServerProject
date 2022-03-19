@@ -1,0 +1,21 @@
+20:39:17.408 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+20:39:17.859 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+20:39:18.152 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+20:39:18.272 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.025s)
+20:39:18.290 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+20:39:18.292 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+20:39:20.445 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+20:39:20.493 [GameThread] INFO  i.a.m.e.p.m.g.GroupIronmanRepository - Loaded 0 group ironman groups.
+20:39:20.810 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+20:39:21.600 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+20:39:21.732 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+20:39:37.036 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+20:39:38.423 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+20:39:38.920 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+20:39:39.104 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+20:39:39.132 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:40:04.038 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:40:04.294 [pool-9-thread-1] INFO  i.alunity.net.login.RS2LoginProtocol - Player login queued [name=scott, mac=, ip=127.0.0.1:64133, time=409ms]
+20:40:07.098 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=324.4 MB/610 MB]
+20:40:37.344 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=12ms, handshakes-per-tick=0, memory=311.1 MB/610 MB]
+20:41:07.418 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=11ms, handshakes-per-tick=0, memory=500 MB/610 MB]

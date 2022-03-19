@@ -1,0 +1,23 @@
+19:57:07.062 [GameThread] INFO  io.alunity.Server - Server state: TEST_PUBLIC
+19:57:07.499 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+19:57:07.824 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+19:57:07.962 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.026s)
+19:57:07.979 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 12
+19:57:07.983 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Migrating schema `game_alunity` to version 13 - create leaderboard tables
+19:57:08.163 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Migrating schema `game_alunity` to version 14 - leaderboards add composite key
+19:57:08.216 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Migrating schema `game_alunity` to version 15 - vote record table add site id
+19:57:08.319 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Successfully applied 3 migrations to schema `game_alunity` (execution time 00:00.347s)
+19:57:11.046 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+19:57:11.461 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+19:57:12.430 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+19:57:12.643 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+19:57:31.736 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+19:58:03.259 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=405.7 MB/609 MB]
+19:58:21.465 [pool-9-thread-2] INFO  i.alunity.net.login.RS2LoginProtocol - New player registered: Scott
+19:58:21.710 [pool-9-thread-2] INFO  i.alunity.net.login.RS2LoginProtocol - Player login queued [name=Scott, mac=, ip=127.0.0.1:58520, time=248ms]
+19:58:33.540 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=404.7 MB/609 MB]
+19:59:03.856 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=376.6 MB/609 MB]
+19:59:34.027 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=343.9 MB/609 MB]
+20:00:04.109 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=301.9 MB/609 MB]
+20:00:34.676 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=13ms, handshakes-per-tick=0, memory=492.7 MB/609 MB]
+20:01:08.594 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=445.2 MB/609 MB]

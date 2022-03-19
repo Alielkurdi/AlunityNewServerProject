@@ -1,0 +1,306 @@
+22:50:20.118 [GameThread] INFO  io.alunity.Server - Server state: TEST
+22:50:30.845 [GameThread] DEBUG i.a.m.e.p.migration.PlayerMigration - Loaded player migration version=1 description='example_migration'
+22:50:32.069 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+22:50:32.999 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+22:50:33.936 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+22:50:34.122 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+22:50:34.335 [GameThread] DEBUG i.a.m.c.impl.LeaderboardUpdateEvent - Loaded serialized start of day as 2021-11-06T00:00-04:00[America/New_York]
+22:50:50.665 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3094, y=3501, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.682 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3095, y=3501, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.683 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10042, x=3077, y=3502, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.684 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3806, y=2835, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.684 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10583, x=3186, y=3436, height=1, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.685 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=30087, x=2494, y=5114, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.685 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3082, y=3507, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.685 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3286, y=4958, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.686 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3279, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.686 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3306, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.687 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3306, y=4951, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.687 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3281, y=4943, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.687 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3168, y=4961, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.687 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3153, y=4974, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.687 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3178, y=4976, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.687 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3155, y=4945, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.687 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26741, x=3180, y=4945, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.688 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=29778, x=3298, y=5185, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.688 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=26739, x=3430, y=4824, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.688 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=31925, x=3084, y=3490, height=0, face=4, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.688 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11376, x=3189, y=3932, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.688 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3221, y=3502, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.689 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3204, y=3503, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.690 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10822, x=3208, y=3499, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.690 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=3786, y=3562, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.690 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=3812, y=2837, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.691 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2835, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.691 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2835, y=5109, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.691 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2834, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.691 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2836, y=5109, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.691 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=9030, x=2836, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.691 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10562, x=2837, y=5106, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.691 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=2231, x=3303, y=3951, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.692 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3384, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.692 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3383, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.692 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=3001, y=3382, height=0, face=1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.692 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2845, y=5088, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.692 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2850, y=5088, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.692 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2445, y=5178, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.693 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2783, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.693 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2784, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.693 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24347, x=2782, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.693 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=23709, x=2780, y=4847, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.693 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3010, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.693 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3011, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.694 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3012, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.694 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3013, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.694 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=7674, x=3014, y=3390, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.694 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3192, y=3925, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.702 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11373, x=3195, y=3935, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.703 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3193, y=3935, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.703 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3192, y=3927, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.703 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3194, y=3927, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.703 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3193, y=3926, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.703 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11375, x=3194, y=3925, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.703 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3097, y=3481, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.704 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3097, y=3480, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.704 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=23709, x=3035, y=6071, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.704 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=3840, x=3001, y=3372, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.704 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11731, x=2958, y=3376, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.704 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=36201, x=3033, y=6065, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.704 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2205, y=3055, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.705 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10355, x=2536, y=4717, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.705 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10355, x=3016, y=5625, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.705 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=29879, x=3231, y=5729, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.705 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2959, y=3802, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.705 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3092, y=3488, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.706 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10439, x=3426, y=2930, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.706 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=635, x=3269, y=3410, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.706 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11730, x=2667, y=3310, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.708 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11731, x=2667, y=3303, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.708 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=11732, x=2663, y=3296, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.709 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=24101, x=2933, y=4818, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.709 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=13287, x=3106, y=3479, height=0, face=2, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.709 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=3828, x=3227, y=3108, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.710 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=31624, x=2777, y=4847, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.710 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=36556, x=2783, y=4839, height=0, face=0, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.710 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=10833, x=3012, y=3382, height=0, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.710 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=14402, x=3269, y=3166, height=3, face=3, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.710 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2656, y=2585, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.710 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2657, y=2585, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.711 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2656, y=2584, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.711 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2657, y=2584, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.712 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2643, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.712 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2643, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.712 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2642, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.712 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2642, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.713 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2670, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.713 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2670, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.713 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2671, y=2593, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.714 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=2671, y=2592, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=3, instance=null}
+22:50:50.720 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=32572, x=3109, y=3482, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:50.720 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=30087, x=3109, y=3483, height=0, face=-1, ticksRemaining=-1, restoreId=0, type=10, instance=null}
+22:50:54.509 [GameThread] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+22:50:54.514 [GameThread] DEBUG i.n.c.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+22:50:54.562 [GameThread] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+22:50:54.565 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+22:50:54.566 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - Java version: 13
+22:50:54.569 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+22:50:54.570 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+22:50:54.571 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+22:50:54.572 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - direct buffer constructor: available
+22:50:54.573 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+22:50:54.580 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable
+java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent0$6 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @350a54ea
+	at java.base/jdk.internal.reflect.Reflection.newIllegalAccessException(Reflection.java:376)
+	at java.base/java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:642)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:559)
+	at io.netty.util.internal.PlatformDependent0$6.run(PlatformDependent0.java:300)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:312)
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:291)
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:202)
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:79)
+	at io.netty.util.ConstantPool.<init>(ConstantPool.java:32)
+	at io.netty.util.Signal$1.<init>(Signal.java:27)
+	at io.netty.util.Signal.<clinit>(Signal.java:27)
+	at io.netty.util.concurrent.DefaultPromise.<clinit>(DefaultPromise.java:43)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:36)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:58)
+	at io.netty.util.concurrent.MultithreadEventExecutorGroup.<init>(MultithreadEventExecutorGroup.java:47)
+	at io.netty.channel.MultithreadEventLoopGroup.<init>(MultithreadEventLoopGroup.java:59)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:77)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:72)
+	at io.netty.channel.nio.NioEventLoopGroup.<init>(NioEventLoopGroup.java:59)
+	at io.alunity.Server.bindPorts(Server.java:270)
+	at io.alunity.Server.lambda$main$0(Server.java:186)
+	at io.alunity.GameThread.run(GameThread.java:81)
+22:50:54.580 [GameThread] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+22:50:54.580 [GameThread] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+22:50:54.613 [GameThread] DEBUG i.n.util.internal.PlatformDependent - maxDirectMemory: 2147483648 bytes (maybe)
+22:50:54.613 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\ADMINI~1\AppData\Local\Temp\2 (java.io.tmpdir)
+22:50:54.614 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+22:50:54.616 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+22:50:54.616 [GameThread] DEBUG i.n.util.internal.PlatformDependent - maxDirectMemory: 2147483648 bytes (maybe)
+22:50:54.616 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 2147483648 bytes
+22:50:54.616 [GameThread] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+22:50:54.617 [GameThread] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+22:50:54.645 [GameThread] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+22:50:54.645 [GameThread] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+22:50:54.657 [GameThread] DEBUG i.n.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+22:50:54.739 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5cdc99ea
+22:50:54.741 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5a0f5e17
+22:50:54.742 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6c7eec56
+22:50:54.743 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@b51d42c
+22:50:54.744 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@a00162a
+22:50:54.745 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2adf0e9b
+22:50:54.746 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@31584bca
+22:50:54.748 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@34ad1979
+22:50:54.750 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@467cad5d
+22:50:54.750 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5d00f8ad
+22:50:54.751 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@62fe4e5b
+22:50:54.752 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@5a8b3f80
+22:50:54.753 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@793e77c9
+22:50:54.753 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@23a12dd3
+22:50:54.754 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@333d336a
+22:50:54.755 [GameThread] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@30c97db2
+22:50:54.813 [GameThread] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 1568 (auto-detected)
+22:50:54.816 [GameThread] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+22:50:54.816 [GameThread] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+22:50:54.871 [GameThread] DEBUG io.netty.util.NetUtil - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+22:50:54.872 [GameThread] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+22:50:54.918 [GameThread] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 00:1c:42:ff:fe:2b:ac:bb (auto-detected)
+22:50:54.926 [GameThread] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+22:50:54.926 [GameThread] DEBUG i.n.u.i.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+22:50:54.942 [GameThread] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+22:50:54.942 [GameThread] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.maxRecords: 4
+22:51:24.465 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=13ms, handshakes-per-tick=0, memory=379.3 MB/620 MB]
+22:51:54.548 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=11ms, handshakes-per-tick=0, memory=345.4 MB/620 MB]
+22:52:24.596 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=10ms, handshakes-per-tick=0, memory=291.2 MB/620 MB]
+22:52:54.608 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=10ms, handshakes-per-tick=0, memory=476.5 MB/620 MB]
+22:53:24.625 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=10ms, handshakes-per-tick=0, memory=416 MB/620 MB]
+22:53:54.633 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=349.4 MB/620 MB]
+22:54:24.648 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=535.3 MB/620 MB]
+22:54:54.699 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=465.4 MB/620 MB]
+22:55:24.784 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=392.3 MB/620 MB]
+22:55:54.807 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=315.4 MB/620 MB]
+22:56:24.821 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=500.3 MB/620 MB]
+22:56:54.837 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=420.9 MB/620 MB]
+22:57:24.850 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=340.3 MB/620 MB]
+22:57:54.867 [GameThread] INFO  io.alunity.GameThread - Status [runtime=7m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=524.8 MB/620 MB]
+22:58:24.887 [GameThread] INFO  io.alunity.GameThread - Status [runtime=7m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=443.8 MB/620 MB]
+22:58:54.911 [GameThread] INFO  io.alunity.GameThread - Status [runtime=8m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=362.3 MB/620 MB]
+22:59:24.934 [GameThread] INFO  io.alunity.GameThread - Status [runtime=8m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=547.9 MB/620 MB]
+22:59:54.939 [GameThread] INFO  io.alunity.GameThread - Status [runtime=9m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=465.4 MB/620 MB]
+23:00:24.957 [GameThread] INFO  io.alunity.GameThread - Status [runtime=9m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=381.4 MB/620 MB]
+23:00:54.971 [GameThread] INFO  io.alunity.GameThread - Status [runtime=10m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=297.9 MB/620 MB]
+23:01:24.996 [GameThread] INFO  io.alunity.GameThread - Status [runtime=10m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=483.4 MB/620 MB]
+23:01:55.015 [GameThread] INFO  io.alunity.GameThread - Status [runtime=11m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=398.9 MB/620 MB]
+23:02:25.019 [GameThread] INFO  io.alunity.GameThread - Status [runtime=11m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=312.4 MB/620 MB]
+23:02:55.034 [GameThread] INFO  io.alunity.GameThread - Status [runtime=12m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=497.9 MB/620 MB]
+23:03:25.045 [GameThread] INFO  io.alunity.GameThread - Status [runtime=12m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=412.9 MB/620 MB]
+23:03:55.054 [GameThread] INFO  io.alunity.GameThread - Status [runtime=13m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=327.4 MB/620 MB]
+23:04:25.073 [GameThread] INFO  io.alunity.GameThread - Status [runtime=13m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=513.4 MB/620 MB]
+23:04:55.088 [GameThread] INFO  io.alunity.GameThread - Status [runtime=14m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=428.4 MB/620 MB]
+23:05:25.103 [GameThread] INFO  io.alunity.GameThread - Status [runtime=14m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=343.4 MB/620 MB]
+23:05:55.121 [GameThread] INFO  io.alunity.GameThread - Status [runtime=15m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=528.9 MB/620 MB]
+23:06:25.137 [GameThread] INFO  io.alunity.GameThread - Status [runtime=15m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=443.4 MB/620 MB]
+23:06:55.162 [GameThread] INFO  io.alunity.GameThread - Status [runtime=16m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=358.9 MB/620 MB]
+23:07:25.175 [GameThread] INFO  io.alunity.GameThread - Status [runtime=16m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=543.9 MB/620 MB]
+23:07:55.183 [GameThread] INFO  io.alunity.GameThread - Status [runtime=17m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=457.4 MB/620 MB]
+23:08:25.206 [GameThread] INFO  io.alunity.GameThread - Status [runtime=17m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=372.4 MB/620 MB]
+23:08:55.228 [GameThread] INFO  io.alunity.GameThread - Status [runtime=18m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=286.9 MB/620 MB]
+23:09:25.250 [GameThread] INFO  io.alunity.GameThread - Status [runtime=18m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=472.9 MB/620 MB]
+23:09:55.262 [GameThread] INFO  io.alunity.GameThread - Status [runtime=19m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=386.9 MB/620 MB]
+23:10:25.280 [GameThread] INFO  io.alunity.GameThread - Status [runtime=19m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=301.4 MB/620 MB]
+23:10:55.303 [GameThread] INFO  io.alunity.GameThread - Status [runtime=20m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=486.4 MB/620 MB]
+23:11:25.316 [GameThread] INFO  io.alunity.GameThread - Status [runtime=20m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=401.4 MB/620 MB]
+23:11:55.334 [GameThread] INFO  io.alunity.GameThread - Status [runtime=21m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=315.9 MB/620 MB]
+23:12:25.354 [GameThread] INFO  io.alunity.GameThread - Status [runtime=21m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=501.4 MB/620 MB]
+23:12:55.371 [GameThread] INFO  io.alunity.GameThread - Status [runtime=22m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=415.9 MB/620 MB]
+23:13:25.388 [GameThread] INFO  io.alunity.GameThread - Status [runtime=22m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=329.9 MB/620 MB]
+23:13:55.403 [GameThread] INFO  io.alunity.GameThread - Status [runtime=23m, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=514.9 MB/620 MB]
+23:14:25.430 [GameThread] INFO  io.alunity.GameThread - Status [runtime=23m 30s, connections=0, players=0, uniques=0, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=429.5 MB/620 MB]
+23:14:55.436 [GameThread] INFO  io.alunity.GameThread - Status [runtime=24m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=343.4 MB/620 MB]
+23:15:25.453 [GameThread] INFO  io.alunity.GameThread - Status [runtime=24m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=528.9 MB/620 MB]
+23:15:55.480 [GameThread] INFO  io.alunity.GameThread - Status [runtime=25m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=443.9 MB/620 MB]
+23:16:25.497 [GameThread] INFO  io.alunity.GameThread - Status [runtime=25m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=357.9 MB/620 MB]
+23:16:55.515 [GameThread] INFO  io.alunity.GameThread - Status [runtime=26m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=543.4 MB/620 MB]
+23:17:25.534 [GameThread] INFO  io.alunity.GameThread - Status [runtime=26m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=457.4 MB/620 MB]
+23:17:55.554 [GameThread] INFO  io.alunity.GameThread - Status [runtime=27m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=372.4 MB/620 MB]
+23:18:25.577 [GameThread] INFO  io.alunity.GameThread - Status [runtime=27m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=286.9 MB/620 MB]
+23:18:55.731 [GameThread] INFO  io.alunity.GameThread - Status [runtime=28m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=471.9 MB/620 MB]
+23:19:25.750 [GameThread] INFO  io.alunity.GameThread - Status [runtime=28m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=386.9 MB/620 MB]
+23:19:55.777 [GameThread] INFO  io.alunity.GameThread - Status [runtime=29m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=301.4 MB/620 MB]
+23:20:25.795 [GameThread] INFO  io.alunity.GameThread - Status [runtime=29m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=487.4 MB/620 MB]
+23:20:55.815 [GameThread] INFO  io.alunity.GameThread - Status [runtime=30m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=400.9 MB/620 MB]
+23:21:25.829 [GameThread] INFO  io.alunity.GameThread - Status [runtime=30m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=315.9 MB/620 MB]
+23:21:55.852 [GameThread] INFO  io.alunity.GameThread - Status [runtime=31m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=501.4 MB/620 MB]
+23:22:25.868 [GameThread] INFO  io.alunity.GameThread - Status [runtime=31m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=415.9 MB/620 MB]
+23:22:55.879 [GameThread] INFO  io.alunity.GameThread - Status [runtime=32m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=330.4 MB/620 MB]
+23:23:25.894 [GameThread] INFO  io.alunity.GameThread - Status [runtime=32m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=515.4 MB/620 MB]
+23:23:55.908 [GameThread] INFO  io.alunity.GameThread - Status [runtime=33m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=430.4 MB/620 MB]
+23:24:25.922 [GameThread] INFO  io.alunity.GameThread - Status [runtime=33m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=344.4 MB/620 MB]
+23:24:55.931 [GameThread] INFO  io.alunity.GameThread - Status [runtime=34m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=528.9 MB/620 MB]
+23:25:25.948 [GameThread] INFO  io.alunity.GameThread - Status [runtime=34m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=443.4 MB/620 MB]
+23:25:55.962 [GameThread] INFO  io.alunity.GameThread - Status [runtime=35m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=357.5 MB/620 MB]
+23:26:25.980 [GameThread] INFO  io.alunity.GameThread - Status [runtime=35m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=542.5 MB/620 MB]
+23:26:55.993 [GameThread] INFO  io.alunity.GameThread - Status [runtime=36m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=456.5 MB/620 MB]
+23:27:26.009 [GameThread] INFO  io.alunity.GameThread - Status [runtime=36m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=370.5 MB/620 MB]
+23:27:56.033 [GameThread] INFO  io.alunity.GameThread - Status [runtime=37m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=285 MB/620 MB]
+23:28:26.049 [GameThread] INFO  io.alunity.GameThread - Status [runtime=37m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=470.5 MB/620 MB]
+23:28:56.058 [GameThread] INFO  io.alunity.GameThread - Status [runtime=38m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=384.5 MB/620 MB]
+23:29:26.081 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=-1, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+23:29:26.083 [GameThread] INFO  io.alunity.GameThread - Status [runtime=38m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=299.5 MB/620 MB]
+23:29:56.097 [GameThread] INFO  io.alunity.GameThread - Status [runtime=39m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=485 MB/620 MB]
+23:30:26.105 [GameThread] INFO  io.alunity.GameThread - Status [runtime=39m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=399 MB/620 MB]
+23:30:56.120 [GameThread] INFO  io.alunity.GameThread - Status [runtime=40m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=313 MB/620 MB]
+23:31:26.136 [GameThread] INFO  io.alunity.GameThread - Status [runtime=40m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=498.5 MB/620 MB]
+23:31:56.151 [GameThread] INFO  io.alunity.GameThread - Status [runtime=41m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=413 MB/620 MB]
+23:32:26.160 [GameThread] INFO  io.alunity.GameThread - Status [runtime=41m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=327 MB/620 MB]
+23:32:56.168 [GameThread] INFO  io.alunity.GameThread - Status [runtime=42m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=511.5 MB/620 MB]
+23:33:26.180 [GameThread] INFO  io.alunity.GameThread - Status [runtime=42m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=425.5 MB/620 MB]
+23:33:56.192 [GameThread] INFO  io.alunity.GameThread - Status [runtime=43m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=340 MB/620 MB]
+23:34:26.203 [GameThread] INFO  io.alunity.GameThread - Status [runtime=43m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=525.5 MB/620 MB]
+23:34:56.213 [GameThread] INFO  io.alunity.GameThread - Status [runtime=44m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=439 MB/620 MB]
+23:35:26.227 [GameThread] INFO  io.alunity.GameThread - Status [runtime=44m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=352.5 MB/620 MB]
+23:35:56.239 [GameThread] INFO  io.alunity.GameThread - Status [runtime=45m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=537.5 MB/620 MB]
+23:36:26.249 [GameThread] INFO  io.alunity.GameThread - Status [runtime=45m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=451.5 MB/620 MB]
+23:36:56.265 [GameThread] INFO  io.alunity.GameThread - Status [runtime=46m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=365.5 MB/620 MB]
+23:37:26.275 [GameThread] INFO  io.alunity.GameThread - Status [runtime=46m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=550 MB/620 MB]
+23:37:56.284 [GameThread] INFO  io.alunity.GameThread - Status [runtime=47m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=464 MB/620 MB]
+23:38:26.301 [GameThread] INFO  io.alunity.GameThread - Status [runtime=47m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=378.5 MB/620 MB]
+23:38:56.310 [GameThread] INFO  io.alunity.GameThread - Status [runtime=48m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=292 MB/620 MB]
+23:39:26.323 [GameThread] INFO  io.alunity.GameThread - Status [runtime=48m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=477 MB/620 MB]
+23:39:56.332 [GameThread] INFO  io.alunity.GameThread - Status [runtime=49m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=391.5 MB/620 MB]
+23:40:26.340 [GameThread] INFO  io.alunity.GameThread - Status [runtime=49m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=305 MB/620 MB]
+23:40:56.356 [GameThread] INFO  io.alunity.GameThread - Status [runtime=50m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=490.5 MB/620 MB]
+23:41:26.372 [GameThread] INFO  io.alunity.GameThread - Status [runtime=50m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=404.5 MB/620 MB]
+23:41:56.387 [GameThread] INFO  io.alunity.GameThread - Status [runtime=51m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=319 MB/620 MB]
+23:42:26.398 [GameThread] INFO  io.alunity.GameThread - Status [runtime=51m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=504.5 MB/620 MB]
+23:42:56.411 [GameThread] INFO  io.alunity.GameThread - Status [runtime=52m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=418.5 MB/620 MB]
+23:43:26.437 [GameThread] INFO  io.alunity.GameThread - Status [runtime=52m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=333.5 MB/620 MB]
+23:43:56.521 [GameThread] INFO  io.alunity.GameThread - Status [runtime=53m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=518.5 MB/620 MB]
+23:44:26.534 [GameThread] DEBUG i.a.m.world.objects.GlobalObjects - Add object GlobalObject{id=33730, x=3046, y=3489, height=0, face=1, ticksRemaining=-1, restoreId=-1, type=10, instance=null}
+23:44:26.540 [GameThread] INFO  io.alunity.GameThread - Status [runtime=53m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=433 MB/620 MB]
+23:44:56.545 [GameThread] INFO  io.alunity.GameThread - Status [runtime=54m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=347 MB/620 MB]
+23:45:26.564 [GameThread] INFO  io.alunity.GameThread - Status [runtime=54m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=532.5 MB/620 MB]
+23:45:56.580 [GameThread] INFO  io.alunity.GameThread - Status [runtime=55m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=448 MB/620 MB]
+23:46:26.588 [GameThread] INFO  io.alunity.GameThread - Status [runtime=55m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=361.5 MB/620 MB]
+23:46:56.597 [GameThread] INFO  io.alunity.GameThread - Status [runtime=56m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=545.5 MB/620 MB]
+23:47:26.613 [GameThread] INFO  io.alunity.GameThread - Status [runtime=56m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=459.5 MB/620 MB]
+23:47:56.624 [GameThread] INFO  io.alunity.GameThread - Status [runtime=57m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=374.5 MB/620 MB]
+23:48:26.637 [GameThread] INFO  io.alunity.GameThread - Status [runtime=57m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=289.5 MB/620 MB]
+23:48:56.645 [GameThread] INFO  io.alunity.GameThread - Status [runtime=58m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=473 MB/620 MB]
+23:49:26.659 [GameThread] INFO  io.alunity.GameThread - Status [runtime=58m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=387 MB/620 MB]
+23:49:56.672 [GameThread] INFO  io.alunity.GameThread - Status [runtime=59m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=301.5 MB/620 MB]
+23:50:26.686 [GameThread] INFO  io.alunity.GameThread - Status [runtime=59m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=486.5 MB/620 MB]
+23:50:56.698 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=400 MB/620 MB]
+23:51:26.708 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 00m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=314 MB/620 MB]
+23:51:56.721 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 01m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=499 MB/620 MB]
+23:52:26.735 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 01m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=412.5 MB/620 MB]
+23:52:56.742 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 02m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=326.5 MB/620 MB]
+23:53:26.757 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 02m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=511.5 MB/620 MB]
+23:53:56.901 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 03m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=425 MB/620 MB]
+23:54:26.904 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 03m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=339.5 MB/620 MB]
+23:54:56.935 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 04m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=525 MB/620 MB]
+23:55:27.158 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 04m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=439.5 MB/620 MB]
+23:55:57.169 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 05m, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=353.5 MB/620 MB]
+23:56:27.194 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 05m 30s, connections=0, players=0, uniques=0, npcs=3294, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=539.5 MB/620 MB]

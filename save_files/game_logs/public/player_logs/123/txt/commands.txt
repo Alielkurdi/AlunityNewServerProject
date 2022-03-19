@@ -1,0 +1,15 @@
+[CommandLog] [2021-11-16T22:12:22.6821176] 123 typed command empty at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:14:13.051848] 123 typed command / hi at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:14:16.661871] 123 typed command yell de at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:15:36.6635378] 123 typed command title  at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:15:39.6675668] 123 typed command title owner at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:18:23.3269365] 123 typed command close at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:18:26.8789674] 123 typed command donatortitle owner at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:18:44.9331187] 123 typed command donatortitle hey at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:18:58.8422381] 123 typed command close at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:19:09.7153296] 123 typed command yell de at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:19:15.1703729] 123 typed command donatortitle lelelele at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:19:50.252669] 123 typed command donatortitle canusuck at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:20:28.232989] 123 typed command donatortitle owner at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:20:35.4610489] 123 typed command / hi at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:20:36.0660551] 123 typed command yell de at X: 3091 Y:3492

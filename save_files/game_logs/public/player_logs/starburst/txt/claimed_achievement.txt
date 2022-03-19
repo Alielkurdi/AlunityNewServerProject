@@ -1,0 +1,1 @@
+[ClaimAchievementLog] [2022-01-19T20:30:31.8068594] Claimed achievement Achievement{formattedName='Burn It', tier=STARTER, type=FOE_POINTS, description='Burn 5,000 ExchangenPoints at FoE', amount=5000, identification=8, points=1, rewards=[GameItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=5}]}

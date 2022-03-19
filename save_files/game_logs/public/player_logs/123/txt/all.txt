@@ -1,0 +1,172 @@
+[ConnectionLog] [2021-11-16T22:10:15.1081361] Logged in
+[ClickButtonLog] [2021-11-16T22:10:38.5693237] Clicked: 94242, new: false
+[ClickButtonLog] [2021-11-16T22:10:40.374338] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:10:41.5783486] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:10:41.5803464] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:10:42.7803556] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:10:42.7883546] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-16T22:11:04.4525351] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-16T22:11:08.0595673] Clicked: 22942, new: true
+[ClickButtonLog] [2021-11-16T22:11:09.8995829] Clicked: 22940, new: true
+[ClickButtonLog] [2021-11-16T22:11:15.3846301] Clicked: 22940, new: true
+[ClickButtonLog] [2021-11-16T22:11:24.4667046] Clicked: 22950, new: true
+[ClickButtonLog] [2021-11-16T22:11:25.6687187] Clicked: 22940, new: true
+[PublicChatLog] [2021-11-16T22:11:47.3938195] De
+[CommandLog] [2021-11-16T22:12:22.6821176] 123 typed command empty at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-16T22:12:31.1521865] Clicked: 9157, new: false
+[EmptyInventoryLog] [2021-11-16T22:12:31.1551902] Emptied [SlottedItem{name=Bonus Xp Scroll, id=2841, amount=1}, SlottedItem{name=Coins, id=995, amount=678,300,000}, SlottedItem{name=Experience Lamp, id=2528, amount=1}, SlottedItem{name=Vote Mystery Box, id=11739, amount=1}, SlottedItem{name=Teleport to house, id=8013, amount=50}, SlottedItem{name=Lobster, id=380, amount=100}, SlottedItem{name=Shark, id=386, amount=100}, SlottedItem{name=Iron scimitar, id=1323, amount=1}, SlottedItem{name=Rune scimitar, id=1333, amount=1}, SlottedItem{name=Iron full helm, id=1153, amount=1}, SlottedItem{name=Iron platebody, id=1115, amount=1}, SlottedItem{name=Iron platelegs, id=1067, amount=1}, SlottedItem{name=Wizard hat, id=579, amount=1}, SlottedItem{name=Wizard robe, id=577, amount=1}, SlottedItem{name=Blue skirt, id=1011, amount=1}, SlottedItem{name=Staff of air, id=1381, amount=1}, SlottedItem{name=Gloves, id=7458, amount=1}, SlottedItem{name=Coif, id=1169, amount=1}, SlottedItem{name=Leather body, id=1129, amount=1}, SlottedItem{name=Leather chaps, id=1095, amount=1}, SlottedItem{name=Iron knife, id=863, amount=100}, SlottedItem{name=Rune knife, id=868, amount=100}, SlottedItem{name=Mind rune, id=558, amount=100}, SlottedItem{name=Chaos rune, id=562, amount=100}, SlottedItem{name=$10 scroll, id=2403, amount=1}, SlottedItem{name=$10 scroll, id=2403, amount=1}, SlottedItem{name=$10 scroll, id=2403, amount=1}]
+[ClickButtonLog] [2021-11-16T22:12:39.6970552] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:12:51.1291504] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:13:09.8823123] Clicked: 13092, new: false
+[ClickButtonLog] [2021-11-16T22:13:12.8933394] Clicked: 13218, new: false
+[ItemTradeLog] [2021-11-16T22:13:12.9023411] Traded with [scott] (login name) Received [[]] Given [[GameItem{name=$10 scroll, id=2403, amount=1}, GameItem{name=$100 scroll, id=761, amount=1}, GameItem{name=$100 scroll, id=761, amount=1}, GameItem{name=$100 scroll, id=761, amount=1}, GameItem{name=$100 scroll, id=761, amount=1}, GameItem{name=$100 scroll, id=761, amount=1}]]
+[ClickButtonLog] [2021-11-16T22:13:16.501366] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:13:16.5023686] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:13:20.7124042] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-16T22:13:21.3134061] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-16T22:13:35.7505306] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:13:35.7505306] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:13:39.3585651] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:13:41.1645839] Logged in
+[PublicChatLog] [2021-11-16T22:13:43.570596] Uj
+[ClickButtonLog] [2021-11-16T22:13:46.5836269] Clicked: 51908, new: true
+[ClickButtonLog] [2021-11-16T22:13:46.5836269] Clicked: 51908, new: true
+[ClickButtonLog] [2021-11-16T22:13:58.6127202] Clicked: 13092, new: false
+[ClickButtonLog] [2021-11-16T22:14:01.0197397] Clicked: 13218, new: false
+[ItemTradeLog] [2021-11-16T22:14:01.0207402] Traded with [scott] (login name) Received [[]] Given [[GameItem{name=$10 scroll, id=2403, amount=1}, GameItem{name=$10 scroll, id=2403, amount=1}, GameItem{name=$10 scroll, id=2403, amount=1}, GameItem{name=$10 scroll, id=2403, amount=1}, GameItem{name=$10 scroll, id=2403, amount=1}]]
+[ClickButtonLog] [2021-11-16T22:14:07.0377956] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:14:07.0377956] Clicked: 9157, new: false
+[CommandLog] [2021-11-16T22:14:13.051848] 123 typed command / hi at X: 3091 Y:3492
+[ClanChatLog] [2021-11-16T22:14:13.0578418] Channel=Help, message=/ hi
+[CommandLog] [2021-11-16T22:14:16.661871] 123 typed command yell de at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-16T22:14:30.4949915] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:14:30.4949915] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:14:34.1000221] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:14:36.5080502] Logged in
+[ClickButtonLog] [2021-11-16T22:14:43.7220997] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:14:45.5271164] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:14:47.9361453] Logged in
+[ClickButtonLog] [2021-11-16T22:14:53.3521737] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:14:53.3531767] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:14:55.7612036] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:14:57.5662136] Logged in
+[ClickButtonLog] [2021-11-16T22:15:00.576236] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:00.5772397] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:02.981266] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:15:05.9892837] Logged in
+[ClickButtonLog] [2021-11-16T22:15:10.2013177] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:12.0013305] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:15:13.8053469] Logged in
+[ClickButtonLog] [2021-11-16T22:15:21.0264087] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:24.0334319] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:26.4404556] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:26.4414539] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:29.4484807] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:29.4494779] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:15:29.4494779] Clicked: 9157, new: false
+[CommandLog] [2021-11-16T22:15:36.6635378] 123 typed command title  at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:15:39.6675668] 123 typed command title owner at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-16T22:15:41.4735762] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-16T22:15:43.2765959] Clicked: 74142, new: false
+[ClickButtonLog] [2021-11-16T22:15:48.6926413] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:15:49.2946486] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:15:49.2946486] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:15:49.8966519] Clicked: 209104, new: false
+[ClickButtonLog] [2021-11-16T22:15:50.4976533] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:15:50.4976533] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:15:52.9086966] Clicked: 209106, new: false
+[ClickButtonLog] [2021-11-16T22:15:53.506681] Clicked: 209108, new: false
+[ClickButtonLog] [2021-11-16T22:15:54.1086994] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:15:55.3136999] Clicked: 209110, new: false
+[ClickButtonLog] [2021-11-16T22:15:55.9157009] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:16:01.3287436] Clicked: 209054, new: false
+[ClickButtonLog] [2021-11-16T22:16:01.9307475] Clicked: 209054, new: false
+[ClickButtonLog] [2021-11-16T22:16:03.1347593] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:16:06.7467894] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:16:12.1708335] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:16:12.7618422] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:16:12.7618422] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:16:12.7618422] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:16:13.3678461] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:16:13.3678461] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:16:29.6079818] Clicked: 13092, new: false
+[ClickButtonLog] [2021-11-16T22:16:30.210988] Clicked: 13092, new: false
+[ClickButtonLog] [2021-11-16T22:16:32.6160121] Clicked: 13218, new: false
+[ClickButtonLog] [2021-11-16T22:16:33.8180209] Clicked: 13218, new: false
+[ItemTradeLog] [2021-11-16T22:16:36.2230413] Traded with [scott] (login name) Received [[]] Given [[GameItem{name=$500 scroll, id=608, amount=1}, GameItem{name=$500 scroll, id=608, amount=1}, GameItem{name=$500 scroll, id=608, amount=1}, GameItem{name=$500 scroll, id=608, amount=1}, GameItem{name=$500 scroll, id=608, amount=1}]]
+[ClickButtonLog] [2021-11-16T22:16:40.4350727] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:40.4350727] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:42.8390966] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:42.8400915] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:49.465153] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:49.465153] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:49.465153] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:53.0781789] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:56.6912083] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:16:58.4962265] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:17:00.9042452] Logged in
+[ClickButtonLog] [2021-11-16T22:17:19.5574098] Clicked: 13092, new: false
+[ClickButtonLog] [2021-11-16T22:17:20.1584096] Clicked: 13218, new: false
+[ClickButtonLog] [2021-11-16T22:17:23.166435] Clicked: 13218, new: false
+[ItemTradeLog] [2021-11-16T22:17:23.166435] Traded with [scott] (login name) Received [[]] Given [[GameItem{name=$500 scroll, id=608, amount=1}, GameItem{name=$500 scroll, id=608, amount=1}, GameItem{name=$500 scroll, id=608, amount=1}, GameItem{name=$500 scroll, id=608, amount=1}, GameItem{name=$500 scroll, id=608, amount=1}]]
+[ClickButtonLog] [2021-11-16T22:17:23.7664379] Clicked: 51902, new: true
+[ClickButtonLog] [2021-11-16T22:17:26.1704653] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:26.1714636] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:30.3824943] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:30.3824943] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:32.1935104] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:32.194511] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:33.9895326] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:33.9905239] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:33.9905239] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:35.7925437] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-16T22:17:44.8146144] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-16T22:17:46.6246352] Clicked: 74142, new: false
+[ClickButtonLog] [2021-11-16T22:17:48.4276465] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:17:48.4276465] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:17:49.0276522] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:17:49.0286546] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:17:49.0286546] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:17:49.6316571] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:17:50.2316626] Clicked: 209112, new: false
+[CommandLog] [2021-11-16T22:18:23.3269365] 123 typed command close at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:18:26.8789674] 123 typed command donatortitle owner at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-16T22:18:31.6870048] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:18:34.0940277] Logged in
+[CommandLog] [2021-11-16T22:18:44.9331187] 123 typed command donatortitle hey at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-16T22:18:53.3611886] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-16T22:18:54.5591978] Clicked: 74142, new: false
+[CommandLog] [2021-11-16T22:18:58.8422381] 123 typed command close at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-16T22:19:00.6462491] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:19:03.100272] Logged in
+[CommandLog] [2021-11-16T22:19:09.7153296] 123 typed command yell de at X: 3091 Y:3492
+[CommandLog] [2021-11-16T22:19:15.1703729] 123 typed command donatortitle lelelele at X: 3091 Y:3492
+[ConnectionLog] [2021-11-16T22:19:24.2694498] Logged in
+[CommandLog] [2021-11-16T22:19:50.252669] 123 typed command donatortitle canusuck at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-16T22:20:01.7867642] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:20:03.5927806] Logged in
+[ClickButtonLog] [2021-11-16T22:20:10.1628331] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-16T22:20:11.368844] Clicked: 74142, new: false
+[ClickButtonLog] [2021-11-16T22:20:14.9968733] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:20:15.5978798] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:20:15.5978798] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:20:15.5988779] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:20:16.2008873] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:20:16.2008873] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:20:16.2008873] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-16T22:20:16.8018894] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:20:16.8018894] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:20:18.0068989] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:20:18.0068989] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:20:18.6069035] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:20:18.6069035] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:20:20.4129202] Clicked: 209048, new: false
+[ClickButtonLog] [2021-11-16T22:20:21.0129346] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-16T22:20:22.215936] Clicked: 209004, new: false
+[CommandLog] [2021-11-16T22:20:28.232989] 123 typed command donatortitle owner at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-16T22:20:30.0390001] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-16T22:20:31.8480155] Logged in
+[PublicChatLog] [2021-11-16T22:20:33.6560605] De
+[CommandLog] [2021-11-16T22:20:35.4610489] 123 typed command / hi at X: 3091 Y:3492
+[ClanChatLog] [2021-11-16T22:20:35.4610489] Channel=Help, message=/ hi
+[CommandLog] [2021-11-16T22:20:36.0660551] 123 typed command yell de at X: 3091 Y:3492

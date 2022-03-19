@@ -1,0 +1,2 @@
+[ClanChatLog] [2021-11-16T22:14:13.0578418] Channel=Help, message=/ hi
+[ClanChatLog] [2021-11-16T22:20:35.4610489] Channel=Help, message=/ hi

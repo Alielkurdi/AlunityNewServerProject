@@ -1,0 +1,16 @@
+01:48:25.947 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+01:48:26.570 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+01:48:27.002 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+01:48:27.156 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.027s)
+01:48:27.173 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+01:48:27.175 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+01:48:37.377 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+01:48:37.454 [GameThread] INFO  i.a.m.e.p.m.g.GroupIronmanRepository - Loaded 0 group ironman groups.
+01:48:38.413 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+01:48:39.294 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+01:48:39.515 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+01:49:00.687 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+01:49:06.276 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+01:49:06.614 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+01:49:06.819 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+01:49:07.016 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync

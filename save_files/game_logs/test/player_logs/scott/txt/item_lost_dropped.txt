@@ -1,0 +1,3 @@
+[ItemDroppedLog] [2021-11-07T01:14:14.6115192] Dropped GameItem{name=Dragon platelegs, id=4087, amount=1} at Position{x=3035, y=3489, z=0}
+[ItemDroppedLog] [2021-11-07T01:15:42.8408435] Dropped GameItem{name=PKP Ticket, id=2996, amount=35} at Position{x=3036, y=3488, z=0}
+[ItemDroppedLog] [2021-11-07T01:20:15.4660819] Dropped GameItem{name=Logs, id=1511, amount=1} at Position{x=3048, y=3487, z=0}

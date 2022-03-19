@@ -1,0 +1,18 @@
+server_state: "PUBLIC"
+embedded_password: null
+local_database:
+  url: "jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC"
+  username: "Alunity_Game"
+  password: "e&{51EbB4O.m"
+store_database:
+  url: "jdbc:mysql://92.204.221.12/store_alunity?useSSL=false&serverTimezone=UTC"
+  username: "Alunity_Game"
+  password: "e&{51EbB4O.m"
+vote_database:
+  url: "jdbc:mysql://92.204.221.12/vote_alunity?useSSL=false&serverTimezone=UTC"
+  username: "Alunity_Game"
+  password: "e&{51EbB4O.m"
+hiscores_database:
+  url: "jdbc:mysql://92.204.221.12/hs_alunity?useSSL=false&serverTimezone=UTC"
+  username: "Alunity_Game"
+  password: "e&{51EbB4O.m"

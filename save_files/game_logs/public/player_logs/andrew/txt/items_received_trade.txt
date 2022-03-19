@@ -1,0 +1,1 @@
+[ItemTradeLog] [2021-12-08T20:27:43.0940464] Traded with [scott] (login name) Received [[]] Given [[GameItem{name=Scythe of vitur, id=22325, amount=1}]]

@@ -1,0 +1,6 @@
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=Coins, id=995, amount=50,000,000}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=Ultra Mystery Box, id=13346, amount=3}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=250,000 FoE Point Certificate, id=696, amount=1}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=Seren's Key, id=6792, amount=15}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=FoE Mystery Chest, id=8167, amount=2}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=Coins, id=995, amount=250,000,000}

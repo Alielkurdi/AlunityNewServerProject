@@ -1,0 +1,7 @@
+[ConnectionLog] [2022-01-19T20:07:18.2463118] Logged in
+[ClickButtonLog] [2022-01-19T20:07:38.0944345] Clicked: 94242, new: false
+[ClickButtonLog] [2022-01-19T20:07:41.7024526] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:07:44.1124678] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:07:47.1234897] Clicked: 9157, new: false
+[PublicChatLog] [2022-01-19T20:08:03.3625933] Alright nice
+[ClickButtonLog] [2022-01-19T20:08:40.0478278] Clicked: 9154, new: false

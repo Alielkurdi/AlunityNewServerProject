@@ -1,0 +1,15 @@
+[ItemOnItemLog] [2021-11-07T00:17:51.4531061] Used GameItem{name=Christmas cracker, id=962, amount=1} on GameItem{name=Void ranger helm, id=11664, amount=1} at Position{x=3094, y=3495, z=0}
+[ItemOnItemLog] [2021-11-07T01:13:06.8714027] Used GameItem{name=Uncut toxic gem, id=23778, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3040, y=3499, z=0}
+[ItemOnItemLog] [2021-11-07T01:13:08.6857184] Used GameItem{name=Uncut toxic gem, id=23778, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3040, y=3499, z=0}
+[ItemOnItemLog] [2021-11-07T01:15:02.9399029] Used GameItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=2} on GameItem{name=Vote Crystal, id=23933, amount=2} at Position{x=3036, y=3487, z=0}
+[ItemOnItemLog] [2021-11-07T01:16:46.2711063] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Logs, id=1511, amount=1} at Position{x=3041, y=3501, z=0}
+[ItemOnItemLog] [2021-11-07T01:16:52.2994094] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3041, y=3501, z=0}
+[ItemOnItemLog] [2021-11-07T01:18:19.152555] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3041, y=3501, z=0}
+[ItemOnItemLog] [2021-11-07T01:19:20.7749274] Used GameItem{name=Toxic gem, id=23783, amount=1} on GameItem{name=Logs, id=1511, amount=1} at Position{x=3040, y=3499, z=0}
+[ItemOnItemLog] [2021-11-07T01:19:22.5889578] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Logs, id=1511, amount=1} at Position{x=3040, y=3499, z=0}
+[ItemOnItemLog] [2021-11-07T01:19:41.2377797] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3040, y=3499, z=0}
+[ItemOnItemLog] [2021-11-07T13:48:41.8275579] Used GameItem{name=Dragon dart, id=11230, amount=5,000} on GameItem{name=Toxic blowpipe, id=12926, amount=5,000} at Position{x=2674, y=3714, z=0}
+[ItemOnItemLog] [2021-11-07T13:48:53.2356452] Used GameItem{name=Dragon dart, id=11230, amount=25,000} on GameItem{name=Toxic blowpipe, id=12926, amount=25,000} at Position{x=2674, y=3714, z=0}
+[ItemOnItemLog] [2021-11-07T13:49:04.0367348] Used GameItem{name=Dragon dart, id=11230, amount=25,000} on GameItem{name=Toxic blowpipe (empty), id=12924, amount=25,000} at Position{x=2674, y=3714, z=0}
+[ItemOnItemLog] [2021-11-07T13:49:16.6448347] Used GameItem{name=Zulrah's scales, id=12934, amount=50,000} on GameItem{name=Toxic blowpipe (empty), id=12924, amount=50,000} at Position{x=2674, y=3714, z=0}
+[ItemOnItemLog] [2021-11-07T13:49:26.2509125] Used GameItem{name=Dragon dart, id=11230, amount=25,000} on GameItem{name=Toxic blowpipe (empty), id=12924, amount=25,000} at Position{x=2674, y=3714, z=0}

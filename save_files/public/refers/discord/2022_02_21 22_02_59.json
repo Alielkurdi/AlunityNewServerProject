@@ -1,0 +1,16 @@
+{
+  "username": "samo",
+  "date": {
+    "date": {
+      "year": 2022,
+      "month": 2,
+      "day": 21
+    },
+    "time": {
+      "hour": 22,
+      "minute": 2,
+      "second": 59,
+      "nano": 58225400
+    }
+  }
+}

@@ -1,0 +1,588 @@
+Nov 14, 2021 12:01:29 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 12:01:30 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 12:01:30 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 12:01:30 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 12:01:30 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 12:01:31 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 12:01:45 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 12:01:45 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 12:01:45 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 12:01:46 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 12:01:46 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 12:01:46 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+Nov 14, 2021 12:08:09 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 12:08:10 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 12:08:10 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 12:08:10 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 12:08:10 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 12:08:10 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 12:08:24 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 12:08:24 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 12:08:24 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 12:08:24 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 12:08:24 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 12:08:24 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+Nov 14, 2021 12:12:22 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 12:12:23 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 12:12:23 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 12:12:23 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 12:12:24 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 12:12:24 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 12:12:39 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 12:12:39 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 12:12:39 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 12:12:39 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 12:12:39 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 12:12:39 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+Nov 14, 2021 12:21:23 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 12:21:23 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 12:21:24 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 12:21:24 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 12:21:24 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 12:21:24 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 12:21:42 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 12:21:42 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 12:21:42 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 12:21:43 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 12:21:43 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 12:21:43 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+Nov 14, 2021 12:29:42 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 12:29:43 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 12:29:43 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 12:29:43 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 12:29:43 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 12:29:44 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 12:30:00 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 12:30:00 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 12:30:00 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 12:30:00 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 12:30:01 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 12:30:01 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-11-14T00:31:27.1551797] org.flywaydb.core.internal.license.FlywayEditionUpgradeRequiredException: Flyway Teams Edition or MySQL upgrade required: MySQL 5.6 is no longer supported by Flyway Community Edition, but still supported by Flyway Teams Edition.
+[2021-11-14T00:31:27.1601787] 	at org.flywaydb.core.internal.database.base.Database.ensureDatabaseNotOlderThanOtherwiseRecommendUpgradeToFlywayEdition(Database.java:128)
+[2021-11-14T00:31:27.1601787] 	at org.flywaydb.core.internal.database.mysql.MySQLDatabase.ensureSupported(MySQLDatabase.java:255)
+[2021-11-14T00:31:27.1611872] 	at org.flywaydb.core.Flyway.execute(Flyway.java:561)
+[2021-11-14T00:31:27.1611872] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:172)
+[2021-11-14T00:31:27.1611872] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-11-14T00:31:27.1611872] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-11-14T00:31:27.1611872] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-11-14T19:41:07.1630636] org.flywaydb.core.internal.command.DbMigrate$FlywayMigrateException: SQL State  : 42000
+Error Code : 1064
+Message    : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(CURRENT_DATE))' at line 1
+
+[2021-11-14T19:41:07.170049] 	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:373)
+[2021-11-14T19:41:07.170049] 	at org.flywaydb.core.internal.command.DbMigrate.access$200(DbMigrate.java:54)
+[2021-11-14T19:41:07.1710474] 	at org.flywaydb.core.internal.command.DbMigrate$3.call(DbMigrate.java:284)
+[2021-11-14T19:41:07.1710474] 	at org.flywaydb.core.internal.jdbc.TransactionTemplate.execute(TransactionTemplate.java:74)
+[2021-11-14T19:41:07.1710474] 	at org.flywaydb.core.internal.command.DbMigrate.applyMigrations(DbMigrate.java:281)
+[2021-11-14T19:41:07.1710474] 	at org.flywaydb.core.internal.command.DbMigrate.migrateGroup(DbMigrate.java:246)
+[2021-11-14T19:41:07.1710474] 	at org.flywaydb.core.internal.command.DbMigrate.access$100(DbMigrate.java:54)
+[2021-11-14T19:41:07.1710474] 	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:164)
+[2021-11-14T19:41:07.1710474] 	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:161)
+[2021-11-14T19:41:07.1720487] 	at org.flywaydb.core.internal.database.mysql.MySQLNamedLockTemplate.execute(MySQLNamedLockTemplate.java:60)
+[2021-11-14T19:41:07.1720487] 	at org.flywaydb.core.internal.database.mysql.MySQLConnection.lock(MySQLConnection.java:147)
+[2021-11-14T19:41:07.1720487] 	at org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory.lock(JdbcTableSchemaHistory.java:155)
+[2021-11-14T19:41:07.1720487] 	at org.flywaydb.core.internal.command.DbMigrate.migrateAll(DbMigrate.java:161)
+[2021-11-14T19:41:07.1720487] 	at org.flywaydb.core.internal.command.DbMigrate.migrate(DbMigrate.java:139)
+[2021-11-14T19:41:07.1720487] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1395)
+[2021-11-14T19:41:07.1720487] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1356)
+[2021-11-14T19:41:07.1720487] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1711)
+[2021-11-14T19:41:07.1730514] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-11-14T19:41:07.1730514] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-11-14T19:41:07.1730514] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-11-14T19:41:07.1730514] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-11-14T19:41:07.1730514] Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(CURRENT_DATE))' at line 1
+[2021-11-14T19:41:07.1730514] 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+[2021-11-14T19:41:07.1740499] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[2021-11-14T19:41:07.1740499] 	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:762)
+[2021-11-14T19:41:07.1740499] 	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:646)
+[2021-11-14T19:41:07.1740499] 	at io.alunity.sql.leaderboard.LeaderboardsTable.createTable(LeaderboardsTable.java:30)
+[2021-11-14T19:41:07.1740499] 	at db.migration.V13__create_leaderboard_tables.migrate(V13__create_leaderboard_tables.java:13)
+[2021-11-14T19:41:07.1740499] 	at org.flywaydb.core.internal.resolver.java.JavaMigrationExecutor.execute(JavaMigrationExecutor.java:48)
+[2021-11-14T19:41:07.1740499] 	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:367)
+[2021-11-14T19:41:07.1740499] 	... 20 more
+[2021-11-14T19:44:14.9686109] org.flywaydb.core.api.FlywayException: Validate failed: Detected failed migration to version 13 (create leaderboard tables)
+[2021-11-14T19:44:14.9766145] 	at org.flywaydb.core.Flyway.doValidate(Flyway.java:1482)
+[2021-11-14T19:44:14.9766145] 	at org.flywaydb.core.Flyway.access$100(Flyway.java:85)
+[2021-11-14T19:44:14.9766145] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1364)
+[2021-11-14T19:44:14.9766145] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1356)
+[2021-11-14T19:44:14.9766145] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1711)
+[2021-11-14T19:44:14.9766145] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-11-14T19:44:14.9766145] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-11-14T19:44:14.9776067] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-11-14T19:44:14.9776067] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-11-14T19:45:36.1782813] org.flywaydb.core.internal.command.DbMigrate$FlywayMigrateException: SQL State  : 42000
+Error Code : 1064
+Message    : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CURRENT_DATE())' at line 1
+
+[2021-11-14T19:45:36.1862905] 	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:373)
+[2021-11-14T19:45:36.1862905] 	at org.flywaydb.core.internal.command.DbMigrate.access$200(DbMigrate.java:54)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.command.DbMigrate$3.call(DbMigrate.java:284)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.jdbc.TransactionTemplate.execute(TransactionTemplate.java:74)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.command.DbMigrate.applyMigrations(DbMigrate.java:281)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.command.DbMigrate.migrateGroup(DbMigrate.java:246)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.command.DbMigrate.access$100(DbMigrate.java:54)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:164)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:161)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.database.mysql.MySQLNamedLockTemplate.execute(MySQLNamedLockTemplate.java:60)
+[2021-11-14T19:45:36.1872806] 	at org.flywaydb.core.internal.database.mysql.MySQLConnection.lock(MySQLConnection.java:147)
+[2021-11-14T19:45:36.1882804] 	at org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory.lock(JdbcTableSchemaHistory.java:155)
+[2021-11-14T19:45:36.1882804] 	at org.flywaydb.core.internal.command.DbMigrate.migrateAll(DbMigrate.java:161)
+[2021-11-14T19:45:36.1882804] 	at org.flywaydb.core.internal.command.DbMigrate.migrate(DbMigrate.java:139)
+[2021-11-14T19:45:36.1882804] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1395)
+[2021-11-14T19:45:36.1882804] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1356)
+[2021-11-14T19:45:36.1882804] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1711)
+[2021-11-14T19:45:36.1882804] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-11-14T19:45:36.1882804] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-11-14T19:45:36.1882804] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-11-14T19:45:36.1882804] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-11-14T19:45:36.1892809] Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CURRENT_DATE())' at line 1
+[2021-11-14T19:45:36.1892809] 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+[2021-11-14T19:45:36.1892809] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[2021-11-14T19:45:36.1892809] 	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:762)
+[2021-11-14T19:45:36.1892809] 	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:646)
+[2021-11-14T19:45:36.1892809] 	at io.alunity.sql.leaderboard.LeaderboardsTable.createTable(LeaderboardsTable.java:30)
+[2021-11-14T19:45:36.1892809] 	at db.migration.V13__create_leaderboard_tables.migrate(V13__create_leaderboard_tables.java:13)
+[2021-11-14T19:45:36.1892809] 	at org.flywaydb.core.internal.resolver.java.JavaMigrationExecutor.execute(JavaMigrationExecutor.java:48)
+[2021-11-14T19:45:36.1902805] 	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:367)
+[2021-11-14T19:45:36.1902805] 	... 20 more
+[2021-11-14T19:48:03.3275055] org.flywaydb.core.internal.command.DbMigrate$FlywayMigrateException: SQL State  : 42000
+Error Code : 1064
+Message    : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(CURRENT_DATE()))' at line 1
+
+[2021-11-14T19:48:03.3334988] 	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:373)
+[2021-11-14T19:48:03.3344997] 	at org.flywaydb.core.internal.command.DbMigrate.access$200(DbMigrate.java:54)
+[2021-11-14T19:48:03.3344997] 	at org.flywaydb.core.internal.command.DbMigrate$3.call(DbMigrate.java:284)
+[2021-11-14T19:48:03.3344997] 	at org.flywaydb.core.internal.jdbc.TransactionTemplate.execute(TransactionTemplate.java:74)
+[2021-11-14T19:48:03.3344997] 	at org.flywaydb.core.internal.command.DbMigrate.applyMigrations(DbMigrate.java:281)
+[2021-11-14T19:48:03.3344997] 	at org.flywaydb.core.internal.command.DbMigrate.migrateGroup(DbMigrate.java:246)
+[2021-11-14T19:48:03.3344997] 	at org.flywaydb.core.internal.command.DbMigrate.access$100(DbMigrate.java:54)
+[2021-11-14T19:48:03.3344997] 	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:164)
+[2021-11-14T19:48:03.3344997] 	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:161)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.internal.database.mysql.MySQLNamedLockTemplate.execute(MySQLNamedLockTemplate.java:60)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.internal.database.mysql.MySQLConnection.lock(MySQLConnection.java:147)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory.lock(JdbcTableSchemaHistory.java:155)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.internal.command.DbMigrate.migrateAll(DbMigrate.java:161)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.internal.command.DbMigrate.migrate(DbMigrate.java:139)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1395)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1356)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1711)
+[2021-11-14T19:48:03.3355006] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-11-14T19:48:03.3365036] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-11-14T19:48:03.3365036] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-11-14T19:48:03.3365036] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-11-14T19:48:03.3365036] Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(CURRENT_DATE()))' at line 1
+[2021-11-14T19:48:03.3365036] 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+[2021-11-14T19:48:03.3365036] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[2021-11-14T19:48:03.3365036] 	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:762)
+[2021-11-14T19:48:03.3365036] 	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:646)
+[2021-11-14T19:48:03.3374992] 	at io.alunity.sql.leaderboard.LeaderboardsTable.createTable(LeaderboardsTable.java:30)
+[2021-11-14T19:48:03.3374992] 	at db.migration.V13__create_leaderboard_tables.migrate(V13__create_leaderboard_tables.java:13)
+[2021-11-14T19:48:03.3374992] 	at org.flywaydb.core.internal.resolver.java.JavaMigrationExecutor.execute(JavaMigrationExecutor.java:48)
+[2021-11-14T19:48:03.3374992] 	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:367)
+[2021-11-14T19:48:03.3374992] 	... 20 more
+[2021-11-14T19:49:59.2844628] org.flywaydb.core.api.FlywayException: Validate failed: Detected failed migration to version 13 (create leaderboard tables)
+[2021-11-14T19:49:59.2894639] 	at org.flywaydb.core.Flyway.doValidate(Flyway.java:1482)
+[2021-11-14T19:49:59.2894639] 	at org.flywaydb.core.Flyway.access$100(Flyway.java:85)
+[2021-11-14T19:49:59.2894639] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1364)
+[2021-11-14T19:49:59.2894639] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1356)
+[2021-11-14T19:49:59.2894639] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1711)
+[2021-11-14T19:49:59.2894639] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-11-14T19:49:59.2904656] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-11-14T19:49:59.2904656] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-11-14T19:49:59.2904656] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-11-14T19:51:37.2562739] org.flywaydb.core.internal.command.DbMigrate$FlywayMigrateException: SQL State  : 42000
+Error Code : 1064
+Message    : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(CURRENT_DATE()))' at line 1
+
+[2021-11-14T19:51:37.2602756] 	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:373)
+[2021-11-14T19:51:37.2602756] 	at org.flywaydb.core.internal.command.DbMigrate.access$200(DbMigrate.java:54)
+[2021-11-14T19:51:37.2602756] 	at org.flywaydb.core.internal.command.DbMigrate$3.call(DbMigrate.java:284)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.jdbc.TransactionTemplate.execute(TransactionTemplate.java:74)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.command.DbMigrate.applyMigrations(DbMigrate.java:281)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.command.DbMigrate.migrateGroup(DbMigrate.java:246)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.command.DbMigrate.access$100(DbMigrate.java:54)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:164)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:161)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.database.mysql.MySQLNamedLockTemplate.execute(MySQLNamedLockTemplate.java:60)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.database.mysql.MySQLConnection.lock(MySQLConnection.java:147)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory.lock(JdbcTableSchemaHistory.java:155)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.command.DbMigrate.migrateAll(DbMigrate.java:161)
+[2021-11-14T19:51:37.2612748] 	at org.flywaydb.core.internal.command.DbMigrate.migrate(DbMigrate.java:139)
+[2021-11-14T19:51:37.2622756] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1395)
+[2021-11-14T19:51:37.2622756] 	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1356)
+[2021-11-14T19:51:37.2622756] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1711)
+[2021-11-14T19:51:37.2622756] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-11-14T19:51:37.2622756] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-11-14T19:51:37.2622756] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-11-14T19:51:37.2622756] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-11-14T19:51:37.2622756] Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(CURRENT_DATE()))' at line 1
+[2021-11-14T19:51:37.2622756] 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+[2021-11-14T19:51:37.2622756] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[2021-11-14T19:51:37.2632763] 	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:762)
+[2021-11-14T19:51:37.2632763] 	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:646)
+[2021-11-14T19:51:37.2632763] 	at io.alunity.sql.leaderboard.LeaderboardsTable.createTable(LeaderboardsTable.java:30)
+[2021-11-14T19:51:37.2632763] 	at db.migration.V13__create_leaderboard_tables.migrate(V13__create_leaderboard_tables.java:13)
+[2021-11-14T19:51:37.2632763] 	at org.flywaydb.core.internal.resolver.java.JavaMigrationExecutor.execute(JavaMigrationExecutor.java:48)
+[2021-11-14T19:51:37.2632763] 	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:367)
+[2021-11-14T19:51:37.2632763] 	... 20 more
+[2021-11-14T19:57:10.5010579] [2021-11-14T19:57:10.494061] .\save_files\test_public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 7:57:11 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 7:57:12 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 7:57:12 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 7:57:12 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 7:57:12 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 7:57:12 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 7:57:30 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 7:57:30 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 7:57:30 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 7:57:31 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 7:57:31 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 7:57:31 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+WARNING: No daily reward claims found.
+[2021-11-14T20:02:07.9855261] [2021-11-14T20:02:07.9795253] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 8:02:10 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 8:02:11 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 8:02:11 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 8:02:11 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 8:02:11 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 8:02:11 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 8:02:30 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 8:02:30 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 8:02:30 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 8:02:30 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 8:02:30 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 8:02:30 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+WARNING: No daily reward claims found.
+[2021-11-14T20:14:02.0874534] [2021-11-14T20:14:02.0834511] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 8:14:04 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 8:14:06 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 8:14:07 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 8:14:08 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 8:14:08 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 8:14:08 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 8:14:30 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 8:14:30 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 8:14:30 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 8:14:31 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 8:14:31 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 8:14:31 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+WARNING: No daily reward claims found.
+[2021-11-14T20:25:36.4312148] [2021-11-14T20:25:36.4262142] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 8:25:38 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 8:25:39 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 8:25:39 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 8:25:39 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 8:25:40 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 8:25:40 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 8:25:56 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 8:25:56 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 8:25:57 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 8:25:57 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 8:25:57 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 8:25:57 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+WARNING: No daily reward claims found.
+[2021-11-14T20:29:55.3782716] [2021-11-14T20:29:55.373273] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 8:29:56 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 8:29:57 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 8:29:57 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 8:29:57 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 8:29:57 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 8:29:57 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 8:30:14 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 8:30:14 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 8:30:15 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 8:30:16 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 8:30:16 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 8:30:16 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+WARNING: No daily reward claims found.
+[2021-11-14T20:34:32.3497121] [2021-11-14T20:34:32.3437108] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 8:34:33 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 8:34:33 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 8:34:34 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 8:34:34 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 8:34:34 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 8:34:34 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 8:34:53 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 8:34:53 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 8:34:53 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 8:34:54 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 8:34:54 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 8:34:54 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+WARNING: No daily reward claims found.
+[2021-11-14T20:44:58.2698373] [2021-11-14T20:44:58.2648415] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 8:44:59 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 8:44:59 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 8:45:00 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 8:45:00 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 8:45:00 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 8:45:00 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 8:45:18 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 8:45:18 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 8:45:18 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 8:45:19 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 8:45:19 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 8:45:19 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+WARNING: No daily reward claims found.
+[2021-11-14T22:54:28.7024953] [2021-11-14T22:54:28.6974948] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 10:54:33 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 10:54:33 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 10:54:34 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 10:54:34 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 10:54:34 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 10:54:34 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 10:54:55 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 10:54:55 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 10:54:56 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 10:55:02 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 10:55:02 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 10:55:02 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+WARNING: No daily reward claims found.
+[2021-11-14T23:04:13.2980397] [2021-11-14T23:04:13.2930417] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 11:04:15 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 11:04:16 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 11:04:16 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 11:04:16 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 11:04:16 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 11:04:16 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 11:04:35 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 11:04:35 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 11:04:35 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 11:04:35 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 11:04:35 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 11:04:35 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-11-14T23:06:46.5415396] [2021-11-14T23:06:46.5365395] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 11:06:48 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 11:06:48 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 11:06:49 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 11:06:49 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 11:06:49 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 11:06:49 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 11:07:06 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 11:07:06 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 11:07:06 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 11:07:06 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 11:07:06 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 11:07:06 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-11-14T23:49:42.1818288] [2021-11-14T23:49:42.1778303] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 11:49:44 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 11:49:44 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 11:49:45 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 11:49:45 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 11:49:45 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 11:49:45 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 11:50:03 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 11:50:03 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 11:50:04 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 11:50:05 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 11:50:05 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 11:50:05 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-11-14T23:57:59.1035975] [2021-11-14T23:57:59.0985898] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Nov 14, 2021 11:58:01 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Nov 14, 2021 11:58:01 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Nov 14, 2021 11:58:02 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Nov 14, 2021 11:58:02 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Nov 14, 2021 11:58:02 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Nov 14, 2021 11:58:02 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Nov 14, 2021 11:58:18 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Nov 14, 2021 11:58:18 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Nov 14, 2021 11:58:19 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Nov 14, 2021 11:58:19 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Nov 14, 2021 11:58:19 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Nov 14, 2021 11:58:19 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.

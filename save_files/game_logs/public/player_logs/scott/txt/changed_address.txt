@@ -1,0 +1,2 @@
+[ChangeAddressLog] [2021-12-04T00:47:00.73729] Changed mac address from '127.0.0.1' to '5.175.19.214'.
+[ChangeAddressLog] [2021-12-04T00:47:00.73729] Changed ip address from '127.0.0.1' to '5.175.19.214'.

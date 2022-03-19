@@ -1,0 +1,69 @@
+[ConnectionLog] [2021-12-06T23:36:29.0948466] Logged in
+[ClickButtonLog] [2021-12-06T23:36:55.1888752] Clicked: 94248, new: false
+[ClickButtonLog] [2021-12-06T23:36:56.4070828] Clicked: 94242, new: false
+[ClickButtonLog] [2021-12-06T23:36:58.2186217] Clicked: 9157, new: false
+[ClickButtonLog] [2021-12-06T23:37:03.051403] Clicked: 9128, new: false
+[ClickObjectLog] [2021-12-06T23:37:04.2498787] Clicked object WorldObject{x=3094, y=3494, height=0, id=10061, type=0, face=2} option 1
+[ClickButtonLog] [2021-12-06T23:37:06.7046232] Clicked: 226162, new: false
+[ClickButtonLog] [2021-12-06T23:37:15.8371581] Clicked: 10253, new: false
+[ClickButtonLog] [2021-12-06T23:37:17.0559253] Clicked: 11015, new: false
+[ClickObjectLog] [2021-12-06T23:37:18.8818326] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickObjectLog] [2021-12-06T23:37:19.4869696] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickButtonLog] [2021-12-06T23:37:20.7059797] Clicked: 73159, new: false
+[ClickButtonLog] [2021-12-06T23:37:21.3121321] Clicked: 73159, new: false
+[ClickButtonLog] [2021-12-06T23:37:21.3121321] Clicked: 73159, new: false
+[ClickButtonLog] [2021-12-06T23:39:16.7675535] Clicked: 73161, new: false
+[ClickButtonLog] [2021-12-06T23:39:16.7675535] Clicked: 73163, new: false
+[ClickButtonLog] [2021-12-06T23:39:17.3620912] Clicked: 73163, new: false
+[ClickButtonLog] [2021-12-06T23:39:17.3620912] Clicked: 73165, new: false
+[ClickButtonLog] [2021-12-06T23:39:17.3620912] Clicked: 73167, new: false
+[ClickButtonLog] [2021-12-06T23:39:17.9640657] Clicked: 73169, new: false
+[ClickButtonLog] [2021-12-06T23:39:17.9640657] Clicked: 73169, new: false
+[ClickButtonLog] [2021-12-06T23:39:17.9640657] Clicked: 73171, new: false
+[ClickButtonLog] [2021-12-06T23:39:18.5759763] Clicked: 73173, new: false
+[ClickButtonLog] [2021-12-06T23:39:18.5759763] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:18.5759763] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:18.5759763] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:19.1847311] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:19.1847311] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:20.4040275] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:20.4040275] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:21.0285179] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:22.8532655] Clicked: 73173, new: false
+[ClickButtonLog] [2021-12-06T23:39:24.0665764] Clicked: 73173, new: false
+[ClickButtonLog] [2021-12-06T23:39:24.0665764] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:25.8762559] Clicked: 73173, new: false
+[ClickButtonLog] [2021-12-06T23:39:26.4781402] Clicked: 73173, new: false
+[ClickButtonLog] [2021-12-06T23:39:27.088252] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:27.088252] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:39:28.9327841] Clicked: 73157, new: false
+[ClickButtonLog] [2021-12-06T23:39:29.5320517] Clicked: 73159, new: false
+[ClickObjectLog] [2021-12-06T23:39:38.0321152] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-12-06T23:39:39.8401482] Clicked: 44746, new: true
+[ClickButtonLog] [2021-12-06T23:39:41.0660667] Clicked: 9125, new: false
+[CommandLog] [2021-12-06T23:40:01.6568972] scott11 typed command yell de at X: 2670 Y:3712
+[CommandLog] [2021-12-06T23:40:09.5142345] scott11 typed command / d at X: 2670 Y:3712
+[ClanChatLog] [2021-12-06T23:40:09.5162362] Channel=Help, message=/ d
+[ClickButtonLog] [2021-12-06T23:40:14.9610969] Clicked: 9126, new: false
+[ClickButtonLog] [2021-12-06T23:40:28.2792433] Clicked: 75010, new: false
+[ClickButtonLog] [2021-12-06T23:40:31.9110065] Clicked: 152, new: false
+[ClickButtonLog] [2021-12-06T23:40:36.767167] Clicked: 75010, new: false
+[ClickButtonLog] [2021-12-06T23:40:42.8501877] Clicked: 152, new: false
+[ClickObjectLog] [2021-12-06T23:40:44.6715283] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickButtonLog] [2021-12-06T23:40:50.1300194] Clicked: 73157, new: false
+[ClickButtonLog] [2021-12-06T23:41:08.3764219] Clicked: 73159, new: false
+[ClickButtonLog] [2021-12-06T23:41:09.5984635] Clicked: 73157, new: false
+[ClickButtonLog] [2021-12-06T23:41:10.8258856] Clicked: 73175, new: false
+[ClickButtonLog] [2021-12-06T23:41:12.6504228] Clicked: 73173, new: false
+[ClickButtonLog] [2021-12-06T23:41:13.2556846] Clicked: 73171, new: false
+[ClickButtonLog] [2021-12-06T23:41:13.8626787] Clicked: 73169, new: false
+[ClickButtonLog] [2021-12-06T23:41:14.4699324] Clicked: 73169, new: false
+[ClickButtonLog] [2021-12-06T23:41:15.0706121] Clicked: 73167, new: false
+[ClickButtonLog] [2021-12-06T23:41:15.6762413] Clicked: 73165, new: false
+[ClickButtonLog] [2021-12-06T23:41:16.2763529] Clicked: 73163, new: false
+[ClickButtonLog] [2021-12-06T23:41:16.8882775] Clicked: 73163, new: false
+[ClickButtonLog] [2021-12-06T23:41:17.5143035] Clicked: 73161, new: false
+[ClickButtonLog] [2021-12-06T23:41:18.1100125] Clicked: 73159, new: false
+[ClickButtonLog] [2021-12-06T23:41:18.7136262] Clicked: 73157, new: false
+[ClickButtonLog] [2021-12-06T23:41:22.3566439] Clicked: 9154, new: false
+[ClickButtonLog] [2021-12-06T23:41:22.3566439] Clicked: 9154, new: false

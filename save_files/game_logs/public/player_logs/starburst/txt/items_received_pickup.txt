@@ -1,0 +1,4 @@
+[ItemPickupLog] [2022-01-19T20:20:27.2371738] Picked up GameItem{name=Buldging Coin Bag, id=10835, amount=1} at Position{x=3866, y=9949, z=3}, owner starburst
+[ItemPickupLog] [2022-01-19T20:20:27.8371838] Picked up GameItem{name=Big bones, id=532, amount=1} at Position{x=3866, y=9949, z=3}, owner starburst
+[ItemPickupLog] [2022-01-19T20:20:30.846198] Picked up GameItem{name=Pure essence, id=7937, amount=937} at Position{x=3866, y=9949, z=3}, owner starburst
+[ItemPickupLog] [2022-01-19T20:20:31.4472004] Picked up GameItem{name=Uncut ruby, id=1620, amount=12} at Position{x=3866, y=9949, z=3}, owner starburst

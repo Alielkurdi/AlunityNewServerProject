@@ -1,0 +1,194 @@
+[PublicChatLog] [2021-11-06T23:55:21.6541031] 1 Question
+[PublicChatLog] [2021-11-06T23:55:30.7491831] Where is the players saves?
+[PublicChatLog] [2021-11-06T23:55:39.1702529] Im look in data character saves
+[PublicChatLog] [2021-11-06T23:55:40.9882688] But i dont found xd
+[PublicChatLog] [2021-11-06T23:59:33.5482156] Yo jire im love oyu man
+[PublicChatLog] [2021-11-06T23:59:34.7482196] Hahahaha
+[PublicChatLog] [2021-11-06T23:59:35.948236] No homo
+[PublicChatLog] [2021-11-07T00:00:22.1936181] And how we do sql with webhost?
+[PublicChatLog] [2021-11-07T00:00:23.9896362] We need it or?
+[PublicChatLog] [2021-11-07T00:00:34.1987242] If u wanna go live with server then yeah will need
+[PublicChatLog] [2021-11-07T00:00:38.3997516] Kk
+[PublicChatLog] [2021-11-07T00:00:40.8027822] 1 Question more
+[PublicChatLog] [2021-11-07T00:00:46.8088277] Im speaked with 1 guy
+[PublicChatLog] [2021-11-07T00:00:55.8078979] He said that about that server can u read and say me
+[PublicChatLog] [2021-11-07T00:00:57.6079196] What he mean?
+[PublicChatLog] [2021-11-07T00:01:03.012954] And u can fix that issue or?
+[PublicChatLog] [2021-11-07T00:01:09.0150045] Yeah show
+[PublicChatLog] [2021-11-07T01:47:24.6795789] :Item 30020
+[PublicChatLog] [2021-11-07T11:54:26.4773599] Sword of alunity
+[PublicChatLog] [2021-11-07T12:59:46.1945466] 7Gvhz 
+[PublicChatLog] [2021-11-07T12:59:52.1975895] ,0,232,3,3,
+[PublicChatLog] [2021-11-10T00:26:16.9332756] Here
+[PublicChatLog] [2021-11-10T00:26:19.1992946] Lemme move the mouse
+[PublicChatLog] [2021-11-10T00:26:25.1953511] And you watching right?
+[PublicChatLog] [2021-11-10T00:26:32.4044089] Yeah
+[PublicChatLog] [2021-11-10T00:26:33.606415] Here
+[PublicChatLog] [2021-11-10T00:26:38.4124556] Info tab
+[PublicChatLog] [2021-11-10T00:26:50.418555] Collection log
+[PublicChatLog] [2021-11-10T00:26:51.020567] Full
+[PublicChatLog] [2021-11-10T00:27:06.026695] Monster log
+[PublicChatLog] [2021-11-10T00:27:14.4367506] Drop table.
+[PublicChatLog] [2021-11-10T00:27:18.6437894] Loot table
+[PublicChatLog] [2021-11-10T00:27:28.852873] Presets.
+[PublicChatLog] [2021-11-10T00:27:37.8559449] And yeah
+[PublicChatLog] [2021-11-10T00:27:42.6579883] Achievments.
+[PublicChatLog] [2021-11-10T00:27:48.0640339] With progress bar
+[PublicChatLog] [2021-11-10T00:27:52.260065] That alone cost 200$
+[PublicChatLog] [2021-11-10T00:27:53.463086] Lol
+[PublicChatLog] [2021-11-10T00:28:17.4762766] Quests
+[PublicChatLog] [2021-11-10T00:28:39.7034598] Dont move the mouse
+[PublicChatLog] [2021-11-10T00:28:41.5064786] Pls
+[PublicChatLog] [2021-11-10T00:28:46.9095246] Here rewards.
+[PublicChatLog] [2021-11-10T00:28:49.912547] For donators.
+[PublicChatLog] [2021-11-10T00:28:55.9206] Shop.
+[PublicChatLog] [2021-11-10T00:29:06.1266775] Referral for players
+[PublicChatLog] [2021-11-10T00:29:09.7287091] Bank
+[PublicChatLog] [2021-11-10T00:29:18.1327825] Its because im spawned it.
+[PublicChatLog] [2021-11-10T00:29:18.1327825] Xd
+[PublicChatLog] [2021-11-10T00:29:25.9398482] Auto cast for mage
+[PublicChatLog] [2021-11-10T00:29:28.3378644] 1:1 Osrs
+[PublicChatLog] [2021-11-10T00:29:34.9469197] Ticket exchange
+[PublicChatLog] [2021-11-10T00:29:37.9479491] Vote shop
+[PublicChatLog] [2021-11-10T00:29:42.7549863] Slayer
+[PublicChatLog] [2021-11-10T00:29:51.7620842] With 1:1 slayer interface from osrs
+[PublicChatLog] [2021-11-10T00:30:16.9942948] Looks good
+[PublicChatLog] [2021-11-10T00:30:20.5893278] Fire of exchange.
+[PublicChatLog] [2021-11-10T00:30:30.2004061] Runeline stole it from us :d
+[PublicChatLog] [2021-11-10T00:30:33.8014395] Dumb idiots xd
+[PublicChatLog] [2021-11-10T00:30:44.6085255] This from our is better coded
+[PublicChatLog] [2021-11-10T00:30:53.6146009] Can i ask where you got the source from ?
+[PublicChatLog] [2021-11-10T00:30:57.2146308] Im have it
+[PublicChatLog] [2021-11-10T00:31:00.2226514] No one hav
+[PublicChatLog] [2021-11-10T00:31:05.6277] Me and my friend coded it
+[PublicChatLog] [2021-11-10T00:31:08.0267157] Thats why we have it
+[PublicChatLog] [2021-11-10T00:31:11.0297417] No one have it xd
+[PublicChatLog] [2021-11-10T00:31:16.4357857] Pi based?
+[PublicChatLog] [2021-11-10T00:31:17.6367995] Ethos yes.
+[PublicChatLog] [2021-11-10T00:31:19.4378139] But
+[PublicChatLog] [2021-11-10T00:31:21.839837] Very stable coded.
+[PublicChatLog] [2021-11-10T00:31:24.8458572] You see yourself
+[PublicChatLog] [2021-11-10T00:31:31.4490304] Here exchange shop
+[PublicChatLog] [2021-11-10T00:31:41.6630026] Here
+[PublicChatLog] [2021-11-10T00:31:51.2670792] ..Empty
+[PublicChatLog] [2021-11-10T00:32:20.689322] You can upgrade pets here.
+[PublicChatLog] [2021-11-10T00:32:23.6933469] In dark pets.
+[PublicChatLog] [2021-11-10T00:32:54.3206027] Any client edits?Wjat
+[PublicChatLog] [2021-11-10T00:32:56.1196183] What u mean mate.
+[PublicChatLog] [2021-11-10T00:33:07.5357221] Like custom login screen etc?
+[PublicChatLog] [2021-11-10T00:33:13.5397596] Login screen is from xeros
+[PublicChatLog] [2021-11-10T00:33:17.1417952] But u need take you own one.
+[PublicChatLog] [2021-11-10T00:33:27.947877] Im can get for you cheap designer
+[PublicChatLog] [2021-11-10T00:33:32.7539188] He can create for you that all
+[PublicChatLog] [2021-11-10T00:33:56.780121] Here
+[PublicChatLog] [2021-11-10T00:33:59.1781395] Dark yoshi pet
+[PublicChatLog] [2021-11-10T00:34:14.2012655] Full nightmare
+[PublicChatLog] [2021-11-10T00:34:17.2042938] That cost 1000$
+[PublicChatLog] [2021-11-10T00:34:18.4123022] Lol
+[PublicChatLog] [2021-11-10T00:34:30.4184034] Any source errors?
+[PublicChatLog] [2021-11-10T00:34:31.6194073] 0 Errors
+[PublicChatLog] [2021-11-10T00:34:36.4244499] Here
+[PublicChatLog] [2021-11-10T00:34:56.3856128] Thats because im spawned wrong stuff
+[PublicChatLog] [2021-11-10T00:34:58.1896284] Its not error
+[PublicChatLog] [2021-11-10T00:34:59.3846578] I can 
+[PublicChatLog] [2021-11-10T00:35:03.7336718] Restart server
+[PublicChatLog] [2021-11-10T00:35:05.391686] And you can see
+[PublicChatLog] [2021-11-10T00:35:05.9976888] Lol
+[PublicChatLog] [2021-11-10T00:35:11.396735] Look
+[PublicChatLog] [2021-11-10T00:35:32.4179124] See
+[PublicChatLog] [2021-11-10T00:35:36.0249459] 1:1 Osrs
+[PublicChatLog] [2021-11-10T00:35:49.2360558] Want see server 
+[PublicChatLog] [2021-11-10T00:35:52.2410817] Restart?
+[PublicChatLog] [2021-11-10T00:39:06.3676854] Urefini
+[PublicChatLog] [2021-11-10T00:39:06.9616959] Finishg
+[PublicChatLog] [2021-11-10T00:39:09.9627161] No errors.
+[PublicChatLog] [2021-11-10T00:39:12.9687385] Here
+[PublicChatLog] [2021-11-10T00:39:15.9677681] 2Fa for hack protect.
+[PublicChatLog] [2021-11-10T00:39:17.7717821] You here?
+[PublicChatLog] [2021-11-10T00:39:39.3879684] 2 Fa protect
+[PublicChatLog] [2021-11-10T17:24:42.4595365] .:Item
+[PublicChatLog] [2021-11-11T13:12:53.2133558] Ok wheres this eerror?
+[PublicChatLog] [2021-11-11T13:13:37.2027211] ?
+[PublicChatLog] [2021-11-11T13:13:38.4127253] Zqit
+[PublicChatLog] [2021-11-11T13:14:06.0389498] ?
+[PublicChatLog] [2021-11-11T13:14:10.2479914] Noz
+[PublicChatLog] [2021-11-11T13:14:16.2560386] Now
+[PublicChatLog] [2021-11-11T13:14:31.8681667] I dont know what you're showing me....
+[PublicChatLog] [2021-11-11T13:14:39.076227] The names
+[PublicChatLog] [2021-11-11T13:14:39.6812375] Xeros
+[PublicChatLog] [2021-11-11T13:14:44.4862721] Config and etc
+[PublicChatLog] [2021-11-11T13:14:47.4852979] The names xeros
+[PublicChatLog] [2021-11-11T13:14:49.8873275] Changing in my names
+[PublicChatLog] [2021-11-11T13:14:51.6893348] Alunity
+[PublicChatLog] [2021-11-11T13:41:04.0009186] That error is fine
+[PublicChatLog] [2021-11-11T13:41:11.8059836] And how i can change that
+[PublicChatLog] [2021-11-11T13:41:31.6391488] By changing the module name
+[PublicChatLog] [2021-11-11T13:41:34.0381687] It's not worth it
+[PublicChatLog] [2021-11-11T13:41:43.6452561] But its says lot of xeros xd
+[PublicChatLog] [2021-11-11T13:41:53.3563252] Yeah...
+[PublicChatLog] [2021-11-11T13:41:54.6253371] Change them.
+[PublicChatLog] [2021-11-11T13:42:09.0354566] Can you change server and client side for 10$
+[PublicChatLog] [2021-11-11T13:42:13.8424944] Or 15?
+[PublicChatLog] [2021-11-11T13:42:24.0515851] I've just done the entire server side besides those wbe links..
+[PublicChatLog] [2021-11-11T13:42:27.6546168] You can change the link yourself
+[PublicChatLog] [2021-11-11T13:42:37.2576901] Awww
+[PublicChatLog] [2021-11-11T13:42:42.6647349] What do you mean awww????
+[PublicChatLog] [2021-11-11T13:42:46.2717652] It's a web link....
+[PublicChatLog] [2021-11-11T13:42:48.0677795] Yea
+[PublicChatLog] [2021-11-11T13:42:49.8697986] But
+[PublicChatLog] [2021-11-11T13:42:52.2728149] Im never done that
+[PublicChatLog] [2021-11-11T13:42:56.4738525] With links sqls and id
+[PublicChatLog] [2021-11-11T13:42:58.8778733] Idk
+[PublicChatLog] [2021-11-11T13:43:04.2809176] None of that is sql.
+[PublicChatLog] [2021-11-11T13:43:12.6909853] Thaim dont h
+[PublicChatLog] [2021-11-11T13:43:14.488003] Im dont have
+[PublicChatLog] [2021-11-11T13:43:25.898102] Highscores donator benefits link or rules price guide
+[PublicChatLog] [2021-11-11T13:43:32.5031581] Well, remove them ten?
+[PublicChatLog] [2021-11-11T13:43:34.9061712] You can
+[PublicChatLog] [2021-11-11T13:43:36.1071822] Create
+[PublicChatLog] [2021-11-11T13:43:39.1092047] For my website highscore
+[PublicChatLog] [2021-11-11T13:43:41.512229] Rules?
+[PublicChatLog] [2021-11-11T13:43:42.7162363] And etc?
+[PublicChatLog] [2021-11-11T13:43:47.5182931] Or you cant?
+[PublicChatLog] [2021-11-11T13:43:54.1253269] I wont because im nt a web developer
+[PublicChatLog] [2021-11-11T13:44:00.128387] Ok
+[PublicChatLog] [2021-11-11T13:44:01.3293881] Then
+[PublicChatLog] [2021-11-11T13:44:04.332412] What im need
+[PublicChatLog] [2021-11-11T13:44:07.9334491] On that server
+[PublicChatLog] [2021-11-11T13:44:09.1384556] Ahhhhhh
+[PublicChatLog] [2021-11-11T13:44:11.5374761] Riiighhtttt
+[PublicChatLog] [2021-11-11T13:44:15.1405015] Here
+[PublicChatLog] [2021-11-11T13:44:17.541522] Mark changed that
+[PublicChatLog] [2021-11-11T13:44:20.5475456] Can we add it here
+[PublicChatLog] [2021-11-11T13:44:21.7465574] Sec
+[PublicChatLog] [2021-11-11T13:44:46.4017635] My background the codes and etc
+[PublicChatLog] [2021-11-11T13:44:48.7967823] Mark added it for me
+[PublicChatLog] [2021-11-11T13:44:54.8048298] For changing background and icon
+[PublicChatLog] [2021-11-11T13:45:26.4160979] Idk where
+[PublicChatLog] [2021-11-11T13:45:27.616106] Is the class
+[PublicChatLog] [2021-11-11T13:45:28.8191164] For that
+[PublicChatLog] [2021-11-11T13:45:29.4211238] But yew
+[PublicChatLog] [2021-11-11T13:45:37.2321846] Sec
+[PublicChatLog] [2021-11-11T13:53:59.2333644] What im can add now for content
+[PublicChatLog] [2021-11-11T13:54:00.4323609] Ahh
+[PublicChatLog] [2021-11-11T13:54:04.0343934] You can change only the icons?
+[PublicChatLog] [2021-11-11T13:54:10.0394412] Only the icons
+[PublicChatLog] [2021-11-11T13:54:11.8414547] Not more
+[PublicChatLog] [2021-11-11T13:54:51.4657838] I need change that
+[PublicChatLog] [2021-11-11T13:57:49.7852682] Maybe new interface for teleport
+[PublicChatLog] [2021-11-11T13:58:31.2216065] Im mean im paying for you time
+[PublicChatLog] [2021-11-11T13:58:33.7006259] No worries :d
+[PublicChatLog] [2021-11-14T00:22:27.6860432] That fucked me hard
+[PublicChatLog] [2021-11-14T00:22:33.699079] That is very complicated that server
+[PublicChatLog] [2021-11-14T00:22:37.3161048] But if im ssee
+[PublicChatLog] [2021-11-14T00:22:41.5391314] Its looks really nice
+[PublicChatLog] [2021-11-14T00:22:44.1091462] It is
+[PublicChatLog] [2021-11-14T00:23:01.5632676] Can we now ?
+[PublicChatLog] [2021-11-14T00:23:02.7642746] The sqls?
+[PublicChatLog] [2021-11-14T00:23:13.5923493] Because
+[PublicChatLog] [2021-11-14T00:23:16.6023698] Well of goodwill dont work
+[PublicChatLog] [2021-11-14T00:23:17.2033767] And idk
+[PublicChatLog] [2021-11-14T00:23:23.2524155] Im will it public not test or debug
+[PublicChatLog] [2021-11-14T00:23:53.0196278] You have sql?
+[PublicChatLog] [2021-11-14T00:24:24.9598592] Dont need that thats for forums and stuff
+[PublicChatLog] [2021-11-14T00:24:27.9648793] Here

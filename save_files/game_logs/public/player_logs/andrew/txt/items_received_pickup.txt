@@ -1,0 +1,1 @@
+[ItemPickupLog] [2021-12-08T20:31:55.7671959] Picked up GameItem{name=Rune arrow, id=892, amount=108} at Position{x=3870, y=9952, z=3}, owner andrew

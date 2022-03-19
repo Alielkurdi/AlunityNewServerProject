@@ -1,0 +1,497 @@
+[CommandLog] [2021-11-14T20:15:59.1854238] scott typed command claim at X: 3091 Y:3491
+[CommandLog] [2021-11-14T20:16:04.5954692] scott typed command voted at X: 3091 Y:3491
+[CommandLog] [2021-11-14T20:16:50.4258504] scott typed command voted at X: 3091 Y:3491
+[CommandLog] [2021-11-14T20:17:42.5242819] scott typed command voted at X: 3091 Y:3491
+[CommandLog] [2021-11-14T20:17:59.9774263] scott typed command voted at X: 3091 Y:3493
+[CommandLog] [2021-11-14T20:18:27.6476596] scott typed command voted at X: 3091 Y:3493
+[CommandLog] [2021-11-14T22:19:12.6695614] scott typed command tele 3100 3488 at X: 3090 Y:3495
+[CommandLog] [2021-11-14T22:19:18.7527406] scott typed command item 995 9500000 at X: 3101 Y:3487
+[CommandLog] [2021-11-14T22:19:24.8023189] scott typed command item 995 950000000 at X: 3101 Y:3487
+[CommandLog] [2021-11-14T22:20:09.6706147] scott typed command tele 3082 3497 at X: 3095 Y:3488
+[CommandLog] [2021-11-14T22:20:11.4807601] scott typed command tele 3077 3497 at X: 3082 Y:3497
+[CommandLog] [2021-11-14T22:20:15.1181075] scott typed command tele 3079 3511 at X: 3077 Y:3497
+[CommandLog] [2021-11-14T22:20:26.0163528] scott typed command tele 3081 3499 at X: 3080 Y:3510
+[CommandLog] [2021-11-14T22:20:27.2318234] scott typed command tele 3091 3493 at X: 3081 Y:3499
+[CommandLog] [2021-11-14T22:21:42.9095173] scott typed command donation at X: 3091 Y:3493
+[CommandLog] [2021-11-14T22:21:45.3550865] scott typed command rewards at X: 3091 Y:3493
+[CommandLog] [2021-11-14T22:21:59.2684613] scott typed command getid $50 at X: 3094 Y:3495
+[CommandLog] [2021-11-14T22:22:02.9211255] scott typed command close at X: 3094 Y:3495
+[CommandLog] [2021-11-14T22:22:03.5188537] scott typed command itme 608 1 at X: 3094 Y:3495
+[CommandLog] [2021-11-14T22:22:08.3959915] scott typed command item 608 1 at X: 3094 Y:3495
+[CommandLog] [2021-11-14T22:22:21.1228092] scott typed command close at X: 3094 Y:3495
+[CommandLog] [2021-11-14T22:58:00.0408969] scott typed command max at X: 3096 Y:3505
+[CommandLog] [2021-11-14T23:08:04.5131932] scott typed command vote at X: 3105 Y:3504
+[CommandLog] [2021-11-14T23:09:40.8090022] scott typed command voted at X: 3105 Y:3504
+[CommandLog] [2021-11-14T23:12:23.8263697] scott typed command voted at X: 3105 Y:3504
+[CommandLog] [2021-11-14T23:43:39.7267689] scott typed command tele 3092 3498 at X: 3105 Y:3504
+[CommandLog] [2021-11-14T23:43:41.5357797] scott typed command tele 3078 3498 at X: 3092 Y:3498
+[CommandLog] [2021-11-15T00:17:36.9521038] scott typed command website at X: 3101 Y:3487
+[CommandLog] [2021-11-15T00:17:42.9964038] scott typed command alunity.net at X: 3101 Y:3487
+[CommandLog] [2021-11-15T00:17:44.8285331] scott typed command home at X: 3101 Y:3487
+[CommandLog] [2021-11-15T00:24:33.2477236] scott typed command foepets at X: 3087 Y:3497
+[CommandLog] [2021-11-15T00:33:10.1083106] scott typed command close at X: 3090 Y:3486
+[CommandLog] [2021-11-15T00:34:21.7049138] scott typed command max at X: 3094 Y:3494
+[CommandLog] [2021-11-15T01:44:59.5691433] scott typed command tele 3083 3497 at X: 3096 Y:3490
+[CommandLog] [2021-11-15T01:45:00.7771542] scott typed command tele 3076 3498 at X: 3083 Y:3497
+[CommandLog] [2021-11-15T01:45:06.7862029] scott typed command tele 3089 3493 at X: 3077 Y:3497
+[CommandLog] [2021-11-15T01:45:15.8092803] scott typed command tele 3100 3486 at X: 3088 Y:3493
+[CommandLog] [2021-11-15T22:51:41.8749399] scott typed command voted at X: 3091 Y:3499
+[CommandLog] [2021-11-15T22:51:44.890359] scott typed command vpanel at X: 3091 Y:3499
+[CommandLog] [2021-11-15T22:52:17.1051391] scott typed command vote at X: 3099 Y:3494
+[CommandLog] [2021-11-15T22:59:10.5733888] scott typed command vote at X: 3092 Y:3491
+[CommandLog] [2021-11-15T23:00:08.6468722] scott typed command close at X: 3092 Y:3491
+[CommandLog] [2021-11-15T23:15:40.7166312] scott typed command slayerrewards at X: 3082 Y:3496
+[CommandLog] [2021-11-15T23:15:42.5216368] scott typed command slayerpoints at X: 3082 Y:3496
+[CommandLog] [2021-11-15T23:16:32.4520514] scott typed command item 22093 5 at X: 3096 Y:3505
+[CommandLog] [2021-11-15T23:16:33.6570607] scott typed command close at X: 3096 Y:3505
+[CommandLog] [2021-11-15T23:17:09.1513547] scott typed command getid master cl at X: 3097 Y:3505
+[CommandLog] [2021-11-15T23:17:11.5583848] scott typed command getid clue at X: 3097 Y:3505
+[CommandLog] [2021-11-15T23:17:26.6065437] scott typed command item 2677 at X: 3097 Y:3505
+[CommandLog] [2021-11-15T23:17:52.5186371] scott typed command getid konar at X: 3100 Y:3504
+[CommandLog] [2021-11-15T23:17:56.1239404] scott typed command getid key at X: 3100 Y:3504
+[CommandLog] [2021-11-16T21:15:08.6936761] scott typed command ::npc 5442 at X: 3092 Y:3489
+[CommandLog] [2021-11-16T21:15:18.3097447] scott typed command npc 5442 at X: 3093 Y:3490
+[CommandLog] [2021-11-16T21:20:53.0005565] scott typed command task at X: 1308 Y:3785
+[CommandLog] [2021-11-16T21:21:05.6347086] scott typed command tele 1279 3808 at X: 1293 Y:3801
+[CommandLog] [2021-11-16T21:21:06.8376932] scott typed command tele 1266 3810 at X: 1279 Y:3808
+[CommandLog] [2021-11-16T21:21:08.0406845] scott typed command tele 1254 3811 at X: 1266 Y:3810
+[CommandLog] [2021-11-16T21:21:09.2407088] scott typed command tele 1248 3812 at X: 1254 Y:3811
+[CommandLog] [2021-11-16T21:21:12.2507105] scott typed command tele 1249 3800 at X: 1248 Y:3812
+[CommandLog] [2021-11-16T21:21:14.6597281] scott typed command tele 1261 3808 at X: 1249 Y:3800
+[CommandLog] [2021-11-16T21:21:15.8607413] scott typed command tele 1272 3823 at X: 1261 Y:3808
+[CommandLog] [2021-11-16T21:21:15.8617394] scott typed command tele 1271 3821 at X: 1261 Y:3808
+[CommandLog] [2021-11-16T21:21:16.4637482] scott typed command tele 1280 3833 at X: 1271 Y:3821
+[CommandLog] [2021-11-16T21:21:17.6677548] scott typed command tele 1291 3840 at X: 1280 Y:3833
+[CommandLog] [2021-11-16T21:21:18.2677616] scott typed command tele 1301 3844 at X: 1291 Y:3840
+[CommandLog] [2021-11-16T21:21:18.8707654] scott typed command tele 1313 3844 at X: 1301 Y:3844
+[CommandLog] [2021-11-16T21:21:20.6767794] scott typed command tele 1306 3842 at X: 1313 Y:3844
+[CommandLog] [2021-11-16T21:21:26.088825] scott typed command tele 1313 3836 at X: 1306 Y:3845
+[CommandLog] [2021-11-16T21:21:26.6938321] scott typed command tele 1326 3844 at X: 1313 Y:3836
+[CommandLog] [2021-11-16T21:21:27.8958393] scott typed command tele 1329 3834 at X: 1326 Y:3844
+[CommandLog] [2021-11-16T21:21:29.0998511] scott typed command tele 1325 3822 at X: 1329 Y:3834
+[CommandLog] [2021-11-16T21:21:30.3028623] scott typed command tele 1323 3815 at X: 1325 Y:3822
+[CommandLog] [2021-11-16T21:21:32.1068736] scott typed command tele 1311 3810 at X: 1323 Y:3815
+[CommandLog] [2021-11-16T21:21:35.1128988] scott typed command tele 1312 3801 at X: 1311 Y:3810
+[CommandLog] [2021-11-16T21:21:52.5610487] scott typed command tele 1311 10220 at X: 1313 Y:10204
+[CommandLog] [2021-11-16T21:21:54.3670639] scott typed command tele 1310 10213 at X: 1311 Y:10220
+[CommandLog] [2021-11-16T21:22:05.1921529] scott typed command tele 1310 10217 at X: 1311 Y:10232
+[CommandLog] [2021-11-16T21:22:06.3961637] scott typed command tele 1313 10203 at X: 1310 Y:10217
+[CommandLog] [2021-11-16T21:22:06.9981661] scott typed command tele 1328 10205 at X: 1313 Y:10203
+[CommandLog] [2021-11-16T21:42:29.2167183] scott typed command wild at X: 3091 Y:3491
+[CommandLog] [2021-11-16T21:42:33.4320729] scott typed command close at X: 3091 Y:3491
+[CommandLog] [2021-11-16T21:42:45.4796842] scott typed command close at X: 3096 Y:3492
+[CommandLog] [2021-11-16T21:57:01.9637617] scott typed command tele 3083 3498 at X: 3090 Y:3494
+[CommandLog] [2021-11-16T22:11:43.7398639] scott typed command givemod 123 at X: 3092 Y:3494
+[CommandLog] [2021-11-16T22:12:00.3809298] scott typed command getid $ at X: 3092 Y:3494
+[CommandLog] [2021-11-16T22:12:05.1919685] scott typed command getid $5 at X: 3092 Y:3494
+[CommandLog] [2021-11-16T22:12:08.8040003] scott typed command getid $10 at X: 3092 Y:3494
+[CommandLog] [2021-11-16T22:12:19.0350852] scott typed command item 2403 5 at X: 3092 Y:3494
+[CommandLog] [2021-11-16T22:12:58.4382143] scott typed command item 2403 1 at X: 3091 Y:3493
+[CommandLog] [2021-11-16T22:13:02.6652511] scott typed command item 761 5 at X: 3091 Y:3493
+[CommandLog] [2021-11-16T22:13:28.5334762] scott typed command item 2403 1 at X: 3091 Y:3493
+[CommandLog] [2021-11-16T22:13:51.992667] scott typed command item 2403 5 at X: 3091 Y:3493
+[CommandLog] [2021-11-16T22:16:19.381905] scott typed command getid $500 at X: 3091 Y:3493
+[CommandLog] [2021-11-16T22:16:22.9889242] scott typed command item 608 5 at X: 3091 Y:3493
+[CommandLog] [2021-11-16T22:17:12.3343463] scott typed command item 608 5 at X: 3091 Y:3493
+[CommandLog] [2021-11-16T22:19:22.4654404] scott typed command kick 123 at X: 3091 Y:3493
+[CommandLog] [2021-11-16T22:20:49.4321651] scott typed command donatortitle de at X: 3091 Y:3493
+[CommandLog] [2021-11-16T23:55:11.5394478] scott typed command getid bones at X: 3099 Y:3486
+[CommandLog] [2021-11-16T23:55:17.6183411] scott typed command item 11943 5 at X: 3099 Y:3486
+[CommandLog] [2021-11-17T19:50:09.0289635] scott typed command tele 3078 3496 at X: 3095 Y:3491
+[CommandLog] [2021-11-17T22:05:55.0040477] scott typed command getid $50 at X: 3076 Y:3501
+[CommandLog] [2021-11-17T22:06:01.0519115] scott typed command getid $10 at X: 3076 Y:3501
+[CommandLog] [2021-11-17T22:07:06.3444157] scott typed command item 2403 1 at X: 3076 Y:3501
+[CommandLog] [2021-11-17T22:07:36.6120418] scott typed command getid $25 at X: 3076 Y:3501
+[CommandLog] [2021-11-17T22:18:49.7406177] scott typed command item 761 1 at X: 3076 Y:3501
+[CommandLog] [2021-11-17T22:24:29.8304218] scott typed command getid $10 at X: 3076 Y:3500
+[CommandLog] [2021-11-17T22:25:11.522847] scott typed command getid $25 at X: 3076 Y:3500
+[CommandLog] [2021-11-17T22:25:26.6605927] scott typed command getid $50 at X: 3076 Y:3500
+[CommandLog] [2021-11-17T22:25:48.4383551] scott typed command getid $250 at X: 3076 Y:3500
+[CommandLog] [2021-11-17T22:25:53.8702191] scott typed command getid $500 at X: 3076 Y:3500
+[CommandLog] [2021-11-17T22:26:04.1587398] scott typed command we have all? at X: 3076 Y:3500
+[CommandLog] [2021-11-17T23:04:37.3717126] scott typed command empty at X: 3097 Y:3490
+[CommandLog] [2021-11-17T23:04:39.7767217] scott typed command empty at X: 3097 Y:3490
+[CommandLog] [2021-11-17T23:15:25.9656132] scott typed command voted at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:27:05.3422587] scott typed command claim at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:31:35.1099629] scott typed command sohan at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:31:42.9468412] scott typed command close at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:33:27.698698] scott typed command claim at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:37:41.7117916] scott typed command getid 500$ at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:37:45.9364481] scott typed command getid $500 at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:37:48.3708602] scott typed command item 608 1 at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:38:02.3684335] scott typed command item 608 at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:40:09.4557166] scott typed command loots at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:40:12.4810251] scott typed command loot at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:40:31.2344204] scott typed command getid arch at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:40:59.0483568] scott typed command mage at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:41:00.874765] scott typed command getid mage at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:46:37.940631] scott typed command loots at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:48:28.6670071] scott typed command close at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:48:29.2690072] scott typed command item 5157 1 at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:49:14.8068514] scott typed command item 2583 1 at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:50:39.4952119] scott typed command item 30016 at X: 3092 Y:3491
+[CommandLog] [2021-11-17T23:50:51.6805538] scott typed command item 30116 at X: 3092 Y:3491
+[CommandLog] [2021-11-19T22:25:48.3320923] scott typed command hpray at X: 3808 Y:9755
+[CommandLog] [2021-11-19T22:34:16.0383395] scott typed command item 995 50000 at X: 3094 Y:3495
+[CommandLog] [2021-11-19T22:34:28.0704397] scott typed command tele 3092 3482 at X: 3094 Y:3497
+[CommandLog] [2021-11-19T23:25:49.1832031] scott typed command points at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:25:57.1132701] scott typed command points at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:26:27.3205228] scott typed command points scott at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:26:30.9275518] scott typed command point at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:26:33.9365755] scott typed command points scott at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:26:39.9506233] scott typed command test at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:26:45.3646713] scott typed command hit at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:26:48.3706939] scott typed command bots at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:27:01.6138025] scott typed command coolgfc at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:27:04.6188266] scott typed command coolgfx at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:27:13.7989056] scott typed command broadcast at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:27:20.415959] scott typed command broadcast hi  at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:27:38.4701133] scott typed command givedonation scott at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:27:46.8871777] scott typed command givedonation-scott-500 at X: 3093 Y:3496
+[CommandLog] [2021-11-19T23:28:21.7934712] scott typed command close at X: 3094 Y:3495
+[CommandLog] [2021-11-19T23:28:27.2125184] scott typed command close at X: 3094 Y:3495
+[CommandLog] [2021-11-19T23:28:52.478732] scott typed command givedonation-scott-500 at X: 3094 Y:3495
+[CommandLog] [2021-11-19T23:28:59.0957764] scott typed command reards at X: 3094 Y:3495
+[CommandLog] [2021-11-20T22:59:16.9870548] scott typed command voted at X: 3092 Y:3494
+[CommandLog] [2021-11-20T22:59:19.390068] scott typed command donated at X: 3092 Y:3494
+[CommandLog] [2021-11-20T22:59:21.794089] scott typed command donated at X: 3092 Y:3494
+[CommandLog] [2021-11-20T22:59:22.998099] scott typed command claim at X: 3092 Y:3494
+[CommandLog] [2021-11-20T23:04:16.5575319] scott typed command close at X: 3094 Y:3494
+[CommandLog] [2021-11-20T23:04:23.7736026] scott typed command close at X: 3094 Y:3494
+[CommandLog] [2021-11-21T21:29:55.8632139] scott typed command tele 3086 3501 at X: 3094 Y:3494
+[CommandLog] [2021-11-23T22:14:02.7999705] scott typed command tele 3081 3499 at X: 3089 Y:3500
+[CommandLog] [2021-11-23T23:00:39.838088] scott typed command max at X: 3093 Y:3489
+[CommandLog] [2021-11-23T23:00:47.1138159] scott typed command maxhit at X: 3094 Y:3490
+[CommandLog] [2021-11-23T23:00:48.33312] scott typed command hit at X: 3094 Y:3490
+[CommandLog] [2021-11-23T23:01:50.3940033] scott typed command cash at X: 3094 Y:3490
+[CommandLog] [2021-11-23T23:01:55.8563683] scott typed command cash at X: 3094 Y:3490
+[CommandLog] [2021-11-23T23:01:57.0639558] scott typed command cash at X: 3094 Y:3490
+[CommandLog] [2021-11-23T23:02:11.6581248] scott typed command cash at X: 3094 Y:3490
+[CommandLog] [2021-11-23T23:02:19.5331176] scott typed command cash at X: 3095 Y:3492
+[CommandLog] [2021-11-23T23:02:54.6275244] scott typed command points at X: 3095 Y:3490
+[CommandLog] [2021-11-23T23:03:03.6943099] scott typed command botzs at X: 3095 Y:3490
+[CommandLog] [2021-11-23T23:03:04.8893048] scott typed command bots at X: 3095 Y:3490
+[CommandLog] [2021-11-23T23:03:23.0194017] scott typed command bots at X: 3095 Y:3490
+[CommandLog] [2021-11-23T23:03:26.0755297] scott typed command tele 3090 3503 at X: 3095 Y:3490
+[CommandLog] [2021-11-23T23:03:26.6735868] scott typed command tele 3092 3516 at X: 3090 Y:3503
+[CommandLog] [2021-11-23T23:03:27.8945995] scott typed command tele 3091 3521 at X: 3092 Y:3516
+[CommandLog] [2021-11-23T23:03:37.5646043] scott typed command tele 3091 3524 at X: 3091 Y:3528
+[CommandLog] [2021-11-23T23:03:41.832823] scott typed command tele 3093 3505 at X: 3091 Y:3520
+[CommandLog] [2021-11-23T23:03:43.0284837] scott typed command tele 3095 3497 at X: 3093 Y:3505
+[CommandLog] [2021-11-23T23:05:37.3711538] scott typed command item 773 1+ at X: 3090 Y:3495
+[CommandLog] [2021-11-23T23:05:41.0143805] scott typed command item 773 1 at X: 3090 Y:3495
+[CommandLog] [2021-11-27T19:13:14.5420528] scott typed command getid facegu at X: 3090 Y:3488
+[CommandLog] [2021-11-27T19:13:19.983399] scott typed command item 24271 1 at X: 3090 Y:3488
+[CommandLog] [2021-11-27T20:16:41.5294132] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:20:19.2722171] scott typed command donated at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:37:05.6862051] scott typed command vpanel at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:37:53.8076038] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:40:12.503755] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:42:41.0250146] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:44:19.7048427] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:46:17.4368059] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:46:25.8508852] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:47:08.0932361] scott typed command claim at X: 3092 Y:3492
+[CommandLog] [2021-11-27T20:50:25.0809008] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:51:02.5462208] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:55:18.8063938] scott typed command claim at X: 3092 Y:3493
+[CommandLog] [2021-11-27T20:56:35.0180281] scott typed command vpanel at X: 3092 Y:3491
+[CommandLog] [2021-11-27T21:08:41.1001404] scott typed command voted at X: 3092 Y:3493
+[CommandLog] [2021-11-27T21:09:54.4777737] scott typed command voted at X: 3092 Y:3493
+[CommandLog] [2021-11-27T21:10:34.1781227] scott typed command voted at X: 3092 Y:3493
+[CommandLog] [2021-11-27T21:10:56.4233082] scott typed command vpanel at X: 3092 Y:3491
+[CommandLog] [2021-11-27T21:28:47.9232567] scott typed command tele 3077 3497 at X: 3092 Y:3491
+[CommandLog] [2021-11-27T21:28:58.1473481] scott typed command close at X: 3077 Y:3497
+[CommandLog] [2021-11-27T21:28:58.7493495] scott typed command close at X: 3077 Y:3497
+[CommandLog] [2021-11-28T13:13:55.5574386] scott typed command claim at X: 3077 Y:3497
+[CommandLog] [2021-11-28T13:13:57.9654589] scott typed command donted at X: 3077 Y:3497
+[CommandLog] [2021-11-28T13:13:59.7704784] scott typed command donated at X: 3077 Y:3497
+[CommandLog] [2021-11-28T13:14:00.9744844] scott typed command close at X: 3077 Y:3497
+[CommandLog] [2021-11-28T13:14:03.9835094] scott typed command voted at X: 3077 Y:3497
+[CommandLog] [2021-11-29T18:48:38.0040134] scott typed command cal at X: 3094 Y:3495
+[CommandLog] [2021-11-29T20:50:34.5893307] scott typed command getid rare at X: 3036 Y:6067
+[CommandLog] [2021-11-29T20:50:38.208548] scott typed command item 3464 5 at X: 3036 Y:6067
+[CommandLog] [2021-11-29T20:52:15.6040839] scott typed command stuckraids at X: 3298 Y:5188
+[CommandLog] [2021-11-29T20:52:24.098637] scott typed command leaveraids at X: 3299 Y:5188
+[CommandLog] [2021-11-29T21:02:05.1066493] scott typed command foepets at X: 3075 Y:3497
+[CommandLog] [2021-11-29T21:07:29.9994642] scott typed command hpray at X: 3872 Y:9945
+[CommandLog] [2021-11-29T21:16:36.3394204] scott typed command tele 3102 3499 at X: 3090 Y:3488
+[CommandLog] [2021-11-29T21:16:38.1644118] scott typed command tele 3105 3507 at X: 3102 Y:3499
+[CommandLog] [2021-11-29T21:17:08.4781361] scott typed command getid earth at X: 3039 Y:4830
+[CommandLog] [2021-11-29T21:17:13.31236] scott typed command item 557 500 at X: 3039 Y:4830
+[CommandLog] [2021-11-29T21:17:18.7810566] scott typed command getid water rune at X: 3039 Y:4830
+[CommandLog] [2021-11-29T21:17:24.2369895] scott typed command item 555 5000 at X: 3039 Y:4830
+[CommandLog] [2021-11-29T21:17:29.0791209] scott typed command getid nature at X: 3039 Y:4830
+[CommandLog] [2021-11-29T21:17:37.588814] scott typed command item 561 500 at X: 3039 Y:4830
+[CommandLog] [2021-11-29T21:32:29.9329764] scott typed command item 13239 at X: 3094 Y:3495
+[CommandLog] [2021-11-29T21:32:50.3990542] scott typed command item  6585 at X: 3094 Y:3495
+[CommandLog] [2021-11-29T21:33:00.6311019] scott typed command item 6585 at X: 3094 Y:3495
+[CommandLog] [2021-11-29T21:33:18.6851718] scott typed command item 21295 at X: 3094 Y:3495
+[CommandLog] [2021-11-29T21:33:29.5182214] scott typed command item 19481 at X: 3094 Y:3495
+[CommandLog] [2021-12-01T18:38:11.2559947] scott typed command settitle pvm at X: 3092 Y:3491
+[CommandLog] [2021-12-01T18:38:19.7305727] scott typed command newdonatortitle de at X: 3092 Y:3491
+[CommandLog] [2021-12-01T18:38:23.3754211] scott typed command donatortitle owner at X: 3092 Y:3491
+[CommandLog] [2021-12-01T18:38:38.5324356] scott typed command / hey at X: 3092 Y:3491
+[CommandLog] [2021-12-01T18:38:39.7359776] scott typed command yell de at X: 3092 Y:3491
+[CommandLog] [2021-12-01T18:49:04.5935005] scott typed command item 21046 50 at X: 3095 Y:3504
+[CommandLog] [2021-12-01T18:49:10.0214786] scott typed command getid hunl at X: 3094 Y:3497
+[CommandLog] [2021-12-01T18:49:13.0612177] scott typed command item 23776 50 at X: 3094 Y:3497
+[CommandLog] [2021-12-01T18:49:24.5922867] scott typed command hunleff at X: 3094 Y:3499
+[CommandLog] [2021-12-01T18:49:28.8473509] scott typed command hunllef at X: 3094 Y:3499
+[CommandLog] [2021-12-01T18:49:42.2198008] scott typed command getid crystalline at X: 3163 Y:12427
+[CommandLog] [2021-12-01T18:49:44.6177699] scott typed command item 23951 1 at X: 3163 Y:12427
+[CommandLog] [2021-12-01T18:49:47.6515352] scott typed command item 773 1 at X: 3163 Y:12427
+[CommandLog] [2021-12-01T18:49:54.2846622] scott typed command getid scythe at X: 3163 Y:12427
+[CommandLog] [2021-12-01T18:49:57.9061959] scott typed command item 22325 1 at X: 3163 Y:12427
+[CommandLog] [2021-12-01T18:50:14.848405] scott typed command hpray at X: 1172 Y:9939
+[CommandLog] [2021-12-01T18:50:43.3468424] scott typed command item 20997 1 at X: 1172 Y:9939
+[CommandLog] [2021-12-01T18:50:46.3694215] scott typed command item 11212 5000 at X: 1172 Y:9939
+[CommandLog] [2021-12-01T18:52:07.1106162] scott typed command pos at X: 3275 Y:6053
+[CommandLog] [2021-12-01T18:52:22.2725427] scott typed command getid crystal at X: 3095 Y:3490
+[CommandLog] [2021-12-02T20:54:53.9755314] scott typed command staff at X: 3090 Y:3488
+[CommandLog] [2021-12-02T20:56:03.1431228] scott typed command vote at X: 3090 Y:3488
+[CommandLog] [2021-12-02T20:56:13.9692184] scott typed command voted at X: 3090 Y:3488
+[CommandLog] [2021-12-02T21:09:49.9301685] scott typed command vpanel at X: 3090 Y:3488
+[CommandLog] [2021-12-02T21:18:23.109478] scott typed command voted at X: 3090 Y:3491
+[CommandLog] [2021-12-02T22:25:58.0968058] scott typed command store at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:30:20.7735393] scott typed command store at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:31:22.7082193] scott typed command discord at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:36:21.9461422] scott typed command vote at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:36:31.667352] scott typed command hiscore at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:36:36.5455352] scott typed command hiscore at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:36:38.9647583] scott typed command hiscores at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:36:45.0396858] scott typed command highscore at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:36:47.4459477] scott typed command discord at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:47:05.1844733] scott typed command getid $ at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:47:08.8126273] scott typed command getid $5 at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:47:13.6715891] scott typed command getid $10 at X: 3090 Y:3494
+[CommandLog] [2021-12-02T22:47:27.027811] scott typed command getid scroll at X: 3094 Y:3494
+[CommandLog] [2021-12-02T23:10:09.59169] scott typed command item  at X: 3092 Y:3493
+[CommandLog] [2021-12-03T20:01:09.5937338] scott typed command getid cape at X: 3091 Y:3492
+[CommandLog] [2021-12-03T20:01:32.5344142] scott typed command item 33055 at X: 3091 Y:3492
+[CommandLog] [2021-12-03T20:01:42.8174677] scott typed command item 1052 at X: 3091 Y:3492
+[CommandLog] [2021-12-03T20:11:16.6665613] scott typed command getid infernal at X: 3092 Y:3491
+[CommandLog] [2021-12-03T20:11:27.5251074] scott typed command getid xeric at X: 3092 Y:3491
+[CommandLog] [2021-12-04T00:51:08.234445] scott typed command tele 3078 3498 at X: 3094 Y:3493
+[CommandLog] [2021-12-04T00:51:44.3872151] scott typed command close at X: 3078 Y:3497
+[CommandLog] [2021-12-04T00:51:45.6060802] scott typed command tele 3079 3509 at X: 3078 Y:3497
+[CommandLog] [2021-12-04T00:56:56.6600973] scott typed command tele 3079 3500 at X: 3081 Y:3508
+[CommandLog] [2021-12-04T01:40:19.9400954] scott typed command tele 3090 3496 at X: 3077 Y:3497
+[CommandLog] [2021-12-04T01:40:24.1646683] scott typed command tele 3095 3489 at X: 3094 Y:3495
+[CommandLog] [2021-12-04T01:40:30.1874199] scott typed command tele 3093 3487 at X: 3101 Y:3487
+[CommandLog] [2021-12-04T01:40:31.3894294] scott typed command tele 3088 3494 at X: 3093 Y:3487
+[CommandLog] [2021-12-04T01:40:32.5915805] scott typed command tele 3090 3506 at X: 3088 Y:3494
+[CommandLog] [2021-12-04T01:40:33.7950638] scott typed command tele 3082 3509 at X: 3090 Y:3506
+[CommandLog] [2021-12-04T01:44:21.3832679] scott typed command donate at X: 3093 Y:3490
+[CommandLog] [2021-12-04T01:44:25.6186461] scott typed command donation at X: 3093 Y:3490
+[CommandLog] [2021-12-04T01:44:26.8403106] scott typed command store at X: 3093 Y:3490
+[CommandLog] [2021-12-04T01:44:52.8650614] scott typed command vote at X: 3093 Y:3490
+[CommandLog] [2021-12-04T01:44:59.5998839] scott typed command store at X: 3093 Y:3490
+[CommandLog] [2021-12-04T01:46:48.8496213] scott typed command store at X: 3093 Y:3490
+[CommandLog] [2021-12-04T01:47:14.9194686] scott typed command store at X: 3093 Y:3490
+[CommandLog] [2021-12-04T11:22:23.2144286] scott typed command close at X: 3093 Y:3490
+[CommandLog] [2021-12-04T13:34:36.633852] scott typed command close at X: 3088 Y:3493
+[CommandLog] [2021-12-04T17:30:19.4957694] scott typed command tele 3080 3498 at X: 3090 Y:3496
+[CommandLog] [2021-12-04T17:30:26.8012955] scott typed command tele 3089 3494 at X: 3079 Y:3497
+[CommandLog] [2021-12-04T18:58:01.1274137] scott typed command tele 3099 3487 at X: 3091 Y:3491
+[CommandLog] [2021-12-04T23:29:39.9613616] scott typed command tele 3090 3491 at X: 3101 Y:3495
+[CommandLog] [2021-12-06T22:29:17.3258141] scott typed command hpray at X: 2272 Y:4050
+[CommandLog] [2021-12-06T22:30:14.4642914] scott typed command getid scythe at X: 2274 Y:4070
+[CommandLog] [2021-12-06T22:30:19.2773341] scott typed command item 22325 at X: 2274 Y:4070
+[CommandLog] [2021-12-06T23:35:41.4481965] scott typed command tele 3078 3498 at X: 3091 Y:3491
+[CommandLog] [2021-12-06T23:44:01.4715384] scott typed command getid kratos at X: 3090 Y:3490
+[CommandLog] [2021-12-06T23:44:08.1168215] scott typed command item 30022 1 at X: 3090 Y:3490
+[CommandLog] [2021-12-08T19:50:58.318722] scott typed command close at X: 3090 Y:3490
+[CommandLog] [2021-12-08T20:01:44.1301192] scott typed command getid corrupted at X: 3091 Y:3492
+[CommandLog] [2021-12-08T20:01:48.9441668] scott typed command item 23848 1 at X: 3091 Y:3492
+[CommandLog] [2021-12-08T20:01:53.1522044] scott typed command item 23845 1 at X: 3091 Y:3492
+[CommandLog] [2021-12-08T20:01:56.1592371] scott typed command item 23842 1 at X: 3091 Y:3492
+[CommandLog] [2021-12-08T20:08:10.3816921] scott typed command getid kratos at X: 3091 Y:3489
+[CommandLog] [2021-12-08T20:08:14.5937296] scott typed command item 30122 1 at X: 3091 Y:3489
+[CommandLog] [2021-12-08T20:25:07.9005705] scott typed command getid k'k at X: 3092 Y:3489
+[CommandLog] [2021-12-08T20:25:10.9107984] scott typed command item 30014  at X: 3092 Y:3489
+[CommandLog] [2021-12-08T20:25:13.3161386] scott typed command item 30114 at X: 3092 Y:3489
+[CommandLog] [2021-12-08T20:25:58.4294006] scott typed command item 299 5000 at X: 3119 Y:3505
+[CommandLog] [2021-12-08T20:26:06.2434195] scott typed command teletome andrew at X: 3115 Y:3507
+[CommandLog] [2021-12-08T20:26:31.5079937] scott typed command item 299 5000000 at X: 3116 Y:3507
+[CommandLog] [2021-12-08T20:27:10.6113587] scott typed command tele 3112 3509 at X: 3110 Y:3515
+[CommandLog] [2021-12-08T20:27:33.4636975] scott typed command item 22325 1 at X: 3111 Y:3508
+[CommandLog] [2021-12-08T20:27:46.0991374] scott typed command hpray at X: 3111 Y:3508
+[CommandLog] [2021-12-08T20:27:47.9023358] scott typed command tele 3098 3500 at X: 3111 Y:3508
+[CommandLog] [2021-12-08T20:27:48.5045546] scott typed command tele 3090 3495 at X: 3098 Y:3500
+[CommandLog] [2021-12-08T20:28:00.529954] scott typed command teletome andrew at X: 3808 Y:9755
+[CommandLog] [2021-12-08T20:28:09.5642542] scott typed command teletome andrew at X: 3808 Y:9755
+[CommandLog] [2021-12-08T20:29:24.7615084] scott typed command item 773 1 at X: 3876 Y:9949
+[CommandLog] [2021-12-08T20:31:28.6953027] scott typed command tele 3879 9955 at X: 3878 Y:9948
+[CommandLog] [2021-12-08T20:32:19.2247297] scott typed command teletome andrew at X: 3090 Y:3488
+[CommandLog] [2021-12-16T16:00:57.2298762] scott typed command tele 3084 3497 at X: 3095 Y:3487
+[CommandLog] [2021-12-16T16:00:59.0339115] scott typed command tele 3076 3498 at X: 3084 Y:3497
+[CommandLog] [2021-12-16T18:37:45.3047967] scott typed command item 24425 1 at X: 3092 Y:3493
+[CommandLog] [2021-12-16T18:38:37.6380396] scott typed command item 24424 1 at X: 1680 Y:10076
+[CommandLog] [2021-12-16T19:10:37.7958756] scott typed command item 24268 1 at X: 3091 Y:3493
+[CommandLog] [2021-12-16T19:10:43.2085039] scott typed command item 10828 1 at X: 3091 Y:3493
+[CommandLog] [2021-12-16T19:12:01.4025913] scott typed command item 11889 1 at X: 3091 Y:3493
+[CommandLog] [2021-12-16T19:12:05.0117312] scott typed command item 22966 1 at X: 3091 Y:3493
+[CommandLog] [2021-12-16T19:12:08.6281297] scott typed command item 22966 1 at X: 3091 Y:3493
+[CommandLog] [2021-12-16T19:12:15.2331723] scott typed command item 11889 at X: 3091 Y:3493
+[CommandLog] [2021-12-27T23:18:23.4502454] scott typed command teleport at X: 3090 Y:3492
+[CommandLog] [2021-12-30T22:25:28.4328457] scott typed command worldevent at X: 3092 Y:3491
+[CommandLog] [2021-12-30T22:27:12.4956306] scott typed command mbox at X: 3094 Y:3495
+[CommandLog] [2022-01-06T18:34:48.5949573] scott typed command tele 3091 3496 at X: 3090 Y:3495
+[CommandLog] [2022-01-06T18:34:49.7949654] scott typed command tele 3092 3498 at X: 3091 Y:3496
+[CommandLog] [2022-01-06T18:34:50.3979653] scott typed command tele 3092 3500 at X: 3092 Y:3498
+[CommandLog] [2022-01-06T18:34:55.208001] scott typed command tele 3092 3495 at X: 3092 Y:3500
+[CommandLog] [2022-01-14T13:29:00.606267] scott typed command getid ring of coins at X: 3090 Y:3492
+[CommandLog] [2022-01-14T13:29:34.2925278] scott typed command item 20017 at X: 3090 Y:3492
+[CommandLog] [2022-01-14T13:29:38.5015616] scott typed command getid ring of nature at X: 3090 Y:3492
+[CommandLog] [2022-01-14T13:29:44.5196058] scott typed command item 20005 1 at X: 3090 Y:3492
+[CommandLog] [2022-01-14T13:30:01.9737555] scott typed command yell de at X: 3090 Y:3492
+[CommandLog] [2022-01-14T13:30:10.9928227] scott typed command / hi at X: 3090 Y:3492
+[CommandLog] [2022-01-15T12:28:29.0391067] scott typed command foepets at X: 3090 Y:3492
+[CommandLog] [2022-01-15T14:29:01.286916] scott typed command tele 3107 3502 at X: 3092 Y:3494
+[CommandLog] [2022-01-15T14:29:02.4889135] scott typed command tele 3114 3509 at X: 3107 Y:3502
+[CommandLog] [2022-01-19T20:07:30.2753842] scott typed command tele 3091 3492 at X: 3094 Y:3492
+[CommandLog] [2022-01-19T20:12:33.6985488] scott typed command tele 3103 3498 at X: 3089 Y:3488
+[CommandLog] [2022-01-19T20:12:34.8995508] scott typed command tele 3116 3508 at X: 3103 Y:3498
+[CommandLog] [2022-01-19T20:14:11.7513186] scott typed command item 299 5000 at X: 3116 Y:3508
+[CommandLog] [2022-01-19T20:15:51.108128] scott typed command teleto starburst at X: 3111 Y:3515
+[CommandLog] [2022-01-19T20:16:30.8124496] scott typed command hpray at X: 3876 Y:9944
+[CommandLog] [2022-01-19T20:18:15.4903148] scott typed command getid perfect at X: 3875 Y:9947
+[CommandLog] [2022-01-19T20:18:32.9384592] scott typed command item 773 1 at X: 3875 Y:9947
+[CommandLog] [2022-01-19T20:21:56.2667823] scott typed command tele 3178 4432 at X: 3186 Y:4446
+[CommandLog] [2022-01-19T20:21:57.469793] scott typed command tele 3176 4424 at X: 3178 Y:4432
+[CommandLog] [2022-01-19T20:22:57.0182246] scott typed command tele 3295 4266 at X: 3296 Y:4283
+[CommandLog] [2022-01-19T20:22:58.2212333] scott typed command tele 3296 4257 at X: 3295 Y:4266
+[CommandLog] [2022-01-19T20:23:10.2533213] scott typed command tele 3298 4272 at X: 3296 Y:4256
+[CommandLog] [2022-01-19T20:23:11.4563406] scott typed command tele 3301 4276 at X: 3298 Y:4272
+[CommandLog] [2022-01-19T20:23:24.6934279] scott typed command tele 3280 4303 at X: 3280 Y:4293
+[CommandLog] [2022-01-19T20:23:33.1154968] scott typed command tele 3281 4321 at X: 3279 Y:4308
+[CommandLog] [2022-01-19T20:26:47.4040141] scott typed command home at X: 3229 Y:4323
+[CommandLog] [2022-01-19T20:26:51.0160461] scott typed command gauntlet at X: 3091 Y:3490
+[CommandLog] [2022-01-19T20:26:53.4240667] scott typed command hunleff at X: 3091 Y:3490
+[CommandLog] [2022-01-19T20:26:56.4300905] scott typed command hunllef at X: 3091 Y:3490
+[CommandLog] [2022-01-19T20:32:28.5128413] scott typed command teleto starburst at X: 3162 Y:12428
+[CommandLog] [2022-01-19T20:32:30.3168667] scott typed command tele 3081 3510 at X: 3080 Y:3510
+[CommandLog] [2022-01-19T23:29:40.4867897] scott typed command updatelog at X: 3097 Y:3488
+[CommandLog] [2022-01-19T23:29:54.3249225] scott typed command coiins at X: 3097 Y:3488
+[CommandLog] [2022-01-19T23:29:55.5279214] scott typed command cash at X: 3097 Y:3488
+[CommandLog] [2022-01-19T23:29:58.5339513] scott typed command cash at X: 3097 Y:3488
+[CommandLog] [2022-01-20T19:49:50.6460872] scott typed command tele 3092 3494 at X: 3091 Y:3501
+[CommandLog] [2022-01-20T19:52:50.5171504] scott typed command topic 281 at X: 3091 Y:3497
+[CommandLog] [2022-01-20T21:01:06.9847942] scott typed command itme 30023 at X: 3099 Y:3494
+[CommandLog] [2022-01-20T21:01:06.9847942] scott typed command close at X: 3099 Y:3494
+[CommandLog] [2022-01-20T21:01:11.7938282] scott typed command item 30023  at X: 3099 Y:3494
+[CommandLog] [2022-01-20T22:28:47.1360438] scott typed command discord at X: 3092 Y:3491
+[CommandLog] [2022-01-21T14:58:10.6946725] scott typed command wildyevent at X: 3092 Y:3491
+[CommandLog] [2022-01-21T14:58:41.9789368] scott typed command teletome andrew at X: 3307 Y:3665
+[CommandLog] [2022-01-21T14:59:15.6601989] scott typed command home at X: 3308 Y:3665
+[CommandLog] [2022-01-21T14:59:22.8782616] scott typed command tele 3303 3651 at X: 3308 Y:3665
+[CommandLog] [2022-01-21T14:59:22.8782616] scott typed command tele 3303 3651 at X: 3308 Y:3665
+[CommandLog] [2022-01-21T14:59:22.8782616] scott typed command tele 3303 3651 at X: 3308 Y:3665
+[CommandLog] [2022-01-21T14:59:23.4792581] scott typed command tele 3299 3637 at X: 3303 Y:3651
+[CommandLog] [2022-01-21T14:59:23.4792581] scott typed command tele 3299 3637 at X: 3303 Y:3651
+[CommandLog] [2022-01-21T14:59:23.4792581] scott typed command tele 3299 3637 at X: 3303 Y:3651
+[CommandLog] [2022-01-21T14:59:24.081268] scott typed command tele 3295 3623 at X: 3299 Y:3637
+[CommandLog] [2022-01-21T14:59:24.081268] scott typed command tele 3295 3623 at X: 3299 Y:3637
+[CommandLog] [2022-01-21T14:59:24.081268] scott typed command tele 3295 3623 at X: 3299 Y:3637
+[CommandLog] [2022-01-21T14:59:25.8852795] scott typed command tele 3291 3609 at X: 3295 Y:3623
+[CommandLog] [2022-01-21T14:59:30.0953123] scott typed command teletome andrew at X: 3090 Y:3488
+[CommandLog] [2022-01-21T15:12:51.3236391] scott typed command item 19942 at X: 3091 Y:3489
+[CommandLog] [2022-01-21T16:31:46.4453978] scott typed command givemod de at X: 3091 Y:3489
+[CommandLog] [2022-01-21T16:31:50.6554213] scott typed command givemoderator gfr at X: 3091 Y:3489
+[CommandLog] [2022-01-21T16:31:54.2634508] scott typed command setrights 3 at X: 3091 Y:3489
+[CommandLog] [2022-01-21T16:31:57.8764875] scott typed command giverights 2w at X: 3091 Y:3489
+[CommandLog] [2022-01-21T16:32:25.5407169] scott typed command giverights 150 de at X: 3091 Y:3489
+[CommandLog] [2022-01-26T20:35:22.5732909] scott typed command tele 3105 3500 at X: 3094 Y:3491
+[CommandLog] [2022-01-26T20:35:23.7013013] scott typed command tele 3112 3507 at X: 3105 Y:3500
+[CommandLog] [2022-01-26T20:38:26.5418334] scott typed command tele 3099 3503 at X: 3112 Y:3507
+[CommandLog] [2022-01-26T20:38:27.7438409] scott typed command tele 3094 3497 at X: 3099 Y:3503
+[CommandLog] [2022-01-26T20:38:28.9478575] scott typed command tele 3083 3499 at X: 3094 Y:3497
+[CommandLog] [2022-01-27T19:06:29.3802144] scott typed command tele 3091 3505 at X: 3091 Y:3488
+[CommandLog] [2022-01-27T19:06:31.7872357] scott typed command tele 3093 3522 at X: 3091 Y:3505
+[CommandLog] [2022-01-27T19:06:32.9902436] scott typed command tele 3092 3528 at X: 3093 Y:3522
+[CommandLog] [2022-01-27T19:06:39.6073034] scott typed command teletome andrew at X: 3092 Y:3528
+[CommandLog] [2022-01-27T19:06:57.0564451] scott typed command spec at X: 3090 Y:3527
+[CommandLog] [2022-01-27T19:08:21.8691597] scott typed command teletome andrew at X: 3090 Y:3488
+[CommandLog] [2022-01-27T19:08:26.6821979] scott typed command tele 3090 3491 at X: 3092 Y:3488
+[CommandLog] [2022-01-27T19:47:30.0204382] scott typed command wild at X: 3090 Y:3491
+[CommandLog] [2022-01-27T19:47:34.8374559] scott typed command wild at X: 3090 Y:3491
+[CommandLog] [2022-02-02T23:45:10.0376971] scott typed command dialoguecontinuation continue at X: 3090 Y:3491
+[CommandLog] [2022-02-02T23:45:10.6453584] scott typed command tele 3103 3502 at X: 3090 Y:3491
+[CommandLog] [2022-02-02T23:45:10.6453584] scott typed command dialoguecontinuation continue at X: 3090 Y:3491
+[CommandLog] [2022-02-02T23:45:11.8529334] scott typed command tele 3114 3508 at X: 3103 Y:3502
+[CommandLog] [2022-02-05T19:47:20.8968782] scott typed command tele 3105 3499 at X: 3114 Y:3508
+[CommandLog] [2022-02-05T19:47:22.0988871] scott typed command tele 3092 3493 at X: 3105 Y:3499
+[CommandLog] [2022-02-09T20:58:38.1320018] scott typed command close at X: 3091 Y:3501
+[CommandLog] [2022-02-09T20:58:39.339932] scott typed command tele 3107 3503 at X: 3091 Y:3501
+[CommandLog] [2022-02-09T20:58:40.535338] scott typed command tele 3114 3506 at X: 3107 Y:3503
+[CommandLog] [2022-02-09T20:58:56.7743795] scott typed command tele 3100 3500 at X: 3114 Y:3506
+[CommandLog] [2022-02-09T20:58:57.9756967] scott typed command tele 3089 3497 at X: 3100 Y:3500
+[CommandLog] [2022-02-09T20:58:58.5783571] scott typed command tele 3084 3499 at X: 3089 Y:3497
+[CommandLog] [2022-02-09T20:59:45.5128686] scott typed command tele 3086 3492 at X: 3077 Y:3501
+[CommandLog] [2022-02-09T21:01:06.6987109] scott typed command hpray at X: 3872 Y:9944
+[CommandLog] [2022-02-21T21:17:01.3786763] scott typed command getid petsd at X: 3091 Y:3489
+[CommandLog] [2022-02-21T21:17:03.1836852] scott typed command getid pet at X: 3091 Y:3489
+[CommandLog] [2022-02-21T21:17:11.0077591] scott typed command getid kratos at X: 3091 Y:3489
+[CommandLog] [2022-02-21T21:17:16.4168014] scott typed command item 30222 1 at X: 3091 Y:3489
+[CommandLog] [2022-02-21T21:17:24.2388687] scott typed command item 30022 1 at X: 3091 Y:3489
+[CommandLog] [2022-02-21T21:17:30.2479203] scott typed command item 30122 1 at X: 3092 Y:3489
+[CommandLog] [2022-02-21T21:18:37.6244975] scott typed command close at X: 3111 Y:3507
+[CommandLog] [2022-02-21T21:18:38.2215035] scott typed command close at X: 3111 Y:3507
+[CommandLog] [2022-02-21T21:18:50.85161] scott typed command item 299 5000 at X: 3119 Y:3505
+[CommandLog] [2022-02-21T21:18:50.85161] scott typed command close at X: 3119 Y:3505
+[CommandLog] [2022-02-21T21:21:56.7312206] scott typed command tele 3113 3518 at X: 3112 Y:3514
+[CommandLog] [2022-02-21T21:22:00.3412483] scott typed command tele 3111 3515 at X: 3111 Y:3517
+[CommandLog] [2022-02-21T21:22:32.8285301] scott typed command getid k'k at X: 3111 Y:3515
+[CommandLog] [2022-02-21T21:22:35.8355544] scott typed command item 30014 1 at X: 3111 Y:3515
+[CommandLog] [2022-02-21T21:22:38.8485814] scott typed command item 30114 at X: 3111 Y:3515
+[CommandLog] [2022-02-21T21:22:43.0546172] scott typed command tele 3113 3508 at X: 3111 Y:3515
+[CommandLog] [2022-02-21T21:27:36.0681382] scott typed command getid fire cape at X: 3094 Y:3499
+[CommandLog] [2022-02-21T21:27:58.3293286] scott typed command getid infernal at X: 3094 Y:3499
+[CommandLog] [2022-02-21T21:28:22.9915457] scott typed command getid bandos at X: 3094 Y:3499
+[CommandLog] [2022-02-21T21:28:53.6668119] scott typed command teletome samo at X: 2673 Y:3710
+[CommandLog] [2022-02-21T21:29:37.5711867] scott typed command item 12480 1 at X: 2677 Y:3713
+[CommandLog] [2022-02-21T21:29:48.3932728] scott typed command getid bandos ta at X: 2677 Y:3713
+[CommandLog] [2022-02-21T21:29:53.2053135] scott typed command item 11834 1 at X: 2677 Y:3713
+[CommandLog] [2022-02-21T21:29:58.0223601] scott typed command getid bandos chest at X: 2677 Y:3713
+[CommandLog] [2022-02-21T21:30:01.0363827] scott typed command item 11832 !! at X: 2677 Y:3713
+[CommandLog] [2022-02-21T21:30:12.4674833] scott typed command item 11832 1 at X: 2677 Y:3713
+[CommandLog] [2022-02-21T21:30:19.6865421] scott typed command getid amulet of at X: 2677 Y:3713
+[CommandLog] [2022-02-21T21:30:25.7025973] scott typed command item 20366 1 at X: 2677 Y:3713
+[CommandLog] [2022-02-21T21:33:04.5209653] scott typed command item granite at X: 2681 Y:3714
+[CommandLog] [2022-02-21T21:33:08.7319992] scott typed command getid granite at X: 2681 Y:3714
+[CommandLog] [2022-02-21T21:33:16.5560706] scott typed command item 4153 1 at X: 2681 Y:3714
+[CommandLog] [2022-02-21T21:37:21.4311736] scott typed command teletome samo at X: 3808 Y:9755
+[CommandLog] [2022-02-21T21:38:49.8639302] scott typed command teletome samo at X: 3866 Y:9950
+[CommandLog] [2022-02-21T21:38:56.4769931] scott typed command teletome samo at X: 3865 Y:9953
+[CommandLog] [2022-02-21T21:39:15.7326573] scott typed command teletome samo at X: 3090 Y:3488
+[CommandLog] [2022-02-21T21:40:27.9312757] scott typed command wildyevent at X: 3090 Y:3493
+[CommandLog] [2022-02-21T21:40:35.7543474] scott typed command item 773 at X: 3305 Y:3671
+[CommandLog] [2022-02-21T21:41:20.2747351] scott typed command home at X: 3311 Y:3672
+[CommandLog] [2022-02-21T21:41:22.077743] scott typed command tele 3311 3660 at X: 3311 Y:3672
+[CommandLog] [2022-02-21T21:41:32.3008341] scott typed command teletome samo at X: 3090 Y:3488
+[CommandLog] [2022-02-21T22:01:34.8410382] scott typed command item 21298 1 at X: 3083 Y:3509
+[CommandLog] [2022-02-21T22:01:39.0510753] scott typed command item 21301 1 at X: 3083 Y:3509
+[CommandLog] [2022-02-21T22:01:43.8601167] scott typed command item 21304 1 at X: 3083 Y:3509
+[CommandLog] [2022-02-21T22:01:44.4621208] scott typed command close at X: 3083 Y:3509
+[CommandLog] [2022-03-16T20:37:28.6715678] scott typed command close at X: 3090 Y:3486
+[CommandLog] [2022-03-16T20:37:28.6845644] scott typed command close at X: 3090 Y:3486
+[CommandLog] [2022-03-16T20:37:56.9348286] scott typed command close at X: 3093 Y:3493
+[CommandLog] [2022-03-16T20:37:57.5368365] scott typed command close at X: 3093 Y:3493
+[CommandLog] [2022-03-16T21:34:52.6815441] scott typed command close at X: 3093 Y:3491
+[CommandLog] [2022-03-16T21:34:52.694541] scott typed command close at X: 3093 Y:3491
+[CommandLog] [2022-03-16T21:34:53.2685385] scott typed command close at X: 3093 Y:3491
+[CommandLog] [2022-03-16T21:41:37.2073285] scott typed command getid torva at X: 3093 Y:3492
+[CommandLog] [2022-03-18T22:39:27.1309209] scott typed command checkattas at X: 3093 Y:3492
+[CommandLog] [2022-03-18T22:42:57.6776939] scott typed command checkkronos at X: 3093 Y:3492
+[CommandLog] [2022-03-19T21:24:00.6158439] scott typed command item 30222 at X: 3099 Y:3488
+[CommandLog] [2022-03-19T21:24:13.8129517] scott typed command getid castle at X: 3099 Y:3488
+[CommandLog] [2022-03-19T21:24:19.2260118] scott typed command item 4067 at X: 3099 Y:3488
+[CommandLog] [2022-03-19T21:27:36.6536561] scott typed command item 30000 1 at X: 3099 Y:3488
+[CommandLog] [2022-03-19T21:28:29.0050957] scott typed command item 22375 1 at X: 3099 Y:3488
+[CommandLog] [2022-03-19T21:54:29.9207118] scott typed command item 13190 1 at X: 3098 Y:3487
+[CommandLog] [2022-03-19T22:05:07.3802814] scott typed command item 33056 1 at X: 3099 Y:3489
+[CommandLog] [2022-03-19T22:05:36.9025321] scott typed command item 33049 1 at X: 3099 Y:3489
+[CommandLog] [2022-03-19T23:28:02.8052669] scott typed command item 8800 1 at X: 3099 Y:3489
+[CommandLog] [2022-03-19T23:32:55.1477691] scott typed command item 8800 1 at X: 3099 Y:3489
+[CommandLog] [2022-03-19T23:38:42.8286888] scott typed command item 28000 1 at X: 3098 Y:3489

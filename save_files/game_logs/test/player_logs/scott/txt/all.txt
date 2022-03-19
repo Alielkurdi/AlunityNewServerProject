@@ -1,0 +1,1904 @@
+[ConnectionLog] [2021-11-06T23:54:49.0378323] Logged in
+[ClickButtonLog] [2021-11-06T23:55:09.6380035] Clicked: 94242, new: false
+[ClickButtonLog] [2021-11-06T23:55:12.0380217] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-06T23:55:13.8380372] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-06T23:55:15.6430514] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-06T23:55:16.8410633] Clicked: 9157, new: false
+[PublicChatLog] [2021-11-06T23:55:21.6541031] 1 Question
+[PublicChatLog] [2021-11-06T23:55:30.7491831] Where is the players saves?
+[PublicChatLog] [2021-11-06T23:55:39.1702529] Im look in data character saves
+[PublicChatLog] [2021-11-06T23:55:40.9882688] But i dont found xd
+[ClickButtonLog] [2021-11-06T23:55:46.9963236] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-06T23:58:49.4528515] Logged in
+[ClickButtonLog] [2021-11-06T23:59:08.2040012] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-06T23:59:12.5270393] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-06T23:59:25.1421413] Clicked: 22230, new: false
+[PublicChatLog] [2021-11-06T23:59:33.5482156] Yo jire im love oyu man
+[PublicChatLog] [2021-11-06T23:59:34.7482196] Hahahaha
+[PublicChatLog] [2021-11-06T23:59:35.948236] No homo
+[PublicChatLog] [2021-11-07T00:00:22.1936181] And how we do sql with webhost?
+[PublicChatLog] [2021-11-07T00:00:23.9896362] We need it or?
+[PublicChatLog] [2021-11-07T00:00:34.1987242] If u wanna go live with server then yeah will need
+[PublicChatLog] [2021-11-07T00:00:38.3997516] Kk
+[PublicChatLog] [2021-11-07T00:00:40.8027822] 1 Question more
+[PublicChatLog] [2021-11-07T00:00:46.8088277] Im speaked with 1 guy
+[PublicChatLog] [2021-11-07T00:00:55.8078979] He said that about that server can u read and say me
+[PublicChatLog] [2021-11-07T00:00:57.6079196] What he mean?
+[PublicChatLog] [2021-11-07T00:01:03.012954] And u can fix that issue or?
+[PublicChatLog] [2021-11-07T00:01:09.0150045] Yeah show
+[ClickButtonLog] [2021-11-07T00:11:13.410066] Clicked: 250002, new: false
+[ClickObjectLog] [2021-11-07T00:11:15.2170822] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[CommandLog] [2021-11-07T00:11:26.6281795] scott typed command hpray at X: 3081 Y:3497
+[CommandLog] [2021-11-07T00:11:41.6393055] scott typed command god at X: 3081 Y:3497
+[CommandLog] [2021-11-07T00:11:42.8393114] scott typed command godmode at X: 3081 Y:3497
+[ClickButtonLog] [2021-11-07T00:12:22.4716504] Clicked: 195077, new: false
+[ClickButtonLog] [2021-11-07T00:12:23.6686569] Clicked: 195078, new: false
+[ClickObjectLog] [2021-11-07T00:12:29.6787112] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T00:12:33.2767387] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 2
+[ClickButtonLog] [2021-11-07T00:12:36.2787655] Clicked: 250002, new: false
+[CommandLog] [2021-11-07T00:12:40.4828083] scott typed command getid krato at X: 3075 Y:3499
+[CommandLog] [2021-11-07T00:12:46.4878536] scott typed command item 30022 1 at X: 3075 Y:3499
+[CommandLog] [2021-11-07T00:13:15.9170892] scott typed command tele 3086 3489 at X: 3077 Y:3499
+[CommandLog] [2021-11-07T00:13:18.31811] scott typed command tele 3088 3492 at X: 3086 Y:3489
+[ClickObjectLog] [2021-11-07T00:13:20.7251288] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T00:13:22.5201431] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-07T00:13:23.7213663] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T00:13:25.5439605] Clicked: 39716, new: true
+[ClickButtonLog] [2021-11-07T00:13:26.1422985] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T00:13:27.3617961] Clicked: 44746, new: true
+[ClickButtonLog] [2021-11-07T00:13:31.6076282] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T00:14:28.9226378] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T00:14:31.9409704] Clicked: 24503, new: true
+[ClickButtonLog] [2021-11-07T00:14:32.5407497] Clicked: 24501, new: true
+[ClickButtonLog] [2021-11-07T00:14:33.1448481] Clicked: 24503, new: true
+[ClickButtonLog] [2021-11-07T00:14:33.7481636] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T00:14:34.9599062] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T00:14:45.8146277] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T00:14:50.0451587] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-07T00:14:54.2545602] Logged in
+[ClickButtonLog] [2021-11-07T00:16:22.7452867] Clicked: 250002, new: false
+[ClickObjectLog] [2021-11-07T00:16:39.8882326] Clicked object WorldObject{x=3093, y=3480, height=0, id=25808, type=10, face=0} option 2
+[CommandLog] [2021-11-07T00:17:18.7293109] scott typed command tele 3095 3495 at X: 3093 Y:3481
+[CommandLog] [2021-11-07T00:17:27.2401596] scott typed command item 11666 1 at X: 3094 Y:3495
+[CommandLog] [2021-11-07T00:17:27.83778] scott typed command close at X: 3094 Y:3495
+[CommandLog] [2021-11-07T00:17:33.2813415] scott typed command max at X: 3094 Y:3495
+[CommandLog] [2021-11-07T00:17:47.8269502] scott typed command item 962 1 at X: 3094 Y:3495
+[CommandLog] [2021-11-07T00:17:47.8269502] scott typed command close at X: 3094 Y:3495
+[ItemOnItemLog] [2021-11-07T00:17:51.4531061] Used GameItem{name=Christmas cracker, id=962, amount=1} on GameItem{name=Void ranger helm, id=11664, amount=1} at Position{x=3094, y=3495, z=0}
+[CommandLog] [2021-11-07T00:17:58.6999395] scott typed command item 8167 5 at X: 3094 Y:3495
+[CommandLog] [2021-11-07T00:17:58.6999395] scott typed command close at X: 3094 Y:3495
+[ClickButtonLog] [2021-11-07T00:18:01.1351831] Clicked: 183156, new: false
+[ClickButtonLog] [2021-11-07T00:18:15.071914] Clicked: 183155, new: false
+[CommandLog] [2021-11-07T00:18:18.7125945] scott typed command tele 3079 3498 at X: 3094 Y:3495
+[ClickObjectLog] [2021-11-07T00:18:20.5279041] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T00:18:24.1533233] Clicked: 130131, new: false
+[ClickButtonLog] [2021-11-07T00:18:27.1953802] Clicked: 250002, new: false
+[ClickObjectLog] [2021-11-07T00:18:28.403699] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T00:18:29.6065887] Clicked: 130133, new: false
+[ClickButtonLog] [2021-11-07T00:18:30.8133631] Clicked: 9157, new: false
+[FireOfExchangeLog] [2021-11-07T00:18:30.8133631] Burned GameItem{name=25,000 FoE Point Certificate, id=692, amount=1}
+[ClickButtonLog] [2021-11-07T00:18:32.6368961] Clicked: 130133, new: false
+[ClickObjectLog] [2021-11-07T00:18:34.441409] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T00:18:35.6525485] Clicked: 130131, new: false
+[CommandLog] [2021-11-07T00:18:44.1545341] scott typed command item 300014  at X: 3075 Y:3497
+[CommandLog] [2021-11-07T00:18:45.3685145] scott typed command close at X: 3075 Y:3497
+[CommandLog] [2021-11-07T00:18:50.2173764] scott typed command item 30014 1 at X: 3075 Y:3497
+[CommandLog] [2021-11-07T00:18:54.4569074] scott typed command tele 3086 3499 at X: 3076 Y:3499
+[ClickObjectLog] [2021-11-07T00:19:02.3507177] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T00:19:06.5803155] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T00:19:09.6013749] Clicked: 44818, new: true
+[CommandLog] [2021-11-07T00:19:22.3516135] scott typed command hpray at X: 3872 Y:9945
+[CommandLog] [2021-11-07T00:19:25.3996484] scott typed command hpray at X: 3872 Y:9945
+[CommandLog] [2021-11-07T00:19:27.2060141] scott typed command hpray at X: 3872 Y:9945
+[ClickButtonLog] [2021-11-07T00:19:29.6458574] Clicked: 6235, new: false
+[CommandLog] [2021-11-07T00:19:35.1060857] scott typed command item 11212 54000 at X: 3872 Y:9945
+[ClickButtonLog] [2021-11-07T00:19:44.8215273] Clicked: 6235, new: false
+[ClickButtonLog] [2021-11-07T00:19:45.4196263] Clicked: 93202, new: false
+[CommandLog] [2021-11-07T00:20:14.6579605] scott typed command item 773 1 at X: 3870 Y:9955
+[ClickButtonLog] [2021-11-07T00:20:17.6880191] Clicked: 108005, new: false
+[CommandLog] [2021-11-07T00:20:47.4386121] scott typed command getid scyte at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:20:50.4782517] scott typed command getid scythe at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:20:54.7390333] scott typed command item 22325 1 at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:21:23.2909527] scott typed command getid wrath at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:21:27.5424813] scott typed command item 21880 500 at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:21:34.8368741] scott typed command item air at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:21:37.2757011] scott typed command getid air at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:21:43.9875926] scott typed command item 556 5000 at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:21:47.6275494] scott typed command item 554 50000 at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:22:05.2162904] scott typed command getid nightmare at X: 3874 Y:9953
+[CommandLog] [2021-11-07T00:22:09.4369315] scott typed command item 24425 2 at X: 3874 Y:9953
+[ItemPickupLog] [2021-11-07T00:23:50.8845813] Picked up GameItem{name=Torstol, id=220, amount=19} at Position{x=3874, y=9947, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T00:23:51.4768701] Picked up GameItem{name=Big bones, id=532, amount=1} at Position{x=3874, y=9947, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T00:23:52.0859617] Picked up GameItem{name=Adamantite ore, id=450, amount=29} at Position{x=3874, y=9947, z=3}, owner scott
+[ClickButtonLog] [2021-11-07T00:23:54.5013086] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-07T00:24:01.7755098] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T00:24:03.5899329] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T00:24:27.2147074] Clicked: 59229, new: false
+[ClickButtonLog] [2021-11-07T00:24:31.4645281] Clicked: 9178, new: false
+[ClickButtonLog] [2021-11-07T00:24:39.9626092] Clicked: 183156, new: false
+[ClickButtonLog] [2021-11-07T00:24:53.9068216] Clicked: 183155, new: false
+[ClickObjectLog] [2021-11-07T00:24:57.5541275] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:02.4274984] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:06.0470702] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:08.4967421] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:09.0914563] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:09.0914563] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:09.702187] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:09.7031911] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:09.7031911] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:10.3023478] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:10.3023478] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:10.3023478] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:10.9046885] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T00:25:16.336449] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T00:25:33.9328438] Clicked: 50421, new: true
+[CommandLog] [2021-11-07T00:26:01.1704815] scott typed command tele 3098 3504 at X: 3094 Y:3509
+[CommandLog] [2021-11-07T00:26:02.3856751] scott typed command tele 3097 3501 at X: 3098 Y:3504
+[CommandLog] [2021-11-07T00:26:10.2803611] scott typed command close at X: 3094 Y:3495
+[ClickButtonLog] [2021-11-07T00:26:12.0852454] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T00:26:12.0852454] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T00:26:13.3036958] Clicked: 74107, new: false
+[ClickButtonLog] [2021-11-07T00:26:15.1104463] Clicked: 90073, new: false
+[ClickButtonLog] [2021-11-07T00:26:16.3298925] Clicked: 74117, new: false
+[CommandLog] [2021-11-07T00:26:18.1461778] scott typed command close at X: 3094 Y:3495
+[ClickButtonLog] [2021-11-07T00:26:19.9614375] Clicked: 74122, new: false
+[ClickButtonLog] [2021-11-07T00:26:29.0479335] Clicked: 74142, new: false
+[ClickButtonLog] [2021-11-07T00:26:32.7008264] Clicked: 209104, new: false
+[ClickButtonLog] [2021-11-07T00:26:33.29816] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T00:26:35.7241259] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T00:26:46.6356958] Clicked: 166028, new: false
+[ClickButtonLog] [2021-11-07T00:27:04.8272773] Clicked: 166027, new: false
+[ClickButtonLog] [2021-11-07T00:27:09.0689269] Clicked: 166026, new: false
+[ClickButtonLog] [2021-11-07T00:27:11.4894909] Clicked: 166007, new: false
+[ClickButtonLog] [2021-11-07T00:27:12.084565] Clicked: 166006, new: false
+[ClickButtonLog] [2021-11-07T00:28:44.9159794] Clicked: 154, new: false
+[ClickObjectLog] [2021-11-07T00:28:49.130558] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T00:28:52.1841668] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T00:28:53.4061335] Clicked: 44742, new: true
+[ClickObjectLog] [2021-11-07T00:28:58.3004709] Clicked object WorldObject{x=3662, y=3218, height=0, id=32655, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T00:29:01.378858] Clicked object WorldObject{x=3662, y=3218, height=0, id=32655, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T00:29:01.9889196] Clicked object WorldObject{x=3662, y=3218, height=0, id=32655, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-07T00:29:04.4125139] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T00:29:05.6298032] Clicked: 30374, new: true
+[ClickObjectLog] [2021-11-07T00:29:11.0612052] Clicked object WorldObject{x=3678, y=3216, height=0, id=32653, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T00:29:16.000552] Clicked: 9157, new: false
+[CommandLog] [2021-11-07T00:29:19.0845167] scott typed command tele 3212 4450 at X: 3219 Y:4460
+[CommandLog] [2021-11-07T00:29:20.2732929] scott typed command tele 3196 4447 at X: 3212 Y:4450
+[CommandLog] [2021-11-07T00:29:21.5059145] scott typed command tele 3189 4446 at X: 3196 Y:4447
+[ClickObjectLog] [2021-11-07T00:29:30.0479196] Clicked object WorldObject{x=3185, y=4446, height=0, id=32755, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T00:29:31.2610102] Clicked: 9157, new: false
+[CommandLog] [2021-11-07T00:29:33.6851054] scott typed command tele 3177 4445 at X: 3184 Y:4446
+[CommandLog] [2021-11-07T00:29:36.1094579] scott typed command tele 3170 4447 at X: 3177 Y:4445
+[ClickObjectLog] [2021-11-07T00:29:45.3771596] Clicked object WorldObject{x=3185, y=4446, height=0, id=32755, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T00:29:53.2453365] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T00:29:55.0520461] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T00:30:30.681384] Clicked: 50421, new: true
+[CommandLog] [2021-11-07T00:30:53.0392813] scott typed command close at X: 3092 Y:3491
+[ClickButtonLog] [2021-11-07T00:31:14.2013967] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T00:34:15.0409728] Clicked: 166028, new: false
+[ClickButtonLog] [2021-11-07T00:34:16.2459467] Clicked: 166028, new: false
+[ClickButtonLog] [2021-11-07T00:34:59.0977168] Clicked: 166008, new: false
+[ClickButtonLog] [2021-11-07T00:35:00.3217924] Clicked: 166009, new: false
+[ClickButtonLog] [2021-11-07T00:35:02.1405317] Clicked: 166006, new: false
+[ClickButtonLog] [2021-11-07T00:35:02.7489256] Clicked: 166028, new: false
+[ClickButtonLog] [2021-11-07T00:36:39.3831431] Clicked: 51907, new: true
+[ClickButtonLog] [2021-11-07T00:36:39.9871172] Clicked: 51909, new: true
+[ClickButtonLog] [2021-11-07T00:36:39.9871172] Clicked: 51909, new: true
+[ClickButtonLog] [2021-11-07T00:36:40.5913612] Clicked: 51909, new: true
+[ClickButtonLog] [2021-11-07T00:36:40.5913612] Clicked: 51910, new: true
+[ClickButtonLog] [2021-11-07T00:36:40.5913612] Clicked: 51910, new: true
+[ClickButtonLog] [2021-11-07T00:36:41.2037855] Clicked: 51911, new: true
+[ClickButtonLog] [2021-11-07T00:36:41.8078993] Clicked: 51911, new: true
+[ClickButtonLog] [2021-11-07T00:36:41.8078993] Clicked: 51912, new: true
+[ClickButtonLog] [2021-11-07T00:36:41.8078993] Clicked: 51912, new: true
+[ClickButtonLog] [2021-11-07T00:36:42.4209383] Clicked: 51912, new: true
+[ClickObjectLog] [2021-11-07T00:36:47.2453649] Clicked object WorldObject{x=3097, y=3485, height=0, id=23709, type=10, face=0} option 1
+[CommandLog] [2021-11-07T00:37:58.4382812] scott typed command getid $50 at X: 3093 Y:3491
+[CommandLog] [2021-11-07T00:38:01.4689069] scott typed command item 608 1 at X: 3093 Y:3491
+[ClickButtonLog] [2021-11-07T00:38:06.9673357] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:38:15.4444204] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T00:38:16.0520553] Clicked: 50417, new: true
+[CommandLog] [2021-11-07T00:38:18.4842164] scott typed command / hi at X: 3093 Y:3491
+[ClanChatLog] [2021-11-07T00:38:18.4842164] Channel=Help, message=/ hi
+[CommandLog] [2021-11-07T00:38:19.7101208] scott typed command yell de at X: 3093 Y:3491
+[CommandLog] [2021-11-07T00:38:33.6976031] scott typed command item 608 2 at X: 3093 Y:3491
+[ClickButtonLog] [2021-11-07T00:38:40.3616492] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:38:40.3616492] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:38:45.2236081] Clicked: 9157, new: false
+[CommandLog] [2021-11-07T00:38:48.8742182] scott typed command item 608 5 at X: 3093 Y:3491
+[ClickButtonLog] [2021-11-07T00:38:51.2939261] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:38:54.3271593] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:38:54.3271593] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:38:54.3271593] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:38:57.3622537] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:38:57.3622537] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:39:05.2459427] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:39:05.2459427] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:39:05.2459427] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T00:39:08.2741099] Clicked: 9157, new: false
+[ShopBuyLog] [2021-11-07T00:39:24.0132346] Bought GameItem{name=Super Mystery Box, id=6828, amount=1} from Donator Store with id 9
+[ShopBuyLog] [2021-11-07T00:39:27.6401984] Bought GameItem{name=Infernal cape, id=21295, amount=1} from Donator Store with id 9
+[ShopBuyLog] [2021-11-07T00:39:30.6745535] Bought GameItem{name=Armadyl godsword, id=11802, amount=1} from Donator Store with id 9
+[ClickButtonLog] [2021-11-07T00:39:31.2823186] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T00:39:31.8907331] Clicked: 51915, new: true
+[ShopBuyLog] [2021-11-07T00:39:38.5664228] Bought GameItem{name=Primordial boots, id=13239, amount=1} from Donator Store with id 9
+[ClickButtonLog] [2021-11-07T00:39:40.3887646] Clicked: 250002, new: false
+[CommandLog] [2021-11-07T00:40:13.0804565] scott typed command wildyevent at X: 3092 Y:3494
+[ClickButtonLog] [2021-11-07T00:40:15.5082914] Clicked: 39964, new: true
+[ClickButtonLog] [2021-11-07T00:40:25.7944031] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T00:40:26.4058376] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T00:40:26.4058376] Clicked: 75010, new: false
+[CommandLog] [2021-11-07T00:40:27.0189836] scott typed command tele 3197 3877 at X: 3199 Y:3887
+[CommandLog] [2021-11-07T00:40:27.6144372] scott typed command tele 3196 3865 at X: 3197 Y:3877
+[CommandLog] [2021-11-07T00:40:27.6144372] scott typed command tele 3196 3865 at X: 3197 Y:3877
+[CommandLog] [2021-11-07T00:40:27.6144372] scott typed command tele 3196 3865 at X: 3197 Y:3877
+[CommandLog] [2021-11-07T00:40:27.6144372] scott typed command tele 3196 3865 at X: 3197 Y:3877
+[CommandLog] [2021-11-07T00:40:28.2211922] scott typed command tele 3194 3853 at X: 3196 Y:3865
+[CommandLog] [2021-11-07T00:40:28.2211922] scott typed command tele 3194 3853 at X: 3196 Y:3865
+[CommandLog] [2021-11-07T00:40:28.2211922] scott typed command tele 3194 3853 at X: 3196 Y:3865
+[CommandLog] [2021-11-07T00:40:28.8351884] scott typed command tele 3192 3841 at X: 3194 Y:3853
+[CommandLog] [2021-11-07T00:40:28.8351884] scott typed command tele 3192 3841 at X: 3194 Y:3853
+[CommandLog] [2021-11-07T00:40:28.8351884] scott typed command tele 3192 3841 at X: 3194 Y:3853
+[CommandLog] [2021-11-07T00:40:29.4331886] scott typed command tele 3190 3829 at X: 3192 Y:3841
+[CommandLog] [2021-11-07T00:40:29.4331886] scott typed command tele 3190 3829 at X: 3192 Y:3841
+[CommandLog] [2021-11-07T00:40:29.4331886] scott typed command tele 3190 3829 at X: 3192 Y:3841
+[CommandLog] [2021-11-07T00:40:29.4331886] scott typed command tele 3190 3829 at X: 3192 Y:3841
+[CommandLog] [2021-11-07T00:40:30.0351151] scott typed command tele 3188 3817 at X: 3190 Y:3829
+[CommandLog] [2021-11-07T00:40:30.0351151] scott typed command tele 3188 3817 at X: 3190 Y:3829
+[CommandLog] [2021-11-07T00:40:30.0351151] scott typed command tele 3188 3817 at X: 3190 Y:3829
+[CommandLog] [2021-11-07T00:40:30.6450347] scott typed command tele 3186 3805 at X: 3188 Y:3817
+[CommandLog] [2021-11-07T00:40:30.6450347] scott typed command tele 3186 3805 at X: 3188 Y:3817
+[CommandLog] [2021-11-07T00:40:30.6450347] scott typed command tele 3186 3805 at X: 3188 Y:3817
+[CommandLog] [2021-11-07T00:40:31.2521932] scott typed command tele 3184 3793 at X: 3186 Y:3805
+[CommandLog] [2021-11-07T00:40:31.2521932] scott typed command tele 3184 3793 at X: 3186 Y:3805
+[CommandLog] [2021-11-07T00:40:31.2521932] scott typed command tele 3184 3793 at X: 3186 Y:3805
+[CommandLog] [2021-11-07T00:40:31.8693776] scott typed command tele 3182 3781 at X: 3184 Y:3793
+[CommandLog] [2021-11-07T00:40:31.8693776] scott typed command tele 3182 3781 at X: 3184 Y:3793
+[CommandLog] [2021-11-07T00:40:31.8693776] scott typed command tele 3182 3781 at X: 3184 Y:3793
+[CommandLog] [2021-11-07T00:40:31.8693776] scott typed command tele 3182 3781 at X: 3184 Y:3793
+[CommandLog] [2021-11-07T00:40:32.4494843] scott typed command tele 3180 3769 at X: 3182 Y:3781
+[CommandLog] [2021-11-07T00:40:34.263469] scott typed command tele 3178 3754 at X: 3180 Y:3769
+[CommandLog] [2021-11-07T00:40:34.263469] scott typed command tele 3178 3754 at X: 3180 Y:3769
+[CommandLog] [2021-11-07T00:40:34.263469] scott typed command tele 3178 3753 at X: 3180 Y:3769
+[CommandLog] [2021-11-07T00:40:34.8639122] scott typed command tele 3175 3738 at X: 3178 Y:3753
+[CommandLog] [2021-11-07T00:40:34.8639122] scott typed command tele 3174 3739 at X: 3178 Y:3753
+[CommandLog] [2021-11-07T00:40:34.8639122] scott typed command tele 3173 3740 at X: 3178 Y:3753
+[CommandLog] [2021-11-07T00:40:35.4705254] scott typed command tele 3168 3727 at X: 3173 Y:3740
+[CommandLog] [2021-11-07T00:40:35.4705254] scott typed command tele 3168 3727 at X: 3173 Y:3740
+[CommandLog] [2021-11-07T00:40:35.4705254] scott typed command tele 3168 3727 at X: 3173 Y:3740
+[CommandLog] [2021-11-07T00:40:36.0793074] scott typed command tele 3163 3714 at X: 3168 Y:3727
+[CommandLog] [2021-11-07T00:40:36.0793074] scott typed command tele 3163 3714 at X: 3168 Y:3727
+[CommandLog] [2021-11-07T00:40:36.0793074] scott typed command tele 3163 3714 at X: 3168 Y:3727
+[CommandLog] [2021-11-07T00:40:36.6840464] scott typed command tele 3158 3701 at X: 3163 Y:3714
+[CommandLog] [2021-11-07T00:40:36.6840464] scott typed command tele 3158 3701 at X: 3163 Y:3714
+[CommandLog] [2021-11-07T00:40:36.6840464] scott typed command tele 3158 3701 at X: 3163 Y:3714
+[CommandLog] [2021-11-07T00:40:36.6840464] scott typed command tele 3158 3701 at X: 3163 Y:3714
+[CommandLog] [2021-11-07T00:40:37.2951621] scott typed command tele 3153 3688 at X: 3158 Y:3701
+[CommandLog] [2021-11-07T00:40:37.2951621] scott typed command tele 3153 3688 at X: 3158 Y:3701
+[CommandLog] [2021-11-07T00:40:37.2951621] scott typed command tele 3153 3688 at X: 3158 Y:3701
+[CommandLog] [2021-11-07T00:40:37.8952773] scott typed command tele 3148 3675 at X: 3153 Y:3688
+[CommandLog] [2021-11-07T00:40:37.8952773] scott typed command tele 3148 3675 at X: 3153 Y:3688
+[CommandLog] [2021-11-07T00:40:37.8952773] scott typed command tele 3148 3675 at X: 3153 Y:3688
+[CommandLog] [2021-11-07T00:40:37.8952773] scott typed command tele 3148 3675 at X: 3153 Y:3688
+[CommandLog] [2021-11-07T00:40:38.50163] scott typed command tele 3143 3662 at X: 3148 Y:3675
+[ClickButtonLog] [2021-11-07T00:40:39.0897092] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-07T00:41:03.242606] Clicked object WorldObject{x=3092, y=3480, height=0, id=25808, type=10, face=0} option 2
+[ClickButtonLog] [2021-11-07T00:42:20.1635578] Clicked: 74003, new: false
+[ClickButtonLog] [2021-11-07T00:45:11.3220016] Clicked: 84057, new: false
+[ClickButtonLog] [2021-11-07T00:45:13.1220099] Clicked: 84071, new: false
+[CommandLog] [2021-11-07T00:45:33.5431842] scott typed command tele 3108 3495 at X: 3094 Y:3486
+[ClickButtonLog] [2021-11-07T00:45:37.1492128] Clicked: 250002, new: false
+[CommandLog] [2021-11-07T00:45:37.7502231] scott typed command tele 3114 3506 at X: 3108 Y:3495
+[CommandLog] [2021-11-07T00:48:30.0228207] scott typed command teletome scott123 at X: 3115 Y:3507
+[CommandLog] [2021-11-07T00:48:40.8299053] scott typed command getid seeds at X: 3116 Y:3507
+[CommandLog] [2021-11-07T00:48:46.8349545] scott typed command item 299 50000 at X: 3116 Y:3507
+[CommandLog] [2021-11-07T00:49:00.6490697] scott typed command item 299 500000 at X: 3116 Y:3507
+[ClickButtonLog] [2021-11-07T00:49:24.071265] Clicked: 13092, new: false
+[ClickButtonLog] [2021-11-07T00:49:28.870304] Clicked: 13218, new: false
+[ItemFlowerPokerTradeLog] [2021-11-07T00:49:28.8783091] Flower pokered with [scott123] (login name) Received [[GameItem{name=Eldritch nightmare staff, id=24425, amount=1}]] Given [[]]
+[CommandLog] [2021-11-07T00:50:27.7908187] scott typed command tele 3102 3502 at X: 3110 Y:3515
+[CommandLog] [2021-11-07T00:50:30.7948455] scott typed command tele 3099 3498 at X: 3102 Y:3502
+[ClickButtonLog] [2021-11-07T00:51:42.6804435] Clicked: 183156, new: false
+[ClickButtonLog] [2021-11-07T00:51:56.0066471] Clicked: 183155, new: false
+[ClickButtonLog] [2021-11-07T00:51:59.0096715] Clicked: 11009, new: false
+[ClickButtonLog] [2021-11-07T00:51:59.0106628] Clicked: 11015, new: false
+[CommandLog] [2021-11-07T00:55:30.3854235] scott typed command outlast at X: 3093 Y:3498
+[CommandLog] [2021-11-07T00:55:35.1914591] scott typed command bank at X: 3080 Y:3510
+[ClickButtonLog] [2021-11-07T00:55:36.3924725] Clicked: 226162, new: false
+[ClickButtonLog] [2021-11-07T00:55:36.3954683] Clicked: 226162, new: false
+[ClickButtonLog] [2021-11-07T00:55:36.9954784] Clicked: 226170, new: false
+[ClickButtonLog] [2021-11-07T00:55:36.9984749] Clicked: 226170, new: false
+[ClickObjectLog] [2021-11-07T00:55:38.1954825] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-07T00:55:39.4014972] Clicked: 1017, new: false
+[CommandLog] [2021-11-07T00:55:49.0055725] scott typed command bank at X: 3081 Y:3510
+[ClickButtonLog] [2021-11-07T00:55:50.2065861] Clicked: 226162, new: false
+[ClickObjectLog] [2021-11-07T00:55:51.4085937] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-07T00:55:53.2086074] Clicked: 1017, new: false
+[OutlastEntranceExitLog] [2021-11-07T00:55:53.2186167] Enter outlast, stored skills=[SkillExperience{skill=Attack, experience=13,034,432}, SkillExperience{skill=Defence, experience=13,034,432}, SkillExperience{skill=Strength, experience=200,000,000}, SkillExperience{skill=Hitpoints, experience=197,604,809}, SkillExperience{skill=Ranged, experience=15,959,432}, SkillExperience{skill=Prayer, experience=13,035,557}, SkillExperience{skill=Magic, experience=13,034,432}], inventory=[], equipment=[]
+[ClickButtonLog] [2021-11-07T00:57:07.0692237] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T00:59:24.255782] Clicked: 250002, new: false
+[ClickObjectLog] [2021-11-07T00:59:26.6578017] Clicked object WorldObject{x=3323, y=4956, height=0, id=26741, type=10, face=2} option 1
+[ClickButtonLog] [2021-11-07T00:59:29.0578288] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-07T00:59:33.2658548] Clicked object WorldObject{x=3323, y=4942, height=0, id=26738, type=10, face=0} option 1
+[OutlastEntranceExitLog] [2021-11-07T00:59:34.465866] Exit outlast, restored skills=[], inventory=[], equipment=[]
+[ClickButtonLog] [2021-11-07T00:59:38.6659076] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T00:59:53.6790264] Clicked: 14067, new: false
+[CommandLog] [2021-11-07T01:04:51.4588907] scott typed command getid pet at X: 3090 Y:3491
+[CommandLog] [2021-11-07T01:05:06.0181154] scott typed command getid krato at X: 3090 Y:3491
+[CommandLog] [2021-11-07T01:05:15.102199] scott typed command item 30122 1 at X: 3090 Y:3491
+[CommandLog] [2021-11-07T01:05:24.8018732] scott typed command getid kik at X: 3091 Y:3491
+[CommandLog] [2021-11-07T01:05:28.427131] scott typed command getid k' at X: 3091 Y:3491
+[CommandLog] [2021-11-07T01:05:35.0947774] scott typed command getid k'ik at X: 3091 Y:3491
+[CommandLog] [2021-11-07T01:05:43.5559549] scott typed command getid k'k at X: 3091 Y:3491
+[CommandLog] [2021-11-07T01:05:47.7816272] scott typed command item 30114  at X: 3091 Y:3491
+[ClickObjectLog] [2021-11-07T01:06:01.0858093] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:06:03.4884289] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-07T01:06:04.0931955] Clicked: 44742, new: true
+[ClickButtonLog] [2021-11-07T01:06:08.3387391] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-07T01:06:13.1922552] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:06:15.6151174] Clicked: 39736, new: true
+[ClickButtonLog] [2021-11-07T01:06:16.217856] Clicked: 39731, new: true
+[ClickButtonLog] [2021-11-07T01:06:18.047483] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T01:06:22.3016496] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T01:06:30.1550579] Clicked: 39721, new: true
+[ClickButtonLog] [2021-11-07T01:06:31.3654899] Clicked: 39716, new: true
+[ClickButtonLog] [2021-11-07T01:06:32.5787923] Clicked: 39721, new: true
+[ClickButtonLog] [2021-11-07T01:06:34.9999017] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T01:06:41.0618841] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-07T01:08:01.2779837] Clicked: 108003, new: false
+[ClickButtonLog] [2021-11-07T01:08:10.3790323] Clicked: 189237, new: false
+[ClickButtonLog] [2021-11-07T01:08:15.214135] Clicked: 59229, new: false
+[ClickButtonLog] [2021-11-07T01:08:17.657791] Clicked: 189234, new: false
+[ClickButtonLog] [2021-11-07T01:08:19.4675809] Clicked: 187133, new: false
+[ClickButtonLog] [2021-11-07T01:08:20.0715017] Clicked: 189231, new: false
+[ClickButtonLog] [2021-11-07T01:08:21.2882577] Clicked: 59229, new: false
+[ClickButtonLog] [2021-11-07T01:08:24.910357] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T01:08:29.1631023] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T01:08:30.3729714] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T01:08:43.6870234] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T01:08:46.1036978] Clicked: 195078, new: false
+[ClickButtonLog] [2021-11-07T01:08:47.3270092] Clicked: 195077, new: false
+[ClickButtonLog] [2021-11-07T01:08:47.9251686] Clicked: 195078, new: false
+[ClickButtonLog] [2021-11-07T01:08:49.1404852] Clicked: 195083, new: false
+[ClickButtonLog] [2021-11-07T01:08:50.3563055] Clicked: 196126, new: false
+[ClickButtonLog] [2021-11-07T01:08:51.5714825] Clicked: 195086, new: false
+[ClickButtonLog] [2021-11-07T01:08:52.7947045] Clicked: 196126, new: false
+[CommandLog] [2021-11-07T01:08:57.0324675] scott typed command getid malevolent at X: 3081 Y:3497
+[ClickButtonLog] [2021-11-07T01:08:58.8654113] Clicked: 195076, new: false
+[ClickButtonLog] [2021-11-07T01:09:00.67214] Clicked: 250002, new: false
+[ClickObjectLog] [2021-11-07T01:09:02.5050484] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:09:07.3537342] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:09:12.8234191] Clicked object WorldObject{x=3068, y=3497, height=0, id=190, type=10, face=1} option 1
+[CommandLog] [2021-11-07T01:09:33.3749618] scott typed command getid seren at X: 3092 Y:3504
+[CommandLog] [2021-11-07T01:09:38.2251011] scott typed command item 6792 5 at X: 3092 Y:3504
+[ClickObjectLog] [2021-11-07T01:09:39.4307902] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:09:40.6291903] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:09:41.228164] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:09:41.8415456] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:09:42.4522619] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:09:50.9410952] Clicked: 23721, new: true
+[DailyRewardLog] [2021-11-07T01:09:50.9421459] Claimed daily reward ImmutableItem{name=Experience Lamp, id=2528, amount=1} on day 0
+[ClickButtonLog] [2021-11-07T01:10:02.4515439] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T01:10:03.0592777] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T01:10:03.0592777] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T01:10:06.0890018] Clicked: 24992, new: true
+[ClaimAchievementLog] [2021-11-07T01:10:06.0890018] Claimed achievement Achievement{formattedName='Dailyscape', tier=STARTER, type=DAILY, description='Collect 1 Daily Reward', amount=1, identification=7, points=1, rewards=[GameItem{name=Vote Crystal, id=23933, amount=3}, GameItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=2}]}
+[CommandLog] [2021-11-07T01:10:50.3094671] scott typed command tele 3103 3487 at X: 3092 Y:3494
+[ClickObjectLog] [2021-11-07T01:10:52.7420298] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:10:55.7588354] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:10:58.1883699] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[CommandLog] [2021-11-07T01:11:02.4350334] scott typed command worldevent at X: 3100 Y:3489
+[ClickObjectLog] [2021-11-07T01:11:06.6621208] Clicked object WorldObject{x=3068, y=3497, height=0, id=190, type=10, face=1} option 1
+[CommandLog] [2021-11-07T01:11:18.1196624] scott typed command hpray at X: 3049 Y:3493
+[CommandLog] [2021-11-07T01:11:23.5480666] scott typed command getid scythe at X: 3049 Y:3493
+[CommandLog] [2021-11-07T01:11:25.9649072] scott typed command item 22325  at X: 3049 Y:3493
+[CommandLog] [2021-11-07T01:11:33.8006375] scott typed command item 773+ at X: 3049 Y:3493
+[CommandLog] [2021-11-07T01:11:36.8388182] scott typed command item 773 at X: 3049 Y:3493
+[ClickObjectLog] [2021-11-07T01:11:44.6810574] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:11:48.3005761] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:11:53.7410952] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:11:53.7410952] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:12:03.4059223] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:12:26.4083085] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:12:30.6372224] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:12:33.663268] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 2
+[ClickObjectLog] [2021-11-07T01:12:39.7045854] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:12:41.5047119] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:12:41.5047119] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:12:41.5047119] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:12:41.5047119] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:12:44.5248155] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:12:55.4210263] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ItemOnItemLog] [2021-11-07T01:13:06.8714027] Used GameItem{name=Uncut toxic gem, id=23778, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3040, y=3499, z=0}
+[ItemOnItemLog] [2021-11-07T01:13:08.6857184] Used GameItem{name=Uncut toxic gem, id=23778, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3040, y=3499, z=0}
+[ClickObjectLog] [2021-11-07T01:13:11.0898865] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:13:11.0898865] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:13:11.6951794] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:13:48.6248543] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:13:52.2625752] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:13:52.2625752] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:13:52.2625752] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:13:52.8657766] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 2
+[CommandLog] [2021-11-07T01:14:01.3117936] scott typed command getid wrath at X: 3035 Y:3489
+[CommandLog] [2021-11-07T01:14:04.9427563] scott typed command item 21880 500000 at X: 3035 Y:3489
+[ClickObjectLog] [2021-11-07T01:14:06.1502398] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ItemDroppedLog] [2021-11-07T01:14:14.6115192] Dropped GameItem{name=Dragon platelegs, id=4087, amount=1} at Position{x=3035, y=3489, z=0}
+[ClickObjectLog] [2021-11-07T01:14:15.8125903] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:14:24.2668972] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:14:29.7001035] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 2
+[CommandLog] [2021-11-07T01:14:34.5145332] scott typed command getid runes at X: 3036 Y:3487
+[CommandLog] [2021-11-07T01:14:38.7592266] scott typed command item 9594 5 at X: 3036 Y:3487
+[ClickObjectLog] [2021-11-07T01:14:46.6098286] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:14:47.8193128] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:14:48.4345597] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 2
+[CommandLog] [2021-11-07T01:14:53.8633273] scott typed command item 9594 50000 at X: 3036 Y:3487
+[ClickObjectLog] [2021-11-07T01:14:58.0970413] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:14:58.7052927] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:14:59.3026966] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 2
+[ItemOnItemLog] [2021-11-07T01:15:02.9399029] Used GameItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=2} on GameItem{name=Vote Crystal, id=23933, amount=2} at Position{x=3036, y=3487, z=0}
+[ClickObjectLog] [2021-11-07T01:15:37.3920288] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ItemDroppedLog] [2021-11-07T01:15:42.8408435] Dropped GameItem{name=PKP Ticket, id=2996, amount=35} at Position{x=3036, y=3488, z=0}
+[ItemPickupLog] [2021-11-07T01:15:45.8507959] Picked up GameItem{name=PKP Ticket, id=2996, amount=35} at Position{x=3036, y=3488, z=0}, owner scott
+[ClickObjectLog] [2021-11-07T01:15:50.0835497] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 2
+[ClickButtonLog] [2021-11-07T01:16:06.3865779] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T01:16:07.0028614] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-07T01:16:17.8845554] Clicked object WorldObject{x=3066, y=3502, height=0, id=8880, type=10, face=0} option 1
+[CommandLog] [2021-11-07T01:16:23.8958158] scott typed command empty at X: 3066 Y:3501
+[EmptyInventoryLog] [2021-11-07T01:16:23.8958158] Emptied [SlottedItem{name=Dark K'klik, id=30114, amount=1}, SlottedItem{name=Wrath Rune, id=21880, amount=500,000}, SlottedItem{name=PKP Ticket, id=2996, amount=35}, SlottedItem{name=Dragon dart tip, id=11232, amount=59}, SlottedItem{name=Imbue Dust, id=23804, amount=1}, SlottedItem{name=Experience Lamp, id=2528, amount=1}, SlottedItem{name=Vote Crystal, id=23933, amount=3}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Bronze axe, id=1351, amount=1}, SlottedItem{name=Bronze pickaxe, id=1265, amount=1}, SlottedItem{name=Chisel, id=1755, amount=1}, SlottedItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=2}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}, SlottedItem{name=Uncut toxic gem, id=23778, amount=1}]
+[ClickObjectLog] [2021-11-07T01:16:25.1148779] Clicked object WorldObject{x=3066, y=3502, height=0, id=8880, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:16:32.9539346] Clicked object WorldObject{x=3050, y=3508, height=0, id=1276, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:16:42.0480985] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ItemOnItemLog] [2021-11-07T01:16:46.2711063] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Logs, id=1511, amount=1} at Position{x=3041, y=3501, z=0}
+[ClickObjectLog] [2021-11-07T01:16:48.0841512] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ItemOnItemLog] [2021-11-07T01:16:52.2994094] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3041, y=3501, z=0}
+[ClickObjectLog] [2021-11-07T01:16:57.719344] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:17:58.6308843] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:17:59.8376211] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:18:01.6488868] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickButtonLog] [2021-11-07T01:18:03.4425136] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T01:18:04.0599868] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T01:18:04.65172] Clicked: 83158, new: false
+[ItemOnItemLog] [2021-11-07T01:18:19.152555] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3041, y=3501, z=0}
+[ClickObjectLog] [2021-11-07T01:18:50.5509632] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:18:53.5750573] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:18:53.5750573] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:18:54.1925905] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:19:03.2603602] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[CommandLog] [2021-11-07T01:19:07.5046426] scott typed command hpray at X: 3047 Y:3485
+[ClickObjectLog] [2021-11-07T01:19:08.7129503] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:19:15.3628453] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ItemOnItemLog] [2021-11-07T01:19:20.7749274] Used GameItem{name=Toxic gem, id=23783, amount=1} on GameItem{name=Logs, id=1511, amount=1} at Position{x=3040, y=3499, z=0}
+[ItemOnItemLog] [2021-11-07T01:19:22.5889578] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Logs, id=1511, amount=1} at Position{x=3040, y=3499, z=0}
+[ClickObjectLog] [2021-11-07T01:19:23.7985448] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:19:24.3915745] Clicked object WorldObject{x=3039, y=3500, height=0, id=33223, type=10, face=2} option 1
+[ItemOnItemLog] [2021-11-07T01:19:41.2377797] Used GameItem{name=Chisel, id=1755, amount=1} on GameItem{name=Uncut toxic gem, id=23778, amount=1} at Position{x=3040, y=3499, z=0}
+[ClickObjectLog] [2021-11-07T01:19:53.2488836] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:19:56.2499023] Clicked object WorldObject{x=3034, y=3487, height=0, id=33311, type=10, face=1} option 2
+[ClickObjectLog] [2021-11-07T01:20:04.0629772] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:20:10.0610209] Clicked object WorldObject{x=3049, y=3479, height=0, id=33222, type=10, face=3} option 1
+[ItemDroppedLog] [2021-11-07T01:20:15.4660819] Dropped GameItem{name=Logs, id=1511, amount=1} at Position{x=3048, y=3487, z=0}
+[ClickObjectLog] [2021-11-07T01:20:22.0731169] Clicked object WorldObject{x=3068, y=3497, height=0, id=190, type=10, face=1} option 1
+[CommandLog] [2021-11-07T01:20:25.0751415] scott typed command empty at X: 3074 Y:3499
+[EmptyInventoryLog] [2021-11-07T01:20:25.0751415] Emptied [SlottedItem{name=Chisel, id=1755, amount=1}, SlottedItem{name=Bronze axe, id=1351, amount=1}, SlottedItem{name=Bronze pickaxe, id=1265, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}, SlottedItem{name=Toxic gem, id=23783, amount=1}]
+[CommandLog] [2021-11-07T01:20:26.8751561] scott typed command tele 3084 3495 at X: 3076 Y:3500
+[ClickObjectLog] [2021-11-07T01:20:28.0781706] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:20:30.4771856] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T01:20:52.7013728] Clicked: 39716, new: true
+[ClickButtonLog] [2021-11-07T01:20:53.9033827] Clicked: 39726, new: true
+[CommandLog] [2021-11-07T01:21:08.3155029] scott typed command hunllef at X: 3085 Y:3494
+[ClickObjectLog] [2021-11-07T01:21:11.3185267] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:21:12.5175375] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:21:12.518536] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:21:12.518536] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:21:13.1185427] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[CommandLog] [2021-11-07T01:21:18.5225883] scott typed command getid crystalline at X: 3162 Y:12428
+[CommandLog] [2021-11-07T01:21:21.5236214] scott typed command item 23951 at X: 3162 Y:12428
+[ClickObjectLog] [2021-11-07T01:21:24.5266347] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-07T01:21:28.1306666] Clicked: 9157, new: false
+[CommandLog] [2021-11-07T01:21:43.1467912] scott typed command item 20997 1 at X: 1172 Y:9943
+[CommandLog] [2021-11-07T01:21:47.3528294] scott typed command item 11212 500 at X: 1172 Y:9943
+[ClickObjectLog] [2021-11-07T01:22:01.7579434] Clicked object WorldObject{x=3275, y=6050, height=0, id=32508, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:22:07.7649929] Clicked object WorldObject{x=3269, y=6047, height=0, id=36556, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T01:22:14.3700488] Clicked: 9167, new: false
+[ClickButtonLog] [2021-11-07T01:22:20.3801007] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T01:22:26.3851499] Clicked: 50417, new: true
+[ClickObjectLog] [2021-11-07T01:25:19.3395844] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:25:22.9446188] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-07T01:25:23.5416225] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T01:25:24.1466275] Clicked: 39716, new: true
+[ClickButtonLog] [2021-11-07T01:25:24.7416279] Clicked: 39721, new: true
+[ClickButtonLog] [2021-11-07T01:25:25.3446356] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T01:25:26.5456465] Clicked: 44746, new: true
+[ClickObjectLog] [2021-11-07T01:25:30.7486781] Clicked object WorldObject{x=3039, y=6068, height=0, id=30087, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-07T01:25:42.1517741] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T01:25:42.7537793] Clicked: 30374, new: true
+[ClickObjectLog] [2021-11-07T01:25:43.9557911] Clicked object WorldObject{x=3033, y=6065, height=0, id=36201, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:25:47.5628201] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-07T01:25:54.7708798] Clicked object WorldObject{x=3307, y=5205, height=0, id=29789, type=10, face=1} option 1
+[CommandLog] [2021-11-07T01:26:07.977988] scott typed command tele 3311 5253 at X: 3308 Y:5237
+[CommandLog] [2021-11-07T01:26:09.1819973] scott typed command tele 3310 5258 at X: 3311 Y:5253
+[ClickObjectLog] [2021-11-07T01:26:22.9921116] Clicked object WorldObject{x=3311, y=5276, height=0, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:26:55.4133885] Clicked object WorldObject{x=3309, y=5274, height=1, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:27:06.2254714] Clicked object WorldObject{x=3311, y=5308, height=0, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:27:06.8274792] Clicked object WorldObject{x=3311, y=5308, height=0, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:27:19.4465845] Clicked object WorldObject{x=3311, y=5341, height=0, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:27:21.2436059] Clicked object WorldObject{x=3311, y=5341, height=0, id=29789, type=10, face=1} option 1
+[CommandLog] [2021-11-07T01:27:25.4446334] scott typed command tele 3311 5362 at X: 3315 Y:5348
+[ClickObjectLog] [2021-11-07T01:27:28.4496556] Clicked object WorldObject{x=3310, y=5370, height=0, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:27:29.0486628] Clicked object WorldObject{x=3310, y=5370, height=0, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:27:31.4516976] Clicked object WorldObject{x=3310, y=5370, height=0, id=29789, type=10, face=3} option 1
+[CommandLog] [2021-11-07T01:27:33.8487058] scott typed command tele 3315 5391 at X: 3311 Y:5378
+[CommandLog] [2021-11-07T01:27:35.0527167] scott typed command tele 3318 5396 at X: 3315 Y:5391
+[ClickObjectLog] [2021-11-07T01:27:35.6507193] Clicked object WorldObject{x=3318, y=5400, height=0, id=29789, type=10, face=1} option 1
+[CommandLog] [2021-11-07T01:27:38.0537403] scott typed command tele 3311 5325 at X: 3311 Y:5309
+[ClickObjectLog] [2021-11-07T01:27:41.6557661] Clicked object WorldObject{x=3308, y=5337, height=1, id=29789, type=10, face=3} option 1
+[CommandLog] [2021-11-07T01:27:45.856809] scott typed command tele 3314 5290 at X: 3311 Y:5278
+[CommandLog] [2021-11-07T01:27:48.2618246] scott typed command tele 3312 5300 at X: 3314 Y:5290
+[ClickObjectLog] [2021-11-07T01:27:50.6638425] Clicked object WorldObject{x=3310, y=5306, height=1, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:27:54.2698711] Clicked object WorldObject{x=3277, y=5169, height=0, id=29734, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T01:27:57.2719035] Clicked object WorldObject{x=3231, y=5729, height=0, id=29879, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:28:47.7063151] Clicked object WorldObject{x=3231, y=5755, height=0, id=29778, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T01:28:51.9093513] Clicked object WorldObject{x=3031, y=6066, height=0, id=30107, type=10, face=1} option 1
+[CommandLog] [2021-11-07T01:29:05.1234608] scott typed command getid rare  at X: 3031 Y:6067
+[CommandLog] [2021-11-07T01:29:08.1264909] scott typed command item 3464 5 at X: 3031 Y:6067
+[ClickObjectLog] [2021-11-07T01:29:09.3265971] Clicked object WorldObject{x=3031, y=6066, height=0, id=30107, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:29:10.5275034] Clicked object WorldObject{x=3031, y=6066, height=0, id=30107, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:29:11.7275146] Clicked object WorldObject{x=3031, y=6066, height=0, id=30107, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:29:12.9295226] Clicked object WorldObject{x=3031, y=6066, height=0, id=30107, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:29:14.1305367] Clicked object WorldObject{x=3031, y=6066, height=0, id=30107, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T01:29:18.3335679] Clicked object WorldObject{x=3033, y=6069, height=0, id=36197, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:30:50.8134253] Clicked: 51902, new: true
+[ClickButtonLog] [2021-11-07T01:30:51.4143406] Clicked: 51902, new: true
+[ClickButtonLog] [2021-11-07T01:30:51.4153461] Clicked: 51902, new: true
+[ClickButtonLog] [2021-11-07T01:30:52.0143488] Clicked: 51902, new: true
+[ClickButtonLog] [2021-11-07T01:30:52.0143488] Clicked: 51902, new: true
+[CommandLog] [2021-11-07T01:30:54.4153682] scott typed command players at X: 3090 Y:3490
+[CommandLog] [2021-11-07T01:30:58.6184061] scott typed command players at X: 3090 Y:3490
+[CommandLog] [2021-11-07T01:30:59.821422] scott typed command staff at X: 3090 Y:3490
+[ClickButtonLog] [2021-11-07T01:31:03.4244415] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T01:31:07.0274719] Clicked: 74142, new: false
+[ClickButtonLog] [2021-11-07T01:31:07.629475] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:08.8304864] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:09.4325014] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:09.4325014] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:10.0314961] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:10.0314961] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:13.6345243] Clicked: 209046, new: false
+[ClickButtonLog] [2021-11-07T01:31:14.2375447] Clicked: 209048, new: false
+[ClickButtonLog] [2021-11-07T01:31:14.8345394] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:16.0345589] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:16.6355555] Clicked: 209046, new: false
+[ClickButtonLog] [2021-11-07T01:31:17.2355574] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-07T01:31:26.2506296] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:26.8426373] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:27.4416444] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:28.0436519] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:29.8456699] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:31.0476774] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:31.644674] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:32.244681] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:32.8456893] Clicked: 209112, new: false
+[ClickButtonLog] [2021-11-07T01:31:32.8456893] Clicked: 209112, new: false
+[ClickObjectLog] [2021-11-07T01:31:40.0537511] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:31:46.656808] Clicked object WorldObject{x=3094, y=3505, height=0, id=2996, type=10, face=2} option 1
+[CommandLog] [2021-11-07T01:31:57.4719063] scott typed command vpanel at X: 3090 Y:3497
+[ClickButtonLog] [2021-11-07T01:31:59.2729384] Clicked: 94133, new: false
+[ClickButtonLog] [2021-11-07T01:32:03.4769714] Clicked: 94112, new: false
+[ClickButtonLog] [2021-11-07T01:32:04.0769422] Clicked: 94118, new: false
+[ClickButtonLog] [2021-11-07T01:32:04.67995] Clicked: 94118, new: false
+[ClickButtonLog] [2021-11-07T01:32:04.67995] Clicked: 94106, new: false
+[ClickButtonLog] [2021-11-07T01:32:04.67995] Clicked: 94106, new: false
+[ClickButtonLog] [2021-11-07T01:32:05.276957] Clicked: 94100, new: false
+[ClickButtonLog] [2021-11-07T01:32:05.276957] Clicked: 94100, new: false
+[ClickButtonLog] [2021-11-07T01:32:05.276957] Clicked: 94100, new: false
+[ClickButtonLog] [2021-11-07T01:32:09.4799952] Clicked: 94133, new: false
+[ClickButtonLog] [2021-11-07T01:32:10.0779929] Clicked: 94065, new: false
+[CommandLog] [2021-11-07T01:32:12.4820182] scott typed command cal at X: 3090 Y:3493
+[CommandLog] [2021-11-07T01:32:31.100166] scott typed command interface 20332 at X: 3090 Y:3493
+[ConnectionLog] [2021-11-07T01:32:34.0991961] Logged in
+[ClickButtonLog] [2021-11-07T01:32:39.5062484] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T01:32:41.3122524] Clicked: 24927, new: true
+[ClaimAchievementLog] [2021-11-07T01:32:41.3122524] Claimed achievement Achievement{formattedName='Collector', tier=STARTER, type=COLLECTOR, description='Add 1 item to yournCollection Log', amount=1, identification=2, points=0, rewards=[GameItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=2}, GameItem{name=Coins, id=995, amount=300,000}]}
+[ClickButtonLog] [2021-11-07T01:32:51.5183374] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T01:32:53.3193512] Clicked: 74107, new: false
+[ClickButtonLog] [2021-11-07T01:32:55.7203788] Clicked: 90184, new: false
+[ClickButtonLog] [2021-11-07T01:32:59.9234081] Clicked: 90073, new: false
+[ClickButtonLog] [2021-11-07T01:34:43.2172709] Clicked: 14067, new: false
+[CommandLog] [2021-11-07T01:34:52.8223427] scott typed command getid corrupted at X: 3091 Y:3492
+[CommandLog] [2021-11-07T01:34:57.0273806] scott typed command item 23842 1 at X: 3091 Y:3492
+[CommandLog] [2021-11-07T01:35:06.6454548] scott typed command getid slayer at X: 3091 Y:3492
+[CommandLog] [2021-11-07T01:35:09.6494789] scott typed command item 24444 at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-07T01:35:25.8636154] Clicked: 226162, new: false
+[ClickButtonLog] [2021-11-07T01:36:08.4979655] Clicked: 226242, new: false
+[ClickButtonLog] [2021-11-07T01:36:08.4979655] Clicked: 226231, new: false
+[ClickButtonLog] [2021-11-07T01:36:09.0979783] Clicked: 226220, new: false
+[ClickButtonLog] [2021-11-07T01:36:09.6989741] Clicked: 226209, new: false
+[ClickButtonLog] [2021-11-07T01:36:10.2989838] Clicked: 226198, new: false
+[ClickObjectLog] [2021-11-07T01:36:20.5100646] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:24.1150919] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:29.5201381] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:30.7211464] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:30.7211464] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:30.7211464] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:31.3201533] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:31.3201533] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:31.3211526] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:31.9201558] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:31.9201558] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T01:36:40.326234] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:36:53.5403491] Clicked: 9193, new: false
+[ClickButtonLog] [2021-11-07T01:36:55.9413591] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T01:37:01.9464116] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T01:37:03.1494214] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-07T01:37:10.3544783] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T01:37:10.9564828] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T01:37:10.9564828] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T01:37:11.5564875] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T01:37:12.1564921] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T01:37:13.3565053] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-07T01:37:13.9565147] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-07T01:37:21.7635755] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T01:37:22.3655778] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T01:37:22.9645869] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T01:37:22.9645869] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T01:37:23.5655875] Clicked: 74107, new: false
+[ClickButtonLog] [2021-11-07T01:37:24.7656006] Clicked: 74112, new: false
+[ClickButtonLog] [2021-11-07T01:37:25.365609] Clicked: 74117, new: false
+[ClickButtonLog] [2021-11-07T01:37:25.3666046] Clicked: 74122, new: false
+[ClickButtonLog] [2021-11-07T01:37:25.966608] Clicked: 74127, new: false
+[ClickButtonLog] [2021-11-07T01:37:26.565615] Clicked: 74132, new: false
+[ClickButtonLog] [2021-11-07T01:37:28.3736285] Clicked: 74127, new: false
+[ClickButtonLog] [2021-11-07T01:37:31.9716553] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T01:37:32.5706649] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T01:37:33.170667] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T01:37:33.170667] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T01:37:33.170667] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T01:37:33.7706755] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T01:37:34.3706911] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-07T01:37:34.9726889] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-07T01:37:44.5817662] Clicked: 50615, new: true
+[ClickObjectLog] [2021-11-07T01:37:57.795874] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:37:58.3948824] Clicked: 50615, new: true
+[ClickObjectLog] [2021-11-07T01:38:02.0009066] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:38:03.2029318] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-07T01:38:12.8120065] Clicked: 39721, new: true
+[ClickButtonLog] [2021-11-07T01:38:15.2150167] Clicked: 44750, new: true
+[ClickButtonLog] [2021-11-07T01:38:17.0160378] Clicked: 3016, new: false
+[ClickButtonLog] [2021-11-07T01:38:32.6271589] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T01:38:35.6291839] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-07T01:38:35.6291839] Clicked: 50615, new: true
+[ClickObjectLog] [2021-11-07T01:38:41.6352332] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T01:38:44.0342552] Clicked: 44750, new: true
+[CommandLog] [2021-11-07T01:38:48.2372897] scott typed command tele 3817 3544 at X: 3803 Y:3538
+[ItemPickupLog] [2021-11-07T01:38:50.6403122] Picked up GameItem{name=Xeros Sword, id=22316, amount=1} at Position{x=3816, y=3543, z=0}, owner scott
+[ClickButtonLog] [2021-11-07T01:38:53.0553321] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-07T01:39:13.4565044] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T01:39:17.6585339] Clicked: 130133, new: false
+[ClickButtonLog] [2021-11-07T01:39:18.8585435] Clicked: 9157, new: false
+[FireOfExchangeLog] [2021-11-07T01:39:18.8585435] Burned GameItem{name=Xeros Sword, id=22316, amount=1}
+[ClickButtonLog] [2021-11-07T01:39:21.8625726] Clicked: 50615, new: true
+[CommandLog] [2021-11-07T01:39:24.8655938] scott typed command tele 3089 3492 at X: 3075 Y:3497
+[CommandLog] [2021-11-07T01:39:26.0676111] scott typed command tele 3100 3488 at X: 3089 Y:3492
+[ClickButtonLog] [2021-11-07T01:39:44.681758] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-07T01:39:47.0827895] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T01:39:47.0827895] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T01:39:51.8908227] Clicked: 25941, new: true
+[ClaimAchievementLog] [2021-11-07T01:39:51.8918183] Claimed achievement Achievement{formattedName='Max', tier=TIER_4, type=MAX, description='Achieve level 99 innall skills', amount=1, identification=11, points=4, rewards=[GameItem{name=Ultra Mystery Box, id=13346, amount=1}, GameItem{name=10,000 FoE Point Certificate, id=691, amount=1}, GameItem{name=Coins, id=995, amount=10,000,000}]}
+[ClickButtonLog] [2021-11-07T01:39:53.6908377] Clicked: 24501, new: true
+[ClickButtonLog] [2021-11-07T01:39:54.8918534] Clicked: 24503, new: true
+[ClickButtonLog] [2021-11-07T01:40:17.1090263] Clicked: 24501, new: true
+[ClickButtonLog] [2021-11-07T01:40:17.1090263] Clicked: 24501, new: true
+[ClickButtonLog] [2021-11-07T01:40:18.9110402] Clicked: 24503, new: true
+[ClickButtonLog] [2021-11-07T01:40:21.9130691] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T01:40:22.513078] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T01:40:22.513078] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T01:40:23.1140795] Clicked: 50616, new: true
+[ClickButtonLog] [2021-11-07T01:43:01.6423937] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T01:43:58.6948651] Clicked: 51914, new: true
+[CommandLog] [2021-11-07T01:44:05.2999227] scott typed command getid cape at X: 3097 Y:3489
+[CommandLog] [2021-11-07T01:44:13.7089943] scott typed command item 33045 1 at X: 3097 Y:3489
+[CommandLog] [2021-11-07T01:44:21.5130809] scott typed command getid infernal at X: 3097 Y:3489
+[CommandLog] [2021-11-07T01:44:30.5191342] scott typed command item 21285 1 at X: 3097 Y:3489
+[CommandLog] [2021-11-07T01:44:37.1271887] scott typed command item 21295 1 at X: 3097 Y:3489
+[CommandLog] [2021-11-07T01:44:44.9322505] scott typed command getid tortu at X: 3096 Y:3489
+[CommandLog] [2021-11-07T01:44:47.9362862] scott typed command item 20336 1 at X: 3096 Y:3489
+[CommandLog] [2021-11-07T01:44:52.1373097] scott typed command item 20366 at X: 3096 Y:3489
+[CommandLog] [2021-11-07T01:44:57.543354] scott typed command getid barrows at X: 3096 Y:3489
+[ClickButtonLog] [2021-11-07T01:45:10.7574802] Clicked: 166028, new: false
+[ClickButtonLog] [2021-11-07T01:45:23.3695728] Clicked: 166013, new: false
+[ClickButtonLog] [2021-11-07T01:45:38.3827034] Clicked: 166008, new: false
+[ClickButtonLog] [2021-11-07T01:45:38.3827034] Clicked: 166007, new: false
+[ClickButtonLog] [2021-11-07T01:45:38.9827051] Clicked: 166008, new: false
+[ClickButtonLog] [2021-11-07T01:45:40.1877213] Clicked: 166048, new: false
+[ClickButtonLog] [2021-11-07T01:45:48.5937796] Clicked: 166009, new: false
+[ClickButtonLog] [2021-11-07T01:45:54.0018247] Clicked: 166006, new: false
+[CommandLog] [2021-11-07T01:46:48.0452759] scott typed command tele 3077 3498 at X: 3092 Y:3493
+[ClickObjectLog] [2021-11-07T01:46:49.2512819] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T01:46:52.8513187] Clicked: 130133, new: false
+[ClickButtonLog] [2021-11-07T01:46:54.0483271] Clicked: 9157, new: false
+[FireOfExchangeLog] [2021-11-07T01:46:54.0483271] Burned GameItem{name=10,000 FoE Point Certificate, id=691, amount=1}
+[ClickButtonLog] [2021-11-07T01:46:55.2533332] Clicked: 130131, new: false
+[CommandLog] [2021-11-07T01:47:03.0553982] scott typed command item 30017 at X: 3075 Y:3497
+[CommandLog] [2021-11-07T01:47:08.4624414] scott typed command item 30016 at X: 3075 Y:3497
+[CommandLog] [2021-11-07T01:47:20.4735527] scott typed command item 23939 1 at X: 3075 Y:3497
+[PublicChatLog] [2021-11-07T01:47:24.6795789] :Item 30020
+[CommandLog] [2021-11-07T01:47:31.2816383] scott typed command item 30021 at X: 3075 Y:3497
+[CommandLog] [2021-11-07T01:47:35.4856661] scott typed command item 30020 at X: 3075 Y:3497
+[ClickButtonLog] [2021-11-07T01:47:48.7007767] Clicked: 250002, new: false
+[CommandLog] [2021-11-07T01:47:49.896792] scott typed command tele 3090 3492 at X: 3075 Y:3497
+[CommandLog] [2021-11-07T01:47:57.0998468] scott typed command item 21259 at X: 3094 Y:3495
+[CommandLog] [2021-11-07T01:47:57.7018505] scott typed command close at X: 3094 Y:3495
+[CommandLog] [2021-11-07T01:49:13.3694784] scott typed command getid pet at X: 3092 Y:3490
+[CommandLog] [2021-11-07T01:49:24.7825793] scott typed command item 7968 at X: 3092 Y:3490
+[ClickButtonLog] [2021-11-07T01:51:31.4388383] Clicked: 11010, new: false
+[ClickButtonLog] [2021-11-07T01:51:31.4388383] Clicked: 11015, new: false
+[ConnectionLog] [2021-11-07T11:46:03.8413733] Logged in
+[CommandLog] [2021-11-07T11:46:19.7185044] scott typed command pin at X: 3092 Y:3490
+[ClickButtonLog] [2021-11-07T11:46:22.183526] Clicked: 34038, new: false
+[CommandLog] [2021-11-07T11:46:24.5655465] scott typed command close at X: 3092 Y:3490
+[CommandLog] [2021-11-07T11:47:05.0208778] scott typed command tele 3093 3496 at X: 3092 Y:3490
+[CommandLog] [2021-11-07T11:47:13.4447454] scott typed command tele 3095 3503 at X: 3093 Y:3496
+[CommandLog] [2021-11-07T11:47:20.0497952] scott typed command tele 3095 3510 at X: 3097 Y:3505
+[ClickButtonLog] [2021-11-07T11:47:26.653851] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T11:47:38.0579465] Clicked: 250002, new: false
+[CommandLog] [2021-11-07T11:47:39.8599653] scott typed command tele 3107 3509 at X: 3100 Y:3517
+[ClickButtonLog] [2021-11-07T11:47:48.2620333] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:48.2620333] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:49.4620448] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:50.0620509] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:50.6740585] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:50.6740585] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:50.6740585] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:51.2640596] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:51.2650576] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T11:47:51.2650576] Clicked: 75010, new: false
+[CommandLog] [2021-11-07T11:47:54.8690911] scott typed command tele 3092 3474 at X: 3090 Y:3488
+[CommandLog] [2021-11-07T11:47:57.8731108] scott typed command tele 3091 3488 at X: 3092 Y:3474
+[CommandLog] [2021-11-07T11:47:59.0741278] scott typed command tele 3099 3496 at X: 3091 Y:3488
+[CommandLog] [2021-11-07T11:48:00.2731285] scott typed command tele 3098 3508 at X: 3099 Y:3496
+[CommandLog] [2021-11-07T11:48:02.6801647] scott typed command tele 3099 3508 at X: 3098 Y:3508
+[ClickObjectLog] [2021-11-07T11:48:03.878167] Clicked object WorldObject{x=3102, y=3508, height=0, id=10355, type=10, face=3} option 2
+[CommandLog] [2021-11-07T11:48:29.6883782] scott typed command tele 3087 3508 at X: 3098 Y:3516
+[CommandLog] [2021-11-07T11:48:32.0903941] scott typed command tele 3093 3499 at X: 3087 Y:3508
+[CommandLog] [2021-11-07T11:48:35.6964292] scott typed command tele 3096 3497 at X: 3093 Y:3499
+[CommandLog] [2021-11-07T11:48:36.8974365] scott typed command tele 3099 3496 at X: 3096 Y:3497
+[CommandLog] [2021-11-07T11:48:38.0994457] scott typed command tele 3102 3488 at X: 3099 Y:3496
+[ClickObjectLog] [2021-11-07T11:48:38.7004548] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T11:48:40.5044696] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[CommandLog] [2021-11-07T11:48:50.7105492] scott typed command tele 3106 3482 at X: 3101 Y:3491
+[CommandLog] [2021-11-07T11:48:57.318614] scott typed command tele 3102 3489 at X: 3108 Y:3481
+[CommandLog] [2021-11-07T11:48:58.5136169] scott typed command tele 3111 3493 at X: 3102 Y:3489
+[CommandLog] [2021-11-07T11:49:00.9176391] scott typed command tele 3110 3498 at X: 3112 Y:3494
+[CommandLog] [2021-11-07T11:49:07.0736865] scott typed command tele 3107 3503 at X: 3110 Y:3498
+[ClickObjectLog] [2021-11-07T11:50:53.9445759] Clicked object WorldObject{x=3097, y=3485, height=0, id=23709, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T11:53:12.6237498] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T11:53:15.0247683] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T11:53:29.4348874] Clicked: 44802, new: true
+[ClickButtonLog] [2021-11-07T11:53:47.4500384] Clicked: 75010, new: false
+[PublicChatLog] [2021-11-07T11:54:26.4773599] Sword of alunity
+[ClickObjectLog] [2021-11-07T11:54:31.2764044] Clicked object WorldObject{x=3094, y=3505, height=0, id=2996, type=10, face=2} option 1
+[ClickButtonLog] [2021-11-07T11:54:37.2804522] Clicked: 23721, new: true
+[ClickButtonLog] [2021-11-07T11:54:37.8824664] Clicked: 23721, new: true
+[ClickButtonLog] [2021-11-07T11:54:37.8824664] Clicked: 23721, new: true
+[ClickButtonLog] [2021-11-07T11:54:38.4804629] Clicked: 23721, new: true
+[ClickButtonLog] [2021-11-07T11:55:43.3150087] Clicked: 250002, new: false
+[CommandLog] [2021-11-07T11:55:57.1261155] scott typed command getid k'ki at X: 3092 Y:3495
+[CommandLog] [2021-11-07T11:56:03.7311752] scott typed command getid k'k at X: 3092 Y:3495
+[CommandLog] [2021-11-07T11:56:07.3312026] scott typed command item 30114 1 at X: 3092 Y:3495
+[CommandLog] [2021-11-07T11:56:10.9342349] scott typed command item 30014 at X: 3092 Y:3495
+[CommandLog] [2021-11-07T11:56:13.9342544] scott typed command getid krato at X: 3092 Y:3495
+[CommandLog] [2021-11-07T11:56:16.9342786] scott typed command item 30022 at X: 3092 Y:3495
+[ClickButtonLog] [2021-11-07T11:58:57.7590066] Clicked: 195076, new: false
+[ClickButtonLog] [2021-11-07T11:58:58.983786] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T11:59:02.017466] Clicked: 196028, new: false
+[ClickButtonLog] [2021-11-07T11:59:03.842406] Clicked: 196126, new: false
+[ClickButtonLog] [2021-11-07T11:59:05.0535128] Clicked: 196027, new: false
+[ClickButtonLog] [2021-11-07T11:59:06.262173] Clicked: 196126, new: false
+[ClickObjectLog] [2021-11-07T11:59:09.3069118] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T11:59:13.7424188] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T11:59:15.364391] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[CommandLog] [2021-11-07T11:59:37.8063772] scott typed command bank at X: 3075 Y:3497
+[ClickButtonLog] [2021-11-07T11:59:39.6365655] Clicked: 226162, new: false
+[ClickObjectLog] [2021-11-07T11:59:57.2575251] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T11:59:59.6575527] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 2
+[CommandLog] [2021-11-07T12:01:00.9357285] scott typed command item 696 5 at X: 3075 Y:3497
+[ClickButtonLog] [2021-11-07T12:01:01.5443139] Clicked: 250002, new: false
+[ClickObjectLog] [2021-11-07T12:01:02.7532369] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T12:01:05.1689868] Clicked: 130133, new: false
+[ClickObjectLog] [2021-11-07T12:01:06.388095] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T12:01:08.2122708] Clicked: 130133, new: false
+[ClickButtonLog] [2021-11-07T12:01:10.6355043] Clicked: 9168, new: false
+[FireOfExchangeLog] [2021-11-07T12:01:10.6385649] Burned GameItem{name=250,000 FoE Point Certificate, id=696, amount=1}
+[ClickButtonLog] [2021-11-07T12:01:13.6583042] Clicked: 130133, new: false
+[ClickObjectLog] [2021-11-07T12:01:31.2023314] Clicked object WorldObject{x=3077, y=3502, height=0, id=10042, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T12:01:39.6868557] Clicked object WorldObject{x=2553, y=9951, height=0, id=33318, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T12:01:46.3333885] Clicked object WorldObject{x=2553, y=9951, height=0, id=33318, type=10, face=0} option 1
+[CommandLog] [2021-11-07T12:02:02.0067043] scott typed command getid k'k at X: 2552 Y:9952
+[CommandLog] [2021-11-07T12:02:05.6152273] scott typed command item 30014 5 at X: 2552 Y:9952
+[ClickObjectLog] [2021-11-07T12:02:06.8285362] Clicked object WorldObject{x=2553, y=9951, height=0, id=33318, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T12:02:20.7344903] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T12:02:26.1728254] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T12:02:30.383938] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-07T12:02:35.2052742] Clicked object WorldObject{x=2547, y=9951, height=0, id=17385, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T12:05:08.1654497] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T12:05:08.7684526] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T12:05:12.3674835] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T12:07:31.0466909] Clicked: 152, new: false
+[CommandLog] [2021-11-07T12:07:32.248678] scott typed command tele 3102 3499 at X: 3091 Y:3492
+[CommandLog] [2021-11-07T12:07:33.4506797] scott typed command tele 3113 3506 at X: 3102 Y:3499
+[CommandLog] [2021-11-07T12:07:35.251696] scott typed command tele 3118 3505 at X: 3113 Y:3506
+[ClickButtonLog] [2021-11-07T12:07:41.8607459] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T12:07:49.6648125] Clicked: 152, new: false
+[ClickButtonLog] [2021-11-07T12:07:50.8638178] Clicked: 19136, new: false
+[ClickButtonLog] [2021-11-07T12:21:29.7602561] Clicked: 51909, new: true
+[ClickObjectLog] [2021-11-07T12:48:07.517829] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T12:48:45.7019812] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T12:49:01.437171] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T12:49:02.6507149] Clicked: 74107, new: false
+[ClickButtonLog] [2021-11-07T12:49:05.6653137] Clicked: 90073, new: false
+[ClickButtonLog] [2021-11-07T12:49:06.895424] Clicked: 74112, new: false
+[ClickButtonLog] [2021-11-07T12:49:09.3122024] Clicked: 74117, new: false
+[ClickButtonLog] [2021-11-07T12:49:11.7506379] Clicked: 154078, new: false
+[ClickButtonLog] [2021-11-07T12:49:12.9516461] Clicked: 74122, new: false
+[ClickButtonLog] [2021-11-07T12:49:19.0256563] Clicked: 175226, new: false
+[ClickButtonLog] [2021-11-07T12:49:21.4519415] Clicked: 175226, new: false
+[ClickButtonLog] [2021-11-07T12:49:22.0595533] Clicked: 175229, new: false
+[ClickButtonLog] [2021-11-07T12:49:22.6788571] Clicked: 175232, new: false
+[ClickButtonLog] [2021-11-07T12:49:22.6788571] Clicked: 175232, new: false
+[ClickButtonLog] [2021-11-07T12:49:22.6788571] Clicked: 175232, new: false
+[ClickButtonLog] [2021-11-07T12:49:23.2720742] Clicked: 175232, new: false
+[ClickButtonLog] [2021-11-07T12:49:23.2720742] Clicked: 175235, new: false
+[ClickButtonLog] [2021-11-07T12:49:23.2812458] Clicked: 175235, new: false
+[ClickButtonLog] [2021-11-07T12:49:23.878592] Clicked: 175223, new: false
+[ClickButtonLog] [2021-11-07T12:49:23.878592] Clicked: 175223, new: false
+[ClickButtonLog] [2021-11-07T12:49:23.878592] Clicked: 175220, new: false
+[ClickButtonLog] [2021-11-07T12:49:24.4909777] Clicked: 175217, new: false
+[ClickButtonLog] [2021-11-07T12:49:24.4909777] Clicked: 175217, new: false
+[ClickButtonLog] [2021-11-07T12:49:24.4909777] Clicked: 175214, new: false
+[ClickButtonLog] [2021-11-07T12:49:25.0911849] Clicked: 175214, new: false
+[ClickObjectLog] [2021-11-07T12:49:40.8819012] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T12:49:43.2935202] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T12:49:46.939663] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-07T12:49:49.9720466] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T12:49:52.3942743] Clicked: 44818, new: true
+[CommandLog] [2021-11-07T12:50:08.786163] scott typed command hpray at X: 3872 Y:9946
+[ClickButtonLog] [2021-11-07T12:51:16.0899609] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-07T12:51:28.2126347] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T12:51:36.1190745] Clicked: 130133, new: false
+[ClickButtonLog] [2021-11-07T12:51:38.5358705] Clicked: 9168, new: false
+[FireOfExchangeLog] [2021-11-07T12:51:38.5358705] Burned GameItem{name=K'klik, id=30014, amount=1}
+[ClickButtonLog] [2021-11-07T12:51:44.6268125] Clicked: 130131, new: false
+[ShopBuyLog] [2021-11-07T12:51:56.7405884] Bought GameItem{name=Overload (4), id=11730, amount=1} from Item Exchange Shop with id 171
+[ClickButtonLog] [2021-11-07T12:52:00.9783705] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T12:53:21.5924166] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T12:53:39.1458367] Clicked: 25005, new: true
+[ClaimAchievementLog] [2021-11-07T12:53:39.1458367] Claimed achievement Achievement{formattedName='Burn It', tier=STARTER, type=FOE_POINTS, description='Burn 5,000 ExchangenPoints at FoE', amount=5000, identification=8, points=1, rewards=[GameItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=5}]}
+[ClickButtonLog] [2021-11-07T12:53:46.4227931] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T12:53:47.6267573] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-07T12:53:50.052049] Clicked: 50616, new: true
+[ClickButtonLog] [2021-11-07T12:56:26.8578394] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T12:57:09.4802135] Clicked: 52053, new: false
+[ClickObjectLog] [2021-11-07T12:57:29.8973718] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[PublicChatLog] [2021-11-07T12:59:46.1945466] 7Gvhz 
+[PublicChatLog] [2021-11-07T12:59:52.1975895] ,0,232,3,3,
+[CommandLog] [2021-11-07T13:00:21.9158364] scott typed command dialoguecontinuation continue at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:00:22.516841] scott typed command dialoguecontinuation continue at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:00:23.1188492] scott typed command dialoguecontinuation continue at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:00:44.3520262] scott typed command teletome scott123 at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:00:47.3540531] scott typed command getid bond at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:00:53.3871034] scott typed command getid $50 at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:00:58.9440114] scott typed command item 786 5 at X: 3096 Y:3492
+[ClickButtonLog] [2021-11-07T13:01:12.9461285] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T13:01:24.9692276] Clicked: 9157, new: false
+[ConnectionLog] [2021-11-07T13:29:59.0954599] Logged in
+[ConnectionLog] [2021-11-07T13:31:56.4537255] Logged in
+[CommandLog] [2021-11-07T13:32:50.4285397] scott typed command item 11666 at X: 3094 Y:3495
+[CommandLog] [2021-11-07T13:32:50.4285397] scott typed command close at X: 3094 Y:3495
+[ClickButtonLog] [2021-11-07T13:33:44.9385278] Clicked: 51906, new: true
+[ClickButtonLog] [2021-11-07T13:33:52.1997213] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T13:33:52.8081362] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T13:33:55.2338597] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T13:33:56.4562199] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-07T13:35:05.409341] Clicked: 51906, new: true
+[CommandLog] [2021-11-07T13:35:19.3529135] scott typed command donationrewards at X: 3092 Y:3490
+[CommandLog] [2021-11-07T13:44:13.6585048] scott typed command mbox at X: 3094 Y:3495
+[CommandLog] [2021-11-07T13:47:45.3880948] scott typed command getid blow at X: 3092 Y:3493
+[CommandLog] [2021-11-07T13:47:51.9921471] scott typed command item 12926 1 at X: 3092 Y:3493
+[ClickObjectLog] [2021-11-07T13:47:59.7967734] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T13:48:02.1972327] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-07T13:48:03.3962451] Clicked: 44746, new: true
+[ClickButtonLog] [2021-11-07T13:48:05.1982714] Clicked: 17101, new: false
+[CommandLog] [2021-11-07T13:48:15.4053426] scott typed command getid darts at X: 2674 Y:3714
+[CommandLog] [2021-11-07T13:48:21.4103938] scott typed command getid dragon at X: 2674 Y:3714
+[CommandLog] [2021-11-07T13:48:30.4134733] scott typed command getid dart at X: 2674 Y:3714
+[CommandLog] [2021-11-07T13:48:35.8205078] scott typed command item 11230 5000 at X: 2674 Y:3714
+[ItemOnItemLog] [2021-11-07T13:48:41.8275579] Used GameItem{name=Dragon dart, id=11230, amount=5,000} on GameItem{name=Toxic blowpipe, id=12926, amount=5,000} at Position{x=2674, y=3714, z=0}
+[ItemOnItemLog] [2021-11-07T13:48:53.2356452] Used GameItem{name=Dragon dart, id=11230, amount=25,000} on GameItem{name=Toxic blowpipe, id=12926, amount=25,000} at Position{x=2674, y=3714, z=0}
+[ItemOnItemLog] [2021-11-07T13:49:04.0367348] Used GameItem{name=Dragon dart, id=11230, amount=25,000} on GameItem{name=Toxic blowpipe (empty), id=12924, amount=25,000} at Position{x=2674, y=3714, z=0}
+[CommandLog] [2021-11-07T13:49:10.6397941] scott typed command getid scales at X: 2674 Y:3714
+[CommandLog] [2021-11-07T13:49:14.2458165] scott typed command item 12934 50000 at X: 2674 Y:3714
+[ItemOnItemLog] [2021-11-07T13:49:16.6448347] Used GameItem{name=Zulrah's scales, id=12934, amount=50,000} on GameItem{name=Toxic blowpipe (empty), id=12924, amount=50,000} at Position{x=2674, y=3714, z=0}
+[ItemOnItemLog] [2021-11-07T13:49:26.2509125] Used GameItem{name=Dragon dart, id=11230, amount=25,000} on GameItem{name=Toxic blowpipe (empty), id=12924, amount=25,000} at Position{x=2674, y=3714, z=0}
+[ConnectionLog] [2021-11-07T13:50:30.5594415] Logged in
+[CommandLog] [2021-11-07T13:51:01.790695] scott typed command item 11212 5000 at X: 2676 Y:3714
+[ClickButtonLog] [2021-11-07T13:51:20.4038554] Clicked: 6235, new: false
+[ClickButtonLog] [2021-11-07T13:51:20.4048562] Clicked: 6235, new: false
+[ClickButtonLog] [2021-11-07T13:51:28.2119255] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T13:57:48.3920613] Clicked: 51902, new: true
+[CommandLog] [2021-11-07T13:58:34.6274466] scott typed command benefits at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-07T13:59:18.4578049] Clicked: 166028, new: false
+[ClickButtonLog] [2021-11-07T14:00:14.3032705] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-07T14:05:16.2088213] Logged in
+[ClickButtonLog] [2021-11-07T14:14:38.6722764] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T14:14:39.2868115] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-07T14:14:42.923762] Clicked: 50417, new: true
+[ClickObjectLog] [2021-11-07T14:18:08.6945498] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T14:18:12.3332712] Clicked: 39731, new: true
+[ClickButtonLog] [2021-11-07T14:18:12.9496582] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T14:18:14.1643513] Clicked: 39721, new: true
+[ClickButtonLog] [2021-11-07T14:18:15.3650441] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T14:18:15.9709286] Clicked: 39731, new: true
+[ClickButtonLog] [2021-11-07T14:18:17.1782111] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T14:18:17.7810819] Clicked: 39721, new: true
+[ClickButtonLog] [2021-11-07T14:18:18.4015017] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T14:18:18.4015017] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T14:18:21.4356495] Clicked: 44742, new: true
+[ClickButtonLog] [2021-11-07T14:18:28.2507477] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T14:18:28.8602453] Clicked: 30374, new: true
+[ClickObjectLog] [2021-11-07T14:18:29.4577235] Clicked object WorldObject{x=3678, y=3216, height=0, id=32653, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T14:18:33.6953636] Clicked: 9157, new: false
+[CommandLog] [2021-11-07T14:18:38.5259583] scott typed command tele 3203 4448 at X: 3215 Y:4450
+[CommandLog] [2021-11-07T14:18:40.3397002] scott typed command tele 3194 4447 at X: 3203 Y:4448
+[ClickObjectLog] [2021-11-07T14:18:46.9833164] Clicked object WorldObject{x=3185, y=4447, height=0, id=32755, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T14:18:48.7812368] Clicked: 9157, new: false
+[CommandLog] [2021-11-07T14:18:57.2335162] scott typed command hpray at X: 3175 Y:4449
+[CommandLog] [2021-11-07T14:18:59.6390531] scott typed command item 773 1 at X: 3175 Y:4449
+[ClickObjectLog] [2021-11-07T14:19:08.1498815] Clicked object WorldObject{x=3185, y=4447, height=0, id=32755, type=10, face=1} option 1
+[CommandLog] [2021-11-07T14:19:10.5809996] scott typed command tele 3179 4431 at X: 3188 Y:4447
+[CommandLog] [2021-11-07T14:19:11.7957267] scott typed command tele 3176 4424 at X: 3179 Y:4431
+[ClickObjectLog] [2021-11-07T14:19:13.0163445] Clicked object WorldObject{x=3177, y=4422, height=0, id=33113, type=0, face=3} option 1
+[CommandLog] [2021-11-07T14:19:15.4357901] scott typed command tele 3307 4447 at X: 3322 Y:4448
+[ClickObjectLog] [2021-11-07T14:19:17.8422253] Clicked object WorldObject{x=3304, y=4447, height=0, id=32755, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T14:19:19.6601901] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-07T14:19:40.2851726] Clicked object WorldObject{x=3287, y=4446, height=0, id=32755, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T14:19:44.5356343] Clicked object WorldObject{x=3269, y=4447, height=0, id=33113, type=0, face=0} option 1
+[CommandLog] [2021-11-07T14:19:51.1907878] scott typed command tele 3296 4259 at X: 3296 Y:4273
+[ClickObjectLog] [2021-11-07T14:19:54.198167] Clicked object WorldObject{x=3296, y=4255, height=0, id=32755, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T14:19:56.0298602] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-07T14:20:35.3356138] Clicked object WorldObject{x=3296, y=4255, height=0, id=32755, type=10, face=0} option 1
+[CommandLog] [2021-11-07T14:20:39.5708981] scott typed command tele 3301 4276 at X: 3296 Y:4264
+[ClickObjectLog] [2021-11-07T14:20:41.3785521] Clicked object WorldObject{x=3303, y=4275, height=0, id=33113, type=0, face=2} option 1
+[CommandLog] [2021-11-07T14:20:43.7927862] scott typed command tele 3279 4304 at X: 3280 Y:4293
+[ClickObjectLog] [2021-11-07T14:20:46.2177009] Clicked object WorldObject{x=3279, y=4307, height=0, id=32755, type=10, face=2} option 1
+[ClickButtonLog] [2021-11-07T14:20:48.6520492] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T14:20:48.6520492] Clicked: 9157, new: false
+[CommandLog] [2021-11-07T14:20:49.8607583] scott typed command tele 3279 4314 at X: 3279 Y:4308
+[ClickObjectLog] [2021-11-07T14:20:58.9500746] Clicked object WorldObject{x=3279, y=4307, height=0, id=32755, type=10, face=2} option 1
+[CommandLog] [2021-11-07T14:21:00.7709806] scott typed command tele 3268 4316 at X: 3279 Y:4306
+[CommandLog] [2021-11-07T14:21:02.6005619] scott typed command tele 3279 4304 at X: 3268 Y:4316
+[CommandLog] [2021-11-07T14:21:04.403371] scott typed command tele 3292 4309 at X: 3279 Y:4304
+[CommandLog] [2021-11-07T14:21:05.599025] scott typed command tele 3291 4325 at X: 3292 Y:4309
+[CommandLog] [2021-11-07T14:21:06.8128644] scott typed command tele 3284 4314 at X: 3291 Y:4325
+[CommandLog] [2021-11-07T14:21:08.0099253] scott typed command tele 3281 4299 at X: 3284 Y:4314
+[CommandLog] [2021-11-07T14:21:08.6106284] scott typed command tele 3281 4316 at X: 3281 Y:4299
+[CommandLog] [2021-11-07T14:21:09.8204684] scott typed command tele 3280 4331 at X: 3281 Y:4316
+[CommandLog] [2021-11-07T14:21:13.4591049] scott typed command tele 3281 4317 at X: 3280 Y:4331
+[CommandLog] [2021-11-07T14:21:14.6609455] scott typed command tele 3279 4305 at X: 3281 Y:4317
+[CommandLog] [2021-11-07T14:21:15.8693195] scott typed command tele 3281 4310 at X: 3279 Y:4305
+[ClickObjectLog] [2021-11-07T14:21:16.4742838] Clicked object WorldObject{x=3280, y=4307, height=0, id=32755, type=10, face=2} option 1
+[CommandLog] [2021-11-07T14:21:18.2891092] scott typed command tele 3279 4297 at X: 3280 Y:4306
+[ClickObjectLog] [2021-11-07T14:21:19.499149] Clicked object WorldObject{x=3279, y=4293, height=0, id=33113, type=0, face=3} option 1
+[ClickObjectLog] [2021-11-07T14:21:24.9561343] Clicked object WorldObject{x=3171, y=4379, height=1, id=32755, type=10, face=2} option 1
+[ClickButtonLog] [2021-11-07T14:21:26.1665688] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-07T14:21:32.2664512] Clicked object WorldObject{x=3171, y=4395, height=1, id=32755, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T14:21:34.0761509] Clicked object WorldObject{x=3169, y=4398, height=1, id=29069, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T14:21:43.7810509] Clicked object WorldObject{x=3169, y=4400, height=1, id=32751, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T14:21:45.5923395] Clicked: 9157, new: false
+[CompletedTobLog] [2021-11-07T14:22:08.0351919] Completed tob with scott
+[ClickObjectLog] [2021-11-07T14:22:12.2760048] Clicked object WorldObject{x=3167, y=4324, height=0, id=32738, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T14:22:19.5506282] Clicked object WorldObject{x=3226, y=4323, height=0, id=32990, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T14:22:26.821143] Clicked object WorldObject{x=3246, y=4315, height=0, id=32996, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T14:22:30.4460261] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-07T14:22:32.8659602] Clicked object WorldObject{x=3662, y=3218, height=0, id=32655, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-07T14:22:47.3765478] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T14:26:33.1651054] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T14:26:34.365109] Clicked: 30374, new: true
+[ClickButtonLog] [2021-11-07T14:26:35.5671189] Clicked: 30374, new: true
+[ClickButtonLog] [2021-11-07T14:26:44.569196] Clicked: 75010, new: false
+[CommandLog] [2021-11-07T14:41:29.7150984] scott typed command tele 3079 3500 at X: 3090 Y:3491
+[ClickObjectLog] [2021-11-07T14:42:01.8303275] Clicked object WorldObject{x=3077, y=3502, height=0, id=10042, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-07T14:42:26.0153732] Clicked object WorldObject{x=2553, y=9951, height=0, id=33318, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T14:42:35.6797932] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T14:42:46.5678116] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-07T14:42:51.9873483] Clicked object WorldObject{x=2547, y=9951, height=0, id=17385, type=10, face=1} option 1
+[CommandLog] [2021-11-07T14:45:17.6960824] scott typed command empty at X: 3091 Y:3491
+[EmptyInventoryLog] [2021-11-07T14:45:17.7112938] Emptied [SlottedItem{name=Coins, id=995, amount=749,660,922}, SlottedItem{name=250,000 FoE Point Certificate, id=696, amount=1}, SlottedItem{name=250,000 FoE Point Certificate, id=696, amount=1}, SlottedItem{name=250,000 FoE Point Certificate, id=696, amount=1}, SlottedItem{name=250,000 FoE Point Certificate, id=696, amount=1}, SlottedItem{name=Overload (4), id=11730, amount=1}, SlottedItem{name=Void knight gloves, id=8842, amount=1}, SlottedItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=5}, SlottedItem{name=Twisted bow, id=20997, amount=1}, SlottedItem{name=Pegasian boots, id=13237, amount=1}, SlottedItem{name=Ava's assembler, id=22109, amount=1}, SlottedItem{name=Elite void robe, id=13073, amount=1}, SlottedItem{name=Elite void top, id=13072, amount=1}, SlottedItem{name=Toxic blowpipe, id=12926, amount=1}, SlottedItem{name=Void ranger helm, id=11664, amount=1}, SlottedItem{name=Void mage helm, id=11663, amount=1}, SlottedItem{name=Void melee helm, id=11665, amount=1}, SlottedItem{name=Dragon dart, id=11230, amount=8,617}, SlottedItem{name=Dark Kratos, id=30122, amount=1}, SlottedItem{name=Zulrah's scales, id=12934, amount=33,617}, SlottedItem{name=Prayer potion(4), id=2434, amount=1}, SlottedItem{name=Runite ore, id=452, amount=144}, SlottedItem{name=Grimy kwuarm noted, id=214, amount=43}]
+[CommandLog] [2021-11-07T14:45:26.1726643] scott typed command getid corrupted at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:45:30.4061882] scott typed command item 23842 1 at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:45:34.6461975] scott typed command item 23845 1 at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:45:43.1037767] scott typed command item 23848 1 at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:45:46.7430413] scott typed command getid pega at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:45:58.847444] scott typed command item 13237 1 at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:46:03.6931069] scott typed command getid blowpi at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:46:06.1106126] scott typed command item 12926 1 at X: 3091 Y:3491
+[ClickButtonLog] [2021-11-07T14:51:48.1444616] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T14:51:51.1687051] Clicked: 50417, new: true
+[CommandLog] [2021-11-07T14:57:44.8321925] scott typed command getid slayer at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:57:49.7131567] scott typed command item 23075 at X: 3091 Y:3491
+[CommandLog] [2021-11-07T14:57:58.1914504] scott typed command item 21266 at X: 3091 Y:3491
+[ClickObjectLog] [2021-11-07T14:58:06.6756039] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[CommandLog] [2021-11-07T15:12:16.4019276] scott typed command hunleff at X: 3092 Y:3491
+[CommandLog] [2021-11-07T15:12:18.8039144] scott typed command hunllef at X: 3092 Y:3491
+[ClickObjectLog] [2021-11-07T15:12:21.809937] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-07T15:12:29.007995] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T15:12:31.4100169] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-07T15:12:32.6120249] Clicked: 74122, new: false
+[ClickButtonLog] [2021-11-07T15:12:35.012046] Clicked: 175217, new: false
+[CommandLog] [2021-11-07T15:12:43.4181155] scott typed command item 23757 1 at X: 3090 Y:3488
+[CommandLog] [2021-11-07T15:12:44.0191178] scott typed command close at X: 3090 Y:3488
+[ClickButtonLog] [2021-11-07T15:13:08.6313375] Clicked: 74122, new: false
+[ClickButtonLog] [2021-11-07T15:13:10.4333533] Clicked: 175217, new: false
+[CommandLog] [2021-11-07T15:13:16.435391] scott typed command getid key at X: 3091 Y:3490
+[CommandLog] [2021-11-07T15:13:36.2495577] scott typed command getid crystall at X: 3091 Y:3490
+[CommandLog] [2021-11-07T15:13:42.8586107] scott typed command item 23951 5 at X: 3091 Y:3490
+[CommandLog] [2021-11-07T15:13:43.4536148] scott typed command close at X: 3091 Y:3490
+[CommandLog] [2021-11-07T15:13:52.4626877] scott typed command hunlleff at X: 3092 Y:3492
+[ClickObjectLog] [2021-11-07T15:13:54.2616988] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-07T15:13:57.2647259] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T15:13:57.324724] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T15:14:51.9601756] Clicked: 77115, new: false
+[ClickButtonLog] [2021-11-07T15:14:53.7611976] Clicked: 77115, new: false
+[ClickObjectLog] [2021-11-07T15:15:16.5763832] Clicked object WorldObject{x=3275, y=6050, height=0, id=32508, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T15:15:21.9794222] Clicked object WorldObject{x=3269, y=6047, height=0, id=36556, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T15:15:25.5774512] Clicked: 9167, new: false
+[ClickButtonLog] [2021-11-07T15:15:30.3794896] Clicked: 75010, new: false
+[CommandLog] [2021-11-07T15:15:50.7916569] scott typed command crystal at X: 3090 Y:3488
+[ClickButtonLog] [2021-11-07T15:17:07.0442834] Clicked: 195076, new: false
+[ClickButtonLog] [2021-11-07T15:17:12.4463312] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T15:17:15.4473556] Clicked: 195078, new: false
+[ClickButtonLog] [2021-11-07T15:20:48.0171216] Clicked: 74127, new: false
+[ClickButtonLog] [2021-11-07T15:21:10.8273096] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T15:21:52.9706639] Clicked: 74107, new: false
+[ClickButtonLog] [2021-11-07T15:23:10.3407759] Clicked: 90073, new: false
+[ClickButtonLog] [2021-11-07T15:24:05.2961168] Clicked: 72254, new: false
+[ClickButtonLog] [2021-11-07T15:24:12.5499246] Clicked: 166028, new: false
+[ClickButtonLog] [2021-11-07T15:26:37.8778059] Clicked: 73141, new: false
+[ClickButtonLog] [2021-11-07T15:26:41.4786457] Clicked: 33224, new: false
+[ClickObjectLog] [2021-11-07T15:31:05.7549296] Clicked object WorldObject{x=3097, y=3485, height=0, id=23709, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T15:31:12.3619838] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T15:31:14.1600129] Clicked object WorldObject{x=3109, y=3482, height=0, id=32572, type=10, face=-1} option 1
+[ClickObjectLog] [2021-11-07T15:31:17.765035] Clicked object WorldObject{x=3109, y=3483, height=0, id=30087, type=10, face=-1} option 1
+[ClickObjectLog] [2021-11-07T15:31:20.763061] Clicked object WorldObject{x=3109, y=3482, height=0, id=32572, type=10, face=-1} option 1
+[ClickObjectLog] [2021-11-07T15:31:28.5701274] Clicked object WorldObject{x=3106, y=3479, height=0, id=13287, type=10, face=2} option 1
+[CommandLog] [2021-11-07T15:31:50.1853163] scott typed command empty at X: 3098 Y:3490
+[EmptyInventoryLog] [2021-11-07T15:31:50.1853163] Emptied [SlottedItem{name=Neitiznot faceguard, id=24271, amount=1}, SlottedItem{name=Inquisitor's hauberk, id=24420, amount=1}, SlottedItem{name=Inquisitor's plateskirt, id=24421, amount=1}, SlottedItem{name=Primordial boots, id=13239, amount=1}, SlottedItem{name=Scythe of vitur, id=22325, amount=1}, SlottedItem{name=Hydra Slayer helmet (i), id=23075, amount=1}, SlottedItem{name=Imbue Dust, id=23804, amount=1}, SlottedItem{name=PKP Ticket, id=2996, amount=35}, SlottedItem{name=Twisted bow, id=20997, amount=1}, SlottedItem{name=Corrupted Helm perfected, id=23842, amount=1}, SlottedItem{name=Medium enriched bone, id=21549, amount=1}, SlottedItem{name=Crystal Shards, id=23877, amount=28}, SlottedItem{name=Infernal cape, id=21295, amount=1}, SlottedItem{name=Corrupt Youngllef, id=23759, amount=1}, SlottedItem{name=Crystalline Key, id=23951, amount=1}, SlottedItem{name=Crystalline Key, id=23951, amount=1}, SlottedItem{name=Crystalline Key, id=23951, amount=1}, SlottedItem{name=Crystalline Key, id=23951, amount=1}]
+[CommandLog] [2021-11-07T15:31:55.5893532] scott typed command empty at X: 3098 Y:3490
+[EmptyInventoryLog] [2021-11-07T15:31:55.5893532] Emptied [SlottedItem{name=Pegasian boots, id=13237, amount=1}, SlottedItem{name=Corrupted Legs perfected, id=23848, amount=1}, SlottedItem{name=Corrupted Body perfected, id=23845, amount=1}, SlottedItem{name=Toxic blowpipe, id=12926, amount=1}, SlottedItem{name=Ava's assembler, id=22109, amount=1}, SlottedItem{name=Amulet of torture (or), id=20366, amount=1}, SlottedItem{name=Purple Slayer Helmet(i), id=21266, amount=1}, SlottedItem{name=Dragon arrow, id=11212, amount=4,998}]
+[CommandLog] [2021-11-07T15:32:05.8014403] scott typed command empty at X: 3096 Y:3491
+[EmptyInventoryLog] [2021-11-07T15:32:05.8014403] Emptied [SlottedItem{name=Dark K'klik, id=30114, amount=1}]
+[ClickObjectLog] [2021-11-07T15:32:08.8034648] Clicked object WorldObject{x=3094, y=3494, height=0, id=10061, type=0, face=2} option 1
+[ClickObjectLog] [2021-11-07T15:32:15.4085199] Clicked object WorldObject{x=3094, y=3494, height=0, id=10061, type=0, face=2} option 1
+[ClickButtonLog] [2021-11-07T15:37:13.8850912] Clicked: 166013, new: false
+[ClickButtonLog] [2021-11-07T15:37:55.9214397] Clicked: 154, new: false
+[ConnectionLog] [2021-11-07T16:16:01.8552831] Logged in
+[ClickObjectLog] [2021-11-07T16:48:47.6930548] Clicked object WorldObject{x=3080, y=3512, height=0, id=7127, type=11, face=0} option 1
+[ClickButtonLog] [2021-11-07T16:48:49.5104252] Clicked: 9167, new: false
+[ClickButtonLog] [2021-11-07T16:48:51.3276028] Clicked: 9167, new: false
+[ClickButtonLog] [2021-11-07T16:48:51.3276028] Clicked: 9167, new: false
+[ClickButtonLog] [2021-11-07T16:48:51.9340211] Clicked: 9168, new: false
+[ClickButtonLog] [2021-11-07T16:48:51.9340211] Clicked: 9168, new: false
+[ClickButtonLog] [2021-11-07T16:48:52.5478295] Clicked: 9168, new: false
+[ClickButtonLog] [2021-11-07T16:48:52.5478295] Clicked: 9169, new: false
+[ClickButtonLog] [2021-11-07T16:48:52.5478295] Clicked: 9169, new: false
+[ClickObjectLog] [2021-11-07T16:48:54.3675623] Clicked object WorldObject{x=3082, y=3507, height=0, id=26741, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T16:48:58.6233542] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 2
+[CommandLog] [2021-11-07T16:50:24.4959911] scott typed command topic 281 at X: 3092 Y:3502
+[ClickObjectLog] [2021-11-07T16:50:39.5011067] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T16:50:43.1021341] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-07T16:50:44.90515] Clicked: 44818, new: true
+[ClickObjectLog] [2021-11-07T16:50:53.9322461] Clicked object WorldObject{x=3870, y=9940, height=3, id=37730, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T16:50:55.7312393] Clicked object WorldObject{x=3870, y=9940, height=3, id=37730, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T16:50:56.3322473] Clicked object WorldObject{x=3870, y=9940, height=3, id=37730, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T16:50:56.3322473] Clicked object WorldObject{x=3870, y=9940, height=3, id=37730, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T16:50:56.3332465] Clicked object WorldObject{x=3870, y=9940, height=3, id=37730, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T16:50:56.9322539] Clicked object WorldObject{x=3870, y=9940, height=3, id=37730, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-07T16:50:57.5352562] Clicked object WorldObject{x=3870, y=9940, height=3, id=37730, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-07T16:51:10.1393587] Clicked: 154078, new: false
+[CommandLog] [2021-11-07T16:51:16.1434057] scott typed command hpray at X: 3872 Y:9947
+[ClickObjectLog] [2021-11-07T16:51:42.5696274] Clicked object WorldObject{x=3870, y=9962, height=3, id=37730, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-07T16:51:43.7686346] Clicked object WorldObject{x=3870, y=9962, height=3, id=37730, type=10, face=3} option 1
+[ItemPickupLog] [2021-11-07T16:53:43.8766601] Picked up GameItem{name=Shark, id=386, amount=57} at Position{x=3871, y=9951, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T16:53:44.4616654] Picked up GameItem{name=Big bones, id=532, amount=1} at Position{x=3871, y=9951, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T16:53:48.0636967] Picked up GameItem{name=Uncut emerald, id=1622, amount=23} at Position{x=3871, y=9951, z=3}, owner scott
+[ClickButtonLog] [2021-11-07T16:53:49.2657032] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T17:01:06.9669875] Clicked: 51906, new: true
+[ClickButtonLog] [2021-11-07T17:01:08.1679955] Clicked: 51906, new: true
+[ClickButtonLog] [2021-11-07T17:01:08.1679955] Clicked: 51906, new: true
+[ClickButtonLog] [2021-11-07T17:01:08.7700062] Clicked: 51906, new: true
+[ClickButtonLog] [2021-11-07T17:01:08.7700062] Clicked: 51906, new: true
+[ClickButtonLog] [2021-11-07T17:01:09.3700076] Clicked: 51906, new: true
+[ClickButtonLog] [2021-11-07T17:01:22.5821134] Clicked: 50421, new: true
+[ClickObjectLog] [2021-11-07T17:02:34.6356891] Clicked object WorldObject{x=3084, y=3490, height=0, id=31925, type=10, face=4} option 1
+[ClickButtonLog] [2021-11-07T17:02:55.0518386] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T17:02:58.6538665] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-07T17:03:01.6568904] Clicked: 4143, new: false
+[ClickButtonLog] [2021-11-07T17:03:19.6710357] Clicked: 24501, new: true
+[ClickButtonLog] [2021-11-07T17:03:22.0740591] Clicked: 24761, new: true
+[ClickButtonLog] [2021-11-07T17:04:11.3094526] Clicked: 9154, new: false
+[ClickButtonLog] [2021-11-07T17:04:11.3094526] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-07T17:04:17.3145015] Logged in
+[ClickButtonLog] [2021-11-07T17:04:24.5185601] Clicked: 51902, new: true
+[ClickButtonLog] [2021-11-07T17:13:28.5110543] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-07T17:13:38.7141382] Clicked: 50617, new: true
+[CommandLog] [2021-11-07T17:14:12.3354817] scott typed command shop 190 at X: 3090 Y:3490
+[ClickButtonLog] [2021-11-07T17:14:17.7404995] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-07T17:15:17.3458616] Clicked: 166027, new: false
+[ClickButtonLog] [2021-11-07T17:15:36.0799131] Clicked: 166026, new: false
+[ClickObjectLog] [2021-11-07T17:15:46.9793642] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 2
+[CommandLog] [2021-11-07T17:15:51.1968624] scott typed command teleport at X: 3087 Y:3492
+[CommandLog] [2021-11-07T17:15:52.4103753] scott typed command teleport at X: 3087 Y:3492
+[CommandLog] [2021-11-07T17:15:53.0161799] scott typed command teleport at X: 3087 Y:3492
+[ClickObjectLog] [2021-11-07T17:15:54.8458734] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T17:16:28.6619078] Clicked: 50616, new: true
+[ClickObjectLog] [2021-11-07T17:16:48.0429123] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T17:16:50.4780024] Clicked: 39726, new: true
+[ClickObjectLog] [2021-11-07T17:17:04.4166678] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T17:17:04.4166678] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T17:17:05.633505] Clicked: 39716, new: true
+[ClickButtonLog] [2021-11-07T17:17:08.6591332] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-07T17:17:10.4743348] Clicked: 44746, new: true
+[ClickButtonLog] [2021-11-07T17:17:12.9013746] Clicked: 50417, new: true
+[ClickObjectLog] [2021-11-07T17:17:17.134552] Clicked object WorldObject{x=3033, y=6065, height=0, id=36201, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T17:17:20.7433445] Clicked: 83158, new: false
+[ClickObjectLog] [2021-11-07T17:17:22.5552193] Clicked object WorldObject{x=3033, y=6062, height=0, id=36201, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T17:17:26.1600222] Clicked: 83158, new: false
+[ClickObjectLog] [2021-11-07T17:17:26.7671591] Clicked object WorldObject{x=3033, y=6065, height=0, id=36201, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-07T17:17:29.1740832] Clicked object WorldObject{x=3033, y=6062, height=0, id=36201, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-07T17:17:31.5829157] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T17:17:32.1811446] Clicked: 30374, new: true
+[ClickButtonLog] [2021-11-07T17:18:01.4958858] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-07T17:18:03.3012212] Logged in
+[CommandLog] [2021-11-07T17:18:23.173792] scott typed command teletome scott0 at X: 3035 Y:6067
+[ClickButtonLog] [2021-11-07T17:18:37.6302587] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-07T17:18:38.2316701] Clicked: 30374, new: true
+[CommandLog] [2021-11-07T17:18:45.4449133] scott typed command giveowner scott0 at X: 3035 Y:6068
+[CommandLog] [2021-11-07T17:18:48.4656098] scott typed command givemod scott0 at X: 3035 Y:6068
+[ClickButtonLog] [2021-11-07T17:20:00.1488908] Clicked: 30374, new: true
+[ClickButtonLog] [2021-11-07T17:20:01.3711279] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-07T17:20:06.8126487] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-07T17:20:21.3758946] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-07T17:20:38.9754765] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-07T17:21:04.4508271] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ConnectionLog] [2021-11-09T19:02:56.1522182] Logged in
+[ClickButtonLog] [2021-11-09T19:03:24.0920973] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-09T19:03:24.1354091] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-09T19:04:26.4985326] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-09T19:04:35.6168267] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-09T19:04:36.2249395] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-09T19:04:37.4425363] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-09T19:04:39.264618] Clicked: 74122, new: false
+[ClickButtonLog] [2021-11-09T19:04:43.5002497] Clicked: 175247, new: false
+[ClickButtonLog] [2021-11-09T19:04:46.5552751] Clicked: 175211, new: false
+[ClickButtonLog] [2021-11-09T19:11:11.969229] Clicked: 50417, new: true
+[ClickObjectLog] [2021-11-09T19:11:18.6459471] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-09T19:15:16.3664182] Clicked: 226162, new: false
+[ClickButtonLog] [2021-11-09T19:16:06.013585] Clicked: 59229, new: false
+[CommandLog] [2021-11-09T19:25:45.0224386] scott typed command getid $50 at X: 3094 Y:3495
+[CommandLog] [2021-11-09T19:25:47.4264027] scott typed command item 786 1 at X: 3094 Y:3495
+[ClickButtonLog] [2021-11-09T19:25:49.8479188] Clicked: 9157, new: false
+[CommandLog] [2021-11-09T19:25:52.2888115] scott typed command close at X: 3094 Y:3495
+[ClickObjectLog] [2021-11-09T19:26:30.3355164] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-09T19:26:43.5426287] Clicked: 23721, new: true
+[DailyRewardLog] [2021-11-09T19:26:43.5556239] Claimed daily reward ImmutableItem{name=Buldging Coin Bag, id=10835, amount=3} on day 1
+[ClickButtonLog] [2021-11-09T19:27:03.9567915] Clicked: 250002, new: false
+[ClickObjectLog] [2021-11-09T19:27:26.1749801] Clicked object WorldObject{x=3099, y=3505, height=0, id=172, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T19:27:27.3779883] Clicked object WorldObject{x=3101, y=3505, height=0, id=34660, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T19:27:28.5779943] Clicked object WorldObject{x=3101, y=3505, height=0, id=34660, type=10, face=2} option 2
+[ClickButtonLog] [2021-11-09T19:27:33.3830357] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-09T19:27:33.3840385] Clicked: 75010, new: false
+[CommandLog] [2021-11-09T19:27:55.5982342] scott typed command item 6199 1 at X: 3082 Y:3487
+[ShopSellLog] [2021-11-09T19:27:59.812267] Sold GameItem{name=Mystery box, id=6199, amount=1} from Sell Me Anything with id 122
+[ClickButtonLog] [2021-11-09T19:28:02.202288] Clicked: 250002, new: false
+[CommandLog] [2021-11-09T19:28:07.6053235] scott typed command item 20997 1 at X: 3080 Y:3487
+[ShopSellLog] [2021-11-09T19:28:13.0123668] Sold GameItem{name=Twisted bow, id=20997, amount=1} from Sell Me Anything with id 122
+[CommandLog] [2021-11-09T19:35:54.2092136] scott typed command tele 3092 3473 at X: 3090 Y:3488
+[ClickObjectLog] [2021-11-09T19:35:58.4092432] Clicked object WorldObject{x=3092, y=3472, height=0, id=365, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-09T19:36:13.4183764] Clicked: 9179, new: false
+[ClickObjectLog] [2021-11-09T19:36:18.2194143] Clicked object WorldObject{x=2551, y=3550, height=0, id=23131, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T19:36:20.6204295] Clicked object WorldObject{x=2551, y=3550, height=0, id=23131, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T19:36:21.8224368] Clicked object WorldObject{x=2551, y=3550, height=0, id=23131, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T19:36:23.0214479] Clicked object WorldObject{x=2551, y=3550, height=0, id=23131, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T19:36:23.0214479] Clicked object WorldObject{x=2551, y=3550, height=0, id=23131, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T19:36:24.8244606] Clicked object WorldObject{x=2550, y=3546, height=0, id=23144, type=22, face=3} option 1
+[ClickObjectLog] [2021-11-09T19:36:35.0325469] Clicked object WorldObject{x=2538, y=3545, height=0, id=20211, type=10, face=3} option 1
+[ClickObjectLog] [2021-11-09T19:36:39.2345887] Clicked object WorldObject{x=2535, y=3547, height=1, id=23547, type=22, face=1} option 1
+[ClickObjectLog] [2021-11-09T19:36:45.8396407] Clicked object WorldObject{x=2532, y=3545, height=1, id=16682, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T19:36:53.0436983] Clicked object WorldObject{x=2541, y=3550, height=0, id=28992, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-09T19:36:53.0436983] Clicked object WorldObject{x=2541, y=3550, height=0, id=28992, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-09T19:36:57.8477348] Clicked object WorldObject{x=2541, y=3550, height=0, id=28992, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-09T19:37:05.0527936] Clicked object WorldObject{x=2539, y=3553, height=0, id=1948, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T19:37:06.8528089] Clicked object WorldObject{x=2536, y=3553, height=0, id=1948, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T19:37:06.8528089] Clicked object WorldObject{x=2536, y=3553, height=0, id=1948, type=10, face=2} option 1
+[ClickButtonLog] [2021-11-09T19:37:15.2608758] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-09T19:37:15.2608758] Clicked: 75010, new: false
+[CommandLog] [2021-11-09T19:37:29.0659886] scott typed command givemod sew at X: 3091 Y:3493
+[ClickButtonLog] [2021-11-09T19:37:30.8670007] Clicked: 51908, new: true
+[ClickButtonLog] [2021-11-09T19:37:31.4650209] Clicked: 51908, new: true
+[CommandLog] [2021-11-09T19:38:15.2963733] scott typed command interface 22931 at X: 3096 Y:3488
+[ClickButtonLog] [2021-11-09T19:38:17.096392] Clicked: 22940, new: true
+[ClickObjectLog] [2021-11-09T19:38:22.5064322] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T19:38:27.3054794] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T19:41:38.8450575] Clicked object WorldObject{x=3098, y=3483, height=0, id=409, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-09T19:41:46.049122] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ConnectionLog] [2021-11-09T19:43:07.9571272] Logged in
+[ClickButtonLog] [2021-11-09T19:43:29.5721735] Clicked: 166028, new: false
+[ClickObjectLog] [2021-11-09T20:35:05.6654544] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T21:10:51.5843973] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T21:10:53.9905194] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T21:10:57.592448] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-09T21:11:24.8879699] Clicked: 195078, new: false
+[ClickButtonLog] [2021-11-09T21:11:26.0995703] Clicked: 195083, new: false
+[ClickButtonLog] [2021-11-09T21:11:27.3252189] Clicked: 196127, new: false
+[CommandLog] [2021-11-09T21:11:36.418936] scott typed command tele 3086 3495 at X: 3083 Y:3502
+[ClickObjectLog] [2021-11-09T21:11:37.6274528] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-09T21:11:39.4511494] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-09T21:11:43.6782922] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-09T21:11:49.1444246] Clicked: 44802, new: true
+[CommandLog] [2021-11-09T21:11:52.1807039] scott typed command item 773 1 at X: 1310 Y:1248
+[CommandLog] [2021-11-09T21:11:56.4086254] scott typed command tele 1323 1254 at X: 1310 Y:1248
+[CommandLog] [2021-11-09T21:11:57.6037695] scott typed command tele 1334 1252 at X: 1323 Y:1254
+[CommandLog] [2021-11-09T21:12:00.0268423] scott typed command tele 1331 1252 at X: 1334 Y:1252
+[ClickObjectLog] [2021-11-09T21:12:01.2348292] Clicked object WorldObject{x=1328, y=1254, height=0, id=23104, type=10, face=2} option 1
+[CommandLog] [2021-11-09T21:12:04.2572358] scott typed command tele 1239 1253 at X: 1240 Y:1241
+[CommandLog] [2021-11-09T21:12:16.9672752] scott typed command tele 1238 1234 at X: 1239 Y:1249
+[CommandLog] [2021-11-09T21:12:18.1851043] scott typed command tele 1236 1246 at X: 1238 Y:1234
+[CommandLog] [2021-11-09T21:12:32.1016305] scott typed command tele 1240 1244 at X: 1240 Y:1250
+[CommandLog] [2021-11-09T21:12:32.7144973] scott typed command tele 1241 1247 at X: 1240 Y:1244
+[ClickButtonLog] [2021-11-09T21:12:35.7600837] Clicked: 51913, new: true
+[ClickButtonLog] [2021-11-09T21:12:39.3724815] Clicked: 51913, new: true
+[ClickButtonLog] [2021-11-09T21:12:39.3724815] Clicked: 51913, new: true
+[ClickButtonLog] [2021-11-09T21:12:39.3724815] Clicked: 51913, new: true
+[ItemPickupLog] [2021-11-09T21:12:49.0671177] Picked up GameItem{name=Key master teleport, id=13249, amount=4} at Position{x=1238, y=1251, z=0}, owner scott
+[ClickButtonLog] [2021-11-09T21:13:11.4506904] Clicked: 75010, new: false
+[CommandLog] [2021-11-09T21:13:50.7757587] scott typed command item 4084 1 at X: 3094 Y:3495
+[CommandLog] [2021-11-09T21:13:51.3690545] scott typed command close at X: 3094 Y:3495
+[ClickButtonLog] [2021-11-09T21:15:24.5838428] Clicked: 50419, new: true
+[CommandLog] [2021-11-09T21:17:49.3420451] scott typed command getid holy at X: 3091 Y:3490
+[CommandLog] [2021-11-09T21:17:56.5511032] scott typed command item 30019 at X: 3091 Y:3490
+[ClickButtonLog] [2021-11-09T21:18:45.788506] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-09T21:19:36.2249279] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-09T21:19:36.2259276] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-09T21:19:38.0239411] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-09T21:52:27.4703261] Clicked object WorldObject{x=3077, y=3502, height=0, id=10042, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T21:52:48.4874761] Clicked object WorldObject{x=2547, y=9951, height=0, id=17385, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-09T21:52:53.2925205] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[CommandLog] [2021-11-09T21:53:01.6975887] scott typed command getid hespori at X: 3075 Y:3501
+[CommandLog] [2021-11-09T21:53:10.1006583] scott typed command item 22374 5 at X: 3075 Y:3501
+[ClickObjectLog] [2021-11-09T21:53:14.3046914] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T21:53:16.7027167] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T21:53:17.9047198] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T21:53:19.1067312] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T21:53:19.7067439] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-09T21:53:23.9097719] Clicked object WorldObject{x=3074, y=3502, height=0, id=30087, type=10, face=2} option 1
+[ClickButtonLog] [2021-11-09T21:53:25.7097876] Clicked: 226162, new: false
+[ClickObjectLog] [2021-11-09T21:53:28.1148059] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-09T21:53:29.9128362] Clicked: 130131, new: false
+[ShopBuyLog] [2021-11-09T21:53:38.3458913] Bought GameItem{name=Shadow archer, id=30016, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2021-11-09T21:53:40.1239052] Bought GameItem{name=Shadow warrior, id=30015, amount=1} from Item Exchange Shop with id 171
+[ClickButtonLog] [2021-11-09T21:53:45.5229512] Clicked: 250002, new: false
+[CommandLog] [2021-11-09T21:53:56.9290443] scott typed command tele 3091 3494 at X: 3075 Y:3497
+[CommandLog] [2021-11-09T21:53:58.731068] scott typed command tele 3096 3509 at X: 3091 Y:3494
+[CommandLog] [2021-11-09T21:54:00.536074] scott typed command tele 3098 3502 at X: 3096 Y:3509
+[CommandLog] [2021-11-09T21:54:01.7330847] scott typed command tele 3100 3502 at X: 3098 Y:3502
+[CommandLog] [2021-11-09T21:54:02.9380986] scott typed command tele 3102 3502 at X: 3100 Y:3502
+[CommandLog] [2021-11-09T21:54:05.3351138] scott typed command tele 3106 3503 at X: 3102 Y:3502
+[CommandLog] [2021-11-09T21:54:06.5371267] scott typed command tele 3092 3502 at X: 3106 Y:3503
+[CommandLog] [2021-11-09T21:54:07.7391359] scott typed command tele 3081 3504 at X: 3092 Y:3502
+[CommandLog] [2021-11-09T21:54:14.9432001] scott typed command tele 3098 3502 at X: 3082 Y:3504
+[CommandLog] [2021-11-09T21:54:16.746209] scott typed command tele 3101 3502 at X: 3098 Y:3502
+[ClickObjectLog] [2021-11-09T21:56:06.6441203] Clicked object WorldObject{x=3111, y=3505, height=0, id=361, type=10, face=2} option 1
+[ClickButtonLog] [2021-11-09T21:57:12.6966681] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-09T21:57:28.3097966] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-09T21:58:28.3563003] Clicked: 4143, new: false
+[ClickButtonLog] [2021-11-09T21:58:29.5573031] Clicked: 39706, new: true
+[ClickButtonLog] [2021-11-09T21:58:31.3564247] Clicked: 44746, new: true
+[ClickButtonLog] [2021-11-09T21:58:33.7956424] Clicked: 1093, new: false
+[ClickButtonLog] [2021-11-09T21:59:26.9622798] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-09T22:02:04.5875668] Clicked object WorldObject{x=3097, y=3485, height=0, id=23709, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T22:02:08.2090265] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-09T22:11:08.3190197] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-09T22:11:17.3230939] Clicked: 166007, new: false
+[ClickObjectLog] [2021-11-09T22:12:05.3654874] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-09T22:12:07.7675045] Clicked: 39736, new: true
+[CommandLog] [2021-11-09T22:12:10.7645292] scott typed command lz at X: 3088 Y:3493
+[CommandLog] [2021-11-09T22:12:25.7736544] scott typed command oz at X: 2852 Y:5094
+[ClickObjectLog] [2021-11-09T22:12:32.9767154] Clicked object WorldObject{x=2783, y=4839, height=0, id=36556, type=10, face=0} option 1
+[CommandLog] [2021-11-09T22:12:40.7817769] scott typed command dz at X: 2782 Y:4842
+[ClickButtonLog] [2021-11-09T22:13:18.0080927] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-09T22:16:34.9837587] Clicked: 196028, new: false
+[ClickButtonLog] [2021-11-09T22:18:11.661565] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-09T22:22:41.8949705] Logged in
+[ClickButtonLog] [2021-11-09T22:23:31.4494728] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-09T22:25:11.8440585] Logged in
+[CommandLog] [2021-11-09T22:32:20.7592778] scott typed command collection at X: 3090 Y:3493
+[CommandLog] [2021-11-09T22:32:23.1900782] scott typed command log at X: 3090 Y:3493
+[CommandLog] [2021-11-09T22:32:25.6065087] scott typed command panel at X: 3090 Y:3493
+[CommandLog] [2021-11-09T22:32:28.0176318] scott typed command cal at X: 3090 Y:3493
+[ClickButtonLog] [2021-11-09T22:53:09.2228154] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-09T22:53:11.6218368] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-09T22:56:24.3594341] Clicked: 24501, new: true
+[ClickButtonLog] [2021-11-09T22:56:27.364455] Clicked: 24503, new: true
+[ClickButtonLog] [2021-11-09T22:56:28.5654711] Clicked: 24501, new: true
+[CommandLog] [2021-11-09T22:57:46.6171198] scott typed command raids at X: 3090 Y:3493
+[ClickButtonLog] [2021-11-09T22:57:53.8181862] Clicked: 75010, new: false
+[CommandLog] [2021-11-09T23:02:13.7882812] scott typed command interface 30370 at X: 3090 Y:3488
+[ClickButtonLog] [2021-11-09T23:02:16.1912982] Clicked: 30374, new: true
+[ClickButtonLog] [2021-11-09T23:02:16.7903263] Clicked: 30374, new: true
+[CommandLog] [2021-11-09T23:02:17.992322] scott typed command close at X: 3090 Y:3488
+[CommandLog] [2021-11-09T23:02:18.5963209] scott typed command close at X: 3090 Y:3488
+[CommandLog] [2021-11-09T23:06:48.7074008] scott typed command tele 3097 3497 at X: 3090 Y:3488
+[CommandLog] [2021-11-09T23:06:49.9074144] scott typed command tele 3105 3504 at X: 3097 Y:3497
+[CommandLog] [2021-11-09T23:06:51.1054287] scott typed command tele 3112 3510 at X: 3105 Y:3504
+[CommandLog] [2021-11-09T23:06:52.3054305] scott typed command tele 3113 3509 at X: 3112 Y:3510
+[CommandLog] [2021-11-09T23:06:54.1094517] scott typed command pos at X: 3113 Y:3509
+[ClickButtonLog] [2021-11-09T23:07:59.5637875] Clicked: 250002, new: false
+[ClickObjectLog] [2021-11-09T23:39:46.4322953] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ConnectionLog] [2021-11-09T23:47:40.8434209] Logged in
+[ClickObjectLog] [2021-11-10T00:03:25.7539311] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-10T00:03:28.735746] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-10T00:03:30.5347572] Clicked: 39716, new: true
+[ClickButtonLog] [2021-11-10T00:03:31.1357659] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-10T00:03:33.5357863] Clicked: 44818, new: true
+[ClickButtonLog] [2021-11-10T00:04:15.1097691] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-10T00:04:15.1147652] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-10T00:14:44.1353158] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-10T00:14:46.6035326] Clicked: 50421, new: true
+[ConnectionLog] [2021-11-10T00:22:48.4602433] Logged in
+[PublicChatLog] [2021-11-10T00:26:16.9332756] Here
+[PublicChatLog] [2021-11-10T00:26:19.1992946] Lemme move the mouse
+[PublicChatLog] [2021-11-10T00:26:25.1953511] And you watching right?
+[PublicChatLog] [2021-11-10T00:26:32.4044089] Yeah
+[PublicChatLog] [2021-11-10T00:26:33.606415] Here
+[ClickButtonLog] [2021-11-10T00:26:35.4084347] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-10T00:26:36.0084391] Clicked: 50417, new: true
+[PublicChatLog] [2021-11-10T00:26:38.4124556] Info tab
+[ClickButtonLog] [2021-11-10T00:26:45.0175134] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-10T00:26:47.4185324] Clicked: 74107, new: false
+[PublicChatLog] [2021-11-10T00:26:50.418555] Collection log
+[PublicChatLog] [2021-11-10T00:26:51.020567] Full
+[ClickButtonLog] [2021-11-10T00:26:54.6205947] Clicked: 90182, new: false
+[ClickButtonLog] [2021-11-10T00:26:55.820598] Clicked: 90184, new: false
+[ClickButtonLog] [2021-11-10T00:26:59.4236273] Clicked: 90186, new: false
+[ClickButtonLog] [2021-11-10T00:27:00.6246415] Clicked: 90188, new: false
+[ClickButtonLog] [2021-11-10T00:27:01.8256465] Clicked: 90073, new: false
+[ClickButtonLog] [2021-11-10T00:27:03.027659] Clicked: 74112, new: false
+[PublicChatLog] [2021-11-10T00:27:06.026695] Monster log
+[ClickButtonLog] [2021-11-10T00:27:12.0357321] Clicked: 74117, new: false
+[PublicChatLog] [2021-11-10T00:27:14.4367506] Drop table.
+[ClickButtonLog] [2021-11-10T00:27:16.2407718] Clicked: 154078, new: false
+[ClickButtonLog] [2021-11-10T00:27:16.8387712] Clicked: 74122, new: false
+[PublicChatLog] [2021-11-10T00:27:18.6437894] Loot table
+[ClickButtonLog] [2021-11-10T00:27:19.8418022] Clicked: 175223, new: false
+[ClickButtonLog] [2021-11-10T00:27:22.244819] Clicked: 175229, new: false
+[ClickButtonLog] [2021-11-10T00:27:23.4428277] Clicked: 175232, new: false
+[ClickButtonLog] [2021-11-10T00:27:24.6458376] Clicked: 175235, new: false
+[PublicChatLog] [2021-11-10T00:27:28.852873] Presets.
+[ClickButtonLog] [2021-11-10T00:27:30.0558824] Clicked: 74132, new: false
+[ClickButtonLog] [2021-11-10T00:27:33.6519144] Clicked: 84071, new: false
+[PublicChatLog] [2021-11-10T00:27:37.8559449] And yeah
+[ClickButtonLog] [2021-11-10T00:27:39.0569577] Clicked: 50421, new: true
+[PublicChatLog] [2021-11-10T00:27:42.6579883] Achievments.
+[PublicChatLog] [2021-11-10T00:27:48.0640339] With progress bar
+[PublicChatLog] [2021-11-10T00:27:52.260065] That alone cost 200$
+[PublicChatLog] [2021-11-10T00:27:53.463086] Lol
+[ClickButtonLog] [2021-11-10T00:28:16.2772683] Clicked: 50423, new: true
+[PublicChatLog] [2021-11-10T00:28:17.4762766] Quests
+[ClickButtonLog] [2021-11-10T00:28:18.678302] Clicked: 50615, new: true
+[ClickButtonLog] [2021-11-10T00:28:21.6803103] Clicked: 50616, new: true
+[ClickButtonLog] [2021-11-10T00:28:27.0883577] Clicked: 50617, new: true
+[PublicChatLog] [2021-11-10T00:28:39.7034598] Dont move the mouse
+[PublicChatLog] [2021-11-10T00:28:41.5064786] Pls
+[PublicChatLog] [2021-11-10T00:28:46.9095246] Here rewards.
+[PublicChatLog] [2021-11-10T00:28:49.912547] For donators.
+[PublicChatLog] [2021-11-10T00:28:55.9206] Shop.
+[ClickButtonLog] [2021-11-10T00:28:59.519628] Clicked: 250002, new: false
+[PublicChatLog] [2021-11-10T00:29:06.1266775] Referral for players
+[PublicChatLog] [2021-11-10T00:29:09.7287091] Bank
+[PublicChatLog] [2021-11-10T00:29:18.1327825] Its because im spawned it.
+[PublicChatLog] [2021-11-10T00:29:18.1327825] Xd
+[PublicChatLog] [2021-11-10T00:29:25.9398482] Auto cast for mage
+[PublicChatLog] [2021-11-10T00:29:28.3378644] 1:1 Osrs
+[PublicChatLog] [2021-11-10T00:29:34.9469197] Ticket exchange
+[PublicChatLog] [2021-11-10T00:29:37.9479491] Vote shop
+[PublicChatLog] [2021-11-10T00:29:42.7549863] Slayer
+[PublicChatLog] [2021-11-10T00:29:51.7620842] With 1:1 slayer interface from osrs
+[ClickButtonLog] [2021-11-10T00:29:53.5650971] Clicked: 195078, new: false
+[ClickButtonLog] [2021-11-10T00:29:55.366114] Clicked: 195077, new: false
+[ClickButtonLog] [2021-11-10T00:29:56.5671279] Clicked: 195075, new: false
+[ClickButtonLog] [2021-11-10T00:29:58.3681427] Clicked: 195078, new: false
+[ClickButtonLog] [2021-11-10T00:30:00.1701539] Clicked: 195086, new: false
+[ClickButtonLog] [2021-11-10T00:30:01.3751691] Clicked: 196127, new: false
+[ClickButtonLog] [2021-11-10T00:30:03.1741826] Clicked: 196126, new: false
+[ClickButtonLog] [2021-11-10T00:30:04.3761929] Clicked: 195075, new: false
+[ClickButtonLog] [2021-11-10T00:30:04.9752055] Clicked: 196027, new: false
+[ClickButtonLog] [2021-11-10T00:30:06.1782133] Clicked: 196126, new: false
+[ClickButtonLog] [2021-11-10T00:30:07.3782184] Clicked: 196028, new: false
+[ClickButtonLog] [2021-11-10T00:30:07.9802197] Clicked: 196127, new: false
+[ClickObjectLog] [2021-11-10T00:30:12.7872616] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[PublicChatLog] [2021-11-10T00:30:16.9942948] Looks good
+[ClickObjectLog] [2021-11-10T00:30:17.5883082] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[PublicChatLog] [2021-11-10T00:30:20.5893278] Fire of exchange.
+[PublicChatLog] [2021-11-10T00:30:30.2004061] Runeline stole it from us :d
+[PublicChatLog] [2021-11-10T00:30:33.8014395] Dumb idiots xd
+[PublicChatLog] [2021-11-10T00:30:44.6085255] This from our is better coded
+[ClickButtonLog] [2021-11-10T00:30:45.8085392] Clicked: 130133, new: false
+[ClickObjectLog] [2021-11-10T00:30:47.0085489] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[PublicChatLog] [2021-11-10T00:30:53.6146009] Can i ask where you got the source from ?
+[PublicChatLog] [2021-11-10T00:30:57.2146308] Im have it
+[PublicChatLog] [2021-11-10T00:31:00.2226514] No one hav
+[PublicChatLog] [2021-11-10T00:31:05.6277] Me and my friend coded it
+[PublicChatLog] [2021-11-10T00:31:08.0267157] Thats why we have it
+[PublicChatLog] [2021-11-10T00:31:11.0297417] No one have it xd
+[PublicChatLog] [2021-11-10T00:31:16.4357857] Pi based?
+[PublicChatLog] [2021-11-10T00:31:17.6367995] Ethos yes.
+[PublicChatLog] [2021-11-10T00:31:19.4378139] But
+[PublicChatLog] [2021-11-10T00:31:21.839837] Very stable coded.
+[PublicChatLog] [2021-11-10T00:31:24.8458572] You see yourself
+[ClickButtonLog] [2021-11-10T00:31:27.8458823] Clicked: 130131, new: false
+[PublicChatLog] [2021-11-10T00:31:31.4490304] Here exchange shop
+[ShopBuyLog] [2021-11-10T00:31:33.2549284] Bought GameItem{name=K'klik, id=30014, amount=1} from Item Exchange Shop with id 171
+[ClickButtonLog] [2021-11-10T00:31:40.4639856] Clicked: 250002, new: false
+[PublicChatLog] [2021-11-10T00:31:41.6630026] Here
+[PublicChatLog] [2021-11-10T00:31:51.2670792] ..Empty
+[CommandLog] [2021-11-10T00:31:52.4710902] scott typed command empty at X: 3076 Y:3501
+[EmptyInventoryLog] [2021-11-10T00:31:52.5140875] Emptied [SlottedItem{name=Shadow archer, id=30016, amount=1}, SlottedItem{name=Shadow warrior, id=30015, amount=1}, SlottedItem{name=K'klik, id=30014, amount=1}]
+[CommandLog] [2021-11-10T00:31:54.8671065] scott typed command getid kratos at X: 3076 Y:3501
+[CommandLog] [2021-11-10T00:31:58.4751378] scott typed command item 30022 10 at X: 3076 Y:3501
+[CommandLog] [2021-11-10T00:32:02.0771633] scott typed command getid k'k at X: 3076 Y:3501
+[CommandLog] [2021-11-10T00:32:06.2792014] scott typed command item 30014 50 at X: 3076 Y:3501
+[CommandLog] [2021-11-10T00:32:11.0822412] scott typed command item 30014 10 at X: 3076 Y:3501
+[ClickObjectLog] [2021-11-10T00:32:12.2852516] Clicked object WorldObject{x=3077, y=3502, height=0, id=10042, type=10, face=2} option 1
+[PublicChatLog] [2021-11-10T00:32:20.689322] You can upgrade pets here.
+[PublicChatLog] [2021-11-10T00:32:23.6933469] In dark pets.
+[ClickObjectLog] [2021-11-10T00:32:24.2943528] Clicked object WorldObject{x=2553, y=9951, height=0, id=33318, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-10T00:32:33.3024283] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-10T00:32:39.9094799] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-10T00:32:39.9104811] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-10T00:32:47.7155472] Clicked: 75010, new: false
+[PublicChatLog] [2021-11-10T00:32:54.3206027] Any client edits?Wjat
+[PublicChatLog] [2021-11-10T00:32:56.1196183] What u mean mate.
+[PublicChatLog] [2021-11-10T00:33:07.5357221] Like custom login screen etc?
+[PublicChatLog] [2021-11-10T00:33:13.5397596] Login screen is from xeros
+[PublicChatLog] [2021-11-10T00:33:17.1417952] But u need take you own one.
+[PublicChatLog] [2021-11-10T00:33:27.947877] Im can get for you cheap designer
+[PublicChatLog] [2021-11-10T00:33:32.7539188] He can create for you that all
+[CommandLog] [2021-11-10T00:33:50.7710689] scott typed command getid k'k at X: 3091 Y:3492
+[CommandLog] [2021-11-10T00:33:53.7740944] scott typed command item 30114 1 at X: 3091 Y:3492
+[PublicChatLog] [2021-11-10T00:33:56.780121] Here
+[PublicChatLog] [2021-11-10T00:33:59.1781395] Dark yoshi pet
+[ClickObjectLog] [2021-11-10T00:34:08.2002129] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-10T00:34:09.3962219] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-10T00:34:09.9942285] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-10T00:34:11.7952433] Clicked: 44818, new: true
+[PublicChatLog] [2021-11-10T00:34:14.2012655] Full nightmare
+[PublicChatLog] [2021-11-10T00:34:17.2042938] That cost 1000$
+[PublicChatLog] [2021-11-10T00:34:18.4123022] Lol
+[PublicChatLog] [2021-11-10T00:34:30.4184034] Any source errors?
+[PublicChatLog] [2021-11-10T00:34:31.6194073] 0 Errors
+[CommandLog] [2021-11-10T00:34:35.2214444] scott typed command hpray at X: 3872 Y:9946
+[PublicChatLog] [2021-11-10T00:34:36.4244499] Here
+[PublicChatLog] [2021-11-10T00:34:56.3856128] Thats because im spawned wrong stuff
+[PublicChatLog] [2021-11-10T00:34:58.1896284] Its not error
+[PublicChatLog] [2021-11-10T00:34:59.3846578] I can 
+[PublicChatLog] [2021-11-10T00:35:03.7336718] Restart server
+[PublicChatLog] [2021-11-10T00:35:05.391686] And you can see
+[PublicChatLog] [2021-11-10T00:35:05.9976888] Lol
+[PublicChatLog] [2021-11-10T00:35:11.396735] Look
+[PublicChatLog] [2021-11-10T00:35:32.4179124] See
+[PublicChatLog] [2021-11-10T00:35:36.0249459] 1:1 Osrs
+[ClickButtonLog] [2021-11-10T00:35:37.2239574] Clicked: 75010, new: false
+[PublicChatLog] [2021-11-10T00:35:49.2360558] Want see server 
+[PublicChatLog] [2021-11-10T00:35:52.2410817] Restart?
+[ConnectionLog] [2021-11-10T00:39:03.9666689] Logged in
+[PublicChatLog] [2021-11-10T00:39:06.3676854] Urefini
+[PublicChatLog] [2021-11-10T00:39:06.9616959] Finishg
+[PublicChatLog] [2021-11-10T00:39:09.9627161] No errors.
+[PublicChatLog] [2021-11-10T00:39:12.9687385] Here
+[PublicChatLog] [2021-11-10T00:39:15.9677681] 2Fa for hack protect.
+[PublicChatLog] [2021-11-10T00:39:17.7717821] You here?
+[PublicChatLog] [2021-11-10T00:39:39.3879684] 2 Fa protect
+[ClickButtonLog] [2021-11-10T00:39:41.1909752] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-10T00:52:49.2120514] Logged in
+[ConnectionLog] [2021-11-10T01:13:13.2418932] Logged in
+[ConnectionLog] [2021-11-10T12:29:10.5809641] Logged in
+[ClickButtonLog] [2021-11-10T12:58:51.5528437] Clicked: 51902, new: true
+[ClickButtonLog] [2021-11-10T13:01:04.8369597] Clicked: 51909, new: true
+[ClickButtonLog] [2021-11-10T13:01:05.4359525] Clicked: 51909, new: true
+[ClickButtonLog] [2021-11-10T13:01:13.2460153] Clicked: 51906, new: true
+[ClickButtonLog] [2021-11-10T13:01:18.6500613] Clicked: 51901, new: true
+[ClickButtonLog] [2021-11-10T13:01:19.850075] Clicked: 51901, new: true
+[ClickButtonLog] [2021-11-10T13:01:21.0490865] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-10T13:01:24.0521078] Clicked: 33209, new: false
+[ClickObjectLog] [2021-11-10T13:02:14.517524] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 2
+[ClickObjectLog] [2021-11-10T13:02:16.8975449] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-10T13:02:18.6995667] Clicked: 39721, new: true
+[ClickButtonLog] [2021-11-10T13:02:21.1005774] Clicked: 39731, new: true
+[ClickButtonLog] [2021-11-10T13:02:21.1005774] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-10T13:02:24.7026161] Clicked: 44790, new: true
+[ClickObjectLog] [2021-11-10T13:02:30.7086618] Clicked object WorldObject{x=3100, y=3468, height=0, id=8356, type=10, face=2} option 2
+[ClickButtonLog] [2021-11-10T13:02:35.5087021] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-10T13:02:42.1147522] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-10T13:02:43.3147683] Clicked: 44786, new: true
+[ClickButtonLog] [2021-11-10T13:02:51.1238267] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-10T13:02:51.7238464] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-10T13:31:36.2112376] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-10T13:31:53.6254015] Clicked object WorldObject{x=3082, y=3507, height=0, id=26741, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-10T13:32:11.6355364] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-10T13:32:32.6527298] Clicked: 195078, new: false
+[ClickButtonLog] [2021-11-10T13:32:34.4547367] Clicked: 195077, new: false
+[ClickButtonLog] [2021-11-10T13:32:35.0517418] Clicked: 195075, new: false
+[ClickObjectLog] [2021-11-10T13:42:19.3616613] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T13:42:29.5657347] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ConnectionLog] [2021-11-10T13:43:41.6923404] Logged in
+[ClickObjectLog] [2021-11-10T13:43:57.9034689] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-11-10T13:44:00.3044946] Clicked: 226162, new: false
+[ClickObjectLog] [2021-11-10T13:46:17.2086218] Clicked object WorldObject{x=3097, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T13:46:22.6126631] Clicked object WorldObject{x=3097, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T13:46:41.8348184] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-10T13:46:44.834837] Clicked: 44742, new: true
+[ClickButtonLog] [2021-11-10T13:46:47.8378649] Clicked: 132126, new: false
+[CommandLog] [2021-11-10T13:46:57.4589429] scott typed command hpray at X: 1646 Y:10065
+[CommandLog] [2021-11-10T13:46:59.8479669] scott typed command hpray at X: 1646 Y:10065
+[ClickButtonLog] [2021-11-10T13:47:13.660068] Clicked: 21247, new: false
+[ClickButtonLog] [2021-11-10T13:47:21.4621308] Clicked: 21247, new: false
+[ClickButtonLog] [2021-11-10T13:47:24.4601546] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-10T16:07:48.2870393] Clicked: 59229, new: false
+[ClickButtonLog] [2021-11-10T16:08:03.3011649] Clicked: 9157, new: false
+[CommandLog] [2021-11-10T16:08:08.7022078] scott typed command getid vote cry at X: 3100 Y:3495
+[CommandLog] [2021-11-10T16:08:12.9122473] scott typed command item 23933 5000 at X: 3100 Y:3495
+[ClickButtonLog] [2021-11-10T16:08:16.5102704] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-10T16:08:17.7092772] Clicked: 9157, new: false
+[CommandLog] [2021-11-10T16:10:50.8250929] scott typed command tele 3104 3500 at X: 3099 Y:3495
+[CommandLog] [2021-11-10T16:10:52.6266547] scott typed command tele 3101 3512 at X: 3104 Y:3500
+[CommandLog] [2021-11-10T16:10:53.8276576] scott typed command tele 3099 3519 at X: 3101 Y:3512
+[ClickObjectLog] [2021-11-10T16:10:55.0276679] Clicked object WorldObject{x=3098, y=3521, height=0, id=23271, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-10T16:10:56.8276859] Clicked: 39964, new: true
+[ClickButtonLog] [2021-11-10T16:11:03.4333064] Clicked: 75010, new: false
+[CommandLog] [2021-11-10T16:25:19.1215641] scott typed command tele 3081 3480 at X: 3091 Y:3491
+[CommandLog] [2021-11-10T16:25:29.3312406] scott typed command tele 3092 3487 at X: 3081 Y:3480
+[CommandLog] [2021-11-10T16:25:31.1322563] scott typed command tele 3091 3490 at X: 3092 Y:3487
+[ClickButtonLog] [2021-11-10T16:48:42.5756734] Clicked: 14067, new: false
+[ClickButtonLog] [2021-11-10T16:48:47.381722] Clicked: 14067, new: false
+[ClickButtonLog] [2021-11-10T16:48:53.3877668] Clicked: 14067, new: false
+[ClickButtonLog] [2021-11-10T16:49:36.0312466] Clicked: 195078, new: false
+[ClickButtonLog] [2021-11-10T16:49:37.8342591] Clicked: 195077, new: false
+[ClickButtonLog] [2021-11-10T16:51:37.3252502] Clicked: 195076, new: false
+[ShopBuyLog] [2021-11-10T16:51:57.1664195] Bought GameItem{name=Enchanted gem, id=4155, amount=1} from Slayer Store with id 10
+[ClickButtonLog] [2021-11-10T16:51:58.3364265] Clicked: 250002, new: false
+[CommandLog] [2021-11-10T16:59:07.6742511] scott typed command donationrewards at X: 3094 Y:3495
+[CommandLog] [2021-11-10T16:59:18.4833449] scott typed command donationrewards at X: 3094 Y:3495
+[CommandLog] [2021-11-10T17:20:52.4536301] scott typed command item 6828 2 at X: 3094 Y:3495
+[CommandLog] [2021-11-10T17:20:53.0586179] scott typed command close at X: 3094 Y:3495
+[ClickButtonLog] [2021-11-10T17:20:54.8576603] Clicked: 183156, new: false
+[ClickButtonLog] [2021-11-10T17:21:08.0667386] Clicked: 183156, new: false
+[ClickButtonLog] [2021-11-10T17:21:27.8799059] Clicked: 183155, new: false
+[ClickButtonLog] [2021-11-10T17:21:35.6829759] Clicked: 1093, new: false
+[ClickButtonLog] [2021-11-10T17:22:03.3062035] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-10T17:22:05.1082233] Clicked: 74107, new: false
+[ClickButtonLog] [2021-11-10T17:22:11.7102735] Clicked: 90126, new: false
+[ClickButtonLog] [2021-11-10T17:22:12.9122787] Clicked: 90124, new: false
+[ClickButtonLog] [2021-11-10T17:22:14.1162885] Clicked: 90126, new: false
+[CommandLog] [2021-11-10T17:22:29.7204178] scott typed command item 22372 1 at X: 3092 Y:3492
+[CommandLog] [2021-11-10T17:22:30.3204232] scott typed command close at X: 3092 Y:3492
+[ClickObjectLog] [2021-11-10T17:24:05.788226] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[PublicChatLog] [2021-11-10T17:24:42.4595365] .:Item
+[CommandLog] [2021-11-10T17:24:44.8195402] scott typed command item 22375 1 at X: 3089 Y:3492
+[CommandLog] [2021-11-10T17:24:48.4185704] scott typed command tele 3084 3499 at X: 3089 Y:3492
+[CommandLog] [2021-11-10T17:24:49.6195903] scott typed command tele 3078 3499 at X: 3084 Y:3499
+[ClickObjectLog] [2021-11-10T17:24:51.4196122] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[CommandLog] [2021-11-10T17:24:54.4196194] scott typed command tele 3087 3505 at X: 3075 Y:3501
+[CommandLog] [2021-11-10T17:24:56.2236377] scott typed command tele 3092 3504 at X: 3087 Y:3505
+[ClickObjectLog] [2021-11-10T17:24:57.4256541] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-10T17:24:59.8286625] Clicked object WorldObject{x=3094, y=3505, height=0, id=2996, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-10T17:25:02.8346995] Clicked object WorldObject{x=3099, y=3505, height=0, id=172, type=10, face=2} option 1
+[ClickObjectLog] [2021-11-10T17:25:04.6397118] Clicked object WorldObject{x=3101, y=3505, height=0, id=34660, type=10, face=2} option 1
+[CommandLog] [2021-11-10T17:25:12.4377745] scott typed command vpanel at X: 3097 Y:3503
+[ClickButtonLog] [2021-11-10T17:25:14.2377946] Clicked: 94133, new: false
+[ClickButtonLog] [2021-11-10T17:25:21.444847] Clicked: 94065, new: false
+[ConnectionLog] [2021-11-10T19:08:44.3336382] Logged in
+[ClickButtonLog] [2021-11-10T19:10:13.201011] Clicked: 50419, new: true
+[ClickObjectLog] [2021-11-10T19:38:22.690038] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T19:41:27.6275728] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T19:41:27.6275728] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T19:41:56.4508094] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-10T19:41:56.4518112] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-10T19:42:00.6588471] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T19:43:19.3065014] Clicked object WorldObject{x=3094, y=3494, height=0, id=10061, type=0, face=2} option 1
+[ClickObjectLog] [2021-11-10T19:44:24.1380366] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-10T19:45:00.1713349] Clicked object WorldObject{x=3098, y=3483, height=0, id=409, type=10, face=1} option 1
+[ClickObjectLog] [2021-11-10T19:45:00.7723411] Clicked object WorldObject{x=3098, y=3483, height=0, id=409, type=10, face=1} option 1
+[ClickButtonLog] [2021-11-10T19:45:50.0017483] Clicked: 23721, new: true
+[DailyRewardLog] [2021-11-10T19:45:50.0497637] Claimed daily reward ImmutableItem{name=The Unbearable's Key, id=4185, amount=2} on day 2
+[ClickButtonLog] [2021-11-10T19:46:33.8321205] Clicked: 74107, new: false
+[ClickButtonLog] [2021-11-10T19:46:38.639171] Clicked: 90182, new: false
+[ClickButtonLog] [2021-11-10T19:46:39.2411635] Clicked: 90184, new: false
+[ClickButtonLog] [2021-11-10T19:46:39.8411605] Clicked: 90186, new: false
+[ClickButtonLog] [2021-11-10T19:47:12.9374378] Clicked: 90073, new: false
+[ClickObjectLog] [2021-11-10T19:47:18.9454875] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-10T19:47:23.1445266] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[CommandLog] [2021-11-10T20:02:17.147947] scott typed command close at X: 3092 Y:3497
+[ClickButtonLog] [2021-11-10T20:06:04.1108285] Clicked: 74132, new: false
+[ClickButtonLog] [2021-11-10T20:06:05.9138395] Clicked: 196242, new: false
+[ClickButtonLog] [2021-11-10T20:06:05.9148403] Clicked: 196242, new: false
+[ClickButtonLog] [2021-11-10T20:06:07.7118589] Clicked: 84051, new: false
+[ClickButtonLog] [2021-11-10T20:06:08.3128652] Clicked: 84051, new: false
+[ClickButtonLog] [2021-11-10T20:06:10.7128824] Clicked: 84053, new: false
+[ClickButtonLog] [2021-11-10T20:06:13.1159003] Clicked: 84055, new: false
+[ClickButtonLog] [2021-11-10T20:06:13.7129106] Clicked: 84057, new: false
+[ClickButtonLog] [2021-11-10T20:06:20.3169604] Clicked: 84062, new: false
+[CommandLog] [2021-11-10T20:08:17.3949351] scott typed command wildyevent at X: 3091 Y:3492
+[ClickButtonLog] [2021-11-10T20:08:19.1969502] Clicked: 39964, new: true
+[CommandLog] [2021-11-10T20:08:20.3969711] scott typed command hpray at X: 3091 Y:3492
+[CommandLog] [2021-11-10T20:08:48.6211893] scott typed command item 773 1 at X: 3257 Y:3880
+[ClickButtonLog] [2021-11-10T20:08:57.0242632] Clicked: 75010, new: false
+[ClickButtonLog] [2021-11-10T20:09:16.8314269] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:17.431435] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:17.432443] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:18.033439] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:18.0344329] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:18.634439] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:18.634439] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:19.2334704] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:19.2344438] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:19.8344529] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:19.8344529] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:19.8344529] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:19.8354514] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:20.4344523] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:20.4344523] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:20.4344523] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:21.0384599] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:21.0384599] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:21.0384599] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:21.6334743] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:21.6334743] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:21.6334743] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:22.2354701] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:22.2354701] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:22.8344719] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:22.8344719] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:23.4354797] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:23.4354797] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:24.0394894] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:24.0394894] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:24.635493] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:25.2354995] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:25.2354995] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:25.2354995] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:25.8375043] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:25.8384984] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:26.4375071] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:26.4375071] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:27.0385079] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:27.6405282] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:27.6415133] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:27.6415133] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:28.2395202] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:28.8405283] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:28.8405283] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:28.8405283] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:29.4425309] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:29.4425309] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:29.4425309] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:30.0405368] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:30.0405368] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:30.6395427] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:31.2415441] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:31.2415441] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:31.8425544] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:32.4435533] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:33.0425631] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:33.6475656] Clicked: 22230, new: false
+[ClickButtonLog] [2021-11-10T20:09:33.6475656] Clicked: 22228, new: false
+[ClickButtonLog] [2021-11-10T20:09:34.2445729] Clicked: 22230, new: false
+[CommandLog] [2021-11-10T20:12:39.1871093] scott typed command tele 3259 3864 at X: 3257 Y:3880
+[CommandLog] [2021-11-10T20:12:39.7871094] scott typed command tele 3261 3848 at X: 3259 Y:3864
+[CommandLog] [2021-11-10T20:12:39.7871094] scott typed command tele 3261 3848 at X: 3259 Y:3864
+[CommandLog] [2021-11-10T20:12:39.7871094] scott typed command tele 3259 3847 at X: 3259 Y:3864
+[CommandLog] [2021-11-10T20:12:39.7871094] scott typed command tele 3259 3847 at X: 3259 Y:3864
+[CommandLog] [2021-11-10T20:12:40.391115] scott typed command tele 3259 3830 at X: 3259 Y:3847
+[CommandLog] [2021-11-10T20:12:40.3921159] scott typed command tele 3259 3830 at X: 3259 Y:3847
+[CommandLog] [2021-11-10T20:12:40.3921159] scott typed command tele 3259 3830 at X: 3259 Y:3847
+[CommandLog] [2021-11-10T20:12:40.9901205] scott typed command tele 3259 3813 at X: 3259 Y:3830
+[CommandLog] [2021-11-10T20:12:40.9901205] scott typed command tele 3259 3813 at X: 3259 Y:3830
+[CommandLog] [2021-11-10T20:12:40.9901205] scott typed command tele 3259 3813 at X: 3259 Y:3830
+[CommandLog] [2021-11-10T20:12:40.9901205] scott typed command tele 3259 3813 at X: 3259 Y:3830
+[CommandLog] [2021-11-10T20:12:41.5891284] scott typed command tele 3259 3796 at X: 3259 Y:3813
+[CommandLog] [2021-11-10T20:12:41.5891284] scott typed command tele 3259 3796 at X: 3259 Y:3813
+[CommandLog] [2021-11-10T20:12:41.5891284] scott typed command tele 3259 3796 at X: 3259 Y:3813
+[CommandLog] [2021-11-10T20:12:42.1881328] scott typed command tele 3259 3779 at X: 3259 Y:3796
+[CommandLog] [2021-11-10T20:12:42.1891377] scott typed command tele 3259 3779 at X: 3259 Y:3796
+[CommandLog] [2021-11-10T20:12:42.1891377] scott typed command tele 3259 3779 at X: 3259 Y:3796
+[CommandLog] [2021-11-10T20:12:42.7901416] scott typed command tele 3259 3762 at X: 3259 Y:3779
+[CommandLog] [2021-11-10T20:12:42.7901416] scott typed command tele 3259 3762 at X: 3259 Y:3779
+[CommandLog] [2021-11-10T20:12:42.7901416] scott typed command tele 3259 3762 at X: 3259 Y:3779
+[CommandLog] [2021-11-10T20:12:42.7911373] scott typed command tele 3259 3762 at X: 3259 Y:3779
+[CommandLog] [2021-11-10T20:12:43.3901376] scott typed command tele 3259 3745 at X: 3259 Y:3762
+[CommandLog] [2021-11-10T20:12:43.3901376] scott typed command tele 3259 3745 at X: 3259 Y:3762
+[CommandLog] [2021-11-10T20:12:43.3901376] scott typed command tele 3259 3745 at X: 3259 Y:3762
+[CommandLog] [2021-11-10T20:12:43.9891452] scott typed command tele 3259 3728 at X: 3259 Y:3745
+[CommandLog] [2021-11-10T20:12:44.5881499] scott typed command tele 3260 3712 at X: 3259 Y:3728
+[CommandLog] [2021-11-10T20:12:45.1921581] scott typed command tele 3260 3695 at X: 3260 Y:3712
+[CommandLog] [2021-11-10T20:12:45.1931535] scott typed command tele 3260 3695 at X: 3260 Y:3712
+[CommandLog] [2021-11-10T20:12:45.7911634] scott typed command tele 3260 3678 at X: 3260 Y:3695
+[CommandLog] [2021-11-10T20:12:45.7921642] scott typed command tele 3260 3678 at X: 3260 Y:3695
+[CommandLog] [2021-11-10T20:12:45.7921642] scott typed command tele 3260 3678 at X: 3260 Y:3695
+[CommandLog] [2021-11-10T20:12:45.7921642] scott typed command tele 3260 3678 at X: 3260 Y:3695
+[ClickButtonLog] [2021-11-10T20:12:46.9911701] Clicked: 75010, new: false
+[ClickObjectLog] [2021-11-10T20:12:54.8002397] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-11-10T20:13:00.1972801] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[CommandLog] [2021-11-10T20:13:05.6013282] scott typed command mbox at X: 3092 Y:3501
+[ClickButtonLog] [2021-11-10T20:13:07.4023423] Clicked: 175229, new: false
+[CommandLog] [2021-11-10T20:13:58.438762] scott typed command item 11666 1 at X: 3094 Y:3495
+[CommandLog] [2021-11-10T20:13:59.0427646] scott typed command close at X: 3094 Y:3495
+[ClickObjectLog] [2021-11-10T20:14:06.8518317] Clicked object WorldObject{x=3097, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-11-10T20:14:09.2488565] Clicked: 226162, new: false
+[ClickObjectLog] [2021-11-10T21:09:56.108229] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T21:10:07.5143212] Clicked object WorldObject{x=3097, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T21:10:40.53458] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-11-10T21:10:41.7335895] Clicked: 226162, new: false
+[ClickObjectLog] [2021-11-10T21:11:59.1862107] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-11-10T21:12:29.2014568] Clicked: 108005, new: false
+[ClickObjectLog] [2021-11-10T21:12:46.6175902] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T21:13:14.2338156] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-11-10T21:13:36.4429997] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-11-10T21:13:50.2601136] Clicked: 4140, new: false
+[ClickButtonLog] [2021-11-10T21:13:51.4561219] Clicked: 44746, new: true
+[ClickButtonLog] [2021-11-10T21:13:53.8631402] Clicked: 14221, new: false
+[ClickButtonLog] [2021-11-10T21:13:53.8631402] Clicked: 14221, new: false
+[ClickButtonLog] [2021-11-10T21:13:59.263189] Clicked: 14218, new: false
+[ClickButtonLog] [2021-11-10T21:14:01.6642032] Clicked: 14221, new: false
+[ClickButtonLog] [2021-11-11T13:00:48.9780347] Clicked: 166028, new: false
+[ClickButtonLog] [2021-11-11T13:00:52.5760624] Clicked: 166027, new: false
+[ClickButtonLog] [2021-11-11T13:00:59.1791213] Clicked: 166026, new: false
+[ConnectionLog] [2021-11-11T13:01:47.8265327] Logged in
+[PublicChatLog] [2021-11-11T13:12:53.2133558] Ok wheres this eerror?
+[PublicChatLog] [2021-11-11T13:13:37.2027211] ?
+[PublicChatLog] [2021-11-11T13:13:38.4127253] Zqit
+[PublicChatLog] [2021-11-11T13:14:06.0389498] ?
+[PublicChatLog] [2021-11-11T13:14:10.2479914] Noz
+[PublicChatLog] [2021-11-11T13:14:16.2560386] Now
+[PublicChatLog] [2021-11-11T13:14:31.8681667] I dont know what you're showing me....
+[PublicChatLog] [2021-11-11T13:14:39.076227] The names
+[PublicChatLog] [2021-11-11T13:14:39.6812375] Xeros
+[PublicChatLog] [2021-11-11T13:14:44.4862721] Config and etc
+[PublicChatLog] [2021-11-11T13:14:47.4852979] The names xeros
+[PublicChatLog] [2021-11-11T13:14:49.8873275] Changing in my names
+[PublicChatLog] [2021-11-11T13:14:51.6893348] Alunity
+[ClickButtonLog] [2021-11-11T13:14:55.2913588] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-11T13:40:46.5927741] Logged in
+[PublicChatLog] [2021-11-11T13:41:04.0009186] That error is fine
+[PublicChatLog] [2021-11-11T13:41:11.8059836] And how i can change that
+[PublicChatLog] [2021-11-11T13:41:31.6391488] By changing the module name
+[PublicChatLog] [2021-11-11T13:41:34.0381687] It's not worth it
+[PublicChatLog] [2021-11-11T13:41:43.6452561] But its says lot of xeros xd
+[PublicChatLog] [2021-11-11T13:41:53.3563252] Yeah...
+[PublicChatLog] [2021-11-11T13:41:54.6253371] Change them.
+[PublicChatLog] [2021-11-11T13:42:09.0354566] Can you change server and client side for 10$
+[PublicChatLog] [2021-11-11T13:42:13.8424944] Or 15?
+[PublicChatLog] [2021-11-11T13:42:24.0515851] I've just done the entire server side besides those wbe links..
+[PublicChatLog] [2021-11-11T13:42:27.6546168] You can change the link yourself
+[PublicChatLog] [2021-11-11T13:42:37.2576901] Awww
+[PublicChatLog] [2021-11-11T13:42:42.6647349] What do you mean awww????
+[PublicChatLog] [2021-11-11T13:42:46.2717652] It's a web link....
+[PublicChatLog] [2021-11-11T13:42:48.0677795] Yea
+[PublicChatLog] [2021-11-11T13:42:49.8697986] But
+[PublicChatLog] [2021-11-11T13:42:52.2728149] Im never done that
+[PublicChatLog] [2021-11-11T13:42:56.4738525] With links sqls and id
+[PublicChatLog] [2021-11-11T13:42:58.8778733] Idk
+[PublicChatLog] [2021-11-11T13:43:04.2809176] None of that is sql.
+[PublicChatLog] [2021-11-11T13:43:12.6909853] Thaim dont h
+[PublicChatLog] [2021-11-11T13:43:14.488003] Im dont have
+[PublicChatLog] [2021-11-11T13:43:25.898102] Highscores donator benefits link or rules price guide
+[PublicChatLog] [2021-11-11T13:43:32.5031581] Well, remove them ten?
+[PublicChatLog] [2021-11-11T13:43:34.9061712] You can
+[PublicChatLog] [2021-11-11T13:43:36.1071822] Create
+[PublicChatLog] [2021-11-11T13:43:39.1092047] For my website highscore
+[PublicChatLog] [2021-11-11T13:43:41.512229] Rules?
+[PublicChatLog] [2021-11-11T13:43:42.7162363] And etc?
+[PublicChatLog] [2021-11-11T13:43:47.5182931] Or you cant?
+[PublicChatLog] [2021-11-11T13:43:54.1253269] I wont because im nt a web developer
+[PublicChatLog] [2021-11-11T13:44:00.128387] Ok
+[PublicChatLog] [2021-11-11T13:44:01.3293881] Then
+[PublicChatLog] [2021-11-11T13:44:04.332412] What im need
+[PublicChatLog] [2021-11-11T13:44:07.9334491] On that server
+[PublicChatLog] [2021-11-11T13:44:09.1384556] Ahhhhhh
+[PublicChatLog] [2021-11-11T13:44:11.5374761] Riiighhtttt
+[PublicChatLog] [2021-11-11T13:44:15.1405015] Here
+[PublicChatLog] [2021-11-11T13:44:17.541522] Mark changed that
+[PublicChatLog] [2021-11-11T13:44:20.5475456] Can we add it here
+[PublicChatLog] [2021-11-11T13:44:21.7465574] Sec
+[PublicChatLog] [2021-11-11T13:44:46.4017635] My background the codes and etc
+[PublicChatLog] [2021-11-11T13:44:48.7967823] Mark added it for me
+[PublicChatLog] [2021-11-11T13:44:54.8048298] For changing background and icon
+[PublicChatLog] [2021-11-11T13:45:26.4160979] Idk where
+[PublicChatLog] [2021-11-11T13:45:27.616106] Is the class
+[PublicChatLog] [2021-11-11T13:45:28.8191164] For that
+[PublicChatLog] [2021-11-11T13:45:29.4211238] But yew
+[PublicChatLog] [2021-11-11T13:45:37.2321846] Sec
+[ConnectionLog] [2021-11-11T13:53:52.0292978] Logged in
+[PublicChatLog] [2021-11-11T13:53:59.2333644] What im can add now for content
+[PublicChatLog] [2021-11-11T13:54:00.4323609] Ahh
+[PublicChatLog] [2021-11-11T13:54:04.0343934] You can change only the icons?
+[PublicChatLog] [2021-11-11T13:54:10.0394412] Only the icons
+[PublicChatLog] [2021-11-11T13:54:11.8414547] Not more
+[PublicChatLog] [2021-11-11T13:54:51.4657838] I need change that
+[ClickButtonLog] [2021-11-11T13:57:38.9781758] Clicked: 75010, new: false
+[PublicChatLog] [2021-11-11T13:57:49.7852682] Maybe new interface for teleport
+[CommandLog] [2021-11-11T13:58:27.024575] scott typed command close at X: 3090 Y:3488
+[PublicChatLog] [2021-11-11T13:58:31.2216065] Im mean im paying for you time
+[PublicChatLog] [2021-11-11T13:58:33.7006259] No worries :d
+[ClickButtonLog] [2021-11-11T13:58:36.7866582] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-12T19:34:31.5395942] Logged in
+[ClickButtonLog] [2021-11-12T19:35:36.530027] Clicked: 9125, new: false
+[ClickButtonLog] [2021-11-12T19:35:36.5350221] Clicked: 9128, new: false
+[ClickButtonLog] [2021-11-12T19:35:37.1304257] Clicked: 9127, new: false
+[ClickButtonLog] [2021-11-12T19:35:37.1304257] Clicked: 9126, new: false
+[ClickButtonLog] [2021-11-12T19:35:37.1304257] Clicked: 9128, new: false
+[ClickButtonLog] [2021-11-12T19:35:37.7305916] Clicked: 9125, new: false
+[ClickButtonLog] [2021-11-12T19:35:38.3345992] Clicked: 9127, new: false
+[ClickButtonLog] [2021-11-12T19:35:38.3345992] Clicked: 9126, new: false
+[ClickButtonLog] [2021-11-12T19:35:38.9326043] Clicked: 9128, new: false
+[ClickButtonLog] [2021-11-12T19:35:38.9326043] Clicked: 9125, new: false
+[ClickButtonLog] [2021-11-12T19:35:39.5316157] Clicked: 9127, new: false
+[ClickButtonLog] [2021-11-12T19:35:39.5316157] Clicked: 9126, new: false
+[ClickButtonLog] [2021-11-12T19:35:40.1316196] Clicked: 9128, new: false
+[ClickButtonLog] [2021-11-12T19:37:45.9152159] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-12T19:38:02.1728649] Clicked: 74142, new: false
+[ClickButtonLog] [2021-11-12T19:38:11.2297895] Clicked: 209108, new: false
+[ClickButtonLog] [2021-11-12T19:38:11.829791] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-12T19:38:12.4287976] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-12T19:38:13.0307993] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-12T19:38:13.630807] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-12T19:38:14.2352977] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-12T19:38:14.8456655] Clicked: 209004, new: false
+[ClickButtonLog] [2021-11-12T19:39:13.8442976] Clicked: 74137, new: false
+[ClickButtonLog] [2021-11-12T19:39:57.7313603] Clicked: 250002, new: false
+[ClickButtonLog] [2021-11-12T19:40:04.9479135] Clicked: 9128, new: false
+[ClickButtonLog] [2021-11-12T19:40:06.7499138] Clicked: 152, new: false
+[ClickButtonLog] [2021-11-12T19:45:55.0893022] Clicked: 9127, new: false
+[ClickButtonLog] [2021-11-12T19:45:55.7022768] Clicked: 9125, new: false
+[ClickButtonLog] [2021-11-12T19:45:56.3052686] Clicked: 9128, new: false
+[CommandLog] [2021-11-12T19:47:24.3645877] scott typed command item 6828 1 at X: 3094 Y:3495
+[CommandLog] [2021-11-12T19:47:24.369591] scott typed command close at X: 3094 Y:3495
+[ClickButtonLog] [2021-11-12T19:47:26.7653168] Clicked: 183156, new: false
+[ClickButtonLog] [2021-11-12T19:47:40.6534939] Clicked: 183155, new: false
+[ClickButtonLog] [2021-11-12T19:49:12.0167015] Clicked: 152, new: false
+[ClickObjectLog] [2021-11-12T20:31:20.1777687] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-12T20:31:24.3847949] Clicked: 39726, new: true
+[ClickButtonLog] [2021-11-12T20:31:27.9878712] Clicked: 39711, new: true
+[ClickButtonLog] [2021-11-12T20:31:30.4074437] Clicked: 44818, new: true
+[ClickButtonLog] [2021-11-12T20:31:47.3424714] Clicked: 83158, new: false
+[ClickButtonLog] [2021-11-12T20:31:53.3515165] Clicked: 30374, new: true
+[ClickButtonLog] [2021-11-12T20:31:53.9525214] Clicked: 30374, new: true
+[ClickButtonLog] [2021-11-12T20:31:55.7555335] Clicked: 30374, new: true
+[ClickButtonLog] [2021-11-12T20:32:04.1639741] Clicked: 9157, new: false
+[ConnectionLog] [2021-11-14T00:22:03.2298783] Logged in
+[ChangeAddressLog] [2021-11-14T00:22:03.2318782] Changed mac address from '5.175.19.214' to '127.0.0.1'.
+[ChangeAddressLog] [2021-11-14T00:22:03.2328798] Changed ip address from '5.175.19.214' to '127.0.0.1'.
+[PublicChatLog] [2021-11-14T00:22:27.6860432] That fucked me hard
+[PublicChatLog] [2021-11-14T00:22:33.699079] That is very complicated that server
+[PublicChatLog] [2021-11-14T00:22:37.3161048] But if im ssee
+[PublicChatLog] [2021-11-14T00:22:41.5391314] Its looks really nice
+[PublicChatLog] [2021-11-14T00:22:44.1091462] It is
+[ClickObjectLog] [2021-11-14T00:22:49.5221852] Clicked object WorldObject{x=3094, y=3495, height=0, id=10061, type=0, face=2} option 1
+[ClickObjectLog] [2021-11-14T00:22:50.7281971] Clicked object WorldObject{x=3094, y=3494, height=0, id=10061, type=0, face=2} option 1
+[PublicChatLog] [2021-11-14T00:23:01.5632676] Can we now ?
+[PublicChatLog] [2021-11-14T00:23:02.7642746] The sqls?
+[PublicChatLog] [2021-11-14T00:23:13.5923493] Because
+[PublicChatLog] [2021-11-14T00:23:16.6023698] Well of goodwill dont work
+[PublicChatLog] [2021-11-14T00:23:17.2033767] And idk
+[PublicChatLog] [2021-11-14T00:23:23.2524155] Im will it public not test or debug
+[PublicChatLog] [2021-11-14T00:23:53.0196278] You have sql?
+[PublicChatLog] [2021-11-14T00:24:24.9598592] Dont need that thats for forums and stuff
+[PublicChatLog] [2021-11-14T00:24:27.9648793] Here

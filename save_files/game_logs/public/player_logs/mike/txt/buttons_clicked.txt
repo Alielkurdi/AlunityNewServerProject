@@ -1,0 +1,6 @@
+[ClickButtonLog] [2022-02-05T19:43:46.3148693] Clicked: 94242, new: false
+[ClickButtonLog] [2022-02-05T19:43:50.5542643] Clicked: 9157, new: false
+[ClickButtonLog] [2022-02-05T19:43:52.3734433] Clicked: 9157, new: false
+[ClickButtonLog] [2022-02-05T19:43:56.5868944] Clicked: 9157, new: false
+[ClickButtonLog] [2022-02-05T19:43:59.617471] Clicked: 9154, new: false
+[ClickButtonLog] [2022-02-05T19:44:23.1897778] Clicked: 9154, new: false

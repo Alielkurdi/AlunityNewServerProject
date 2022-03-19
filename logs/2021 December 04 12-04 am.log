@@ -1,0 +1,5 @@
+00:04:53.313 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+java.lang.NullPointerException: null
+	at io.alunity.Server.isDebug(Server.java:215)
+	at io.alunity.Server.lambda$main$0(Server.java:174)
+	at io.alunity.GameThread.run(GameThread.java:81)

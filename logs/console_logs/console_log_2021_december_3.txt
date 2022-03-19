@@ -1,0 +1,1823 @@
+22:18:11.166 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+22:18:11.564 [GameThread] INFO  org.flywaydb.core.internal.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+22:18:11.854 [GameThread] INFO  org.flywaydb.core.internal.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+22:18:11.987 [GameThread] INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.025s)
+22:18:12.004 [GameThread] INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+22:18:12.006 [GameThread] INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+22:18:18.415 [GameThread] INFO  io.alunity.model.controller.ControllerRepository - Loaded 7 controllers.
+22:18:18.450 [GameThread] INFO  io.alunity.model.entity.player.mode.group.GroupIronmanRepository - Loaded 0 group ironman groups.
+22:18:19.080 [GameThread] INFO  io.alunity.model.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+22:18:19.992 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+22:18:20.153 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+[03/12/2021, 22:18]: Loaded 3118 NPC Combat definitions...
+[03/12/2021, 22:18]: Finished loading all punishments.
+[03/12/2021, 22:18]: Loaded 73 door definitions.
+[03/12/2021, 22:18]: Vote Panel Manager has 45h 51m 46s remaining.
+[03/12/2021, 22:18]: Loaded 8 default tourney setups.
+[03/12/2021, 22:18]: Total objects: 37952
+[03/12/2021, 22:18]: 37952 Object definitions loaded.
+[03/12/2021, 22:18]: Loading mapdata..
+22:18:35.681 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.PlayerSave - Saved 0 online users.
+[03/12/2021, 22:18]: Alunity has successfully started up in 25 seconds.
+22:18:37.321 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+[03/12/2021, 22:18]: INCOMING
+22:18:37.590 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.internal.requests.WebSocketClient - Connected to WebSocket
+22:18:37.834 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+22:18:37.878 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+22:18:37.878 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+22:18:59.949 [pool-9-thread-1] ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:174)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:130)
+	at io.alunity.net.login.RS2LoginProtocol.fetchDisplayName(RS2LoginProtocol.java:593)
+	at io.alunity.net.login.RS2LoginProtocol.loadPlayer(RS2LoginProtocol.java:558)
+	at io.alunity.net.login.RS2LoginProtocol.login(RS2LoginProtocol.java:471)
+	at io.alunity.net.login.RS2LoginProtocol.decode(RS2LoginProtocol.java:313)
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:504)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 47 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 50 common frames omitted
+22:18:59.949 [pool-9-thread-1] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.sql.displayname.GetDisplayNameSqlQuery@108331e2
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:174)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:130)
+	at io.alunity.net.login.RS2LoginProtocol.fetchDisplayName(RS2LoginProtocol.java:593)
+	at io.alunity.net.login.RS2LoginProtocol.loadPlayer(RS2LoginProtocol.java:558)
+	at io.alunity.net.login.RS2LoginProtocol.login(RS2LoginProtocol.java:471)
+	at io.alunity.net.login.RS2LoginProtocol.decode(RS2LoginProtocol.java:313)
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:504)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 39 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 47 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 50 common frames omitted
+22:18:59.965 [pool-9-thread-1] ERROR io.alunity.net.login.RS2LoginProtocol - Error during login finalization.
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:174)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:130)
+	at io.alunity.net.login.RS2LoginProtocol.fetchDisplayName(RS2LoginProtocol.java:593)
+	at io.alunity.net.login.RS2LoginProtocol.loadPlayer(RS2LoginProtocol.java:558)
+	at io.alunity.net.login.RS2LoginProtocol.login(RS2LoginProtocol.java:471)
+	at io.alunity.net.login.RS2LoginProtocol.decode(RS2LoginProtocol.java:313)
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:504)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 39 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 47 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 50 common frames omitted
+22:18:59.965 [pool-9-thread-1] INFO  io.alunity.net.login.RS2LoginProtocol - Login rejected with code ERROR_OCCURRED_ON_PLAYER_LOAD for player player[loginName=scott, displayName=null, ip=127.0.0.1, mac=127.0.0.1, uuid=c9688532-e26b-4cb9-923f-72332e66c622] 
+22:19:06.697 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=4ms, handshakes-per-tick=0, memory=296.4 MB/638 MB]
+[03/12/2021, 22:19]: INCOMING
+22:19:20.944 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+22:19:21.069 [pool-9-thread-2] INFO  io.alunity.net.login.RS2LoginProtocol - Player login queued [name=scott, mac=, ip=127.0.0.1:62658, time=156ms]
+22:19:36.964 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=492.9 MB/638 MB]
+22:20:07.229 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=451.2 MB/638 MB]
+22:20:37.499 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=392.6 MB/638 MB]
+22:21:07.710 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=328.5 MB/638 MB]
+22:21:37.858 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=516.2 MB/638 MB]
+22:22:08.049 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=445.5 MB/638 MB]
+22:22:38.262 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.4 MB/638 MB]
+22:23:08.265 [database-manager-3] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$527/0x000000080106e440@3f657263
+java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 30001ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:695)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:197)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:162)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at io.alunity.sql.HikariConnectionProvider.getConnection(HikariConnectionProvider.java:24)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:117)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:725)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:711)
+	... 4 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 14 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 17 common frames omitted
+22:23:08.266 [database-manager-3] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$527/0x000000080106e440@3f657263
+java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 30001ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:695)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:197)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:162)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at io.alunity.sql.HikariConnectionProvider.getConnection(HikariConnectionProvider.java:24)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:117)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:725)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:711)
+	... 4 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 14 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 17 common frames omitted
+22:23:08.487 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=297.9 MB/638 MB]
+22:23:38.637 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=485.9 MB/638 MB]
+22:24:08.817 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=412.4 MB/638 MB]
+22:24:38.961 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=339.2 MB/638 MB]
+22:25:09.130 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=527.4 MB/638 MB]
+22:25:39.352 [GameThread] INFO  io.alunity.GameThread - Status [runtime=7m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=453.7 MB/638 MB]
+22:26:09.562 [GameThread] INFO  io.alunity.GameThread - Status [runtime=7m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=380.9 MB/638 MB]
+22:26:39.798 [GameThread] INFO  io.alunity.GameThread - Status [runtime=8m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=307.4 MB/638 MB]
+22:27:10.070 [GameThread] INFO  io.alunity.GameThread - Status [runtime=8m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=495.4 MB/638 MB]
+22:27:40.278 [GameThread] INFO  io.alunity.GameThread - Status [runtime=9m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=423.2 MB/638 MB]
+22:28:10.387 [GameThread] INFO  io.alunity.GameThread - Status [runtime=9m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=350.4 MB/638 MB]
+22:28:40.472 [GameThread] INFO  io.alunity.GameThread - Status [runtime=10m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=539.2 MB/638 MB]
+22:29:10.554 [GameThread] INFO  io.alunity.GameThread - Status [runtime=10m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=466.6 MB/638 MB]
+22:29:40.682 [GameThread] INFO  io.alunity.GameThread - Status [runtime=11m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=385.1 MB/638 MB]
+22:30:10.762 [GameThread] INFO  io.alunity.GameThread - Status [runtime=11m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=301.6 MB/638 MB]
+22:30:40.839 [GameThread] INFO  io.alunity.GameThread - Status [runtime=12m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=489.7 MB/638 MB]
+22:31:10.911 [GameThread] INFO  io.alunity.GameThread - Status [runtime=12m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=406.4 MB/638 MB]
+22:31:40.989 [GameThread] INFO  io.alunity.GameThread - Status [runtime=13m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=323.2 MB/638 MB]
+22:32:11.067 [GameThread] INFO  io.alunity.GameThread - Status [runtime=13m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=511.3 MB/638 MB]
+22:32:41.145 [GameThread] INFO  io.alunity.GameThread - Status [runtime=14m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=428.1 MB/638 MB]
+22:33:11.214 [GameThread] INFO  io.alunity.GameThread - Status [runtime=14m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=344.9 MB/638 MB]
+22:33:35.815 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.PlayerSave - Saved 1 online users.
+22:33:35.817 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+22:33:35.926 [player-save-backup-0] ERROR io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+22:33:35.968 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-03T22_33_35.8151788.zip 
+22:33:36.049 [player-save-backup-0] WARN  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+22:33:36.049 [player-save-backup-0] WARN  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+22:33:41.295 [GameThread] INFO  io.alunity.GameThread - Status [runtime=15m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=536.3 MB/638 MB]
+22:34:11.428 [GameThread] INFO  io.alunity.GameThread - Status [runtime=15m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=453 MB/638 MB]
+22:34:41.501 [GameThread] INFO  io.alunity.GameThread - Status [runtime=16m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=370.7 MB/638 MB]
+22:35:11.587 [GameThread] INFO  io.alunity.GameThread - Status [runtime=16m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=558.4 MB/638 MB]
+22:35:41.665 [GameThread] INFO  io.alunity.GameThread - Status [runtime=17m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=475.2 MB/638 MB]
+22:36:11.744 [GameThread] INFO  io.alunity.GameThread - Status [runtime=17m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=391.7 MB/638 MB]
+22:36:41.827 [GameThread] INFO  io.alunity.GameThread - Status [runtime=18m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=308.1 MB/638 MB]
+22:37:11.904 [GameThread] INFO  io.alunity.GameThread - Status [runtime=18m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=496.1 MB/638 MB]
+22:37:41.978 [GameThread] INFO  io.alunity.GameThread - Status [runtime=19m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=412.5 MB/638 MB]
+22:38:12.061 [GameThread] INFO  io.alunity.GameThread - Status [runtime=19m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=328.4 MB/638 MB]
+22:38:42.139 [GameThread] INFO  io.alunity.GameThread - Status [runtime=20m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=517.3 MB/638 MB]
+22:39:12.217 [GameThread] INFO  io.alunity.GameThread - Status [runtime=20m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=432.1 MB/638 MB]
+22:39:42.295 [GameThread] INFO  io.alunity.GameThread - Status [runtime=21m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=347.9 MB/638 MB]
+22:40:12.377 [GameThread] INFO  io.alunity.GameThread - Status [runtime=21m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=535.6 MB/638 MB]
+22:40:42.445 [GameThread] INFO  io.alunity.GameThread - Status [runtime=22m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=450.7 MB/638 MB]
+22:41:12.531 [GameThread] INFO  io.alunity.GameThread - Status [runtime=22m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=365.4 MB/638 MB]
+22:41:42.601 [GameThread] INFO  io.alunity.GameThread - Status [runtime=23m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=553.4 MB/638 MB]
+22:42:12.685 [GameThread] INFO  io.alunity.GameThread - Status [runtime=23m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=469 MB/638 MB]
+22:42:42.771 [GameThread] INFO  io.alunity.GameThread - Status [runtime=24m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=385.3 MB/638 MB]
+22:43:12.856 [GameThread] INFO  io.alunity.GameThread - Status [runtime=24m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=301.7 MB/638 MB]
+22:43:42.934 [GameThread] INFO  io.alunity.GameThread - Status [runtime=25m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=490 MB/638 MB]
+22:44:13.013 [GameThread] INFO  io.alunity.GameThread - Status [runtime=25m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=405.7 MB/638 MB]
+22:44:43.080 [GameThread] INFO  io.alunity.GameThread - Status [runtime=26m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=322.7 MB/638 MB]
+22:45:13.157 [GameThread] INFO  io.alunity.GameThread - Status [runtime=26m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=510.2 MB/638 MB]
+22:45:43.237 [GameThread] INFO  io.alunity.GameThread - Status [runtime=27m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=425.9 MB/638 MB]
+22:46:13.321 [GameThread] INFO  io.alunity.GameThread - Status [runtime=27m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=341.9 MB/638 MB]
+22:46:43.408 [GameThread] INFO  io.alunity.GameThread - Status [runtime=28m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=530.3 MB/638 MB]
+22:47:13.489 [GameThread] INFO  io.alunity.GameThread - Status [runtime=28m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=446.2 MB/638 MB]
+22:47:43.570 [GameThread] INFO  io.alunity.GameThread - Status [runtime=29m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=363 MB/638 MB]
+22:48:13.810 [GameThread] INFO  io.alunity.GameThread - Status [runtime=29m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=551 MB/638 MB]
+22:48:35.778 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.PlayerSave - Saved 1 online users.
+22:48:44.080 [GameThread] INFO  io.alunity.GameThread - Status [runtime=30m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=468.9 MB/638 MB]
+22:49:14.455 [GameThread] INFO  io.alunity.GameThread - Status [runtime=30m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=385.2 MB/638 MB]
+22:49:44.751 [GameThread] INFO  io.alunity.GameThread - Status [runtime=31m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=301.6 MB/638 MB]
+22:50:15.065 [GameThread] INFO  io.alunity.GameThread - Status [runtime=31m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=490.6 MB/638 MB]
+22:50:45.311 [GameThread] INFO  io.alunity.GameThread - Status [runtime=32m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=406.6 MB/638 MB]
+22:51:15.583 [GameThread] INFO  io.alunity.GameThread - Status [runtime=32m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=322.6 MB/638 MB]
+22:51:45.865 [GameThread] INFO  io.alunity.GameThread - Status [runtime=33m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=510.9 MB/638 MB]
+22:52:16.188 [GameThread] INFO  io.alunity.GameThread - Status [runtime=33m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=428.2 MB/638 MB]
+22:52:46.439 [GameThread] INFO  io.alunity.GameThread - Status [runtime=34m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=343.6 MB/638 MB]
+22:53:16.746 [GameThread] INFO  io.alunity.GameThread - Status [runtime=34m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=531.8 MB/638 MB]
+22:53:47.002 [GameThread] INFO  io.alunity.GameThread - Status [runtime=35m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=448.6 MB/638 MB]
+22:54:17.291 [GameThread] INFO  io.alunity.GameThread - Status [runtime=35m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=363.6 MB/638 MB]
+22:54:47.555 [GameThread] INFO  io.alunity.GameThread - Status [runtime=36m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=552.4 MB/638 MB]
+22:55:17.748 [GameThread] INFO  io.alunity.GameThread - Status [runtime=36m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=469 MB/638 MB]
+22:55:48.043 [GameThread] INFO  io.alunity.GameThread - Status [runtime=37m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=385.5 MB/638 MB]
+22:56:18.173 [GameThread] INFO  io.alunity.GameThread - Status [runtime=37m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=301.6 MB/638 MB]
+22:56:48.254 [GameThread] INFO  io.alunity.GameThread - Status [runtime=38m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=490.1 MB/638 MB]
+22:57:18.340 [GameThread] INFO  io.alunity.GameThread - Status [runtime=38m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=406 MB/638 MB]
+22:57:48.424 [GameThread] INFO  io.alunity.GameThread - Status [runtime=39m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=322.3 MB/638 MB]
+22:58:18.514 [GameThread] INFO  io.alunity.GameThread - Status [runtime=39m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=510.3 MB/638 MB]
+22:58:48.587 [GameThread] INFO  io.alunity.GameThread - Status [runtime=40m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=426.5 MB/638 MB]
+22:59:18.672 [GameThread] INFO  io.alunity.GameThread - Status [runtime=40m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=344.5 MB/638 MB]
+22:59:48.750 [GameThread] INFO  io.alunity.GameThread - Status [runtime=41m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=532.3 MB/638 MB]
+23:00:18.825 [GameThread] INFO  io.alunity.GameThread - Status [runtime=41m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=449.2 MB/638 MB]
+23:00:48.903 [GameThread] INFO  io.alunity.GameThread - Status [runtime=42m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=365.6 MB/638 MB]
+23:01:18.968 [GameThread] INFO  io.alunity.GameThread - Status [runtime=42m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=554.1 MB/638 MB]
+23:01:49.103 [GameThread] INFO  io.alunity.GameThread - Status [runtime=43m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=470.6 MB/638 MB]
+23:02:19.186 [GameThread] INFO  io.alunity.GameThread - Status [runtime=43m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=386.8 MB/638 MB]
+23:02:49.266 [GameThread] INFO  io.alunity.GameThread - Status [runtime=44m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=302.7 MB/638 MB]
+23:03:19.341 [GameThread] INFO  io.alunity.GameThread - Status [runtime=44m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=490.9 MB/638 MB]
+23:03:35.787 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.PlayerSave - Saved 1 online users.
+23:03:35.787 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+23:03:35.848 [player-save-backup-0] ERROR io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+23:03:35.877 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-03T23_03_35.7878272.zip 
+23:03:35.885 [player-save-backup-0] WARN  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+23:03:35.885 [player-save-backup-0] WARN  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+23:03:49.418 [GameThread] INFO  io.alunity.GameThread - Status [runtime=45m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=408.1 MB/638 MB]
+23:04:19.495 [GameThread] INFO  io.alunity.GameThread - Status [runtime=45m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=324.1 MB/638 MB]
+23:04:49.584 [GameThread] INFO  io.alunity.GameThread - Status [runtime=46m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=512.5 MB/638 MB]
+23:05:19.725 [GameThread] INFO  io.alunity.GameThread - Status [runtime=46m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=428.6 MB/638 MB]
+23:05:49.864 [GameThread] INFO  io.alunity.GameThread - Status [runtime=47m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=345.8 MB/638 MB]
+23:06:19.942 [GameThread] INFO  io.alunity.GameThread - Status [runtime=47m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=533.5 MB/638 MB]
+23:06:50.025 [GameThread] INFO  io.alunity.GameThread - Status [runtime=48m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=450.9 MB/638 MB]
+23:07:20.105 [GameThread] INFO  io.alunity.GameThread - Status [runtime=48m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=366.1 MB/638 MB]
+23:07:50.189 [GameThread] INFO  io.alunity.GameThread - Status [runtime=49m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=555.1 MB/638 MB]
+23:08:20.359 [GameThread] INFO  io.alunity.GameThread - Status [runtime=49m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=471 MB/638 MB]
+23:08:50.430 [GameThread] INFO  io.alunity.GameThread - Status [runtime=50m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=387.4 MB/638 MB]
+23:09:20.505 [GameThread] INFO  io.alunity.GameThread - Status [runtime=50m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=303.7 MB/638 MB]
+23:09:50.576 [GameThread] INFO  io.alunity.GameThread - Status [runtime=51m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=492.1 MB/638 MB]
+23:10:20.658 [GameThread] INFO  io.alunity.GameThread - Status [runtime=51m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=408.2 MB/638 MB]
+23:10:50.735 [GameThread] INFO  io.alunity.GameThread - Status [runtime=52m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=323.9 MB/638 MB]
+23:11:20.816 [GameThread] INFO  io.alunity.GameThread - Status [runtime=52m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=512.4 MB/638 MB]
+23:11:50.896 [GameThread] INFO  io.alunity.GameThread - Status [runtime=53m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=428.2 MB/638 MB]
+23:12:20.967 [GameThread] INFO  io.alunity.GameThread - Status [runtime=53m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=344.1 MB/638 MB]
+23:12:51.047 [GameThread] INFO  io.alunity.GameThread - Status [runtime=54m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=533.1 MB/638 MB]
+23:13:21.130 [GameThread] INFO  io.alunity.GameThread - Status [runtime=54m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=449.3 MB/638 MB]
+23:13:51.199 [GameThread] INFO  io.alunity.GameThread - Status [runtime=55m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=366.4 MB/638 MB]
+23:14:21.275 [GameThread] INFO  io.alunity.GameThread - Status [runtime=55m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=554.5 MB/638 MB]
+23:14:51.363 [GameThread] INFO  io.alunity.GameThread - Status [runtime=56m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=472.3 MB/638 MB]
+23:15:21.434 [GameThread] INFO  io.alunity.GameThread - Status [runtime=56m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=387.7 MB/638 MB]
+23:15:51.514 [GameThread] INFO  io.alunity.GameThread - Status [runtime=57m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=304.4 MB/638 MB]
+23:16:21.594 [GameThread] INFO  io.alunity.GameThread - Status [runtime=57m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=492.1 MB/638 MB]
+23:16:51.673 [GameThread] INFO  io.alunity.GameThread - Status [runtime=58m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=407.7 MB/638 MB]
+23:17:21.748 [GameThread] INFO  io.alunity.GameThread - Status [runtime=58m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=323.8 MB/638 MB]
+23:17:51.907 [GameThread] INFO  io.alunity.GameThread - Status [runtime=59m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=512.7 MB/638 MB]
+23:18:22.235 [GameThread] INFO  io.alunity.GameThread - Status [runtime=59m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=427.9 MB/638 MB]
+23:18:35.795 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.PlayerSave - Saved 1 online users.
+23:18:52.505 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=344.8 MB/638 MB]
+23:19:22.798 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 00m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=533.9 MB/638 MB]
+23:19:53.081 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 01m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=449.6 MB/638 MB]
+23:20:23.331 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 01m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=365 MB/638 MB]
+23:20:53.615 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 02m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=552.8 MB/638 MB]
+23:21:23.920 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 02m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=469.4 MB/638 MB]
+23:21:54.200 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 03m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=385.6 MB/638 MB]
+23:22:24.499 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 03m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=301.6 MB/638 MB]
+23:22:54.768 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 04m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=489.3 MB/638 MB]
+23:23:25.099 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 04m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=405.7 MB/638 MB]
+23:23:55.364 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 05m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=322.1 MB/638 MB]
+23:24:25.671 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 05m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=510.2 MB/638 MB]
+23:24:55.980 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 06m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=426.5 MB/638 MB]
+23:25:25.993 [database-manager-60] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$527/0x000000080106e440@45adc550
+java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 30013ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:695)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:197)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:162)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at io.alunity.sql.HikariConnectionProvider.getConnection(HikariConnectionProvider.java:24)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:117)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:725)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:711)
+	... 4 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor29.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 14 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 17 common frames omitted
+23:25:25.994 [database-manager-60] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$527/0x000000080106e440@45adc550
+java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 30013ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:695)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:197)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:162)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at io.alunity.sql.HikariConnectionProvider.getConnection(HikariConnectionProvider.java:24)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:117)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:725)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:711)
+	... 4 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor29.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 14 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 17 common frames omitted
+23:25:26.250 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 06m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=342 MB/638 MB]
+23:25:56.489 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 07m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=530 MB/638 MB]
+23:26:26.500 [database-manager-60] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$527/0x000000080106e440@4192593d
+java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 30001ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:695)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:197)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:162)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at io.alunity.sql.HikariConnectionProvider.getConnection(HikariConnectionProvider.java:24)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:117)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:725)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:711)
+	... 4 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor29.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 14 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 17 common frames omitted
+23:26:26.501 [database-manager-60] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$527/0x000000080106e440@4192593d
+java.sql.SQLTransientConnectionException: HikariPool-2 - Connection is not available, request timed out after 30001ms.
+	at com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:695)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:197)
+	at com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:162)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:100)
+	at io.alunity.sql.HikariConnectionProvider.getConnection(HikariConnectionProvider.java:24)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:117)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:725)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:711)
+	... 4 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.GeneratedConstructorAccessor29.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 14 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 17 common frames omitted
+23:26:26.775 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 07m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=445 MB/638 MB]
+23:26:57.037 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 08m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=361.6 MB/638 MB]
+23:27:27.284 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 08m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=549 MB/638 MB]
+23:27:57.527 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 09m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=465.1 MB/638 MB]
+23:28:27.720 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 09m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=381.6 MB/638 MB]
+23:28:57.853 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 10m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=569.6 MB/638 MB]
+23:29:28.315 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 10m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=485.8 MB/638 MB]
+23:29:58.442 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 11m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=402.1 MB/638 MB]
+23:30:28.691 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 11m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=317.7 MB/638 MB]
+23:30:59.011 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 12m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=505.9 MB/638 MB]
+23:31:29.134 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 12m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=421.9 MB/638 MB]
+23:31:59.279 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 13m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=337.8 MB/638 MB]
+23:32:29.455 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 13m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=525.5 MB/638 MB]
+23:32:59.752 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 14m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=441.4 MB/638 MB]
+23:33:29.975 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 14m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=357.7 MB/638 MB]
+23:33:35.804 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.PlayerSave - Saved 1 online users.
+23:33:35.805 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+23:33:35.840 [player-save-backup-0] ERROR io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+23:33:35.871 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-03T23_33_35.8059693.zip 
+23:33:35.905 [player-save-backup-0] WARN  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+23:33:35.905 [player-save-backup-0] WARN  io.alunity.model.entity.player.save.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+23:34:00.083 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 15m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=546.6 MB/638 MB]
+23:34:30.288 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 15m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=462.6 MB/638 MB]
+23:35:00.431 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 16m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=379.3 MB/638 MB]
+23:35:30.733 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 16m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=567.2 MB/638 MB]
+23:36:00.902 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 17m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=483.7 MB/638 MB]
+23:36:31.063 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 17m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=400 MB/638 MB]
+23:37:01.275 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 18m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=316 MB/638 MB]
+23:37:31.461 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 18m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=505 MB/638 MB]
+23:38:01.977 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 19m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=421.4 MB/638 MB]
+23:38:32.277 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 19m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=338.4 MB/638 MB]
+23:39:02.718 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 20m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=526.8 MB/638 MB]
+23:39:33.036 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 20m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=442.9 MB/638 MB]
+23:40:03.367 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 21m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=359.3 MB/638 MB]
+23:40:33.613 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 21m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=548 MB/638 MB]
+23:41:03.890 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 22m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=464.2 MB/638 MB]
+23:41:34.256 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 22m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=381.3 MB/638 MB]
+23:42:04.642 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 23m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=569.6 MB/638 MB]
+23:42:35.017 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 23m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=486.5 MB/638 MB]
+23:43:05.337 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 24m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=403.4 MB/638 MB]
+23:44:39.928 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+com.fasterxml.jackson.databind.JsonMappingException: while parsing a block mapping
+ in 'reader', line 16, column 3:
+      url: "jdbc:mysql://92.204.221.12 ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 18, column 28:
+      password: "e&{51EbB4O.m" //im trust you fully you can go  ... 
+                               ^
+
+ at [Source: (File); line: 18, column: 13] (through reference chain: io.alunity.ServerConfiguration["hiscores_database"])
+	at com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:394)
+	at com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:353)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.wrapAndThrow(BeanDeserializerBase.java:1714)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:290)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:151)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4202)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3070)
+	at io.alunity.util.JsonUtil.fromYaml(JsonUtil.java:124)
+	at io.alunity.Server.loadConfiguration(Server.java:240)
+	at io.alunity.Server.lambda$main$0(Server.java:173)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: com.fasterxml.jackson.dataformat.yaml.snakeyaml.error.MarkedYAMLException: while parsing a block mapping
+ in 'reader', line 16, column 3:
+      url: "jdbc:mysql://92.204.221.12 ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 18, column 28:
+      password: "e&{51EbB4O.m" //im trust you fully you can go  ... 
+                               ^
+
+ at [Source: (File); line: 18, column: 27]
+	at com.fasterxml.jackson.dataformat.yaml.snakeyaml.error.MarkedYAMLException.from(MarkedYAMLException.java:27)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLParser.nextToken(YAMLParser.java:359)
+	at com.fasterxml.jackson.core.JsonParser.nextFieldName(JsonParser.java:861)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:295)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:151)
+	at com.fasterxml.jackson.databind.deser.impl.FieldProperty.deserializeAndSet(FieldProperty.java:138)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:288)
+	... 7 common frames omitted
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 16, column 3:
+      url: "jdbc:mysql://92.204.221.12 ... 
+      ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 18, column 28:
+      password: "e&{51EbB4O.m" //im trust you fully you can go  ... 
+                               ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:572)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158)
+	at org.yaml.snakeyaml.parser.ParserImpl.getEvent(ParserImpl.java:168)
+	at com.fasterxml.jackson.dataformat.yaml.YAMLParser.nextToken(YAMLParser.java:355)
+	... 12 common frames omitted
+23:45:11.372 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+[03/12/2021, 23:45]: DEbugging shiez....
+23:45:11.765 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+java.lang.IllegalArgumentException: Illegal character in opaque part at index 8: derby:C:\Users\Administrator/public_main;create=true
+	at java.base/java.net.URI.create(URI.java:906)
+	at io.alunity.sql.DatabaseCredentials.getURI(DatabaseCredentials.java:27)
+	at io.alunity.sql.DatabaseCredentials.getName(DatabaseCredentials.java:31)
+	at io.alunity.Server.loadData(Server.java:134)
+	at io.alunity.Server.lambda$main$0(Server.java:180)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 8: derby:C:\Users\Administrator/public_main;create=true
+	at java.base/java.net.URI$Parser.fail(URI.java:2938)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3109)
+	at java.base/java.net.URI$Parser.parse(URI.java:3145)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URI.create(URI.java:904)
+	... 5 common frames omitted
+23:46:44.914 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+[03/12/2021, 23:46]: DEbugging shiez....
+23:46:45.174 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+java.lang.IllegalArgumentException: Illegal character in opaque part at index 8: derby:C:\Users\Administrator/public_main;create=true
+	at java.base/java.net.URI.create(URI.java:906)
+	at io.alunity.sql.DatabaseCredentials.getURI(DatabaseCredentials.java:27)
+	at io.alunity.sql.DatabaseCredentials.getName(DatabaseCredentials.java:31)
+	at io.alunity.Server.loadData(Server.java:134)
+	at io.alunity.Server.lambda$main$0(Server.java:180)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 8: derby:C:\Users\Administrator/public_main;create=true
+	at java.base/java.net.URI$Parser.fail(URI.java:2938)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3109)
+	at java.base/java.net.URI$Parser.parse(URI.java:3145)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URI.create(URI.java:904)
+	... 5 common frames omitted
+23:48:26.792 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+[03/12/2021, 23:48]: DEbugging shiez....
+23:48:27.075 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+java.lang.IllegalArgumentException: Illegal character in opaque part at index 8: derby:C:\Users\Administrator/public_main;create=true
+	at java.base/java.net.URI.create(URI.java:906)
+	at io.alunity.sql.DatabaseCredentials.getURI(DatabaseCredentials.java:27)
+	at io.alunity.sql.DatabaseCredentials.getName(DatabaseCredentials.java:31)
+	at io.alunity.Server.loadData(Server.java:134)
+	at io.alunity.Server.lambda$main$0(Server.java:179)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: java.net.URISyntaxException: Illegal character in opaque part at index 8: derby:C:\Users\Administrator/public_main;create=true
+	at java.base/java.net.URI$Parser.fail(URI.java:2938)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3109)
+	at java.base/java.net.URI$Parser.parse(URI.java:3145)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URI.create(URI.java:904)
+	... 5 common frames omitted
+23:50:07.193 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+23:50:07.492 [GameThread] INFO  org.flywaydb.core.internal.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+23:50:07.782 [GameThread] INFO  org.flywaydb.core.internal.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+23:50:07.902 [GameThread] INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.022s)
+23:50:07.918 [GameThread] INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+23:50:07.922 [GameThread] INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+23:50:10.131 [GameThread] INFO  io.alunity.model.controller.ControllerRepository - Loaded 7 controllers.
+23:50:10.166 [GameThread] INFO  io.alunity.model.entity.player.mode.group.GroupIronmanRepository - Loaded 0 group ironman groups.
+23:50:10.451 [GameThread] INFO  io.alunity.model.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+23:50:11.204 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+23:50:11.318 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+[03/12/2021, 23:50]: Loaded 3118 NPC Combat definitions...
+[03/12/2021, 23:50]: Finished loading all punishments.
+[03/12/2021, 23:50]: Loaded 73 door definitions.
+[03/12/2021, 23:50]: Vote Panel Manager has 44h 19m 54s remaining.
+[03/12/2021, 23:50]: Loaded 8 default tourney setups.
+[03/12/2021, 23:50]: Total objects: 37952
+[03/12/2021, 23:50]: 37952 Object definitions loaded.
+[03/12/2021, 23:50]: Loading mapdata..
+23:50:27.459 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.PlayerSave - Saved 0 online users.
+[03/12/2021, 23:50]: Alunity has successfully started up in 22 seconds.
+23:50:30.471 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+23:50:30.786 [JDA MainWS-WriteThread] INFO  net.dv8tion.jda.internal.requests.WebSocketClient - Connected to WebSocket
+23:50:31.039 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+23:50:31.091 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+23:50:58.587 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=11ms, handshakes-per-tick=0, memory=461.2 MB/619 MB]
+23:51:23.930 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+[03/12/2021, 23:51]: I am not null!
+23:51:24.323 [GameThread] INFO  org.flywaydb.core.internal.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+23:51:24.588 [GameThread] INFO  org.flywaydb.core.internal.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+23:51:24.708 [GameThread] INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.023s)
+23:51:24.723 [GameThread] INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+23:51:24.723 [GameThread] INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+[03/12/2021, 23:51]: I am here somehow!
+23:51:26.779 [GameThread] INFO  io.alunity.model.controller.ControllerRepository - Loaded 7 controllers.
+23:51:26.815 [GameThread] INFO  io.alunity.model.entity.player.mode.group.GroupIronmanRepository - Loaded 0 group ironman groups.
+23:51:27.078 [GameThread] INFO  io.alunity.model.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+23:51:27.796 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+23:51:27.931 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+[03/12/2021, 23:51]: Loaded 3118 NPC Combat definitions...
+[03/12/2021, 23:51]: Finished loading all punishments.
+[03/12/2021, 23:51]: Loaded 73 door definitions.
+[03/12/2021, 23:51]: Vote Panel Manager has 44h 18m 38s remaining.
+[03/12/2021, 23:51]: Loaded 8 default tourney setups.
+[03/12/2021, 23:51]: Total objects: 37952
+[03/12/2021, 23:51]: 37952 Object definitions loaded.
+[03/12/2021, 23:51]: Loading mapdata..
+23:51:42.817 [player-save-backup-0] INFO  io.alunity.model.entity.player.save.PlayerSave - Saved 0 online users.
+[03/12/2021, 23:51]: Alunity has successfully started up in 19 seconds.
+23:51:44.331 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+23:51:44.585 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.internal.requests.WebSocketClient - Connected to WebSocket
+23:51:44.795 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+23:51:44.828 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+23:52:12.905 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=12ms, handshakes-per-tick=0, memory=471.3 MB/632 MB]
+23:52:42.995 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=445.5 MB/632 MB]
+23:53:05.031 [database-manager-0] ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:53:05.034 [database-manager-0] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$423/0x0000000800fb1040@1f911aad
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 10 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:53:05.036 [database-manager-0] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$423/0x0000000800fb1040@1f911aad
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 10 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:53:13.063 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=403.3 MB/632 MB]
+23:53:43.144 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=345.3 MB/632 MB]
+23:54:05.148 [database-manager-0] ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:54:05.150 [database-manager-0] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$423/0x0000000800fb1040@3db2009
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 10 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:54:05.151 [database-manager-0] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$423/0x0000000800fb1040@3db2009
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 10 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:54:13.261 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=533 MB/632 MB]
+23:54:43.439 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=467.7 MB/632 MB]
+23:55:05.445 [database-manager-0] ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:55:05.446 [database-manager-0] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$423/0x0000000800fb1040@148806ad
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 10 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:55:05.446 [database-manager-0] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$423/0x0000000800fb1040@148806ad
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 10 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:55:14.288 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=399.5 MB/632 MB]
+23:55:47.611 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=329.6 MB/632 MB]
+23:56:09.683 [database-manager-0] ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-4 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:56:09.684 [database-manager-0] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$423/0x0000000800fb1040@2f6dcd61
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 10 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:56:09.685 [database-manager-0] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}, query=io.alunity.model.cycleevent.impl.LeaderboardUpdateEvent$$Lambda$423/0x0000000800fb1040@2f6dcd61
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	... 10 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 18 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 21 common frames omitted
+23:56:18.092 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=516.5 MB/632 MB]
+23:56:48.358 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=444 MB/632 MB]
+23:57:10.287 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+23:57:10.687 [GameThread] INFO  org.flywaydb.core.internal.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+23:57:10.938 [GameThread] INFO  org.flywaydb.core.internal.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+23:57:11.059 [GameThread] INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.023s)
+23:57:11.076 [GameThread] INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+23:57:11.078 [GameThread] INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+23:57:13.232 [GameThread] INFO  io.alunity.model.controller.ControllerRepository - Loaded 7 controllers.
+23:57:13.267 [GameThread] INFO  io.alunity.model.entity.player.mode.group.GroupIronmanRepository - Loaded 0 group ironman groups.
+23:57:13.523 [GameThread] INFO  io.alunity.model.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+23:57:14.261 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+23:57:14.389 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+[03/12/2021, 23:57]: Loaded 3118 NPC Combat definitions...
+[03/12/2021, 23:57]: Finished loading all punishments.
+[03/12/2021, 23:57]: Loaded 73 door definitions.
+[03/12/2021, 23:57]: Vote Panel Manager has 44h 12m 51s remaining.
+[03/12/2021, 23:57]: Loaded 8 default tourney setups.
+[03/12/2021, 23:57]: Total objects: 37952
+[03/12/2021, 23:57]: 37952 Object definitions loaded.
+[03/12/2021, 23:57]: Loading mapdata..
+23:57:39.446 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+23:57:39.741 [GameThread] INFO  org.flywaydb.core.internal.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+23:58:00.899 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+	at io.alunity.Server.loadData(Server.java:138)
+	at io.alunity.Server.lambda$main$0(Server.java:176)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+	... 6 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 12 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 15 common frames omitted
+23:58:39.598 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+23:58:39.885 [GameThread] INFO  org.flywaydb.core.internal.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+23:59:01.027 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+	at io.alunity.Server.loadData(Server.java:139)
+	at io.alunity.Server.lambda$main$0(Server.java:177)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+	... 6 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 12 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 15 common frames omitted

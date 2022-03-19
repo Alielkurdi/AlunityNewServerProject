@@ -1,0 +1,1198 @@
+[2021-12-04T00:00:09.2034451] [2021-12-04T00:00:09.2004415] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 12:00:10 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 12:00:11 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 12:00:11 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 12:00:12 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 12:00:12 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 12:00:12 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 12:00:27 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 12:00:27 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 12:00:27 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 12:00:28 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 12:00:28 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 12:00:28 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T00:02:54.9101878] org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[2021-12-04T00:02:54.916264] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+[2021-12-04T00:02:54.916264] 	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+[2021-12-04T00:02:54.916264] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+[2021-12-04T00:02:54.9172629] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-12-04T00:02:54.9172629] 	at io.alunity.Server.loadData(Server.java:138)
+[2021-12-04T00:02:54.9172629] 	at io.alunity.Server.lambda$main$0(Server.java:176)
+[2021-12-04T00:02:54.9172629] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T00:02:54.9172629] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:02:54.9172629] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T00:02:54.9172629] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T00:02:54.9172629] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T00:02:54.9172629] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T00:02:54.9182631] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T00:02:54.9182631] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T00:02:54.9182631] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+[2021-12-04T00:02:54.9182631] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+[2021-12-04T00:02:54.9182631] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+[2021-12-04T00:02:54.9182631] 	... 6 more
+[2021-12-04T00:02:54.9182631] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:02:54.9182631] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T00:02:54.9192623] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T00:02:54.9192623] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T00:02:54.9192623] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T00:02:54.9192623] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T00:02:54.9192623] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T00:02:54.9192623] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T00:02:54.9192623] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T00:02:54.9192623] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T00:02:54.9192623] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T00:02:54.920258] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T00:02:54.920258] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T00:02:54.920258] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T00:02:54.920258] 	... 12 more
+[2021-12-04T00:02:54.920258] Caused by: java.net.ConnectException: Connection timed out: connect
+[2021-12-04T00:02:54.920258] 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[2021-12-04T00:02:54.920258] 	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+[2021-12-04T00:02:54.920258] 	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+[2021-12-04T00:02:54.920258] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+[2021-12-04T00:02:54.920258] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T00:02:54.920258] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T00:02:54.9212676] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T00:02:54.9212676] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T00:02:54.9212676] 	... 15 more
+[2021-12-04T00:03:37.5584783] org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[2021-12-04T00:03:37.5624789] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+[2021-12-04T00:03:37.5634829] 	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+[2021-12-04T00:03:37.5634829] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+[2021-12-04T00:03:37.5634829] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-12-04T00:03:37.5634829] 	at io.alunity.Server.loadData(Server.java:138)
+[2021-12-04T00:03:37.5644808] 	at io.alunity.Server.lambda$main$0(Server.java:176)
+[2021-12-04T00:03:37.5644808] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T00:03:37.5644808] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:03:37.5644808] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T00:03:37.5644808] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T00:03:37.5644808] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T00:03:37.5654803] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T00:03:37.5654803] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T00:03:37.5654803] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T00:03:37.5654803] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+[2021-12-04T00:03:37.5654803] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+[2021-12-04T00:03:37.5654803] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+[2021-12-04T00:03:37.5654803] 	... 6 more
+[2021-12-04T00:03:37.5664796] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:03:37.5664796] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T00:03:37.5664796] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T00:03:37.5664796] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T00:03:37.5664796] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T00:03:37.5664796] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T00:03:37.5674793] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T00:03:37.5674793] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T00:03:37.5674793] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T00:03:37.5674793] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T00:03:37.5674793] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T00:03:37.5674793] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T00:03:37.5684782] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T00:03:37.5684782] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T00:03:37.5684782] 	... 12 more
+[2021-12-04T00:03:37.5684782] Caused by: java.net.ConnectException: Connection timed out: connect
+[2021-12-04T00:03:37.5684782] 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[2021-12-04T00:03:37.5684782] 	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+[2021-12-04T00:03:37.5684782] 	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+[2021-12-04T00:03:37.5694791] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+[2021-12-04T00:03:37.5694791] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T00:03:37.5694791] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T00:03:37.5694791] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T00:03:37.5694791] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T00:03:37.5694791] 	... 15 more
+[2021-12-04T00:04:53.3169401] java.lang.NullPointerException
+[2021-12-04T00:04:53.3211393] 	at io.alunity.Server.isDebug(Server.java:215)
+[2021-12-04T00:04:53.3211393] 	at io.alunity.Server.lambda$main$0(Server.java:174)
+[2021-12-04T00:04:53.3211393] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T00:05:50.3857463] [2021-12-04T00:05:50.3817518] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 12:05:51 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 12:05:51 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 12:05:51 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 12:05:52 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 12:05:52 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 12:05:52 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 12:06:06 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 12:06:06 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 12:06:06 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 12:06:06 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 12:06:06 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 12:06:07 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T00:06:51.7549125] com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:06:51.7549125] 	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+[2021-12-04T00:06:51.7549125] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+[2021-12-04T00:06:51.7549125] 	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+[2021-12-04T00:06:51.7549125] 	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+[2021-12-04T00:06:51.7549125] 	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+[2021-12-04T00:06:51.7549125] 	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+[2021-12-04T00:06:51.7549125] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+[2021-12-04T00:06:51.7549125] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:129)
+[2021-12-04T00:06:51.7549125] 	at io.alunity.net.login.RS2LoginProtocol.fetchDisplayName(RS2LoginProtocol.java:593)
+[2021-12-04T00:06:51.7549125] 	at io.alunity.net.login.RS2LoginProtocol.loadPlayer(RS2LoginProtocol.java:558)
+[2021-12-04T00:06:51.7549125] 	at io.alunity.net.login.RS2LoginProtocol.login(RS2LoginProtocol.java:471)
+[2021-12-04T00:06:51.7549125] 	at io.alunity.net.login.RS2LoginProtocol.decode(RS2LoginProtocol.java:313)
+[2021-12-04T00:06:51.7549125] 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+[2021-12-04T00:06:51.7549125] 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+[2021-12-04T00:06:51.7549125] 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T00:06:51.7549125] 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T00:06:51.7549125] 	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:504)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+[2021-12-04T00:06:51.7549125] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+[2021-12-04T00:06:51.7549125] 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[2021-12-04T00:06:51.7549125] 	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-12-04T00:06:51.7549125] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:06:51.7549125] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T00:06:51.7549125] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T00:06:51.7549125] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T00:06:51.7549125] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T00:06:51.7549125] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T00:06:51.7549125] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T00:06:51.7705367] 	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+[2021-12-04T00:06:51.7705367] 	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+[2021-12-04T00:06:51.7705367] 	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+[2021-12-04T00:06:51.7705367] 	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+[2021-12-04T00:06:51.7705367] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+[2021-12-04T00:06:51.7705367] 	... 39 more
+[2021-12-04T00:06:51.7705367] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:06:51.7705367] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T00:06:51.7705367] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T00:06:51.7705367] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T00:06:51.7705367] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T00:06:51.7705367] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T00:06:51.7705367] 	... 47 more
+[2021-12-04T00:06:51.7705367] Caused by: java.net.ConnectException: Connection timed out: no further information
+[2021-12-04T00:06:51.7705367] 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+[2021-12-04T00:06:51.7705367] 	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+[2021-12-04T00:06:51.7705367] 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+[2021-12-04T00:06:51.7705367] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+[2021-12-04T00:06:51.7705367] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T00:06:51.7705367] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T00:06:51.7705367] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T00:06:51.7705367] 	... 50 more
+[2021-12-04T00:16:13.1532502] org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[2021-12-04T00:16:13.1577068] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+[2021-12-04T00:16:13.1577068] 	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+[2021-12-04T00:16:13.1577068] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+[2021-12-04T00:16:13.1577068] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-12-04T00:16:13.1577068] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-12-04T00:16:13.1577068] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-12-04T00:16:13.1587072] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T00:16:13.1587072] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:16:13.1587072] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T00:16:13.1587072] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T00:16:13.1587072] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T00:16:13.1587072] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T00:16:13.1587072] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T00:16:13.1587072] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T00:16:13.1587072] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+[2021-12-04T00:16:13.1597111] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+[2021-12-04T00:16:13.1597111] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+[2021-12-04T00:16:13.1597111] 	... 6 more
+[2021-12-04T00:16:13.1597111] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:16:13.1597111] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T00:16:13.1597111] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T00:16:13.1597111] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T00:16:13.1597111] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T00:16:13.1597111] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T00:16:13.1607084] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T00:16:13.1607084] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T00:16:13.1607084] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T00:16:13.1607084] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T00:16:13.1607084] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T00:16:13.1607084] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T00:16:13.1607084] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T00:16:13.1607084] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T00:16:13.1607084] 	... 12 more
+[2021-12-04T00:16:13.1607084] Caused by: java.net.ConnectException: Connection timed out: connect
+[2021-12-04T00:16:13.1617061] 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[2021-12-04T00:16:13.1617061] 	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+[2021-12-04T00:16:13.1617061] 	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+[2021-12-04T00:16:13.1617061] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+[2021-12-04T00:16:13.1617061] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T00:16:13.1617061] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T00:16:13.1617061] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T00:16:13.16271] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T00:16:13.16271] 	... 15 more
+[2021-12-04T00:17:33.5725816] org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[2021-12-04T00:17:33.5777911] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+[2021-12-04T00:17:33.5777911] 	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+[2021-12-04T00:17:33.5777911] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+[2021-12-04T00:17:33.5777911] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-12-04T00:17:33.5777911] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-12-04T00:17:33.5777911] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-12-04T00:17:33.5777911] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T00:17:33.5787908] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:17:33.5787908] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T00:17:33.5787908] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T00:17:33.5787908] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T00:17:33.5787908] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T00:17:33.5787908] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T00:17:33.5787908] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T00:17:33.5787908] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+[2021-12-04T00:17:33.5787908] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+[2021-12-04T00:17:33.5797893] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+[2021-12-04T00:17:33.5797893] 	... 6 more
+[2021-12-04T00:17:33.5797893] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:17:33.5797893] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T00:17:33.5797893] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T00:17:33.5797893] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T00:17:33.5797893] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T00:17:33.5797893] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T00:17:33.5807919] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T00:17:33.5807919] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T00:17:33.5807919] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T00:17:33.5807919] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T00:17:33.5807919] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T00:17:33.5807919] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T00:17:33.5807919] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T00:17:33.5807919] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T00:17:33.5817911] 	... 12 more
+[2021-12-04T00:17:33.5817911] Caused by: java.net.ConnectException: Connection timed out: connect
+[2021-12-04T00:17:33.5817911] 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[2021-12-04T00:17:33.5817911] 	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+[2021-12-04T00:17:33.5817911] 	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+[2021-12-04T00:17:33.5817911] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+[2021-12-04T00:17:33.5817911] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T00:17:33.5817911] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T00:17:33.5817911] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T00:17:33.5827922] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T00:17:33.5827922] 	... 15 more
+[2021-12-04T00:18:12.7696314] [2021-12-04T00:18:12.7666357] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 12:18:13 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 12:18:14 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 12:18:14 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 12:18:14 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 12:18:14 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 12:18:14 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 12:18:29 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 12:18:29 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 12:18:29 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 12:18:29 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 12:18:29 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 12:18:29 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T00:20:42.7696495] org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[2021-12-04T00:20:42.7744345] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+[2021-12-04T00:20:42.7744345] 	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+[2021-12-04T00:20:42.7744345] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+[2021-12-04T00:20:42.7744345] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-12-04T00:20:42.7744345] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-12-04T00:20:42.7744345] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-12-04T00:20:42.7744345] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T00:20:42.7754343] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:20:42.7754343] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T00:20:42.7754343] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T00:20:42.7754343] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T00:20:42.7754343] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T00:20:42.7754343] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T00:20:42.7754343] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T00:20:42.7754343] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+[2021-12-04T00:20:42.7754343] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+[2021-12-04T00:20:42.7754343] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+[2021-12-04T00:20:42.7764332] 	... 6 more
+[2021-12-04T00:20:42.7764332] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:20:42.7764332] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T00:20:42.7764332] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T00:20:42.7764332] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T00:20:42.7764332] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T00:20:42.7764332] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T00:20:42.7764332] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T00:20:42.7774338] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T00:20:42.7774338] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T00:20:42.7774338] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T00:20:42.7774338] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T00:20:42.7774338] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T00:20:42.7774338] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T00:20:42.7774338] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T00:20:42.7784309] 	... 12 more
+[2021-12-04T00:20:42.7784309] Caused by: java.net.ConnectException: Connection timed out: connect
+[2021-12-04T00:20:42.7784309] 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[2021-12-04T00:20:42.7784309] 	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+[2021-12-04T00:20:42.7784309] 	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+[2021-12-04T00:20:42.7784309] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+[2021-12-04T00:20:42.7784309] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T00:20:42.7784309] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T00:20:42.7784309] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T00:20:42.7784309] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T00:20:42.7794322] 	... 15 more
+[2021-12-04T00:20:54.7777709] [2021-12-04T00:20:54.7747708] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 12:20:55 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 12:20:56 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 12:20:56 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 12:20:56 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 12:20:56 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 12:20:56 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 12:21:10 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 12:21:10 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 12:21:10 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 12:21:10 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 12:21:10 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 12:21:10 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T00:21:59.7054741] org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[2021-12-04T00:21:59.7105888] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+[2021-12-04T00:21:59.7105888] 	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+[2021-12-04T00:21:59.7105888] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+[2021-12-04T00:21:59.7105888] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-12-04T00:21:59.7105888] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-12-04T00:21:59.7105888] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-12-04T00:21:59.7105888] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T00:21:59.7105888] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:21:59.7115887] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T00:21:59.7115887] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T00:21:59.7115887] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T00:21:59.7115887] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T00:21:59.7115887] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T00:21:59.7115887] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T00:21:59.7115887] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+[2021-12-04T00:21:59.7115887] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+[2021-12-04T00:21:59.7115887] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+[2021-12-04T00:21:59.7115887] 	... 6 more
+[2021-12-04T00:21:59.7125889] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:21:59.7125889] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T00:21:59.7125889] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T00:21:59.7125889] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T00:21:59.7125889] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T00:21:59.7125889] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T00:21:59.7125889] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T00:21:59.7125889] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T00:21:59.7125889] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T00:21:59.7125889] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T00:21:59.7135899] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T00:21:59.7135899] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T00:21:59.7135899] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T00:21:59.7135899] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T00:21:59.7135899] 	... 12 more
+[2021-12-04T00:21:59.7135899] Caused by: java.net.ConnectException: Connection timed out: connect
+[2021-12-04T00:21:59.7135899] 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[2021-12-04T00:21:59.7135899] 	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+[2021-12-04T00:21:59.7135899] 	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+[2021-12-04T00:21:59.7145893] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+[2021-12-04T00:21:59.7145893] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T00:21:59.7145893] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T00:21:59.7145893] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T00:21:59.7145893] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T00:21:59.7145893] 	... 15 more
+[2021-12-04T00:22:06.028977] [2021-12-04T00:22:06.0259766] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 12:22:06 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 12:22:07 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 12:22:07 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 12:22:07 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 12:22:07 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 12:22:07 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 12:22:20 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 12:22:20 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 12:22:20 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 12:22:20 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 12:22:20 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 12:22:20 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T00:22:57.036806] com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+[2021-12-04T00:22:57.036806] 	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+[2021-12-04T00:22:57.036806] 	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+[2021-12-04T00:22:57.036806] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+[2021-12-04T00:22:57.036806] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:129)
+[2021-12-04T00:22:57.036806] 	at io.alunity.net.login.RS2LoginProtocol.fetchDisplayName(RS2LoginProtocol.java:593)
+[2021-12-04T00:22:57.036806] 	at io.alunity.net.login.RS2LoginProtocol.loadPlayer(RS2LoginProtocol.java:558)
+[2021-12-04T00:22:57.036806] 	at io.alunity.net.login.RS2LoginProtocol.login(RS2LoginProtocol.java:471)
+[2021-12-04T00:22:57.036806] 	at io.alunity.net.login.RS2LoginProtocol.decode(RS2LoginProtocol.java:313)
+[2021-12-04T00:22:57.036806] 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+[2021-12-04T00:22:57.036806] 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+[2021-12-04T00:22:57.036806] 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T00:22:57.036806] 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T00:22:57.036806] 	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:504)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+[2021-12-04T00:22:57.036806] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+[2021-12-04T00:22:57.036806] 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[2021-12-04T00:22:57.036806] 	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-12-04T00:22:57.036806] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+[2021-12-04T00:22:57.036806] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+[2021-12-04T00:22:57.036806] 	... 39 more
+[2021-12-04T00:22:57.036806] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T00:22:57.036806] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T00:22:57.036806] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T00:22:57.036806] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T00:22:57.036806] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T00:22:57.036806] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T00:22:57.036806] 	... 47 more
+[2021-12-04T00:22:57.036806] Caused by: java.net.ConnectException: Connection timed out: no further information
+[2021-12-04T00:22:57.036806] 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+[2021-12-04T00:22:57.036806] 	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+[2021-12-04T00:22:57.036806] 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+[2021-12-04T00:22:57.036806] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+[2021-12-04T00:22:57.036806] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T00:22:57.036806] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T00:22:57.036806] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T00:22:57.036806] 	... 50 more
+[2021-12-04T00:34:21.9513115] [2021-12-04T00:34:21.9473101] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 12:34:22 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 12:34:23 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 12:34:23 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 12:34:23 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 12:34:23 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 12:34:23 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 12:34:41 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 12:34:41 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 12:34:41 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 12:34:42 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 12:34:42 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 12:34:42 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T01:00:30.0345646] [2021-12-04T01:00:30.0285614] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 1:00:30 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 1:00:31 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 1:00:31 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 1:00:31 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 1:00:32 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 1:00:32 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 1:00:48 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 1:00:48 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 1:00:48 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 1:00:49 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 1:00:49 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 1:00:49 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T01:07:59.1457313] [2021-12-04T01:07:59.1397289] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 1:08:00 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 1:08:00 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 1:08:01 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 1:08:01 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 1:08:01 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 1:08:01 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 1:08:18 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 1:08:18 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 1:08:18 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 1:08:19 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 1:08:19 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 1:08:19 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T01:08:45.8580777] com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+[2021-12-04T01:08:45.8580777] 	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+[2021-12-04T01:08:45.8580777] 	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+[2021-12-04T01:08:45.8580777] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+[2021-12-04T01:08:45.8580777] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:129)
+[2021-12-04T01:08:45.8580777] 	at io.alunity.net.login.RS2LoginProtocol.fetchDisplayName(RS2LoginProtocol.java:593)
+[2021-12-04T01:08:45.8580777] 	at io.alunity.net.login.RS2LoginProtocol.loadPlayer(RS2LoginProtocol.java:558)
+[2021-12-04T01:08:45.8580777] 	at io.alunity.net.login.RS2LoginProtocol.login(RS2LoginProtocol.java:471)
+[2021-12-04T01:08:45.8580777] 	at io.alunity.net.login.RS2LoginProtocol.decode(RS2LoginProtocol.java:313)
+[2021-12-04T01:08:45.8580777] 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+[2021-12-04T01:08:45.8580777] 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+[2021-12-04T01:08:45.8580777] 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:08:45.8580777] 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:08:45.8580777] 	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:504)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+[2021-12-04T01:08:45.8580777] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+[2021-12-04T01:08:45.8580777] 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[2021-12-04T01:08:45.8580777] 	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-12-04T01:08:45.8580777] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+[2021-12-04T01:08:45.8580777] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+[2021-12-04T01:08:45.8580777] 	... 39 more
+[2021-12-04T01:08:45.8580777] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:08:45.8580777] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T01:08:45.8580777] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T01:08:45.8580777] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T01:08:45.8580777] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T01:08:45.8580777] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T01:08:45.8580777] 	... 47 more
+[2021-12-04T01:08:45.8580777] Caused by: java.net.ConnectException: Connection timed out: no further information
+[2021-12-04T01:08:45.8580777] 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+[2021-12-04T01:08:45.8580777] 	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+[2021-12-04T01:08:45.8580777] 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+[2021-12-04T01:08:45.8580777] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+[2021-12-04T01:08:45.8580777] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T01:08:45.8580777] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T01:08:45.8580777] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T01:08:45.8580777] 	... 50 more
+[2021-12-04T01:09:10.4082589] com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+[2021-12-04T01:09:10.4082589] 	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+[2021-12-04T01:09:10.4082589] 	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+[2021-12-04T01:09:10.4082589] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+[2021-12-04T01:09:10.4082589] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:129)
+[2021-12-04T01:09:10.4082589] 	at io.alunity.net.login.RS2LoginProtocol.fetchDisplayName(RS2LoginProtocol.java:593)
+[2021-12-04T01:09:10.4082589] 	at io.alunity.net.login.RS2LoginProtocol.loadPlayer(RS2LoginProtocol.java:558)
+[2021-12-04T01:09:10.4082589] 	at io.alunity.net.login.RS2LoginProtocol.login(RS2LoginProtocol.java:471)
+[2021-12-04T01:09:10.4082589] 	at io.alunity.net.login.RS2LoginProtocol.decode(RS2LoginProtocol.java:313)
+[2021-12-04T01:09:10.4082589] 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+[2021-12-04T01:09:10.4082589] 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+[2021-12-04T01:09:10.4082589] 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:09:10.4082589] 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:09:10.4082589] 	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:504)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+[2021-12-04T01:09:10.4082589] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+[2021-12-04T01:09:10.4082589] 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[2021-12-04T01:09:10.4082589] 	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-12-04T01:09:10.4082589] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+[2021-12-04T01:09:10.4082589] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+[2021-12-04T01:09:10.4082589] 	... 39 more
+[2021-12-04T01:09:10.4082589] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:09:10.4082589] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T01:09:10.4082589] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T01:09:10.4082589] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T01:09:10.4082589] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T01:09:10.4082589] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T01:09:10.4082589] 	... 47 more
+[2021-12-04T01:09:10.4082589] Caused by: java.net.ConnectException: Connection timed out: no further information
+[2021-12-04T01:09:10.4082589] 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+[2021-12-04T01:09:10.4082589] 	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+[2021-12-04T01:09:10.4082589] 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+[2021-12-04T01:09:10.4082589] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+[2021-12-04T01:09:10.4082589] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T01:09:10.4082589] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T01:09:10.4082589] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T01:09:10.4082589] 	... 50 more
+[2021-12-04T01:11:27.0537859] [2021-12-04T01:11:27.0477812] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 1:11:28 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 1:11:28 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 1:11:28 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 1:11:28 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 1:11:29 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 1:11:29 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 1:11:45 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 1:11:45 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 1:11:45 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 1:11:45 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 1:11:45 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 1:11:45 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T01:15:21.1764216] [2021-12-04T01:15:21.1714258] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 1:15:22 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 1:15:22 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 1:15:22 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 1:15:22 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 1:15:23 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 1:15:23 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 1:15:39 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 1:15:39 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 1:15:39 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 1:15:39 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 1:15:39 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 1:15:39 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T01:16:18.9675503] com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:16:18.9675503] 	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:595)
+[2021-12-04T01:16:18.9675503] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:581)
+[2021-12-04T01:16:18.9675503] 	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+[2021-12-04T01:16:18.9675503] 	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+[2021-12-04T01:16:18.9675503] 	at io.alunity.sql.HikariConnectionProvider.<init>(HikariConnectionProvider.java:19)
+[2021-12-04T01:16:18.9675503] 	at io.alunity.sql.DatabaseManager.getConnectionProvider(DatabaseManager.java:173)
+[2021-12-04T01:16:18.9675503] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:140)
+[2021-12-04T01:16:18.9675503] 	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:129)
+[2021-12-04T01:16:18.9675503] 	at io.alunity.net.login.RS2LoginProtocol.fetchDisplayName(RS2LoginProtocol.java:593)
+[2021-12-04T01:16:18.9675503] 	at io.alunity.net.login.RS2LoginProtocol.loadPlayer(RS2LoginProtocol.java:558)
+[2021-12-04T01:16:18.9675503] 	at io.alunity.net.login.RS2LoginProtocol.login(RS2LoginProtocol.java:471)
+[2021-12-04T01:16:18.9675503] 	at io.alunity.net.login.RS2LoginProtocol.decode(RS2LoginProtocol.java:313)
+[2021-12-04T01:16:18.9675503] 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+[2021-12-04T01:16:18.9675503] 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+[2021-12-04T01:16:18.9675503] 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:16:18.9675503] 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:16:18.9675503] 	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:504)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.ChannelInboundHandlerAdapter.channelRead(ChannelInboundHandlerAdapter.java:86)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+[2021-12-04T01:16:18.9675503] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+[2021-12-04T01:16:18.9675503] 	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+[2021-12-04T01:16:18.9675503] 	at java.base/java.lang.Thread.run(Thread.java:832)
+[2021-12-04T01:16:18.9675503] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:16:18.9675503] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T01:16:18.9831847] 	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+[2021-12-04T01:16:18.9831847] 	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+[2021-12-04T01:16:18.9831847] 	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+[2021-12-04T01:16:18.9831847] 	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+[2021-12-04T01:16:18.9831847] 	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+[2021-12-04T01:16:18.9831847] 	... 39 more
+[2021-12-04T01:16:18.9831847] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:16:18.9831847] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T01:16:18.9831847] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T01:16:18.9831847] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T01:16:18.9831847] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T01:16:18.9831847] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T01:16:18.9831847] 	... 47 more
+[2021-12-04T01:16:18.9831847] Caused by: java.net.ConnectException: Connection timed out: no further information
+[2021-12-04T01:16:18.9831847] 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+[2021-12-04T01:16:18.9831847] 	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+[2021-12-04T01:16:18.9831847] 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+[2021-12-04T01:16:18.9831847] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+[2021-12-04T01:16:18.9831847] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T01:16:18.9831847] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T01:16:18.9831847] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T01:16:18.9831847] 	... 50 more
+[2021-12-04T01:17:06.2858423] org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[2021-12-04T01:17:06.2898317] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+[2021-12-04T01:17:06.2908328] 	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+[2021-12-04T01:17:06.2908328] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+[2021-12-04T01:17:06.2908328] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-12-04T01:17:06.2908328] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-12-04T01:17:06.2908328] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-12-04T01:17:06.2908328] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T01:17:06.2918344] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:17:06.2918344] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T01:17:06.2918344] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T01:17:06.2918344] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T01:17:06.2918344] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T01:17:06.2918344] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T01:17:06.2918344] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T01:17:06.2918344] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+[2021-12-04T01:17:06.2918344] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+[2021-12-04T01:17:06.2928313] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+[2021-12-04T01:17:06.2928313] 	... 6 more
+[2021-12-04T01:17:06.2928313] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:17:06.2928313] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T01:17:06.2928313] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T01:17:06.2928313] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T01:17:06.2928313] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T01:17:06.2928313] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T01:17:06.2938305] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T01:17:06.2938305] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T01:17:06.2938305] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T01:17:06.2938305] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T01:17:06.2938305] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T01:17:06.2938305] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T01:17:06.2938305] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T01:17:06.2938305] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T01:17:06.2938305] 	... 12 more
+[2021-12-04T01:17:06.2948328] Caused by: java.net.ConnectException: Connection timed out: connect
+[2021-12-04T01:17:06.2948328] 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[2021-12-04T01:17:06.2948328] 	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+[2021-12-04T01:17:06.2948328] 	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+[2021-12-04T01:17:06.2948328] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+[2021-12-04T01:17:06.2948328] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T01:17:06.2948328] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T01:17:06.2948328] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T01:17:06.2948328] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T01:17:06.2948328] 	... 15 more
+[2021-12-04T01:17:39.4289744] org.flywaydb.core.internal.exception.FlywaySqlException: 
+Unable to obtain connection from database (jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC) for user 'Alunity_Game': Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 08S01
+Error Code : 0
+Message    : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+
+[2021-12-04T01:17:39.4349739] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+[2021-12-04T01:17:39.4349739] 	at org.flywaydb.core.internal.database.DatabaseFactory.createDatabase(DatabaseFactory.java:72)
+[2021-12-04T01:17:39.4359689] 	at org.flywaydb.core.Flyway.execute(Flyway.java:1670)
+[2021-12-04T01:17:39.4359689] 	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+[2021-12-04T01:17:39.4359689] 	at io.alunity.Server.loadData(Server.java:139)
+[2021-12-04T01:17:39.4359689] 	at io.alunity.Server.lambda$main$0(Server.java:177)
+[2021-12-04T01:17:39.4369686] 	at io.alunity.GameThread.run(GameThread.java:81)
+[2021-12-04T01:17:39.4369686] Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:17:39.4379749] 	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+[2021-12-04T01:17:39.4379749] 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+[2021-12-04T01:17:39.4379749] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+[2021-12-04T01:17:39.4379749] 	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+[2021-12-04T01:17:39.4379749] 	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+[2021-12-04T01:17:39.4389675] 	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+[2021-12-04T01:17:39.4389675] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:433)
+[2021-12-04T01:17:39.4389675] 	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:399)
+[2021-12-04T01:17:39.4389675] 	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:56)
+[2021-12-04T01:17:39.4389675] 	... 6 more
+[2021-12-04T01:17:39.4389675] Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2021-12-04T01:17:39.439972] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[2021-12-04T01:17:39.439972] 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[2021-12-04T01:17:39.439972] 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[2021-12-04T01:17:39.439972] 	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+[2021-12-04T01:17:39.439972] 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+[2021-12-04T01:17:39.439972] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+[2021-12-04T01:17:39.4409683] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+[2021-12-04T01:17:39.4409683] 	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+[2021-12-04T01:17:39.4409683] 	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+[2021-12-04T01:17:39.4409683] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+[2021-12-04T01:17:39.4409683] 	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+[2021-12-04T01:17:39.4409683] 	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+[2021-12-04T01:17:39.4409683] 	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+[2021-12-04T01:17:39.4419681] 	... 12 more
+[2021-12-04T01:17:39.4419681] Caused by: java.net.ConnectException: Connection timed out: connect
+[2021-12-04T01:17:39.4419681] 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[2021-12-04T01:17:39.4419681] 	at java.base/sun.nio.ch.Net.connect(Net.java:503)
+[2021-12-04T01:17:39.4419681] 	at java.base/sun.nio.ch.Net.connect(Net.java:492)
+[2021-12-04T01:17:39.4419681] 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+[2021-12-04T01:17:39.4419681] 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+[2021-12-04T01:17:39.4419681] 	at java.base/java.net.Socket.connect(Socket.java:648)
+[2021-12-04T01:17:39.4429699] 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+[2021-12-04T01:17:39.4429699] 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+[2021-12-04T01:17:39.4429699] 	... 15 more
+[2021-12-04T01:19:03.0997809] [2021-12-04T01:19:03.0967769] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 1:19:04 AM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 1:19:04 AM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 1:19:04 AM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 1:19:04 AM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 1:19:05 AM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 1:19:05 AM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 1:19:21 AM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 1:19:21 AM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 1:19:21 AM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 1:19:21 AM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 1:19:21 AM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 1:19:21 AM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-04T13:22:04.8575726] [2021-12-04T13:22:04.846571] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 04, 2021 1:22:05 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 04, 2021 1:22:06 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 04, 2021 1:22:06 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 04, 2021 1:22:06 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 04, 2021 1:22:06 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 04, 2021 1:22:06 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 04, 2021 1:22:22 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 04, 2021 1:22:22 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 04, 2021 1:22:22 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 04, 2021 1:22:23 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 04, 2021 1:22:23 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 04, 2021 1:22:23 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.

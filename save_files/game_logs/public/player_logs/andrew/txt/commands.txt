@@ -1,0 +1,30 @@
+[CommandLog] [2021-12-08T20:23:37.0222572] andrew typed command copy scott at X: 3091 Y:3487
+[CommandLog] [2021-12-08T20:25:10.9117926] andrew typed command shops at X: 3093 Y:3488
+[CommandLog] [2021-12-08T20:25:56.024001] andrew typed command tele 3096 3498 at X: 3093 Y:3508
+[CommandLog] [2021-12-08T20:25:56.626006] andrew typed command tele 3096 3498 at X: 3096 Y:3498
+[CommandLog] [2021-12-08T20:26:03.242573] andrew typed command teleto scott at X: 3096 Y:3498
+[CommandLog] [2021-12-08T20:27:53.3132178] andrew typed command master at X: 3112 Y:3508
+[CommandLog] [2021-12-08T20:27:59.3268311] andrew typed command hpray at X: 3112 Y:3508
+[CommandLog] [2021-12-08T20:29:34.9869165] andrew typed command godmode at X: 3876 Y:9950
+[CommandLog] [2021-12-08T20:30:01.4535281] andrew typed command godmode at X: 3879 Y:9953
+[CommandLog] [2021-12-08T20:30:48.9917911] andrew typed command godmode at X: 3878 Y:9958
+[CommandLog] [2021-12-09T12:12:58.8758045] andrew typed command masterall at X: 3099 Y:3487
+[CommandLog] [2021-12-09T12:13:02.4866691] andrew typed command pure at X: 3099 Y:3487
+[CommandLog] [2021-12-09T12:15:58.1038463] andrew typed command copy scott at X: 3095 Y:3489
+[CommandLog] [2021-12-09T12:16:01.7170239] andrew typed command copyscott at X: 3095 Y:3489
+[CommandLog] [2021-12-09T13:56:00.7745725] andrew typed command outlast at X: 3095 Y:3488
+[CommandLog] [2021-12-09T13:56:36.86859] andrew typed command teleto scott at X: 3322 Y:4951
+[CommandLog] [2021-12-09T13:58:49.8109666] andrew typed command dzone at X: 3095 Y:3510
+[CommandLog] [2021-12-09T13:59:00.6399936] andrew typed command dzone at X: 3095 Y:3510
+[CommandLog] [2021-12-09T13:59:03.0475473] andrew typed command dz at X: 3095 Y:3510
+[CommandLog] [2021-12-09T14:00:16.4263025] andrew typed command getid raids at X: 3815 Y:2844
+[CommandLog] [2021-12-09T14:00:26.6581661] andrew typed command item 3464 50 at X: 3815 Y:2844
+[CommandLog] [2021-12-09T14:01:43.6625211] andrew typed command train at X: 3822 Y:2848
+[CommandLog] [2021-12-10T15:31:03.9769057] andrew typed command pin at X: 2673 Y:3710
+[CommandLog] [2021-12-21T10:47:41.832424] andrew typed command checkbank scott at X: 3094 Y:3490
+[CommandLog] [2021-12-21T10:48:10.0983965] andrew typed command checkinventory scott at X: 3094 Y:3490
+[CommandLog] [2021-12-21T10:48:30.5509852] andrew typed command copypaste scott at X: 3094 Y:3490
+[CommandLog] [2022-01-20T12:08:07.8509352] andrew typed command getid bond at X: 3091 Y:3492
+[CommandLog] [2022-01-20T12:08:15.0709984] andrew typed command getd $ at X: 3091 Y:3492
+[CommandLog] [2022-01-20T12:08:21.0890499] andrew typed command getid $ at X: 3091 Y:3492
+[CommandLog] [2022-01-21T15:02:11.898729] andrew typed command hpray at X: 3092 Y:3490

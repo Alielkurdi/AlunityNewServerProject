@@ -1,0 +1,8 @@
+[CommandLog] [2021-11-07T13:02:13.414639] scott123 typed command /hi at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:03:10.4481104] scott123 typed command title de at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:03:14.0521489] scott123 typed command newtitle de at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:04:35.1178071] scott123 typed command donatortitle at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:04:40.5188605] scott123 typed command yell de at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:04:50.7259364] scott123 typed command divine at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:05:05.1340971] scott123 typed command yell de at X: 3096 Y:3492
+[CommandLog] [2021-11-07T13:05:06.9350974] scott123 typed command / hgi at X: 3096 Y:3492

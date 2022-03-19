@@ -1,0 +1,1 @@
+[ItemDroppedLog] [2022-02-21T21:26:30.5055731] Dropped GameItem{name=Fire cape, id=10566, amount=1} at Position{x=3112, y=3507, z=0}

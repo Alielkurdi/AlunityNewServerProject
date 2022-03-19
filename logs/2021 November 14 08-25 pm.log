@@ -1,0 +1,63 @@
+20:25:29.042 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+20:25:29.530 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+20:25:29.864 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+20:25:30.014 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.024s)
+20:25:30.033 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+20:25:30.034 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+20:25:37.954 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+20:25:38.000 [GameThread] INFO  i.a.m.e.p.m.g.GroupIronmanRepository - Loaded 0 group ironman groups.
+20:25:38.712 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+20:25:39.715 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+20:25:39.894 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+20:25:57.871 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+20:26:00.701 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+20:26:00.962 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+20:26:01.197 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+20:26:01.220 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:26:12.392 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:26:12.625 [pool-9-thread-1] INFO  i.alunity.net.login.RS2LoginProtocol - Player login queued [name=Scott, mac=, ip=127.0.0.1:59198, time=434ms]
+20:26:29.067 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=21ms, handshakes-per-tick=0, memory=414.8 MB/632 MB]
+20:26:49.274 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:26:49.374 [pool-9-thread-3] INFO  i.alunity.net.login.RS2LoginProtocol - Player login queued [name=Scott, mac=, ip=127.0.0.1:59224, time=108ms]
+20:27:00.706 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=18ms, handshakes-per-tick=0, memory=380.8 MB/632 MB]
+20:27:33.487 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=341.6 MB/632 MB]
+20:28:06.300 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=530.8 MB/632 MB]
+20:28:30.597 [database-manager-1] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/hs_alunity?useSSL=false&serverTimezone=UTC', username='XerosTest'}, query=io.alunity.sql.DatabaseManager$$Lambda$539/0x0000000801087440@13769fc
+java.sql.SQLSyntaxErrorException: Table 'hs_alunity.highscores' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.delete(HiscoresUpdateQuery.java:33)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.updateSkillHiscores(HiscoresUpdateQuery.java:82)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.execute(HiscoresUpdateQuery.java:78)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.execute(HiscoresUpdateQuery.java:14)
+	at io.alunity.sql.DatabaseManager.lambda$queueBatchProcessing$0(DatabaseManager.java:62)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:28:31.099 [database-manager-1] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/hs_alunity?useSSL=false&serverTimezone=UTC', username='XerosTest'}, query=io.alunity.sql.DatabaseManager$$Lambda$539/0x0000000801087440@13769fc
+java.sql.SQLSyntaxErrorException: Table 'hs_alunity.highscores' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.delete(HiscoresUpdateQuery.java:33)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.updateSkillHiscores(HiscoresUpdateQuery.java:82)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.execute(HiscoresUpdateQuery.java:78)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.execute(HiscoresUpdateQuery.java:14)
+	at io.alunity.sql.DatabaseManager.lambda$queueBatchProcessing$0(DatabaseManager.java:62)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:28:41.220 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=483.3 MB/632 MB]

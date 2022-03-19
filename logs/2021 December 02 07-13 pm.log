@@ -1,0 +1,459 @@
+19:13:39.609 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+19:13:39.970 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+19:13:40.277 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+19:13:40.399 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.023s)
+19:13:40.418 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+19:13:40.419 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+19:13:46.393 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+19:13:46.426 [GameThread] INFO  i.a.m.e.p.m.g.GroupIronmanRepository - Loaded 0 group ironman groups.
+19:13:47.230 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+19:13:48.129 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+19:13:48.251 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+19:14:02.706 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+19:14:04.986 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+19:14:06.414 [JDA MainWS-WriteThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+19:14:06.638 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+19:14:06.660 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+19:14:08.416 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+19:14:08.807 [pool-9-thread-1] INFO  i.alunity.net.login.RS2LoginProtocol - Player login queued [name=scott, mac=, ip=127.0.0.1:55551, time=594ms]
+19:14:33.645 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=14ms, handshakes-per-tick=0, memory=461.9 MB/615 MB]
+19:15:03.716 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=12ms, handshakes-per-tick=0, memory=463.1 MB/615 MB]
+19:15:33.792 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=11ms, handshakes-per-tick=0, memory=448 MB/615 MB]
+19:16:03.876 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=10ms, handshakes-per-tick=0, memory=424.1 MB/615 MB]
+19:16:33.963 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=10ms, handshakes-per-tick=0, memory=389.9 MB/615 MB]
+19:17:04.048 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=348 MB/615 MB]
+19:17:34.128 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=300.9 MB/615 MB]
+19:18:04.206 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=489.2 MB/615 MB]
+19:18:34.288 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=9ms, handshakes-per-tick=0, memory=439.5 MB/615 MB]
+19:19:04.363 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=384.5 MB/615 MB]
+19:19:34.441 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=329.6 MB/615 MB]
+19:20:04.518 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=517.9 MB/615 MB]
+19:20:34.606 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=460.9 MB/615 MB]
+19:21:04.695 [GameThread] INFO  io.alunity.GameThread - Status [runtime=7m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=401.9 MB/615 MB]
+19:21:34.764 [GameThread] INFO  io.alunity.GameThread - Status [runtime=7m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=343.9 MB/615 MB]
+19:22:04.851 [GameThread] INFO  io.alunity.GameThread - Status [runtime=8m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=531.9 MB/615 MB]
+19:22:34.936 [GameThread] INFO  io.alunity.GameThread - Status [runtime=8m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=473.3 MB/615 MB]
+19:23:05.026 [GameThread] INFO  io.alunity.GameThread - Status [runtime=9m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=412.1 MB/615 MB]
+19:23:35.106 [GameThread] INFO  io.alunity.GameThread - Status [runtime=9m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=353.1 MB/615 MB]
+19:24:05.192 [GameThread] INFO  io.alunity.GameThread - Status [runtime=10m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=540.7 MB/615 MB]
+19:24:35.268 [GameThread] INFO  io.alunity.GameThread - Status [runtime=10m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=477.6 MB/615 MB]
+19:25:05.453 [GameThread] INFO  io.alunity.GameThread - Status [runtime=11m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=414.5 MB/615 MB]
+19:25:35.623 [GameThread] INFO  io.alunity.GameThread - Status [runtime=11m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=353.2 MB/615 MB]
+19:26:05.807 [GameThread] INFO  io.alunity.GameThread - Status [runtime=12m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=8ms, handshakes-per-tick=0, memory=542.5 MB/615 MB]
+19:26:35.984 [GameThread] INFO  io.alunity.GameThread - Status [runtime=12m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=481.5 MB/615 MB]
+19:27:06.265 [GameThread] INFO  io.alunity.GameThread - Status [runtime=13m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=419 MB/615 MB]
+19:27:36.488 [GameThread] INFO  io.alunity.GameThread - Status [runtime=13m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=357.5 MB/615 MB]
+19:28:06.770 [GameThread] INFO  io.alunity.GameThread - Status [runtime=14m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=545.8 MB/615 MB]
+19:28:37.018 [GameThread] INFO  io.alunity.GameThread - Status [runtime=14m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=484.9 MB/615 MB]
+19:29:02.839 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+19:29:02.839 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+19:29:02.937 [player-save-backup-0] ERROR i.a.m.e.p.s.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+19:29:02.960 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-02T19_29_02.8390041.zip 
+19:29:03.093 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+19:29:03.094 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+19:29:07.247 [GameThread] INFO  io.alunity.GameThread - Status [runtime=15m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=424.4 MB/615 MB]
+19:29:37.507 [GameThread] INFO  io.alunity.GameThread - Status [runtime=15m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=364 MB/615 MB]
+19:30:07.776 [GameThread] INFO  io.alunity.GameThread - Status [runtime=16m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=301.7 MB/615 MB]
+19:30:38.094 [GameThread] INFO  io.alunity.GameThread - Status [runtime=16m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=492.3 MB/615 MB]
+19:31:08.383 [GameThread] INFO  io.alunity.GameThread - Status [runtime=17m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=429.4 MB/615 MB]
+19:31:38.638 [GameThread] INFO  io.alunity.GameThread - Status [runtime=17m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=370.1 MB/615 MB]
+19:32:08.819 [GameThread] INFO  io.alunity.GameThread - Status [runtime=18m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=311.7 MB/615 MB]
+19:32:38.976 [GameThread] INFO  io.alunity.GameThread - Status [runtime=18m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=502.4 MB/615 MB]
+19:33:09.134 [GameThread] INFO  io.alunity.GameThread - Status [runtime=19m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=440.5 MB/615 MB]
+19:33:39.353 [GameThread] INFO  io.alunity.GameThread - Status [runtime=19m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=379.7 MB/615 MB]
+19:34:09.622 [GameThread] INFO  io.alunity.GameThread - Status [runtime=20m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=318.2 MB/615 MB]
+19:34:39.919 [GameThread] INFO  io.alunity.GameThread - Status [runtime=20m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=507.8 MB/615 MB]
+19:35:10.213 [GameThread] INFO  io.alunity.GameThread - Status [runtime=21m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=444.9 MB/615 MB]
+19:35:40.535 [GameThread] INFO  io.alunity.GameThread - Status [runtime=21m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=384.1 MB/615 MB]
+19:36:10.820 [GameThread] INFO  io.alunity.GameThread - Status [runtime=22m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=322.1 MB/615 MB]
+19:36:41.139 [GameThread] INFO  io.alunity.GameThread - Status [runtime=22m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=512.8 MB/615 MB]
+19:37:11.447 [GameThread] INFO  io.alunity.GameThread - Status [runtime=23m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=449 MB/615 MB]
+19:37:41.752 [GameThread] INFO  io.alunity.GameThread - Status [runtime=23m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=388.6 MB/615 MB]
+19:38:12.010 [GameThread] INFO  io.alunity.GameThread - Status [runtime=24m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=327.1 MB/615 MB]
+19:38:42.345 [GameThread] INFO  io.alunity.GameThread - Status [runtime=24m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=6ms, handshakes-per-tick=0, memory=517.3 MB/615 MB]
+19:39:12.631 [GameThread] INFO  io.alunity.GameThread - Status [runtime=25m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=455 MB/615 MB]
+19:39:42.886 [GameThread] INFO  io.alunity.GameThread - Status [runtime=25m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=394.6 MB/615 MB]
+19:40:13.167 [GameThread] INFO  io.alunity.GameThread - Status [runtime=26m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=332.1 MB/615 MB]
+19:40:43.445 [GameThread] INFO  io.alunity.GameThread - Status [runtime=26m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=5ms, handshakes-per-tick=0, memory=522.7 MB/615 MB]
+19:41:15.407 [GameThread] INFO  io.alunity.GameThread - Status [runtime=27m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=465.6 MB/615 MB]
+19:41:48.592 [GameThread] INFO  io.alunity.GameThread - Status [runtime=27m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=407.7 MB/615 MB]
+19:42:19.243 [GameThread] INFO  io.alunity.GameThread - Status [runtime=28m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=346 MB/615 MB]
+19:42:49.519 [GameThread] INFO  io.alunity.GameThread - Status [runtime=28m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=534.3 MB/615 MB]
+19:43:19.805 [GameThread] INFO  io.alunity.GameThread - Status [runtime=29m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=471.2 MB/615 MB]
+19:43:50.106 [GameThread] INFO  io.alunity.GameThread - Status [runtime=29m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=410.2 MB/615 MB]
+19:44:02.819 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+19:44:20.270 [GameThread] INFO  io.alunity.GameThread - Status [runtime=30m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=346.7 MB/615 MB]
+19:44:50.535 [GameThread] INFO  io.alunity.GameThread - Status [runtime=30m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=536.3 MB/615 MB]
+19:45:20.827 [GameThread] INFO  io.alunity.GameThread - Status [runtime=31m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=472.5 MB/615 MB]
+19:45:51.129 [GameThread] INFO  io.alunity.GameThread - Status [runtime=31m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=412.2 MB/615 MB]
+19:46:21.414 [GameThread] INFO  io.alunity.GameThread - Status [runtime=32m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=349.7 MB/615 MB]
+19:46:51.699 [GameThread] INFO  io.alunity.GameThread - Status [runtime=32m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=540.4 MB/615 MB]
+19:47:21.921 [GameThread] INFO  io.alunity.GameThread - Status [runtime=33m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=476.5 MB/615 MB]
+19:47:52.215 [GameThread] INFO  io.alunity.GameThread - Status [runtime=33m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=416.2 MB/615 MB]
+19:48:22.467 [GameThread] INFO  io.alunity.GameThread - Status [runtime=34m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=354.2 MB/615 MB]
+19:48:52.633 [GameThread] INFO  io.alunity.GameThread - Status [runtime=34m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=544.8 MB/615 MB]
+19:49:22.712 [GameThread] INFO  io.alunity.GameThread - Status [runtime=35m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=481.7 MB/615 MB]
+19:49:52.790 [GameThread] INFO  io.alunity.GameThread - Status [runtime=35m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=421.2 MB/615 MB]
+19:50:22.900 [GameThread] INFO  io.alunity.GameThread - Status [runtime=36m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=359.2 MB/615 MB]
+19:50:52.972 [GameThread] INFO  io.alunity.GameThread - Status [runtime=36m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=299.7 MB/615 MB]
+19:51:23.055 [GameThread] INFO  io.alunity.GameThread - Status [runtime=37m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=487 MB/615 MB]
+19:51:53.128 [GameThread] INFO  io.alunity.GameThread - Status [runtime=37m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=425.1 MB/615 MB]
+19:52:23.222 [GameThread] INFO  io.alunity.GameThread - Status [runtime=38m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=361.9 MB/615 MB]
+19:52:53.302 [GameThread] INFO  io.alunity.GameThread - Status [runtime=38m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=300.2 MB/615 MB]
+19:53:23.371 [GameThread] INFO  io.alunity.GameThread - Status [runtime=39m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=488.6 MB/615 MB]
+19:53:53.448 [GameThread] INFO  io.alunity.GameThread - Status [runtime=39m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=428.4 MB/615 MB]
+19:54:23.535 [GameThread] INFO  io.alunity.GameThread - Status [runtime=40m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=364.8 MB/615 MB]
+19:54:53.608 [GameThread] INFO  io.alunity.GameThread - Status [runtime=40m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=303.3 MB/615 MB]
+19:55:23.697 [GameThread] INFO  io.alunity.GameThread - Status [runtime=41m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=491.3 MB/615 MB]
+19:55:53.775 [GameThread] INFO  io.alunity.GameThread - Status [runtime=41m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=429.6 MB/615 MB]
+19:56:23.858 [GameThread] INFO  io.alunity.GameThread - Status [runtime=42m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=367.3 MB/615 MB]
+19:56:53.938 [GameThread] INFO  io.alunity.GameThread - Status [runtime=42m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=305.7 MB/615 MB]
+19:57:24.018 [GameThread] INFO  io.alunity.GameThread - Status [runtime=43m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=493.6 MB/615 MB]
+19:57:54.107 [GameThread] INFO  io.alunity.GameThread - Status [runtime=43m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=432.7 MB/615 MB]
+19:58:24.192 [GameThread] INFO  io.alunity.GameThread - Status [runtime=44m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=369.4 MB/615 MB]
+19:58:54.264 [GameThread] INFO  io.alunity.GameThread - Status [runtime=44m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=308.7 MB/615 MB]
+19:59:02.828 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+19:59:02.830 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+19:59:02.961 [player-save-backup-0] ERROR i.a.m.e.p.s.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+19:59:02.994 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-02T19_59_02.8286104.zip 
+19:59:03.056 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+19:59:03.056 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+19:59:24.348 [GameThread] INFO  io.alunity.GameThread - Status [runtime=45m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=498.2 MB/615 MB]
+19:59:54.431 [GameThread] INFO  io.alunity.GameThread - Status [runtime=45m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=434.4 MB/615 MB]
+20:00:24.502 [GameThread] INFO  io.alunity.GameThread - Status [runtime=46m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=370.8 MB/615 MB]
+20:00:54.615 [GameThread] INFO  io.alunity.GameThread - Status [runtime=46m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=308.8 MB/615 MB]
+20:01:24.717 [GameThread] INFO  io.alunity.GameThread - Status [runtime=47m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=496.6 MB/615 MB]
+20:01:54.878 [GameThread] INFO  io.alunity.GameThread - Status [runtime=47m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=434.8 MB/615 MB]
+20:02:25.027 [GameThread] INFO  io.alunity.GameThread - Status [runtime=48m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=371.3 MB/615 MB]
+20:02:55.223 [GameThread] INFO  io.alunity.GameThread - Status [runtime=48m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309.3 MB/615 MB]
+20:03:25.301 [GameThread] INFO  io.alunity.GameThread - Status [runtime=49m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.1 MB/615 MB]
+20:03:55.371 [GameThread] INFO  io.alunity.GameThread - Status [runtime=49m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.3 MB/615 MB]
+20:04:25.459 [GameThread] INFO  io.alunity.GameThread - Status [runtime=50m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.8 MB/615 MB]
+20:04:55.544 [GameThread] INFO  io.alunity.GameThread - Status [runtime=50m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=310.2 MB/615 MB]
+20:05:25.624 [GameThread] INFO  io.alunity.GameThread - Status [runtime=51m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=498 MB/615 MB]
+20:05:55.703 [GameThread] INFO  io.alunity.GameThread - Status [runtime=51m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.8 MB/615 MB]
+20:06:25.776 [GameThread] INFO  io.alunity.GameThread - Status [runtime=52m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=373.3 MB/615 MB]
+20:06:55.855 [GameThread] INFO  io.alunity.GameThread - Status [runtime=52m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=311.2 MB/615 MB]
+20:07:25.932 [GameThread] INFO  io.alunity.GameThread - Status [runtime=53m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=499 MB/615 MB]
+20:07:56.004 [GameThread] INFO  io.alunity.GameThread - Status [runtime=53m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=437.3 MB/615 MB]
+20:08:26.083 [GameThread] INFO  io.alunity.GameThread - Status [runtime=54m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=373 MB/615 MB]
+20:08:56.157 [GameThread] INFO  io.alunity.GameThread - Status [runtime=54m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=312.2 MB/615 MB]
+20:09:26.236 [GameThread] INFO  io.alunity.GameThread - Status [runtime=55m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=500.6 MB/615 MB]
+20:09:56.309 [GameThread] INFO  io.alunity.GameThread - Status [runtime=55m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=438.3 MB/615 MB]
+20:10:26.387 [GameThread] INFO  io.alunity.GameThread - Status [runtime=56m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=373.9 MB/615 MB]
+20:10:56.467 [GameThread] INFO  io.alunity.GameThread - Status [runtime=56m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=311.7 MB/615 MB]
+20:11:26.546 [GameThread] INFO  io.alunity.GameThread - Status [runtime=57m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=500 MB/615 MB]
+20:11:56.630 [GameThread] INFO  io.alunity.GameThread - Status [runtime=57m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=438.4 MB/615 MB]
+20:12:26.703 [GameThread] INFO  io.alunity.GameThread - Status [runtime=58m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=373 MB/615 MB]
+20:12:56.780 [GameThread] INFO  io.alunity.GameThread - Status [runtime=58m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=312.3 MB/615 MB]
+20:13:26.872 [GameThread] INFO  io.alunity.GameThread - Status [runtime=59m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=500.1 MB/615 MB]
+20:13:56.939 [GameThread] INFO  io.alunity.GameThread - Status [runtime=59m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=438.3 MB/615 MB]
+20:14:02.834 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+20:14:27.066 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=374.4 MB/615 MB]
+20:14:57.131 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 00m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=312.8 MB/615 MB]
+20:15:27.218 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 01m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=500.8 MB/615 MB]
+20:15:57.291 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 01m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436 MB/615 MB]
+20:16:27.378 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 02m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=371.6 MB/615 MB]
+20:16:57.449 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 02m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309.9 MB/615 MB]
+20:17:27.529 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 03m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.2 MB/615 MB]
+20:17:57.605 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 03m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=434.3 MB/615 MB]
+20:18:27.683 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 04m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=369.9 MB/615 MB]
+20:18:57.779 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 04m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=308.4 MB/615 MB]
+20:19:27.859 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 05m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=495.7 MB/615 MB]
+20:19:57.967 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 05m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=433.4 MB/615 MB]
+20:20:28.113 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 06m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=369.9 MB/615 MB]
+20:20:58.512 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 06m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=307.9 MB/615 MB]
+20:21:28.721 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 07m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=495.7 MB/615 MB]
+20:21:58.972 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 07m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=433.4 MB/615 MB]
+20:22:29.093 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 08m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=371 MB/615 MB]
+20:22:59.193 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 08m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309.4 MB/615 MB]
+20:23:29.262 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 09m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.8 MB/615 MB]
+20:23:59.339 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 09m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=435.4 MB/615 MB]
+20:24:29.416 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 10m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.1 MB/615 MB]
+20:24:59.502 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 10m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=310.8 MB/615 MB]
+20:25:29.584 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 11m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=498.7 MB/615 MB]
+20:25:59.660 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 11m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.9 MB/615 MB]
+20:26:29.744 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 12m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=373.5 MB/615 MB]
+20:26:59.831 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 12m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=310.3 MB/615 MB]
+20:27:29.922 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 13m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=498.6 MB/615 MB]
+20:27:59.991 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 13m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.9 MB/615 MB]
+20:28:30.069 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 14m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.5 MB/615 MB]
+20:29:00.150 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 14m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309.3 MB/615 MB]
+20:29:02.934 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+20:29:02.939 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+20:29:03.010 [player-save-backup-0] ERROR i.a.m.e.p.s.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:29:03.047 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-02T20_29_02.9354373.zip 
+20:29:03.090 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+20:29:03.090 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+20:29:30.226 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 15m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.7 MB/615 MB]
+20:30:00.302 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 15m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.4 MB/615 MB]
+20:30:30.377 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 16m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.5 MB/615 MB]
+20:31:00.456 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 16m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=310.3 MB/615 MB]
+20:31:30.534 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 17m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=498.7 MB/615 MB]
+20:32:00.616 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 17m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.4 MB/615 MB]
+20:32:30.691 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 18m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.4 MB/615 MB]
+20:33:00.771 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 18m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309.8 MB/615 MB]
+20:33:30.854 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 19m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.2 MB/615 MB]
+20:34:00.945 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 19m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=435.9 MB/615 MB]
+20:34:31.022 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 20m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=371 MB/615 MB]
+20:35:01.085 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 20m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309.4 MB/615 MB]
+20:35:31.159 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 21m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.7 MB/615 MB]
+20:36:01.232 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 21m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=434.8 MB/615 MB]
+20:36:31.310 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 22m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=370.5 MB/615 MB]
+20:37:01.397 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 22m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=308.5 MB/615 MB]
+20:37:31.467 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 23m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.3 MB/615 MB]
+20:38:01.542 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 23m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=433.8 MB/615 MB]
+20:38:31.622 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 24m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=369 MB/615 MB]
+20:39:01.699 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 24m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=307.4 MB/615 MB]
+20:39:31.777 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 25m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=495.3 MB/615 MB]
+20:40:01.856 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 25m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=432.3 MB/615 MB]
+20:40:31.940 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 26m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=367.6 MB/615 MB]
+20:41:02.023 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 26m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=307 MB/615 MB]
+20:41:32.096 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 27m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=494.8 MB/615 MB]
+20:42:02.169 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 27m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=431.9 MB/615 MB]
+20:42:32.248 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 28m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=367.5 MB/615 MB]
+20:43:02.334 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 28m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=306 MB/615 MB]
+20:43:32.416 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 29m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=493.8 MB/615 MB]
+20:44:02.494 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 29m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=431.4 MB/615 MB]
+20:44:02.851 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+20:44:32.570 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 30m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=369 MB/615 MB]
+20:45:02.650 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 30m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=308 MB/615 MB]
+20:45:32.716 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 31m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=495.5 MB/615 MB]
+20:46:02.785 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 31m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=432.3 MB/615 MB]
+20:46:32.862 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 32m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=368 MB/615 MB]
+20:47:02.952 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 32m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=307.5 MB/615 MB]
+20:47:33.037 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 33m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=495.8 MB/615 MB]
+20:48:03.113 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 33m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=433.4 MB/615 MB]
+20:48:33.193 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 34m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=369.5 MB/615 MB]
+20:49:03.283 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 34m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=308.5 MB/615 MB]
+20:49:33.358 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 35m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=495.8 MB/615 MB]
+20:50:03.441 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 35m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=433.9 MB/615 MB]
+20:50:33.534 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 36m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=370.1 MB/615 MB]
+20:51:03.699 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 36m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=308.5 MB/615 MB]
+20:51:33.940 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 37m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=496 MB/615 MB]
+20:52:04.185 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 37m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=434.5 MB/615 MB]
+20:52:34.352 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 38m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=370.2 MB/615 MB]
+20:53:04.459 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 38m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309 MB/615 MB]
+20:53:34.540 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 39m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=496.8 MB/615 MB]
+20:54:04.629 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 39m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=435 MB/615 MB]
+20:54:34.714 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 40m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=370.6 MB/615 MB]
+20:55:04.793 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 40m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309.6 MB/615 MB]
+20:55:34.864 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 41m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.9 MB/615 MB]
+20:56:04.950 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 41m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436 MB/615 MB]
+20:56:35.033 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 42m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=371.8 MB/615 MB]
+20:57:05.110 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 42m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=310.7 MB/615 MB]
+20:57:35.191 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 43m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=498.7 MB/615 MB]
+20:58:05.276 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 43m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.5 MB/615 MB]
+20:58:35.368 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 44m, connections=1, players=1, uniques=1, npcs=3297, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.2 MB/615 MB]
+20:59:02.852 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+20:59:02.854 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+20:59:02.923 [player-save-backup-0] ERROR i.a.m.e.p.s.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:59:02.950 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-02T20_59_02.8536496.zip 
+20:59:02.966 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+20:59:02.966 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+20:59:05.440 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 44m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=311.1 MB/615 MB]
+20:59:35.516 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 45m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=499.5 MB/615 MB]
+21:00:05.599 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 45m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.5 MB/615 MB]
+21:00:35.688 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 46m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.7 MB/615 MB]
+21:01:05.768 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 46m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=310.7 MB/615 MB]
+21:01:35.836 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 47m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=498.7 MB/615 MB]
+21:02:05.916 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 47m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.6 MB/615 MB]
+21:02:35.996 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 48m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.4 MB/615 MB]
+21:03:06.079 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 48m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=311.1 MB/615 MB]
+21:03:36.189 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 49m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=499 MB/615 MB]
+21:04:06.269 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 49m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=436.6 MB/615 MB]
+21:04:36.348 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 50m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=372.7 MB/615 MB]
+21:05:06.429 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 50m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=309.6 MB/615 MB]
+21:05:36.503 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 51m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=497.9 MB/615 MB]
+21:06:06.575 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 51m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=437.2 MB/615 MB]
+21:06:36.643 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 52m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=374.2 MB/615 MB]
+21:07:06.722 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 52m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=312.5 MB/615 MB]
+21:07:36.798 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 53m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=501 MB/615 MB]
+21:08:06.880 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 53m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=440.7 MB/615 MB]
+21:08:37.064 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 54m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=379.2 MB/615 MB]
+21:09:07.189 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 54m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=318.7 MB/615 MB]
+21:09:37.302 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 55m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=506.5 MB/615 MB]
+21:10:07.378 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 55m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=448.2 MB/615 MB]
+21:10:37.460 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 56m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=385.9 MB/615 MB]
+21:11:07.541 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 56m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=324.6 MB/615 MB]
+21:11:37.625 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 57m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=512.9 MB/615 MB]
+21:12:07.713 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 57m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=453.7 MB/615 MB]
+21:12:37.790 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 58m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=391.8 MB/615 MB]
+21:13:07.865 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 58m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=331.2 MB/615 MB]
+21:13:37.948 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 59m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=518.5 MB/615 MB]
+21:14:02.862 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+21:14:08.030 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1h 59m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=459.2 MB/615 MB]
+21:14:38.109 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=396.3 MB/615 MB]
+21:15:08.190 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 00m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=335.2 MB/615 MB]
+21:15:38.275 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 01m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=522.8 MB/615 MB]
+21:16:08.355 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 01m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=459.9 MB/615 MB]
+21:16:38.443 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 02m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=397.3 MB/615 MB]
+21:17:08.522 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 02m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=336.2 MB/615 MB]
+21:17:38.596 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 03m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=524.2 MB/615 MB]
+21:18:08.675 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 03m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=463.2 MB/615 MB]
+21:18:38.753 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 04m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=401.7 MB/615 MB]
+21:19:08.833 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 04m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=340.7 MB/615 MB]
+21:19:38.971 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 05m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=529 MB/615 MB]
+21:20:09.187 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 05m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=469.2 MB/615 MB]
+21:20:39.353 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 06m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=407.2 MB/615 MB]
+21:21:09.555 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 06m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=346.8 MB/615 MB]
+21:21:39.727 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 07m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=535.1 MB/615 MB]
+21:22:09.937 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 07m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=475.3 MB/615 MB]
+21:22:40.157 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 08m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=413.8 MB/615 MB]
+21:23:10.400 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 08m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=354.3 MB/615 MB]
+21:23:40.605 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 09m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=542.6 MB/615 MB]
+21:24:10.765 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 09m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=482.8 MB/615 MB]
+21:24:40.926 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 10m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=421.2 MB/615 MB]
+21:25:11.165 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 10m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=361.7 MB/615 MB]
+21:25:41.385 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 11m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=299.8 MB/615 MB]
+21:26:11.588 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 11m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=489.4 MB/615 MB]
+21:26:41.799 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 12m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=427.2 MB/615 MB]
+21:27:11.960 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 12m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=366.8 MB/615 MB]
+21:27:42.129 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 13m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=305.3 MB/615 MB]
+21:28:12.335 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 13m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=495.5 MB/615 MB]
+21:28:42.559 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 14m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=433.7 MB/615 MB]
+21:29:02.867 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+21:29:02.867 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+21:29:02.931 [player-save-backup-0] ERROR i.a.m.e.p.s.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+21:29:02.954 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-02T21_29_02.8678673.zip 
+21:29:02.964 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+21:29:02.964 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+21:29:12.769 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 14m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=374.8 MB/615 MB]
+21:29:42.995 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 15m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=313.3 MB/615 MB]
+21:30:13.220 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 15m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=504 MB/615 MB]
+21:30:43.446 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 16m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=441.6 MB/615 MB]
+21:31:13.662 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 16m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=381.8 MB/615 MB]
+21:31:43.851 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 17m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=320.8 MB/615 MB]
+21:32:14.060 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 17m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=510.5 MB/615 MB]
+21:32:44.266 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 18m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=449.2 MB/615 MB]
+21:33:14.493 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 18m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=389.3 MB/615 MB]
+21:33:44.748 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 19m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=327.8 MB/615 MB]
+21:34:14.958 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 19m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=517.9 MB/615 MB]
+21:34:45.163 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 20m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=455.7 MB/615 MB]
+21:35:15.373 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 20m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=395.8 MB/615 MB]
+21:35:45.572 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 21m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=334.9 MB/615 MB]
+21:36:15.804 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 21m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=525 MB/615 MB]
+21:36:46.021 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 22m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=463.2 MB/615 MB]
+21:37:16.217 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 22m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=403.3 MB/615 MB]
+21:37:46.458 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 23m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=341.8 MB/615 MB]
+21:38:16.726 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 23m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=532.5 MB/615 MB]
+21:38:47.001 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 24m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=471.2 MB/615 MB]
+21:39:17.267 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 24m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=410.8 MB/615 MB]
+21:39:47.514 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 25m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=350.3 MB/615 MB]
+21:40:17.647 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 25m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=541 MB/615 MB]
+21:40:47.830 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 26m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=478.8 MB/615 MB]
+21:41:17.992 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 26m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=419.3 MB/615 MB]
+21:41:48.185 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 27m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=357.9 MB/615 MB]
+21:42:18.353 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 27m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=298.3 MB/615 MB]
+21:42:48.470 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 28m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=486.3 MB/615 MB]
+21:43:18.547 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 28m 30s, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=427.4 MB/615 MB]
+21:43:48.625 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 29m, connections=1, players=1, uniques=1, npcs=3296, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=365.6 MB/615 MB]
+21:44:02.882 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+21:44:18.694 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 29m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=305.2 MB/615 MB]
+21:44:48.776 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 30m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=493.6 MB/615 MB]
+21:45:18.855 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 30m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=433.9 MB/615 MB]
+21:45:48.935 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 31m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=371.9 MB/615 MB]
+21:46:19.021 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 31m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=312.8 MB/615 MB]
+21:46:49.107 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 32m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=500.7 MB/615 MB]
+21:47:19.190 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 32m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=440.4 MB/615 MB]
+21:47:49.272 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 33m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=378.4 MB/615 MB]
+21:48:19.354 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 33m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=318.8 MB/615 MB]
+21:48:49.431 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 34m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=506.3 MB/615 MB]
+21:49:19.498 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 34m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=446.3 MB/615 MB]
+21:49:49.578 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 35m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=383.9 MB/615 MB]
+21:50:19.655 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 35m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=323.4 MB/615 MB]
+21:50:49.733 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 36m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=510.7 MB/615 MB]
+21:51:19.814 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 36m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=450.9 MB/615 MB]
+21:51:49.905 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 37m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=388.9 MB/615 MB]
+21:52:19.981 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 37m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=328.4 MB/615 MB]
+21:52:50.063 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 38m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=516.7 MB/615 MB]
+21:53:20.154 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 38m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=455.9 MB/615 MB]
+21:53:50.226 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 39m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=393.9 MB/615 MB]
+21:54:20.318 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 39m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=333.9 MB/615 MB]
+21:54:50.401 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 40m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=522.2 MB/615 MB]
+21:55:20.484 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 40m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=462.4 MB/615 MB]
+21:55:50.559 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 41m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=401.4 MB/615 MB]
+21:56:20.638 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 41m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=341.3 MB/615 MB]
+21:56:50.736 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 42m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=529.2 MB/615 MB]
+21:57:20.813 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 42m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=469.4 MB/615 MB]
+21:57:50.903 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 43m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=406.9 MB/615 MB]
+21:58:20.980 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 43m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=346.3 MB/615 MB]
+21:58:51.060 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 44m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=534.1 MB/615 MB]
+21:59:02.882 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 1 online users.
+21:59:02.883 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Dumping database DatabaseCredentials{url='jdbc:mysql://92.204.221.12/game_alunity?useSSL=false&serverTimezone=UTC', username='Alunity_Game'}.
+21:59:02.956 [player-save-backup-0] ERROR i.a.m.e.p.s.backup.PlayerSaveBackup - Error while dumping mysql database
+java.lang.IllegalStateException: Something went wrong with mysqldump command, code: 1
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.dumpMysqlDatabase(PlayerSaveBackup.java:108)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.backup(PlayerSaveBackup.java:66)
+	at io.alunity.model.entity.player.save.backup.PlayerSaveBackup.lambda$start$0(PlayerSaveBackup.java:50)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+21:59:02.983 [player-save-backup-0] INFO  i.a.m.e.p.s.backup.PlayerSaveBackup - Backed up save files to file .\save_files\backups\public\2021-12-02T21_59_02.8822842.zip 
+21:59:03.023 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+21:59:03.024 [player-save-backup-0] WARN  i.a.m.e.p.s.backup.PlayerSaveBackup - No FTP credentials to upload remote backups.
+21:59:21.141 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 44m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=475.4 MB/615 MB]
+21:59:51.214 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 45m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=413.4 MB/615 MB]
+22:00:21.293 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 45m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=353.4 MB/615 MB]
+22:00:51.390 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 46m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=541.7 MB/615 MB]
+22:01:21.566 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 46m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=481.9 MB/615 MB]
+22:01:51.647 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 47m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=419.4 MB/615 MB]
+22:02:21.722 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 47m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=360.4 MB/615 MB]
+22:02:51.806 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 48m, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=298 MB/615 MB]
+22:03:21.882 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 48m 30s, connections=1, players=1, uniques=1, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=488.1 MB/615 MB]
+22:03:51.975 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 49m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=426.2 MB/615 MB]
+22:04:22.091 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 49m 30s, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=364.9 MB/615 MB]
+22:04:52.175 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2h 50m, connections=0, players=0, uniques=0, npcs=3293, reserved-heights=0, average-cycle-time=7ms, handshakes-per-tick=0, memory=301.5 MB/615 MB]

@@ -1,0 +1,111 @@
+[2022-01-27T20:13:29.0209221] [2022-01-27T20:13:29.0159202] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Jan 27, 2022 8:13:31 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Jan 27, 2022 8:13:31 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Jan 27, 2022 8:13:32 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Jan 27, 2022 8:13:32 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Jan 27, 2022 8:13:32 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Jan 27, 2022 8:13:32 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Jan 27, 2022 8:13:46 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Jan 27, 2022 8:13:46 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Jan 27, 2022 8:13:46 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Jan 27, 2022 8:13:46 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Jan 27, 2022 8:13:46 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Jan 27, 2022 8:13:46 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2022-02-28T05:38:42.4772785] [2022-02-28T05:38:42.4772785] Error adding index.. broadcast list is full!
+[2022-02-28T06:23:49.7050714] [2022-02-28T06:23:49.7050714] Error adding index.. broadcast list is full!
+[2022-02-28T07:08:56.7033327] [2022-02-28T07:08:56.7033327] Error adding index.. broadcast list is full!
+[2022-02-28T07:54:03.6549693] [2022-02-28T07:54:03.6549693] Error adding index.. broadcast list is full!
+[2022-02-28T08:39:10.6237182] [2022-02-28T08:39:10.6237182] Error adding index.. broadcast list is full!
+[2022-02-28T09:24:17.5537294] [2022-02-28T09:24:17.5537294] Error adding index.. broadcast list is full!
+[2022-02-28T10:09:24.6415348] [2022-02-28T10:09:24.6415348] Error adding index.. broadcast list is full!
+[2022-02-28T10:54:31.5971746] [2022-02-28T10:54:31.5971746] Error adding index.. broadcast list is full!
+[2022-02-28T11:39:38.5242985] [2022-02-28T11:39:38.5242985] Error adding index.. broadcast list is full!
+[2022-02-28T12:24:45.3746044] [2022-02-28T12:24:45.3746044] Error adding index.. broadcast list is full!
+[2022-02-28T13:09:52.2304669] [2022-02-28T13:09:52.2304669] Error adding index.. broadcast list is full!
+[2022-02-28T13:54:59.1795317] [2022-02-28T13:54:59.1795317] Error adding index.. broadcast list is full!
+[2022-02-28T14:40:06.0752378] [2022-02-28T14:40:06.0752378] Error adding index.. broadcast list is full!
+[2022-02-28T15:25:13.0241421] [2022-02-28T15:25:13.0241421] Error adding index.. broadcast list is full!
+[2022-02-28T16:10:19.9671732] [2022-02-28T16:10:19.9671732] Error adding index.. broadcast list is full!
+[2022-02-28T16:55:26.8991489] [2022-02-28T16:55:26.8991489] Error adding index.. broadcast list is full!
+[2022-02-28T17:40:33.8710063] [2022-02-28T17:40:33.8710063] Error adding index.. broadcast list is full!
+[2022-02-28T18:25:40.7924236] [2022-02-28T18:25:40.7924236] Error adding index.. broadcast list is full!
+[2022-02-28T19:10:47.6951804] [2022-02-28T19:10:47.6951804] Error adding index.. broadcast list is full!
+[2022-02-28T19:55:54.6066289] [2022-02-28T19:55:54.6066289] Error adding index.. broadcast list is full!
+[2022-02-28T20:41:01.6218537] [2022-02-28T20:41:01.6218537] Error adding index.. broadcast list is full!
+[2022-02-28T21:26:08.6097443] [2022-02-28T21:26:08.6097443] Error adding index.. broadcast list is full!
+[2022-02-28T22:11:15.5348059] [2022-02-28T22:11:15.5348059] Error adding index.. broadcast list is full!
+[2022-02-28T22:56:22.4008704] [2022-02-28T22:56:22.4008704] Error adding index.. broadcast list is full!
+[2022-02-28T23:41:29.2532299] [2022-02-28T23:41:29.2532299] Error adding index.. broadcast list is full!
+[2022-03-01T00:26:36.114807] [2022-03-01T00:26:36.114807] Error adding index.. broadcast list is full!
+[2022-03-01T01:11:43.1238828] [2022-03-01T01:11:43.1228808] Error adding index.. broadcast list is full!
+[2022-03-01T01:56:50.067559] [2022-03-01T01:56:50.067559] Error adding index.. broadcast list is full!
+[2022-03-01T02:41:56.9610483] [2022-03-01T02:41:56.9610483] Error adding index.. broadcast list is full!
+[2022-03-01T03:27:03.9339499] [2022-03-01T03:27:03.9339499] Error adding index.. broadcast list is full!
+[2022-03-01T04:12:10.9299839] [2022-03-01T04:12:10.9289833] Error adding index.. broadcast list is full!
+[2022-03-01T04:57:17.9537966] [2022-03-01T04:57:17.9537966] Error adding index.. broadcast list is full!
+[2022-03-01T05:42:25.0926521] [2022-03-01T05:42:25.0926521] Error adding index.. broadcast list is full!
+[2022-03-01T06:27:32.0734847] [2022-03-01T06:27:32.0734847] Error adding index.. broadcast list is full!
+[2022-03-01T07:12:38.9283051] [2022-03-01T07:12:38.9283051] Error adding index.. broadcast list is full!
+[2022-03-01T07:57:45.9812402] [2022-03-01T07:57:45.9812402] Error adding index.. broadcast list is full!
+[2022-03-01T08:42:52.9214108] [2022-03-01T08:42:52.9204136] Error adding index.. broadcast list is full!
+[2022-03-01T09:27:59.8904216] [2022-03-01T09:27:59.8904216] Error adding index.. broadcast list is full!
+[2022-03-01T10:13:07.1293229] [2022-03-01T10:13:07.1293229] Error adding index.. broadcast list is full!
+[2022-03-01T10:58:14.0567219] [2022-03-01T10:58:14.0567219] Error adding index.. broadcast list is full!
+[2022-03-01T11:43:20.9684538] [2022-03-01T11:43:20.9684538] Error adding index.. broadcast list is full!
+[2022-03-01T12:28:27.8742854] [2022-03-01T12:28:27.8742854] Error adding index.. broadcast list is full!
+[2022-03-01T13:13:34.7536272] [2022-03-01T13:13:34.7536272] Error adding index.. broadcast list is full!
+[2022-03-01T13:58:41.7673275] [2022-03-01T13:58:41.7673275] Error adding index.. broadcast list is full!
+[2022-03-01T14:43:48.8792808] [2022-03-01T14:43:48.8792808] Error adding index.. broadcast list is full!
+[2022-03-01T15:28:55.8631551] [2022-03-01T15:28:55.8631551] Error adding index.. broadcast list is full!
+[2022-03-01T16:14:02.9050779] [2022-03-01T16:14:02.9050779] Error adding index.. broadcast list is full!
+[2022-03-01T16:59:10.4011114] [2022-03-01T16:59:10.4011114] Error adding index.. broadcast list is full!
+[2022-03-01T17:44:17.2800119] [2022-03-01T17:44:17.2800119] Error adding index.. broadcast list is full!
+[2022-03-01T18:29:24.2326713] [2022-03-01T18:29:24.2326713] Error adding index.. broadcast list is full!
+[2022-03-01T19:14:31.2071547] [2022-03-01T19:14:31.2071547] Error adding index.. broadcast list is full!
+[2022-03-01T19:59:38.1432939] [2022-03-01T19:59:38.1432939] Error adding index.. broadcast list is full!
+[2022-03-01T20:44:45.3152746] [2022-03-01T20:44:45.3152746] Error adding index.. broadcast list is full!
+[2022-03-01T21:29:52.2361606] [2022-03-01T21:29:52.2361606] Error adding index.. broadcast list is full!
+[2022-03-01T22:14:59.1832835] [2022-03-01T22:14:59.1832835] Error adding index.. broadcast list is full!
+[2022-03-01T23:00:06.2044687] [2022-03-01T23:00:06.2044687] Error adding index.. broadcast list is full!
+[2022-03-01T23:45:13.2053827] [2022-03-01T23:45:13.2053827] Error adding index.. broadcast list is full!
+[2022-03-02T00:30:20.0791879] [2022-03-02T00:30:20.0791879] Error adding index.. broadcast list is full!
+[2022-03-02T01:15:27.1937731] [2022-03-02T01:15:27.1937731] Error adding index.. broadcast list is full!
+[2022-03-02T02:00:34.1042507] [2022-03-02T02:00:34.1042507] Error adding index.. broadcast list is full!
+[2022-03-02T02:45:40.9868166] [2022-03-02T02:45:40.9868166] Error adding index.. broadcast list is full!
+[2022-03-02T03:30:47.9614556] [2022-03-02T03:30:47.9614556] Error adding index.. broadcast list is full!
+[2022-03-02T04:15:54.7498249] [2022-03-02T04:15:54.7498249] Error adding index.. broadcast list is full!
+[2022-03-02T05:01:01.7487734] [2022-03-02T05:01:01.7487734] Error adding index.. broadcast list is full!
+[2022-03-02T05:46:08.9437941] [2022-03-02T05:46:08.9437941] Error adding index.. broadcast list is full!
+[2022-03-02T06:31:16.2647934] [2022-03-02T06:31:16.2647934] Error adding index.. broadcast list is full!
+[2022-03-02T07:16:23.5099072] [2022-03-02T07:16:23.5099072] Error adding index.. broadcast list is full!
+[2022-03-02T08:01:30.4580473] [2022-03-02T08:01:30.4580473] Error adding index.. broadcast list is full!
+[2022-03-02T08:46:37.348064] [2022-03-02T08:46:37.348064] Error adding index.. broadcast list is full!
+[2022-03-02T09:31:44.1919962] [2022-03-02T09:31:44.1919962] Error adding index.. broadcast list is full!
+[2022-03-02T10:16:51.1109065] [2022-03-02T10:16:51.1109065] Error adding index.. broadcast list is full!
+[2022-03-02T11:01:58.0610134] [2022-03-02T11:01:58.060011] Error adding index.. broadcast list is full!
+[2022-03-02T11:47:05.1171606] [2022-03-02T11:47:05.1171606] Error adding index.. broadcast list is full!
+[2022-03-02T12:32:12.0621991] [2022-03-02T12:32:12.0621991] Error adding index.. broadcast list is full!
+[2022-03-02T13:17:19.0529235] [2022-03-02T13:17:19.0529235] Error adding index.. broadcast list is full!
+[2022-03-02T14:02:26.1086166] [2022-03-02T14:02:26.1086166] Error adding index.. broadcast list is full!
+[2022-03-02T14:47:33.1690327] [2022-03-02T14:47:33.1690327] Error adding index.. broadcast list is full!
+[2022-03-02T15:32:40.1919887] [2022-03-02T15:32:40.1919887] Error adding index.. broadcast list is full!
+[2022-03-02T16:17:47.2631719] [2022-03-02T16:17:47.2631719] Error adding index.. broadcast list is full!
+[2022-03-02T17:02:54.2623998] [2022-03-02T17:02:54.2623998] Error adding index.. broadcast list is full!
+[2022-03-02T17:48:01.2474241] [2022-03-02T17:48:01.2474241] Error adding index.. broadcast list is full!
+[2022-03-02T18:33:08.1750755] [2022-03-02T18:33:08.1750755] Error adding index.. broadcast list is full!
+[2022-03-02T19:18:15.0604531] [2022-03-02T19:18:15.0604531] Error adding index.. broadcast list is full!
+[2022-03-02T20:03:22.0687253] [2022-03-02T20:03:22.0687253] Error adding index.. broadcast list is full!
+[2022-03-02T20:48:28.986752] [2022-03-02T20:48:28.986752] Error adding index.. broadcast list is full!
+[2022-03-02T21:33:35.9228559] [2022-03-02T21:33:35.9228559] Error adding index.. broadcast list is full!

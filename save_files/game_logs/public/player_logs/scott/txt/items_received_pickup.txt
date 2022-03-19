@@ -1,0 +1,5 @@
+[ItemPickupLog] [2021-11-29T21:11:08.3173213] Picked up GameItem{name=Big bones, id=532, amount=1} at Position{x=3872, y=9951, z=3}, owner scott
+[ItemPickupLog] [2021-11-29T21:11:08.3173213] Picked up GameItem{name=Soul rune, id=566, amount=107} at Position{x=3872, y=9951, z=3}, owner scott
+[ItemPickupLog] [2021-11-29T21:11:12.5253567] Picked up GameItem{name=Mithril ore, id=448, amount=57} at Position{x=3872, y=9951, z=3}, owner scott
+[ItemPickupLog] [2021-12-16T19:12:32.6807148] Picked up GameItem{name=Hydra claw, id=22966, amount=1} at Position{x=3091, y=3493, z=0}, owner scott
+[ItemPickupLog] [2021-12-16T19:12:36.8908704] Picked up GameItem{name=Hydra claw, id=22966, amount=1} at Position{x=3091, y=3493, z=0}, owner scott

@@ -1,0 +1,357 @@
+[ACCOUNT]
+character-username = moderator
+display-name = moderator
+character-password = $2a$10$5YD3fcwTAJZcBQOD.hAGNeKz5Qa9Sqa78a..ehkH8DbhmYbrM3/du
+
+[CHARACTER]
+character-rights = 1
+character-rights-secondary = 0	1
+character-mac-address = 
+character-ip-address = 
+character-uuid = 
+revert-option = 
+dropBoostStart = 0
+mode = STANDARD
+character-height = 0
+character-hp = 10
+play-time = 39
+last-clan = 
+require-pin-unlock = false
+character-specRestore = 0
+character-posx = 3090
+character-posy = 3493
+bank-pin = 
+bank-pin-cancellation = false
+bank-pin-unlock-delay = 0
+placeholders = false
+bank-pin-cancellation-delay = -1
+show-drop-warning = true
+show-alch-warning = true
+hourly-box-toggle = true
+fractured-crystal-toggle = true
+accept-aid = false
+did-you-know = true
+spectating-tournament = false
+lootvalue = 0
+raidPoints = 0
+raidCount = 0
+tobCompletions = 0
+experience-counter = 0
+character-title-updated = 
+event-calendar-september-2021 = 
+removed-slayer-tasks = 					
+
+
+rfd-round = 0
+
+combat-level-back-up = 0	0	0	0	0	0	0	
+character-historyItems = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyItemsN = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+character-historyPrice = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+lastLoginDate = 0
+has-npc = false
+summonId = 0
+startPack = true
+unlockedUltimateChest = false
+augury = false
+rigour = false
+crystalDrop = false
+spawnedbarrows = false
+collectCoins = false
+printAttackStats = true
+printDefenceStats = true
+absorption = false
+announce = true
+lootPickUp = false
+breakVials = false
+barbarian = false
+membershipStartDate = -1
+XpScroll = false
+XpScrollTime = 0
+fasterClueScroll = false
+fasterClueScrollTime = 0
+skillingPetRateScroll = false
+skillingPetRateTime = 0
+activeMageArena2BossId  = 0	0	0
+mageArena2SpawnsX  = 3151	3158	3259
+mageArena2SpawnsY  = 3881	3841	3886
+mageArenaBossKills  = false	false	false
+mageArena2Stages  = true	false	false	false	false
+flamesOfZamorakCasts  = 0
+clawsOfGuthixCasts  = 0
+saradominStrikeCasts  = 0
+exchangeP = 0
+totalEarnedExchangeP = 0
+usedFc = false
+setPin = false
+bigger-boss-tasks = false
+cerberus-route = false
+slayer-tasks-completed = 0
+claimedReward = false
+dragonfire-shield-charge = 0
+rfd-gloves = 0
+wave-id = 0
+wave-type = 0
+wave-info = 0	0	0
+help-cc-muted = false
+usedReferral = false
+master-clue-reqs = 0	0	0	0
+counters = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+max-cape = false	false	false	false	false
+zulrah-best-time = 0
+toxic-staff = 0
+toxic-pipe-ammo = 0
+toxic-pipe-amount = 0
+toxic-pipe-charge = 0
+serpentine-helm = 0
+trident-of-the-seas = 0
+trident-of-the-swamp = 0
+arclight-charge = 0
+sang-staff-charge = 0
+bryophyta-charge = 0
+slayerPoints = 0
+LastLoginYear = 0
+LastLoginMonth = 0
+LastLoginDate = 0
+LoginStreak = 0
+crystal-bow-shots = 0
+skull-timer = 0
+magic-book = 0
+special-amount = 10.0
+prayer-amount = 1.0
+KC =0
+DC =0
+total-hunter-kills = 0
+total-rogue-kills = 0
+target-time-delay = 0
+bh-penalties = 0
+bh-bounties = 0
+statistics-visible = true
+spell-accessible = false
+zerkAmount = 
+autoRet = 0
+pkp = 0
+elvenCharge = 0
+slaughterCharge = 0
+pages = 0
+ether =0
+crawsbowCharge = 0
+thammaronCharge = 0
+viggoraCharge = 0
+bossPoints = 0
+bossPointsRefund = true
+tWin = 0
+tPoint = 0
+streak = 0
+outlastKills = 0
+outlastDeaths = 0
+tournamentTotalGames = 0
+xpMaxSkills = 0
+RefU =0
+LoyP =0
+dayv =0
+donP =0
+donA =0
+prestige-points = 0
+votePoints = 0
+bloodPoints = 0
+d1Complete = false
+d2Complete = false
+d3Complete = false
+d4Complete = false
+d5Complete = false
+d6Complete = false
+d7Complete = false
+d8Complete = false
+d9Complete = false
+d10Complete = false
+d11Complete = false
+achievement-points = 0
+xpLock = false
+teleblock-length = 0
+VarrockClaimedDiaries = 
+ArdougneClaimedDiaries = 
+DesertClaimedDiaries = 
+FaladorClaimedDiaries = 
+FremennikClaimedDiaries = 
+KandarinClaimedDiaries = 
+KaramjaClaimedDiaries = 
+LumbridgeClaimedDiaries = 
+MorytaniaClaimedDiaries = 
+WesternClaimedDiaries = 
+WildernessClaimedDiaries = 
+diaries = 
+partialDiaries = 
+pc-points = 0
+total-raids = 0
+killStreak = 0
+bonus-end = 0
+jail-end = 0
+mute-end = 0
+last-yell = 0
+splitChat = false
+lastVote = 0
+last-task = 
+run-toggled = true
+slayer-master = 0
+konar-slayer-location = null
+consecutive-tasks = 0
+mage-arena-points = 0
+shayzien-assault-points = 0
+flagged = false
+keepTitle = false
+killTitle = false
+wave = 0
+privatechat = 0
+void = 0	0	0	0	0
+quickprayer = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	
+pouch-rune = 0	0	0
+pouch-pure = 0	0	0
+looting_bag_deposit_mode = OPTION
+district-levels = 0	0	0	0	0	0	0	0
+inDistrict = false
+safeBoxSlots = 15
+serpHelmCombatTicks = 0
+gargoyleStairsUnlocked = false
+firstAchievementLoginJune2021 = true
+controller = standard
+joinedIronmanGroup = false
+receivedCalendarCosmeticJune2021 = false
+ironman_revert_type = STANDARD
+autocast = false
+autocast_defensive = false
+autocast_id = -1
+wild_warning = 0
+Learning The Ropes = 0
+Horror From The Deep = 0
+Monkey Madness = 0
+set_first_bank_pin = false
+trouver_items = 
+compromised_account_type = ;false
+bank_pin_2021_message = true
+boss_kill_times = 
+200mtime = 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+friends-list = 
+style_warning_toggle = false
+daily_rewards_streak = 0
+lost_property = 
+weapon_mode_3 = 0
+donation_reward_amount = 0
+donation_reward_reset_week = 2021:9:19:23:59
+recent_killed = 
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	1	0	false	0
+character-skill = 1	1	0	false	0
+character-skill = 2	1	0	false	0
+character-skill = 3	10	1300	false	0
+character-skill = 4	1	0	false	0
+character-skill = 5	1	0	false	0
+character-skill = 6	1	0	false	0
+character-skill = 7	1	0	false	0
+character-skill = 8	1	0	false	0
+character-skill = 9	1	0	false	0
+character-skill = 10	1	0	false	0
+character-skill = 11	1	0	false	0
+character-skill = 12	1	0	false	0
+character-skill = 13	1	0	false	0
+character-skill = 14	1	0	false	0
+character-skill = 15	1	0	false	0
+character-skill = 16	1	0	false	0
+character-skill = 17	1	0	false	0
+character-skill = 18	1	0	false	0
+character-skill = 19	1	0	false	0
+character-skill = 20	1	0	false	0
+character-skill = 21	1	0	false	0
+character-skill = 22	1	0	false	0
+character-skill = 23	1	0	false	0
+character-skill = 24	1	0	false	0
+
+[ITEMS]
+
+[RECHARGEITEMS]
+item = 	0	3	2021-09-02 03:38:37
+item = 	13120	2	2021-09-02 03:38:37
+item = 	1	3	2021-09-02 03:38:37
+item = 	2	150	2021-09-02 03:38:37
+item = 	13125	2	2021-09-02 03:38:37
+item = 	13126	3	2021-09-02 03:38:37
+item = 	13127	4	2021-09-02 03:38:37
+item = 	13128	3	2021-09-02 03:38:37
+item = 	13143	1	2021-09-02 03:38:37
+item = 	13111	5	2021-09-02 03:38:37
+item = 	13144	1	2021-09-02 03:38:37
+item = 	13117	1	2021-09-02 03:38:37
+item = 	13118	1	2021-09-02 03:38:37
+item = 	13119	1	2021-09-02 03:38:37
+
+[BANK]
+
+
+[LOOTBAG]
+
+[RUNEPOUCH]
+
+[HERBSACK]
+
+[GEMBAG]
+
+[DEGRADEABLES]
+claim-state = false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+
+
+[ACHIEVEMENTS-TIER-1]
+
+
+[ACHIEVEMENTS-TIER-2]
+
+
+[ACHIEVEMENTS-TIER-3]
+
+
+[ACHIEVEMENTS-TIER-4]
+
+
+[ACHIEVEMENTS-TIER-5]
+
+
+[PRESETS]
+Names = 
+[KILLSTREAKS]
+
+[TITLES]
+
+[NPC-TRACKER]
+[EOF]
+

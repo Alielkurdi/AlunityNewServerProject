@@ -1,0 +1,43 @@
+19:51:33.479 [GameThread] INFO  io.alunity.Server - Server state: TEST_PUBLIC
+19:51:34.074 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+19:51:37.063 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+19:51:37.198 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.026s)
+19:51:37.217 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 12
+19:51:37.220 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Migrating schema `game_alunity` to version 13 - create leaderboard tables
+19:51:37.232 [GameThread] ERROR o.f.core.internal.command.DbMigrate - Migration of schema `game_alunity` to version 13 - create leaderboard tables failed! Please restore backups and roll back database and code!
+19:51:37.255 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+org.flywaydb.core.internal.command.DbMigrate$FlywayMigrateException: SQL State  : 42000
+Error Code : 1064
+Message    : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(CURRENT_DATE()))' at line 1
+
+	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:373)
+	at org.flywaydb.core.internal.command.DbMigrate.access$200(DbMigrate.java:54)
+	at org.flywaydb.core.internal.command.DbMigrate$3.call(DbMigrate.java:284)
+	at org.flywaydb.core.internal.jdbc.TransactionTemplate.execute(TransactionTemplate.java:74)
+	at org.flywaydb.core.internal.command.DbMigrate.applyMigrations(DbMigrate.java:281)
+	at org.flywaydb.core.internal.command.DbMigrate.migrateGroup(DbMigrate.java:246)
+	at org.flywaydb.core.internal.command.DbMigrate.access$100(DbMigrate.java:54)
+	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:164)
+	at org.flywaydb.core.internal.command.DbMigrate$2.call(DbMigrate.java:161)
+	at org.flywaydb.core.internal.database.mysql.MySQLNamedLockTemplate.execute(MySQLNamedLockTemplate.java:60)
+	at org.flywaydb.core.internal.database.mysql.MySQLConnection.lock(MySQLConnection.java:147)
+	at org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory.lock(JdbcTableSchemaHistory.java:155)
+	at org.flywaydb.core.internal.command.DbMigrate.migrateAll(DbMigrate.java:161)
+	at org.flywaydb.core.internal.command.DbMigrate.migrate(DbMigrate.java:139)
+	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1395)
+	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1356)
+	at org.flywaydb.core.Flyway.execute(Flyway.java:1711)
+	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+	at io.alunity.Server.loadData(Server.java:139)
+	at io.alunity.Server.lambda$main$0(Server.java:177)
+	at io.alunity.GameThread.run(GameThread.java:81)
+Caused by: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(CURRENT_DATE()))' at line 1
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:762)
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:646)
+	at io.alunity.sql.leaderboard.LeaderboardsTable.createTable(LeaderboardsTable.java:30)
+	at db.migration.V13__create_leaderboard_tables.migrate(V13__create_leaderboard_tables.java:13)
+	at org.flywaydb.core.internal.resolver.java.JavaMigrationExecutor.execute(JavaMigrationExecutor.java:48)
+	at org.flywaydb.core.internal.command.DbMigrate.doMigrateGroup(DbMigrate.java:367)
+	... 20 common frames omitted

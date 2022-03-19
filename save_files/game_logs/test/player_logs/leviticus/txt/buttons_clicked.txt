@@ -1,0 +1,2 @@
+[ClickButtonLog] [2021-11-09T22:24:28.5707349] Clicked: 94242, new: false
+[ClickButtonLog] [2021-11-09T22:24:32.8078083] Clicked: 9154, new: false

@@ -1,0 +1,153 @@
+[
+  {
+    "name": "ok",
+    "equipment": {
+      "weapon": -1,
+      "helmet": -1,
+      "shield": -1,
+      "ammo": -1,
+      "plate": -1,
+      "legs": -1,
+      "boots": -1,
+      "gloves": -1,
+      "necklace": -1,
+      "cape": -1,
+      "ring": -1
+    },
+    "inventory": [
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      },
+      {
+        "itemId": -1,
+        "amount": 0
+      }
+    ],
+    "ammoAmount": -1,
+    "spellBook": 2
+  },
+  {
+    "name": "asdasd",
+    "equipment": {
+      "weapon": -1,
+      "helmet": 11664,
+      "shield": -1,
+      "ammo": -1,
+      "plate": 8839,
+      "legs": 8840,
+      "boots": -1,
+      "gloves": 8842,
+      "necklace": 12853,
+      "cape": 21295,
+      "ring": 19710
+    },
+    "inventory": [],
+    "ammoAmount": -1,
+    "spellBook": 2
+  }
+]

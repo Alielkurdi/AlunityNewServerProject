@@ -1,0 +1,11 @@
+[ClickObjectLog] [2022-02-21T21:28:49.456769] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-21T21:42:29.4543225] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-21T21:42:31.2603383] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-21T21:47:12.7827616] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-21T21:47:21.2068317] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-21T21:47:24.8168643] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-21T21:54:08.4773334] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-21T21:54:19.898431] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-21T21:54:49.3716891] Clicked object WorldObject{x=3084, y=3513, height=0, id=4483, type=10, face=2} option 1
+[ClickObjectLog] [2022-02-21T21:54:53.5837234] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-21T22:03:21.3174373] Clicked object WorldObject{x=3094, y=3495, height=0, id=10061, type=0, face=2} option 1

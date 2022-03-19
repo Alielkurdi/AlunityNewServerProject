@@ -1,0 +1,2 @@
+[CommandLog] [2021-12-06T23:40:01.6568972] scott11 typed command yell de at X: 2670 Y:3712
+[CommandLog] [2021-12-06T23:40:09.5142345] scott11 typed command / d at X: 2670 Y:3712

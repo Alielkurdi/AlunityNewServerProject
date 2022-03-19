@@ -1,0 +1,46 @@
+[2021-12-27T23:14:44.739266] [2021-12-27T23:14:44.7342557] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Dec 27, 2021 11:14:46 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Dec 27, 2021 11:14:47 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Dec 27, 2021 11:14:47 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Dec 27, 2021 11:14:47 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Dec 27, 2021 11:14:47 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Dec 27, 2021 11:14:47 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Dec 27, 2021 11:15:03 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Dec 27, 2021 11:15:03 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Dec 27, 2021 11:15:03 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Dec 27, 2021 11:15:04 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Dec 27, 2021 11:15:04 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Dec 27, 2021 11:15:04 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.
+[2021-12-30T22:32:12.3727761] Exception in thread "GameThread" [2021-12-30T22:32:12.3847757] java.lang.NoClassDefFoundError: io/alunity/content/skills/hunter/Hunter
+[2021-12-30T22:32:12.3977934] 	at io.alunity.model.entity.player.Player.destruct(Player.java:1671)
+[2021-12-30T22:32:12.398778] 	at io.alunity.model.entity.player.PlayerHandler.lambda$process$3(PlayerHandler.java:288)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[2021-12-30T22:32:12.398778] 	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497)
+[2021-12-30T22:32:12.398778] 	at io.alunity.model.entity.player.PlayerHandler.process(PlayerHandler.java:286)
+[2021-12-30T22:32:12.398778] 	at io.alunity.GameThread.lambda$setTickables$2(GameThread.java:39)
+[2021-12-30T22:32:12.3997755] 	at io.alunity.GameThread.tick(GameThread.java:52)
+[2021-12-30T22:32:12.3997755] 	at io.alunity.GameThread.run(GameThread.java:85)
+[2021-12-30T22:32:12.4017794] Caused by: java.lang.ClassNotFoundException: io.alunity.content.skills.hunter.Hunter
+[2021-12-30T22:32:12.4017794] 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:602)
+[2021-12-30T22:32:12.4027796] 	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+[2021-12-30T22:32:12.4027796] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+[2021-12-30T22:32:12.4027796] 	... 15 more

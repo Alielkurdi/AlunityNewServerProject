@@ -1,0 +1,2 @@
+[ShopBuyLog] [2021-08-17T12:49:51.9666813] Bought GameItem{name=Kratos, id=30022, amount=1} from Item Exchange Shop with id 171
+[ItemPickupLog] [2021-08-17T12:53:56.6263681] Picked up GameItem{name=10,000 FoE Point Certificate, id=691, amount=1} at Position{x=3099, y=3495, z=0}, owner leviticus

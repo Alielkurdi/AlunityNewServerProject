@@ -1,0 +1,9 @@
+[ItemPickupLog] [2021-11-07T00:23:50.8845813] Picked up GameItem{name=Torstol, id=220, amount=19} at Position{x=3874, y=9947, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T00:23:51.4768701] Picked up GameItem{name=Big bones, id=532, amount=1} at Position{x=3874, y=9947, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T00:23:52.0859617] Picked up GameItem{name=Adamantite ore, id=450, amount=29} at Position{x=3874, y=9947, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T01:15:45.8507959] Picked up GameItem{name=PKP Ticket, id=2996, amount=35} at Position{x=3036, y=3488, z=0}, owner scott
+[ItemPickupLog] [2021-11-07T01:38:50.6403122] Picked up GameItem{name=Xeros Sword, id=22316, amount=1} at Position{x=3816, y=3543, z=0}, owner scott
+[ItemPickupLog] [2021-11-07T16:53:43.8766601] Picked up GameItem{name=Shark, id=386, amount=57} at Position{x=3871, y=9951, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T16:53:44.4616654] Picked up GameItem{name=Big bones, id=532, amount=1} at Position{x=3871, y=9951, z=3}, owner scott
+[ItemPickupLog] [2021-11-07T16:53:48.0636967] Picked up GameItem{name=Uncut emerald, id=1622, amount=23} at Position{x=3871, y=9951, z=3}, owner scott
+[ItemPickupLog] [2021-11-09T21:12:49.0671177] Picked up GameItem{name=Key master teleport, id=13249, amount=4} at Position{x=1238, y=1251, z=0}, owner scott

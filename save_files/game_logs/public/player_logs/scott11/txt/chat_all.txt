@@ -1,0 +1,1 @@
+[ClanChatLog] [2021-12-06T23:40:09.5162362] Channel=Help, message=/ d

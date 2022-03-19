@@ -1,0 +1,72 @@
+20:34:29.299 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+20:34:29.750 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+20:34:30.075 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+20:34:30.230 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.031s)
+20:34:30.256 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+20:34:30.258 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+20:34:32.937 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+20:34:32.978 [GameThread] INFO  i.a.m.e.p.m.g.GroupIronmanRepository - Loaded 0 group ironman groups.
+20:34:33.256 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+20:34:34.219 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+20:34:34.379 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+20:34:54.293 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+20:34:57.324 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+20:34:57.584 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+20:34:57.888 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+20:34:57.924 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:35:25.733 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=17ms, handshakes-per-tick=0, memory=323.7 MB/848 MB]
+20:35:33.291 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:35:33.626 [pool-9-thread-1] INFO  i.alunity.net.login.RS2LoginProtocol - Player login queued [name=Scott, mac=, ip=127.0.0.1:59421, time=685ms]
+20:35:56.326 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=19ms, handshakes-per-tick=0, memory=450.3 MB/848 MB]
+20:36:29.348 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=20ms, handshakes-per-tick=0, memory=639.8 MB/848 MB]
+20:37:04.024 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=20ms, handshakes-per-tick=0, memory=426.8 MB/848 MB]
+20:37:32.406 [database-manager-1] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/hs_alunity?useSSL=false&serverTimezone=UTC', username='XerosTest'}, query=io.alunity.sql.DatabaseManager$$Lambda$536/0x000000080107d840@3bc5a1d6
+java.sql.SQLSyntaxErrorException: Unknown column 'gamemode' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1092)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1040)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1348)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1025)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.updateSkillHiscores(HiscoresUpdateQuery.java:136)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.execute(HiscoresUpdateQuery.java:78)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.execute(HiscoresUpdateQuery.java:14)
+	at io.alunity.sql.DatabaseManager.lambda$queueBatchProcessing$0(DatabaseManager.java:62)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:32.424 [database-manager-1] ERROR io.alunity.sql.DatabaseManager - An error occurred while trying to execute a query, database= DatabaseCredentials{url='jdbc:mysql://92.204.221.12/hs_alunity?useSSL=false&serverTimezone=UTC', username='XerosTest'}, query=io.alunity.sql.DatabaseManager$$Lambda$536/0x000000080107d840@3bc5a1d6
+java.sql.SQLSyntaxErrorException: Unknown column 'gamemode' in 'field list'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1092)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1040)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1348)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1025)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.updateSkillHiscores(HiscoresUpdateQuery.java:136)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.execute(HiscoresUpdateQuery.java:78)
+	at io.alunity.sql.etc.HiscoresUpdateQuery.execute(HiscoresUpdateQuery.java:14)
+	at io.alunity.sql.DatabaseManager.lambda$queueBatchProcessing$0(DatabaseManager.java:62)
+	at io.alunity.sql.DatabaseManager.executeImmediate(DatabaseManager.java:141)
+	at io.alunity.sql.DatabaseManager.lambda$exec$2(DatabaseManager.java:116)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:41.079 [GameThread] INFO  io.alunity.GameThread - Status [runtime=2m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=18ms, handshakes-per-tick=0, memory=623.8 MB/848 MB]
+20:38:13.627 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=18ms, handshakes-per-tick=0, memory=395.8 MB/848 MB]
+20:38:43.721 [GameThread] INFO  io.alunity.GameThread - Status [runtime=3m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=17ms, handshakes-per-tick=0, memory=584.3 MB/848 MB]
+20:39:14.506 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=343.6 MB/848 MB]
+20:39:46.377 [GameThread] INFO  io.alunity.GameThread - Status [runtime=4m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=534.3 MB/848 MB]
+20:40:20.972 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=725.3 MB/848 MB]
+20:40:52.123 [GameThread] INFO  io.alunity.GameThread - Status [runtime=5m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=479.8 MB/848 MB]
+20:41:23.745 [GameThread] INFO  io.alunity.GameThread - Status [runtime=6m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=15ms, handshakes-per-tick=0, memory=667.8 MB/848 MB]

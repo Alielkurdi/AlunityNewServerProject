@@ -1,0 +1,6 @@
+[ItemDroppedLog] [2021-11-27T20:46:22.8648537] Dropped GameItem{name=Coins, id=995, amount=210,825,000} at Position{x=3092, y=3493, z=0}
+[ItemDroppedLog] [2021-11-27T20:50:24.4968975] Dropped GameItem{name=Coins, id=995, amount=210,825,000} at Position{x=3092, y=3493, z=0}
+[ItemDroppedLog] [2021-11-27T20:55:17.6213796] Dropped GameItem{name=Coins, id=995, amount=210,825,000} at Position{x=3092, y=3493, z=0}
+[ItemDroppedLog] [2021-12-16T19:12:30.8878848] Dropped GameItem{name=Hydra claw, id=22966, amount=1} at Position{x=3091, y=3493, z=0}
+[ItemDroppedLog] [2021-12-16T19:12:35.6879885] Dropped GameItem{name=Hydra claw, id=22966, amount=1} at Position{x=3091, y=3493, z=0}
+[ItemDroppedLog] [2022-03-19T23:37:59.6403262] Dropped GameItem{name=unknown item 30222, id=30222, amount=1} at Position{x=3099, y=3489, z=0}

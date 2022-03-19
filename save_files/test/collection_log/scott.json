@@ -1,0 +1,34 @@
+{
+  "1": [],
+  "6342": [],
+  "7554": [
+    {
+      "id": 21015,
+      "amount": 2,
+      "slot": 0,
+      "stackable": false
+    },
+    {
+      "id": 20784,
+      "amount": 1,
+      "slot": 0,
+      "stackable": false
+    },
+    {
+      "id": 21079,
+      "amount": 1,
+      "slot": 0,
+      "stackable": false
+    },
+    {
+      "id": 21034,
+      "amount": 1,
+      "slot": 0,
+      "stackable": false
+    }
+  ],
+  "1673": [],
+  "7888": [],
+  "6611": [],
+  "8195": []
+}

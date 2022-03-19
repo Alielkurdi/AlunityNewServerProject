@@ -1,0 +1,2 @@
+[CommandLog] [2021-11-27T21:29:38.4506721] scott1 typed command master at X: 3090 Y:3490
+[CommandLog] [2021-11-27T21:29:40.249687] scott1 typed command max at X: 3090 Y:3490

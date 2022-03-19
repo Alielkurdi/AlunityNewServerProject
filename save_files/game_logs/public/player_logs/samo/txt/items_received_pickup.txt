@@ -1,0 +1,1 @@
+[ItemPickupLog] [2022-02-21T21:26:31.7055843] Picked up GameItem{name=Fire cape, id=10566, amount=1} at Position{x=3112, y=3507, z=0}, owner samo

@@ -1,0 +1,18 @@
+23:04:06.587 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+23:04:07.020 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+23:04:07.312 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+23:04:07.462 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.027s)
+23:04:07.478 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+23:04:07.479 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+23:04:14.632 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+23:04:14.688 [GameThread] INFO  i.a.m.e.p.m.g.GroupIronmanRepository - Loaded 0 group ironman groups.
+23:04:15.572 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+23:04:16.533 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+23:04:16.705 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+23:04:35.938 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+23:04:38.019 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+23:04:38.358 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+23:04:38.561 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+23:04:38.600 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+23:05:06.624 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=493.6 MB/782 MB]
+23:05:36.687 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=0, players=0, uniques=0, npcs=3295, reserved-heights=0, average-cycle-time=13ms, handshakes-per-tick=0, memory=363.6 MB/782 MB]

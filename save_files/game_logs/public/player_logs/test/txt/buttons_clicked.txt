@@ -1,0 +1,8 @@
+[ClickButtonLog] [2021-11-17T23:18:08.646077] Clicked: 94242, new: false
+[ClickButtonLog] [2021-11-17T23:18:11.0755064] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-17T23:18:11.0755064] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-17T23:18:12.2919735] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-17T23:18:12.2919735] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-17T23:18:14.7128194] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-17T23:18:57.5088585] Clicked: 9154, new: false
+[ClickButtonLog] [2021-11-17T23:19:04.8310985] Clicked: 9154, new: false

@@ -1,0 +1,15 @@
+[LoginRequestLog] [2021-11-14T19:58:16.8586081] [ip=127.0.0.1] Handshake
+[LoginRequestLog] [2021-11-14T19:58:16.8766106] [ip=127.0.0.1] Passed handshake
+[LoginRequestLog] [2021-11-14T19:58:16.9556088] [ip=127.0.0.1] Passed POW request
+[LoginRequestLog] [2021-11-14T19:58:17.0286075] [ip=127.0.0.1] Passed POW check
+[LoginRequestLog] [2021-11-14T19:58:17.0656076] [ip=127.0.0.1] Login block
+[LoginRequestLog] [2021-11-14T19:58:17.0686089] [ip=127.0.0.1] loginType=16, loginPacketSize=169, loginEncryptPackSize=129
+[LoginRequestLog] [2021-11-14T19:58:17.8756123] [ip=127.0.0.1] Captcha
+[LoginRequestLog] [2021-11-14T19:58:17.8786129] [ip=127.0.0.1] Failure [time=811ms, mac=, uuid=c9688532-e26b-4cb9-923f-72332e66c622]
+[LoginRequestLog] [2021-11-14T19:58:21.4046454] [ip=127.0.0.1] Handshake
+[LoginRequestLog] [2021-11-14T19:58:21.4056459] [ip=127.0.0.1] Passed handshake
+[LoginRequestLog] [2021-11-14T19:58:21.4106457] [ip=127.0.0.1] Passed POW request
+[LoginRequestLog] [2021-11-14T19:58:21.4506457] [ip=127.0.0.1] Passed POW check
+[LoginRequestLog] [2021-11-14T19:58:21.4556474] [ip=127.0.0.1] Login block
+[LoginRequestLog] [2021-11-14T19:58:21.4556474] [ip=127.0.0.1] loginType=16, loginPacketSize=169, loginEncryptPackSize=129
+[LoginRequestLog] [2021-11-14T19:58:21.7116501] [ip=127.0.0.1] Success [time=255ms, mac=, uuid=c9688532-e26b-4cb9-923f-72332e66c622]

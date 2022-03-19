@@ -1,0 +1,12 @@
+00:31:26.116 [GameThread] INFO  io.alunity.Server - Server state: TEST_PUBLIC
+00:31:27.083 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 7.11.0 by Redgate
+00:31:27.085 [GameThread] INFO  o.f.c.i.d.base.BaseDatabaseType - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+00:31:27.153 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+org.flywaydb.core.internal.license.FlywayEditionUpgradeRequiredException: Flyway Teams Edition or MySQL upgrade required: MySQL 5.6 is no longer supported by Flyway Community Edition, but still supported by Flyway Teams Edition.
+	at org.flywaydb.core.internal.database.base.Database.ensureDatabaseNotOlderThanOtherwiseRecommendUpgradeToFlywayEdition(Database.java:128)
+	at org.flywaydb.core.internal.database.mysql.MySQLDatabase.ensureSupported(MySQLDatabase.java:255)
+	at org.flywaydb.core.Flyway.execute(Flyway.java:561)
+	at org.flywaydb.core.Flyway.migrate(Flyway.java:172)
+	at io.alunity.Server.loadData(Server.java:139)
+	at io.alunity.Server.lambda$main$0(Server.java:177)
+	at io.alunity.GameThread.run(GameThread.java:81)

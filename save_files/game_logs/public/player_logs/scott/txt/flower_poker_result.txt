@@ -1,0 +1,3 @@
+[FlowerpokerResultLog] [2021-12-08T20:26:54.3761102] Flower pokered: [andrew] (login name) planted [THREE OF A KIND] and I planted [ONE PAIR]
+[FlowerpokerResultLog] [2022-01-19T20:15:11.3098012] Flower pokered: [starburst] (login name) planted [ONE PAIR] and I planted [FULL HOUSE]
+[FlowerpokerResultLog] [2022-02-21T21:19:49.2031205] Flower pokered: [samo] (login name) planted [FOUR OF A KIND] and I planted [TWO PAIRS]

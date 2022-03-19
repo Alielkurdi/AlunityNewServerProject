@@ -1,0 +1,56 @@
+[CommandLog] [2021-08-17T12:39:33.832073] leviticus typed command vpanel at X: 3098 Y:3503
+[CommandLog] [2021-08-17T12:49:29.7189441] leviticus typed command item 22325 1000 at X: 3074 Y:3497
+[CommandLog] [2021-08-17T12:52:56.5060905] leviticus typed command master at X: 3101 Y:3494
+[CommandLog] [2021-08-17T12:53:01.9125031] leviticus typed command max at X: 3106 Y:3488
+[CommandLog] [2021-08-23T21:42:55.6438868] leviticus typed command debug at X: 2779 Y:4842
+[CommandLog] [2021-08-23T21:42:58.0448136] leviticus typed command debug at X: 2779 Y:4842
+[CommandLog] [2021-08-23T21:44:01.8073935] leviticus typed command unjail leviticus at X: 2083 Y:4464
+[CommandLog] [2021-08-23T21:44:36.6826909] leviticus typed command debug at X: 3094 Y:3495
+[CommandLog] [2021-08-23T21:44:40.895072] leviticus typed command debug at X: 3094 Y:3495
+[CommandLog] [2021-08-26T17:37:03.2686005] leviticus typed command preset at X: 3095 Y:3490
+[CommandLog] [2021-08-26T18:04:35.070164] leviticus typed command item 995 325k at X: 3097 Y:3492
+[CommandLog] [2021-08-26T18:04:39.2810353] leviticus typed command item 995 325000 at X: 3097 Y:3492
+[CommandLog] [2021-08-26T18:07:31.2736882] leviticus typed command item 995 1000000 at X: 3095 Y:3491
+[CommandLog] [2021-08-27T14:18:18.3766241] leviticus typed command item 995 1000000 at X: 3097 Y:3492
+[CommandLog] [2021-08-27T14:18:57.4853288] leviticus typed command item 995 1000000 at X: 3097 Y:3492
+[CommandLog] [2021-08-27T14:19:11.3269841] leviticus typed command item 995 1000000 at X: 3097 Y:3492
+[CommandLog] [2021-08-27T23:41:15.9918908] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:06:20.6825491] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:08:37.7210183] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:11:12.8264563] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:12:49.0355813] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:13:31.7005963] leviticus typed command :interface 18830 at X: 3095 Y:3492
+[CommandLog] [2021-08-28T00:13:35.9124431] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:16:27.2365894] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:18:33.4615358] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:19:07.1692845] leviticus typed command nterface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:19:10.1740216] leviticus typed command inter at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:19:11.9756758] leviticus typed command inter 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:19:15.5814646] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:22:16.5598615] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:22:58.6473346] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:23:59.3628957] leviticus typed command inteface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:24:04.1722962] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:28:32.8691483] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:32:27.9034509] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:33:42.4399992] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:45:58.2988641] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:49:04.0668995] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:52:14.5971349] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:53:02.1026006] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:06:33.037268] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:10:00.4074705] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:16:54.5791121] leviticus typed command interfce 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:16:56.9843246] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:18:48.1890656] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:20:21.9880281] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:23:06.1001542] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:25:30.3726719] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:26:01.049983] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:26:44.9506877] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-09-01T12:43:49.5264996] leviticus typed command interface 18830 at X: 3096 Y:3492
+[CommandLog] [2021-09-02T02:32:38.5672984] leviticus typed command iunterface 18830 at X: 3097 Y:3497
+[CommandLog] [2021-09-02T02:32:40.9704942] leviticus typed command interface 18830 at X: 3097 Y:3497
+[CommandLog] [2021-09-07T19:42:37.7175591] leviticus typed command leaderboard at X: 3093 Y:3493
+[CommandLog] [2021-09-07T19:42:42.5234396] leviticus typed command leaderboard at X: 3092 Y:3493
+[CommandLog] [2021-09-07T19:43:22.2119971] leviticus typed command leaderboards at X: 3092 Y:3493

@@ -1,0 +1,1 @@
+[OutlastStatLogger] [2021-08-17T12:48:51.835433] leviticus left the lobby DidStatsGetChecked=Yes SavedAttackXP=0

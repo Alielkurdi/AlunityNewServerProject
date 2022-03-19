@@ -1,0 +1,1 @@
+[ItemDroppedLog] [2021-08-17T12:53:51.8244899] Dropped GameItem{name=10,000 FoE Point Certificate, id=691, amount=1} at Position{x=3099, y=3495, z=0}

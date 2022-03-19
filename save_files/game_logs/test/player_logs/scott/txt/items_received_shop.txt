@@ -1,0 +1,11 @@
+[ShopBuyLog] [2021-11-07T00:39:24.0132346] Bought GameItem{name=Super Mystery Box, id=6828, amount=1} from Donator Store with id 9
+[ShopBuyLog] [2021-11-07T00:39:27.6401984] Bought GameItem{name=Infernal cape, id=21295, amount=1} from Donator Store with id 9
+[ShopBuyLog] [2021-11-07T00:39:30.6745535] Bought GameItem{name=Armadyl godsword, id=11802, amount=1} from Donator Store with id 9
+[ShopBuyLog] [2021-11-07T00:39:38.5664228] Bought GameItem{name=Primordial boots, id=13239, amount=1} from Donator Store with id 9
+[ShopBuyLog] [2021-11-07T12:51:56.7405884] Bought GameItem{name=Overload (4), id=11730, amount=1} from Item Exchange Shop with id 171
+[ShopSellLog] [2021-11-09T19:27:59.812267] Sold GameItem{name=Mystery box, id=6199, amount=1} from Sell Me Anything with id 122
+[ShopSellLog] [2021-11-09T19:28:13.0123668] Sold GameItem{name=Twisted bow, id=20997, amount=1} from Sell Me Anything with id 122
+[ShopBuyLog] [2021-11-09T21:53:38.3458913] Bought GameItem{name=Shadow archer, id=30016, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2021-11-09T21:53:40.1239052] Bought GameItem{name=Shadow warrior, id=30015, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2021-11-10T00:31:33.2549284] Bought GameItem{name=K'klik, id=30014, amount=1} from Item Exchange Shop with id 171
+[ShopBuyLog] [2021-11-10T16:51:57.1664195] Bought GameItem{name=Enchanted gem, id=4155, amount=1} from Slayer Store with id 10

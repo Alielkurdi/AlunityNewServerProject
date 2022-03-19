@@ -1,0 +1,17 @@
+[ConnectionLog] [2021-11-14T23:47:27.7216791] Logged in
+[ClickButtonLog] [2021-11-14T23:47:39.7477766] Clicked: 94242, new: false
+[ClickButtonLog] [2021-11-14T23:47:41.5517935] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-14T23:47:43.9588101] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-14T23:47:44.557816] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-14T23:47:45.7608253] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-14T23:47:52.380886] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-14T23:50:38.0683098] Logged in
+[ClickButtonLog] [2021-11-14T23:50:41.0783331] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-14T23:53:16.9456362] Logged in
+[ClickButtonLog] [2021-11-14T23:53:20.5516635] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-14T23:54:54.6370404] Logged in
+[ClickButtonLog] [2021-11-14T23:54:57.0450621] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-14T23:59:45.4274843] Logged in
+[ClickButtonLog] [2021-11-14T23:59:47.8355368] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-15T00:09:43.9431301] Logged in
+[ClickButtonLog] [2021-11-15T00:09:47.572128] Clicked: 9154, new: false

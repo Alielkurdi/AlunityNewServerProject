@@ -1,0 +1,50 @@
+[CommandLog] [2022-02-21T21:17:07.9957309] samo typed command master at X: 3093 Y:3490
+[CommandLog] [2022-02-21T21:21:19.4269014] samo typed command getid scythe at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:21:26.0439562] samo typed command item 22325 at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:21:38.0840595] samo typed command getid boots at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:22:03.3462744] samo typed command item 6921 1 at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:22:08.7613201] samo typed command item 6920 at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:23:07.1188224] samo typed command getid pets at X: 3113 Y:3507
+[CommandLog] [2022-02-21T21:23:11.9348676] samo typed command getid pet at X: 3113 Y:3507
+[CommandLog] [2022-02-21T21:23:29.3850167] samo typed command item 30110  at X: 3113 Y:3507
+[CommandLog] [2022-02-21T21:23:40.8161185] samo typed command getid pet at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:23:48.6341809] samo typed command item kratos at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:23:54.6552385] samo typed command getid kratos at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:23:59.4702771] samo typed command item 30122 1 at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:24:19.3314445] samo typed command getid bandos at X: 3115 Y:3507
+[CommandLog] [2022-02-21T21:24:30.1575376] samo typed command item 12482 1 at X: 3115 Y:3507
+[CommandLog] [2022-02-21T21:24:39.7906253] samo typed command item 12483  at X: 3115 Y:3507
+[CommandLog] [2022-02-21T21:25:06.2588485] samo typed command getid cape at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:25:21.8989928] samo typed command item 33052 1 at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:25:44.1561857] samo typed command item 1052  at X: 3114 Y:3508
+[CommandLog] [2022-02-21T21:25:48.3742159] samo typed command item 2413  at X: 3114 Y:3508
+[CommandLog] [2022-02-21T21:26:00.4173136] samo typed command getid fire at X: 3112 Y:3507
+[CommandLog] [2022-02-21T21:26:13.050421] samo typed command item 10637 1 at X: 3112 Y:3507
+[CommandLog] [2022-02-21T21:26:26.8905413] samo typed command item 10566 1 at X: 3112 Y:3507
+[CommandLog] [2022-02-21T21:27:46.8992292] samo typed command item 6570 1 at X: 3095 Y:3499
+[CommandLog] [2022-02-21T21:28:14.5694662] samo typed command item 21295 1 at X: 3095 Y:3500
+[CommandLog] [2022-02-21T21:29:07.5029239] samo typed command spec at X: 2676 Y:3714
+[CommandLog] [2022-02-21T21:29:26.7440915] samo typed command spec at X: 2674 Y:3713
+[CommandLog] [2022-02-21T21:29:52.0023063] samo typed command getid claws at X: 2676 Y:3715
+[CommandLog] [2022-02-21T21:29:56.2163458] samo typed command item 20784 1 at X: 2676 Y:3715
+[CommandLog] [2022-02-21T21:30:11.2644759] samo typed command getid arma at X: 2675 Y:3713
+[CommandLog] [2022-02-21T21:30:16.075513] samo typed command item 20593 1 at X: 2675 Y:3713
+[CommandLog] [2022-02-21T21:30:32.3146547] samo typed command item 11803 1 at X: 2675 Y:3711
+[CommandLog] [2022-02-21T21:30:39.5407191] samo typed command item 11802 1 at X: 2675 Y:3711
+[CommandLog] [2022-02-21T21:37:05.1830352] samo typed command givemod s at X: 2676 Y:3715
+[CommandLog] [2022-02-21T21:37:19.6261593] samo typed command giveadmin scott at X: 2676 Y:3715
+[CommandLog] [2022-02-21T21:38:29.4167615] samo typed command hp at X: 3868 Y:9952
+[CommandLog] [2022-02-21T21:38:33.6237916] samo typed command god at X: 3869 Y:9952
+[CommandLog] [2022-02-21T21:38:38.4348336] samo typed command god at X: 3869 Y:9952
+[CommandLog] [2022-02-21T21:38:43.2438752] samo typed command god at X: 3869 Y:9952
+[CommandLog] [2022-02-21T21:38:57.0829931] samo typed command hpray at X: 3865 Y:9953
+[CommandLog] [2022-02-21T21:39:13.3276401] samo typed command teleto scott at X: 3873 Y:9956
+[CommandLog] [2022-02-21T21:40:21.915229] samo typed command wildyevent at X: 3090 Y:3492
+[CommandLog] [2022-02-21T21:46:36.7014503] samo typed command donate at X: 3074 Y:3498
+[CommandLog] [2022-02-21T21:46:39.7014745] samo typed command donate at X: 3074 Y:3498
+[CommandLog] [2022-02-21T21:46:42.7085006] samo typed command donator at X: 3074 Y:3498
+[CommandLog] [2022-02-21T21:46:46.3175343] samo typed command shops at X: 3074 Y:3498
+[CommandLog] [2022-02-21T21:46:47.5195424] samo typed command home at X: 3074 Y:3498
+[CommandLog] [2022-02-21T22:02:18.1444198] samo typed command getid  at X: 3094 Y:3495
+[CommandLog] [2022-02-21T22:02:22.3564494] samo typed command getid mys at X: 3094 Y:3495
+[CommandLog] [2022-02-21T22:02:31.3815218] samo typed command item 6828 1 at X: 3094 Y:3495

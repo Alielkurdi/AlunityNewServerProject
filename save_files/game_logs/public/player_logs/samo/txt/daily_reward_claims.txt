@@ -1,0 +1,1 @@
+[DailyRewardLog] [2022-02-21T21:42:49.303494] Claimed daily reward ImmutableItem{name=Experience Lamp, id=2528, amount=1} on day 0

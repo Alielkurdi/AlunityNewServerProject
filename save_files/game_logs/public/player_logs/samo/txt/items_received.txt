@@ -1,0 +1,3 @@
+[ItemFlowerPokerTradeLog] [2022-02-21T21:19:34.7669947] Flower pokered with [scott] (login name) Received [[]] Given [[GameItem{name=Volatile nightmare staff, id=24424, amount=1}]]
+[ItemPickupLog] [2022-02-21T21:26:31.7055843] Picked up GameItem{name=Fire cape, id=10566, amount=1} at Position{x=3112, y=3507, z=0}, owner samo
+[ItemTradeLog] [2022-02-21T21:42:18.0322301] Traded with [scott] (login name) Received [[]] Given [[GameItem{name=Seren's Key, id=6792, amount=2}]]

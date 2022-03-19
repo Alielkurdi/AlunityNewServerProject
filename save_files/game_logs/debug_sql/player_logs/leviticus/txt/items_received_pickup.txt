@@ -1,0 +1,2 @@
+[ItemPickupLog] [2021-09-09T13:02:13.4839571] Picked up GameItem{name=unknown item 25729, id=25729, amount=1} at Position{x=3095, y=3492, z=0}, owner leviticus
+[ItemPickupLog] [2021-09-09T13:02:48.3236046] Picked up GameItem{name=Coins, id=995, amount=600,001,337} at Position{x=3095, y=3492, z=0}, owner leviticus

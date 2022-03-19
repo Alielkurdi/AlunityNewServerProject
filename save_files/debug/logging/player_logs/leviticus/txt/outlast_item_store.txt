@@ -1,0 +1,2 @@
+[OutlastItemStoreLog] [2021-08-17T12:48:39.217957] Player entered outlast, items stored : [inventory=[]] [equipment=[]]
+[OutlastItemStoreLog] [2021-08-17T12:48:51.8364338] Player exited outlast, items restored : [inventory=[]] [equipment=[]]

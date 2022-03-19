@@ -1,0 +1,3 @@
+[DailyRewardLog] [2021-11-07T01:09:50.9421459] Claimed daily reward ImmutableItem{name=Experience Lamp, id=2528, amount=1} on day 0
+[DailyRewardLog] [2021-11-09T19:26:43.5556239] Claimed daily reward ImmutableItem{name=Buldging Coin Bag, id=10835, amount=3} on day 1
+[DailyRewardLog] [2021-11-10T19:45:50.0497637] Claimed daily reward ImmutableItem{name=The Unbearable's Key, id=4185, amount=2} on day 2

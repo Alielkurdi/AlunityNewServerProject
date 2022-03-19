@@ -1,0 +1,322 @@
+[ConnectionLog] [2022-01-19T20:10:27.3125819] Logged in
+[ClickButtonLog] [2022-01-19T20:10:39.9466757] Clicked: 94242, new: false
+[ClickButtonLog] [2022-01-19T20:10:42.3526938] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:10:42.3536934] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:10:43.5577034] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:10:43.5577034] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:10:44.1587071] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:10:44.7587114] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:10:44.7597103] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:10:47.1667282] Clicked: 9154, new: false
+[ConnectionLog] [2022-01-19T20:10:58.0428116] Logged in
+[PublicChatLog] [2022-01-19T20:11:01.654845] Kk
+[PublicChatLog] [2022-01-19T20:11:04.6608626] Im leave <3
+[PublicChatLog] [2022-01-19T20:12:30.0865105] Look
+[CommandLog] [2022-01-19T20:12:30.6875211] starburst typed command close at X: 3090 Y:3486
+[CommandLog] [2022-01-19T20:12:31.8915251] starburst typed command tele 3102 3499 at X: 3090 Y:3486
+[PublicChatLog] [2022-01-19T20:12:40.9165974] Look that
+[ClickButtonLog] [2022-01-19T20:12:43.3226199] Clicked: 50419, new: true
+[ClickButtonLog] [2022-01-19T20:12:44.5266279] Clicked: 74107, new: false
+[ClickButtonLog] [2022-01-19T20:12:47.5306485] Clicked: 90073, new: false
+[ClickButtonLog] [2022-01-19T20:12:48.1326548] Clicked: 74112, new: false
+[ClickButtonLog] [2022-01-19T20:12:51.1406793] Clicked: 74117, new: false
+[ClickButtonLog] [2022-01-19T20:12:53.5456935] Clicked: 154078, new: false
+[ClickButtonLog] [2022-01-19T20:12:54.1456996] Clicked: 74122, new: false
+[ClickButtonLog] [2022-01-19T20:12:56.5557276] Clicked: 175247, new: false
+[ClickButtonLog] [2022-01-19T20:12:57.7537311] Clicked: 175250, new: false
+[ClickButtonLog] [2022-01-19T20:12:58.9567409] Clicked: 175253, new: false
+[ClickButtonLog] [2022-01-19T20:12:59.5587441] Clicked: 175238, new: false
+[ClickButtonLog] [2022-01-19T20:13:02.564768] Clicked: 50421, new: true
+[PublicChatLog] [2022-01-19T20:13:07.3768073] Achiviments
+[PublicChatLog] [2022-01-19T20:13:09.7828235] With progress bar
+[ClickButtonLog] [2022-01-19T20:13:19.4109012] Clicked: 50423, new: true
+[PublicChatLog] [2022-01-19T20:13:21.8169201] 3 Quests.
+[PublicChatLog] [2022-01-19T20:13:26.027961] Flower poker
+[CommandLog] [2022-01-19T20:13:38.0640502] starburst typed command item 299 50000# at X: 3119 Y:3505
+[CommandLog] [2022-01-19T20:13:48.8941358] starburst typed command item 299::itemdedede at X: 3119 Y:3505
+[CommandLog] [2022-01-19T20:13:49.4951531] starburst typed command close at X: 3119 Y:3505
+[CommandLog] [2022-01-19T20:14:05.1332677] starburst typed command item 299 50000 at X: 3119 Y:3505
+[ClickButtonLog] [2022-01-19T20:14:21.9774022] Clicked: 13092, new: false
+[ClickButtonLog] [2022-01-19T20:14:23.7814165] Clicked: 13218, new: false
+[CommandLog] [2022-01-19T20:15:25.7489224] starburst typed command tele 3101 3500 at X: 3110 Y:3507
+[CommandLog] [2022-01-19T20:15:26.9499304] starburst typed command tele 3092 3494 at X: 3101 Y:3500
+[ClickObjectLog] [2022-01-19T20:15:28.1529376] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2022-01-19T20:15:31.7629677] Clicked: 39711, new: true
+[ClickButtonLog] [2022-01-19T20:15:34.1709872] Clicked: 44818, new: true
+[PublicChatLog] [2022-01-19T20:15:38.4700229] Thats good::
+[CommandLog] [2022-01-19T20:15:39.6750351] starburst typed command empty at X: 3808 Y:9755
+[EmptyInventoryLog] [2022-01-19T20:15:39.6770317] Emptied [SlottedItem{name=Bonus Xp Scroll, id=2841, amount=1}, SlottedItem{name=Coins, id=995, amount=300,000}, SlottedItem{name=Experience Lamp, id=2528, amount=1}, SlottedItem{name=Vote Mystery Box, id=11739, amount=1}, SlottedItem{name=Teleport to house, id=8013, amount=50}, SlottedItem{name=Lobster, id=380, amount=100}, SlottedItem{name=Shark, id=386, amount=100}, SlottedItem{name=Iron scimitar, id=1323, amount=1}, SlottedItem{name=Rune scimitar, id=1333, amount=1}, SlottedItem{name=Iron full helm, id=1153, amount=1}, SlottedItem{name=Iron platebody, id=1115, amount=1}, SlottedItem{name=Iron platelegs, id=1067, amount=1}, SlottedItem{name=Wizard hat, id=579, amount=1}, SlottedItem{name=Wizard robe, id=577, amount=1}, SlottedItem{name=Blue skirt, id=1011, amount=1}, SlottedItem{name=Staff of air, id=1381, amount=1}, SlottedItem{name=Gloves, id=7458, amount=1}, SlottedItem{name=Coif, id=1169, amount=1}, SlottedItem{name=Leather body, id=1129, amount=1}, SlottedItem{name=Leather chaps, id=1095, amount=1}, SlottedItem{name=Iron knife, id=863, amount=100}, SlottedItem{name=Rune knife, id=868, amount=100}, SlottedItem{name=Mind rune, id=558, amount=100}, SlottedItem{name=Chaos rune, id=562, amount=100}, SlottedItem{name=Mithril seeds, id=299, amount=49,995}]
+[CommandLog] [2022-01-19T20:15:42.6830649] starburst typed command hpray at X: 3808 Y:9755
+[CommandLog] [2022-01-19T20:15:44.4870729] starburst typed command max at X: 3808 Y:9755
+[ClickButtonLog] [2022-01-19T20:15:55.9201699] Clicked: 83158, new: false
+[PublicChatLog] [2022-01-19T20:16:04.3372374] Party system for nightmare,tob,cox
+[ClickButtonLog] [2022-01-19T20:16:10.3532828] Clicked: 30374, new: true
+[ClickButtonLog] [2022-01-19T20:16:19.9803731] Clicked: 9157, new: false
+[CommandLog] [2022-01-19T20:16:34.419484] starburst typed command hpray at X: 3872 Y:9942
+[PublicChatLog] [2022-01-19T20:16:36.8294988] Full nightmare
+[CommandLog] [2022-01-19T20:16:38.0305157] starburst typed command hpray at X: 3872 Y:9942
+[PublicChatLog] [2022-01-19T20:17:34.583983] This is good
+[PublicChatLog] [2022-01-19T20:17:46.0170764] Lol
+[PublicChatLog] [2022-01-19T20:17:48.4230973] Thats insane
+[PublicChatLog] [2022-01-19T20:17:49.6261061] Too much
+[PublicChatLog] [2022-01-19T20:17:50.2261096] Lol
+[PublicChatLog] [2022-01-19T20:18:16.6963209] Ohh
+[PublicChatLog] [2022-01-19T20:18:17.8953333] Haha
+[PublicChatLog] [2022-01-19T20:18:19.6993474] Thats insane
+[PublicChatLog] [2022-01-19T20:18:29.930432] 773
+[CommandLog] [2022-01-19T20:18:32.3454564] starburst typed command item 773 1 at X: 3872 Y:9947
+[CommandLog] [2022-01-19T20:18:56.4026231] starburst typed command tele 3874 9958 at X: 3869 Y:9957
+[CommandLog] [2022-01-19T20:19:28.276809] starburst typed command tele 3876 9958 at X: 3869 Y:9957
+[CommandLog] [2022-01-19T20:19:31.8818296] starburst typed command tele 3871 9952 at X: 3878 Y:9958
+[CommandLog] [2022-01-19T20:20:06.7880462] starburst typed command tele 3867 9946 at X: 3869 Y:9948
+[CommandLog] [2022-01-19T20:20:10.3950696] starburst typed command tele 3864 9945 at X: 3867 Y:9946
+[PublicChatLog] [2022-01-19T20:20:24.8261669] Yeah this is fully working
+[PublicChatLog] [2022-01-19T20:20:26.0311773] Amazing
+[ItemPickupLog] [2022-01-19T20:20:27.2371738] Picked up GameItem{name=Buldging Coin Bag, id=10835, amount=1} at Position{x=3866, y=9949, z=3}, owner starburst
+[ItemPickupLog] [2022-01-19T20:20:27.8371838] Picked up GameItem{name=Big bones, id=532, amount=1} at Position{x=3866, y=9949, z=3}, owner starburst
+[ItemPickupLog] [2022-01-19T20:20:30.846198] Picked up GameItem{name=Pure essence, id=7937, amount=937} at Position{x=3866, y=9949, z=3}, owner starburst
+[ItemPickupLog] [2022-01-19T20:20:31.4472004] Picked up GameItem{name=Uncut ruby, id=1620, amount=12} at Position{x=3866, y=9949, z=3}, owner starburst
+[CommandLog] [2022-01-19T20:20:42.2772769] starburst typed command teleto scott at X: 3869 Y:9952
+[ClickButtonLog] [2022-01-19T20:20:43.4822874] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:20:45.2862918] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:20:47.0903066] Clicked: 9158, new: false
+[CommandLog] [2022-01-19T20:20:51.9063377] starburst typed command home at X: 3866 Y:9951
+[ClickObjectLog] [2022-01-19T20:21:00.9363985] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2022-01-19T20:21:03.3404138] Clicked: 39726, new: true
+[ClickButtonLog] [2022-01-19T20:21:05.1474279] Clicked: 44742, new: true
+[ClickButtonLog] [2022-01-19T20:21:17.1735086] Clicked: 9157, new: false
+[ClickObjectLog] [2022-01-19T20:21:18.3755171] Clicked object WorldObject{x=3678, y=3216, height=0, id=32653, type=10, face=1} option 1
+[ClickObjectLog] [2022-01-19T20:21:23.7855557] Clicked object WorldObject{x=3678, y=3216, height=0, id=32653, type=10, face=1} option 1
+[ClickObjectLog] [2022-01-19T20:21:40.6316706] Clicked object WorldObject{x=3185, y=4447, height=0, id=32755, type=10, face=1} option 1
+[CommandLog] [2022-01-19T20:21:53.2607669] starburst typed command tele 3182 4446 at X: 3174 Y:4445
+[ClickObjectLog] [2022-01-19T20:21:56.8697855] Clicked object WorldObject{x=3185, y=4446, height=0, id=32755, type=10, face=1} option 1
+[CommandLog] [2022-01-19T20:21:58.0757959] starburst typed command tele 3192 4446 at X: 3186 Y:4446
+[CommandLog] [2022-01-19T20:22:03.4848334] starburst typed command tele 3190 4431 at X: 3192 Y:4446
+[ClickButtonLog] [2022-01-19T20:22:05.2908491] Clicked: 152, new: false
+[CommandLog] [2022-01-19T20:22:07.0948582] starburst typed command tele 3177 4427 at X: 3190 Y:4431
+[ClickObjectLog] [2022-01-19T20:22:08.904872] Clicked object WorldObject{x=3177, y=4422, height=0, id=33113, type=0, face=3} option 1
+[ClickButtonLog] [2022-01-19T20:22:25.1429917] Clicked: 152, new: false
+[ClickObjectLog] [2022-01-19T20:22:30.5580333] Clicked object WorldObject{x=3304, y=4446, height=0, id=32755, type=10, face=1} option 1
+[ClickObjectLog] [2022-01-19T20:22:34.7690561] Clicked object WorldObject{x=3304, y=4446, height=0, id=32755, type=10, face=1} option 1
+[ClickObjectLog] [2022-01-19T20:22:47.997158] Clicked object WorldObject{x=3287, y=4447, height=0, id=32755, type=10, face=3} option 1
+[CommandLog] [2022-01-19T20:22:51.605185] starburst typed command tele 3270 4448 at X: 3284 Y:4447
+[ClickObjectLog] [2022-01-19T20:22:52.8051894] Clicked object WorldObject{x=3269, y=4447, height=0, id=33113, type=0, face=0} option 1
+[ClickObjectLog] [2022-01-19T20:22:53.4101944] Clicked object WorldObject{x=3269, y=4447, height=0, id=33113, type=0, face=0} option 1
+[CommandLog] [2022-01-19T20:22:58.2212333] starburst typed command tele 3297 4264 at X: 3298 Y:4276
+[CommandLog] [2022-01-19T20:22:59.4242375] starburst typed command tele 3293 4258 at X: 3297 Y:4264
+[ClickObjectLog] [2022-01-19T20:23:01.8352626] Clicked object WorldObject{x=3295, y=4255, height=0, id=32755, type=10, face=0} option 1
+[ClickObjectLog] [2022-01-19T20:23:01.8352626] Clicked object WorldObject{x=3295, y=4255, height=0, id=32755, type=10, face=0} option 1
+[ClickObjectLog] [2022-01-19T20:23:06.0442967] Clicked object WorldObject{x=3296, y=4255, height=0, id=32755, type=10, face=0} option 1
+[ClickObjectLog] [2022-01-19T20:23:07.2532987] Clicked object WorldObject{x=3296, y=4255, height=0, id=32755, type=10, face=0} option 1
+[CommandLog] [2022-01-19T20:23:19.2813889] starburst typed command tele 3299 4277 at X: 3296 Y:4262
+[ClickObjectLog] [2022-01-19T20:23:20.4833982] Clicked object WorldObject{x=3303, y=4275, height=0, id=33113, type=0, face=2} option 1
+[ClickObjectLog] [2022-01-19T20:23:44.5445777] Clicked object WorldObject{x=3279, y=4307, height=0, id=32755, type=10, face=2} option 1
+[CommandLog] [2022-01-19T20:23:46.3515965] starburst typed command tele 3279 4296 at X: 3279 Y:4302
+[CommandLog] [2022-01-19T20:23:46.3526288] starburst typed command tele 3279 4295 at X: 3279 Y:4302
+[ClickObjectLog] [2022-01-19T20:23:46.9545958] Clicked object WorldObject{x=3279, y=4293, height=0, id=33113, type=0, face=3} option 1
+[ClickObjectLog] [2022-01-19T20:23:49.3596133] Clicked object WorldObject{x=3170, y=4379, height=1, id=32755, type=10, face=2} option 1
+[CommandLog] [2022-01-19T20:23:55.9816676] starburst typed command tele 3170 4395 at X: 3170 Y:4385
+[ClickObjectLog] [2022-01-19T20:24:04.9977343] Clicked object WorldObject{x=3169, y=4398, height=1, id=29069, type=10, face=1} option 1
+[PublicChatLog] [2022-01-19T20:24:09.2087748] Orginal osrs
+[CompletedTobLog] [2022-01-19T20:24:33.8709544] Completed tob with scott, starburst
+[ClickObjectLog] [2022-01-19T20:24:39.8870021] Clicked object WorldObject{x=3167, y=4324, height=0, id=32738, type=10, face=0} option 1
+[CommandLog] [2022-01-19T20:24:42.8980316] starburst typed command tele 3237 4325 at X: 3237 Y:4311
+[CommandLog] [2022-01-19T20:24:45.2980425] starburst typed command tele 3229 4327 at X: 3237 Y:4325
+[ClickObjectLog] [2022-01-19T20:24:46.5060529] Clicked object WorldObject{x=3226, y=4327, height=0, id=32990, type=10, face=3} option 1
+[PublicChatLog] [2022-01-19T20:24:53.1131149] Amazing
+[PublicChatLog] [2022-01-19T20:25:13.5662723] I like it
+[PublicChatLog] [2022-01-19T20:25:19.5793146] How much is left to do
+[PublicChatLog] [2022-01-19T20:26:08.902704] Ahh alright
+[PublicChatLog] [2022-01-19T20:26:16.7247659] Amazing 
+[CommandLog] [2022-01-19T20:27:05.4611643] starburst typed command hunllef at X: 3229 Y:4325
+[ClickObjectLog] [2022-01-19T20:27:07.86918] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[CommandLog] [2022-01-19T20:27:13.2852257] starburst typed command getid crystal at X: 3162 Y:12428
+[ClickObjectLog] [2022-01-19T20:27:33.1343861] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[CommandLog] [2022-01-19T20:27:40.3514465] starburst typed command getid crystallin at X: 3162 Y:12428
+[CommandLog] [2022-01-19T20:27:44.5634845] starburst typed command item 23951 at X: 3162 Y:12428
+[ClickObjectLog] [2022-01-19T20:27:45.1644834] Clicked object WorldObject{x=3158, y=12426, height=0, id=678, type=10, face=3} option 1
+[ClickButtonLog] [2022-01-19T20:27:50.5765329] Clicked: 9157, new: false
+[ClickButtonLog] [2022-01-19T20:27:50.5805313] Clicked: 9157, new: false
+[CommandLog] [2022-01-19T20:28:11.0266932] starburst typed command item 20997 1 at X: 1170 Y:9939
+[CommandLog] [2022-01-19T20:28:23.0627982] starburst typed command getid dragon arrow at X: 1170 Y:9939
+[CommandLog] [2022-01-19T20:28:26.6718284] starburst typed command item 11212 5000 at X: 1170 Y:9939
+[ClickObjectLog] [2022-01-19T20:28:39.9149307] Clicked object WorldObject{x=3275, y=6050, height=0, id=32508, type=10, face=0} option 1
+[ClickButtonLog] [2022-01-19T20:28:47.1329935] Clicked: 50417, new: true
+[CommandLog] [2022-01-19T20:28:50.741022] starburst typed command wildyevent at X: 3277 Y:6050
+[ClickButtonLog] [2022-01-19T20:28:52.5440415] Clicked: 39964, new: true
+[ClickButtonLog] [2022-01-19T20:29:22.6212881] Clicked: 75010, new: false
+[CommandLog] [2022-01-19T20:29:25.6293264] starburst typed command teleto scott at X: 3307 Y:3931
+[ClickButtonLog] [2022-01-19T20:29:27.4513284] Clicked: 75010, new: false
+[CommandLog] [2022-01-19T20:29:31.6493671] starburst typed command tele 3091 3505 at X: 3090 Y:3488
+[CommandLog] [2022-01-19T20:29:34.0563812] starburst typed command tele 3093 3500 at X: 3091 Y:3505
+[CommandLog] [2022-01-19T20:29:36.4644051] starburst typed command tele 3091 3504 at X: 3093 Y:3500
+[ClickObjectLog] [2022-01-19T20:29:37.6674137] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2022-01-19T20:29:40.0714333] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[CommandLog] [2022-01-19T20:29:43.6804673] starburst typed command tele 3093 3498 at X: 3091 Y:3504
+[PublicChatLog] [2022-01-19T20:29:47.2904918] We have group ironamn
+[CommandLog] [2022-01-19T20:29:52.6985386] starburst typed command tele 3078 3498 at X: 3091 Y:3500
+[ClickObjectLog] [2022-01-19T20:29:55.1035643] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[PublicChatLog] [2022-01-19T20:29:58.1105824] Leaderboards
+[ClickObjectLog] [2022-01-19T20:30:03.5296391] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2022-01-19T20:30:10.7456898] Clicked: 130133, new: false
+[ClickButtonLog] [2022-01-19T20:30:12.5526996] Clicked: 9157, new: false
+[FireOfExchangeLog] [2022-01-19T20:30:12.5587] Burned GameItem{name=Crystal Body, id=23975, amount=1}
+[CommandLog] [2022-01-19T20:30:16.759734] starburst typed command close at X: 3075 Y:3497
+[ClickButtonLog] [2022-01-19T20:30:19.1657552] Clicked: 50421, new: true
+[ClickButtonLog] [2022-01-19T20:30:31.8048601] Clicked: 25005, new: true
+[ClaimAchievementLog] [2022-01-19T20:30:31.8068594] Claimed achievement Achievement{formattedName='Burn It', tier=STARTER, type=FOE_POINTS, description='Burn 5,000 ExchangenPoints at FoE', amount=5000, identification=8, points=1, rewards=[GameItem{name=@cya@Chest rate bonus (+15%), id=21046, amount=5}]}
+[PublicChatLog] [2022-01-19T20:30:50.4560171] Wo
+[PublicChatLog] [2022-01-19T20:30:51.6580275] Wow
+[PublicChatLog] [2022-01-19T20:30:55.8690642] This is real detailed 
+[PublicChatLog] [2022-01-19T20:30:58.2770896] I like it 
+[PublicChatLog] [2022-01-19T20:31:39.186439] Yes
+[ClickObjectLog] [2022-01-19T20:31:42.7924586] Clicked object WorldObject{x=3068, y=3497, height=0, id=190, type=10, face=1} option 1
+[ClickObjectLog] [2022-01-19T20:31:45.8004828] Clicked object WorldObject{x=3068, y=3497, height=0, id=190, type=10, face=1} option 1
+[ClickButtonLog] [2022-01-19T20:31:48.8075088] Clicked: 50417, new: true
+[CommandLog] [2022-01-19T20:31:56.0265865] starburst typed command tele 3079 3509 at X: 3070 Y:3499
+[PublicChatLog] [2022-01-19T20:31:59.031596] We have tournament
+[ClickObjectLog] [2022-01-19T20:32:01.4396238] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickObjectLog] [2022-01-19T20:32:04.4486557] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickObjectLog] [2022-01-19T20:32:06.2536528] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 2
+[ClickObjectLog] [2022-01-19T20:32:12.2687107] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 3
+[ClickObjectLog] [2022-01-19T20:32:14.6757248] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[PublicChatLog] [2022-01-19T20:32:45.357982] This is the best i seen yet
+[PublicChatLog] [2022-01-19T20:32:48.9680174] Considering most rsps
+[PublicChatLog] [2022-01-19T20:32:50.772028] So yes
+[PublicChatLog] [2022-01-19T20:33:32.874383] Yeah it did
+[PublicChatLog] [2022-01-19T20:33:43.6944866] So fill me on discord as to what we need done
+[PublicChatLog] [2022-01-19T20:33:47.9055111] So i know
+[PublicChatLog] [2022-01-19T20:33:49.7095247] And
+[PublicChatLog] [2022-01-19T20:33:58.1345997] I have work today so i can text via discord
+[PublicChatLog] [2022-01-19T20:34:01.1406278] When im back home
+[PublicChatLog] [2022-01-19T20:34:01.7426288] We work
+[PublicChatLog] [2022-01-19T20:34:07.7636771] Okay i will be aswell
+[PublicChatLog] [2022-01-19T20:34:10.1706941] This has
+[PublicChatLog] [2022-01-19T20:34:13.1787204] Potential
+[PublicChatLog] [2022-01-19T20:34:14.3817314] So 
+[PublicChatLog] [2022-01-19T20:34:16.7887498] Ill help
+[PublicChatLog] [2022-01-19T20:34:20.3997845] When im back from work
+[PublicChatLog] [2022-01-19T20:34:23.4098058] And im off tommorow 
+[PublicChatLog] [2022-01-19T20:34:26.41783] So we can continue
+[PublicChatLog] [2022-01-19T20:34:34.2369151] Alright gonna log off for now
+[PublicChatLog] [2022-01-19T20:34:36.6419373] Message me on disc
+[PublicChatLog] [2022-01-19T20:34:43.2559938] Perfect :)
+[PublicChatLog] [2022-01-19T20:34:47.4670305] Thank you for showing me
+[ClickButtonLog] [2022-01-19T20:35:19.9483069] Clicked: 9154, new: false
+[ConnectionLog] [2022-02-03T23:38:03.8685008] Logged in
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=Coins, id=995, amount=50,000,000}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=Ultra Mystery Box, id=13346, amount=3}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=250,000 FoE Point Certificate, id=696, amount=1}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=Seren's Key, id=6792, amount=15}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=FoE Mystery Chest, id=8167, amount=2}
+[LeaderboardRewardCollected] [2022-02-03T23:38:04.4733197] Collected GameItem{name=Coins, id=995, amount=250,000,000}
+[CommandLog] [2022-02-03T23:39:21.3066583] starburst typed command players at X: 3093 Y:3499
+[CommandLog] [2022-02-03T23:39:31.606332] starburst typed command teleto scott at X: 3093 Y:3499
+[PublicChatLog] [2022-02-03T23:39:41.8848091] Hey
+[ClickButtonLog] [2022-02-03T23:43:05.7773333] Clicked: 50419, new: true
+[ClickButtonLog] [2022-02-03T23:43:06.9783319] Clicked: 50421, new: true
+[ClickButtonLog] [2022-02-03T23:43:07.5856439] Clicked: 50423, new: true
+[ClickButtonLog] [2022-02-03T23:43:08.1871945] Clicked: 50421, new: true
+[ClickButtonLog] [2022-02-03T23:43:09.393314] Clicked: 50417, new: true
+[ClickButtonLog] [2022-02-03T23:44:23.1729395] Clicked: 75010, new: false
+[ClickButtonLog] [2022-02-03T23:44:34.6781807] Clicked: 59229, new: false
+[ClickButtonLog] [2022-02-03T23:44:39.5283111] Clicked: 250002, new: false
+[ClickButtonLog] [2022-02-03T23:44:45.5664443] Clicked: 50419, new: true
+[ClickButtonLog] [2022-02-03T23:44:51.5922044] Clicked: 50421, new: true
+[ClickButtonLog] [2022-02-03T23:44:56.423492] Clicked: 50423, new: true
+[ClickButtonLog] [2022-02-03T23:44:57.6264289] Clicked: 50617, new: true
+[ClickButtonLog] [2022-02-03T23:44:58.8419379] Clicked: 50616, new: true
+[ClickButtonLog] [2022-02-03T23:45:00.0571336] Clicked: 50615, new: true
+[ClickObjectLog] [2022-02-03T23:45:04.3106946] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2022-02-03T23:45:09.1244361] Clicked: 39736, new: true
+[ClickButtonLog] [2022-02-03T23:45:09.7254944] Clicked: 39731, new: true
+[ClickButtonLog] [2022-02-03T23:45:10.9195581] Clicked: 39726, new: true
+[ClickButtonLog] [2022-02-03T23:45:11.5319499] Clicked: 39721, new: true
+[ClickButtonLog] [2022-02-03T23:45:12.1328934] Clicked: 39716, new: true
+[ClickButtonLog] [2022-02-03T23:45:12.7554348] Clicked: 39711, new: true
+[ClickButtonLog] [2022-02-03T23:45:13.356279] Clicked: 39706, new: true
+[CommandLog] [2022-02-03T23:45:18.8176849] starburst typed command raids at X: 3092 Y:3491
+[ClickObjectLog] [2022-02-03T23:45:23.0435077] Clicked object WorldObject{x=3033, y=6065, height=0, id=36201, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-03T23:45:29.6792209] Clicked object WorldObject{x=3046, y=6048, height=0, id=36195, type=10, face=2} option 1
+[ClickObjectLog] [2022-02-03T23:46:05.4112573] Clicked object WorldObject{x=3307, y=5205, height=0, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-03T23:46:06.0194703] Clicked object WorldObject{x=3307, y=5205, height=0, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-03T23:46:17.5179343] Clicked object WorldObject{x=3308, y=5337, height=1, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-03T23:46:30.2096013] Clicked object WorldObject{x=3311, y=5308, height=0, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-03T23:47:23.4376498] Clicked object WorldObject{x=3311, y=5341, height=0, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-03T23:47:31.932294] Clicked object WorldObject{x=3312, y=5365, height=0, id=29747, type=11, face=1} option 1
+[ClickObjectLog] [2022-02-03T23:47:42.8162728] Clicked object WorldObject{x=3310, y=5370, height=0, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-03T23:47:42.8162728] Clicked object WorldObject{x=3310, y=5370, height=0, id=29789, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-03T23:47:46.4548333] Clicked object WorldObject{x=3310, y=5383, height=0, id=29742, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-03T23:47:58.5714337] Clicked object WorldObject{x=3318, y=5400, height=0, id=29789, type=10, face=1} option 1
+[CommandLog] [2022-02-03T23:48:31.3386884] starburst typed command tele 3308 5261 at X: 3317 Y:5258
+[CommandLog] [2022-02-03T23:48:35.5517922] starburst typed command tele 3307 5265 at X: 3308 Y:5261
+[CommandLog] [2022-02-03T23:48:36.1554358] starburst typed command tele 3305 5267 at X: 3307 Y:5265
+[CommandLog] [2022-02-03T23:48:36.7647256] starburst typed command tele 3310 5268 at X: 3305 Y:5267
+[ClickObjectLog] [2022-02-03T23:48:37.9705985] Clicked object WorldObject{x=3309, y=5274, height=1, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-03T23:48:38.5744505] Clicked object WorldObject{x=3309, y=5274, height=1, id=29789, type=10, face=1} option 1
+[CommandLog] [2022-02-03T23:48:45.2320038] starburst typed command tele 3310 5293 at X: 3311 Y:5282
+[CommandLog] [2022-02-03T23:48:45.2320038] starburst typed command tele 3310 5293 at X: 3311 Y:5282
+[CommandLog] [2022-02-03T23:48:45.8300593] starburst typed command tele 3309 5304 at X: 3310 Y:5293
+[ClickObjectLog] [2022-02-03T23:48:59.1239842] Clicked object WorldObject{x=3310, y=5306, height=1, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-03T23:48:59.7209276] Clicked object WorldObject{x=3310, y=5306, height=1, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-03T23:49:02.1555682] Clicked object WorldObject{x=3310, y=5306, height=1, id=29789, type=10, face=1} option 1
+[ClickObjectLog] [2022-02-03T23:49:36.6478686] Clicked object WorldObject{x=3311, y=5276, height=0, id=29789, type=10, face=3} option 1
+[ClickButtonLog] [2022-02-03T23:49:52.9618124] Clicked: 50417, new: true
+[ClickButtonLog] [2022-02-03T23:49:54.1673307] Clicked: 50419, new: true
+[ClickButtonLog] [2022-02-03T23:49:54.1673307] Clicked: 50419, new: true
+[ClickButtonLog] [2022-02-03T23:49:54.7761209] Clicked: 50421, new: true
+[ClickButtonLog] [2022-02-03T23:49:56.5954175] Clicked: 24501, new: true
+[ClickButtonLog] [2022-02-03T23:49:57.1965849] Clicked: 50423, new: true
+[ClickButtonLog] [2022-02-03T23:49:58.4032428] Clicked: 50417, new: true
+[ClickButtonLog] [2022-02-03T23:49:58.4032428] Clicked: 50417, new: true
+[ClickButtonLog] [2022-02-03T23:50:03.8545783] Clicked: 50419, new: true
+[ClickButtonLog] [2022-02-03T23:50:03.8545783] Clicked: 50419, new: true
+[ClickButtonLog] [2022-02-03T23:50:06.8621834] Clicked: 74157, new: false
+[ClickButtonLog] [2022-02-03T23:52:01.3441651] Clicked: 74142, new: false
+[ClickButtonLog] [2022-02-03T23:52:05.5736253] Clicked: 209110, new: false
+[ClickButtonLog] [2022-02-03T23:52:07.3878639] Clicked: 209004, new: false
+[CommandLog] [2022-02-03T23:52:18.8858187] starburst typed command item 995 2147000000 at X: 3280 Y:5174
+[CommandLog] [2022-02-03T23:52:31.6094071] starburst typed command bank at X: 3281 Y:5167
+[ClickButtonLog] [2022-02-03T23:52:43.7338246] Clicked: 74142, new: false
+[ClickButtonLog] [2022-02-03T23:52:44.942322] Clicked: 209110, new: false
+[ClickButtonLog] [2022-02-03T23:52:46.1555901] Clicked: 209004, new: false
+[ClickButtonLog] [2022-02-03T23:52:50.3856783] Clicked: 74142, new: false
+[ClickButtonLog] [2022-02-03T23:52:53.4274315] Clicked: 209046, new: false
+[ClickButtonLog] [2022-02-03T23:52:54.0275096] Clicked: 209046, new: false
+[ClickButtonLog] [2022-02-03T23:52:55.2263613] Clicked: 209004, new: false
+[ClickButtonLog] [2022-02-03T23:53:47.265268] Clicked: 74137, new: false
+[CommandLog] [2022-02-03T23:53:54.5433195] starburst typed command gambling at X: 3281 Y:5166
+[CommandLog] [2022-02-03T23:53:56.35771] starburst typed command home at X: 3281 Y:5166
+[CommandLog] [2022-02-03T23:53:59.9867806] starburst typed command teleto scott at X: 3281 Y:5166
+[ClickObjectLog] [2022-02-03T23:54:01.223657] Clicked object WorldObject{x=3298, y=5185, height=0, id=29778, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-03T23:54:03.6325964] Clicked object WorldObject{x=3298, y=5185, height=0, id=29778, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-03T23:54:07.8715029] Clicked object WorldObject{x=3298, y=5185, height=0, id=29778, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-03T23:58:55.2706352] Clicked object WorldObject{x=3298, y=5185, height=0, id=29778, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-03T23:58:57.7034551] Clicked object WorldObject{x=3298, y=5185, height=0, id=29778, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-03T23:58:59.5088688] Clicked object WorldObject{x=3298, y=5185, height=0, id=29778, type=10, face=0} option 1
+[CommandLog] [2022-02-03T23:59:01.3254493] starburst typed command home at X: 3299 Y:5188
+[CommandLog] [2022-02-03T23:59:04.9598798] starburst typed command leaveraids at X: 3299 Y:5188
+[ClickObjectLog] [2022-02-03T23:59:06.7817316] Clicked object WorldObject{x=3035, y=6071, height=0, id=23709, type=10, face=2} option 1
+[ClickObjectLog] [2022-02-03T23:59:07.388609] Clicked object WorldObject{x=3035, y=6071, height=0, id=23709, type=10, face=2} option 1
+[CommandLog] [2022-02-03T23:59:11.6274763] starburst typed command home at X: 3033 Y:6068
+[ClickButtonLog] [2022-02-04T00:04:57.2236836] Clicked: 74117, new: false
+[ClickButtonLog] [2022-02-04T00:04:59.0467332] Clicked: 74127, new: false
+[ClickButtonLog] [2022-02-04T00:05:00.2506091] Clicked: 74122, new: false
+[ClickButtonLog] [2022-02-04T00:05:00.8613006] Clicked: 74132, new: false
+[ClickButtonLog] [2022-02-04T00:05:05.0975521] Clicked: 84053, new: false
+[ClickButtonLog] [2022-02-04T00:05:05.6994409] Clicked: 84055, new: false
+[ClickButtonLog] [2022-02-04T00:05:06.3008222] Clicked: 84057, new: false
+[ClickButtonLog] [2022-02-04T00:05:06.8954189] Clicked: 84051, new: false
+[ClickButtonLog] [2022-02-04T00:05:07.5188197] Clicked: 74127, new: false
+[ClickButtonLog] [2022-02-04T00:05:08.8379871] Clicked: 74132, new: false
+[ClickButtonLog] [2022-02-04T00:05:10.0439135] Clicked: 74137, new: false
+[ClickButtonLog] [2022-02-04T00:05:38.4716692] Clicked: 84071, new: false
+[ClickButtonLog] [2022-02-04T00:05:42.0969422] Clicked: 50421, new: true
+[ClickButtonLog] [2022-02-04T00:05:43.2915264] Clicked: 50423, new: true
+[ClickButtonLog] [2022-02-04T00:05:43.2915264] Clicked: 50423, new: true
+[ClickButtonLog] [2022-02-04T00:05:45.1069807] Clicked: 50617, new: true
+[ClickButtonLog] [2022-02-04T00:05:48.1327167] Clicked: 50616, new: true
+[ClickButtonLog] [2022-02-04T00:05:50.5777816] Clicked: 50615, new: true
+[ClickObjectLog] [2022-02-04T00:06:00.2353635] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 2
+[ClickButtonLog] [2022-02-04T00:10:15.7229498] Clicked: 59229, new: false
+[ClickButtonLog] [2022-02-04T00:30:15.1583158] Clicked: 9154, new: false

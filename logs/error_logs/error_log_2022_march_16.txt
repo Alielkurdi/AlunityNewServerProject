@@ -1,0 +1,25 @@
+[2022-03-16T20:59:39.9492626] [2022-03-16T20:59:39.9381801] .\save_files\public\Alunity_Compromised_Accounts.json does not exist!
+Mar 16, 2022 8:59:41 PM io.alunity.content.boosts.Boosts init
+INFO: Loaded 17 boosts.
+Mar 16, 2022 8:59:41 PM io.alunity.model.definitions.ItemDef load
+INFO: Loaded 14047 item definitions.
+Mar 16, 2022 8:59:41 PM io.alunity.model.definitions.NpcStats load
+INFO: Loaded 2906 npc stats.
+Mar 16, 2022 8:59:41 PM io.alunity.model.definitions.ItemStats load
+INFO: Loaded 9767 item stats.
+Mar 16, 2022 8:59:42 PM io.alunity.model.entity.npc.NPCRelationship setup
+INFO: Initialized 0 npc relationships.
+Mar 16, 2022 8:59:42 PM io.alunity.model.lobby.LobbyManager initializeLobbies
+INFO: Initialized 2 lobbies.
+Mar 16, 2022 8:59:56 PM io.alunity.model.collisionmap.Region load
+INFO: Loaded 52 custom maps.
+Mar 16, 2022 8:59:56 PM io.alunity.model.collisionmap.Region load
+INFO: Error loading map files: [1182, 1183, 3642, 3643, 3648, 3649]
+Mar 16, 2022 8:59:57 PM io.alunity.model.entity.npc.NpcSpawnLoader load
+INFO: Spawned 3217 npcs.
+Mar 16, 2022 8:59:57 PM io.alunity.content.commands.CommandManager initializeCommands
+INFO: Loaded 261 commands.
+Mar 16, 2022 8:59:57 PM io.alunity.content.dailyrewards.DailyRewardContainer load
+INFO: Selected daily rewards path with start date: 2021-07-01
+Mar 16, 2022 8:59:57 PM io.alunity.content.dailyrewards.DailyRewardsRecords load
+INFO: Loaded data on 1 claimed daily rewards.

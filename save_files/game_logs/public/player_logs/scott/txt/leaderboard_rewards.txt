@@ -1,0 +1,20 @@
+[LeaderboardRewardCollected] [2021-11-15T21:35:11.7548105] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2021-11-22T06:00:27.7711318] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2021-11-29T06:00:34.9650572] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2021-12-06T06:00:22.119699] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2021-12-06T06:00:22.119699] Collected GameItem{name=250,000 FoE Point Certificate, id=696, amount=1}
+[LeaderboardRewardCollected] [2021-12-06T06:00:22.119699] Collected GameItem{name=Coins, id=995, amount=250,000,000}
+[LeaderboardRewardCollected] [2021-12-13T06:00:32.0814254] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2021-12-13T06:00:32.0814254] Collected GameItem{name=250,000 FoE Point Certificate, id=696, amount=1}
+[LeaderboardRewardCollected] [2021-12-13T06:00:32.0814254] Collected GameItem{name=Coins, id=995, amount=250,000,000}
+[LeaderboardRewardCollected] [2021-12-20T06:00:44.9651678] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2022-01-17T06:00:59.5254015] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2022-01-24T06:00:16.5555876] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2022-01-24T06:00:16.5585781] Collected GameItem{name=Super Mystery Box, id=6828, amount=3}
+[LeaderboardRewardCollected] [2022-01-24T06:00:16.5585781] Collected GameItem{name=50,000 FoE Point Certificate, id=693, amount=1}
+[LeaderboardRewardCollected] [2022-01-24T06:00:16.5585781] Collected GameItem{name=Seren's Key, id=6792, amount=5}
+[LeaderboardRewardCollected] [2022-01-24T06:00:16.5585781] Collected GameItem{name=Coins, id=995, amount=50,000,000}
+[LeaderboardRewardCollected] [2022-01-31T06:00:49.6257527] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2022-02-14T06:00:46.8090276] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2022-02-28T06:00:47.3171782] Collected GameItem{name=Coins, id=995, amount=100,000,000}
+[LeaderboardRewardCollected] [2022-02-28T06:00:47.3171782] Collected GameItem{name=Seren's Key, id=6792, amount=15}

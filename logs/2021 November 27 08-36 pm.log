@@ -1,0 +1,705 @@
+20:36:18.794 [GameThread] INFO  io.alunity.Server - Server state: PUBLIC
+20:36:19.264 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+20:36:19.553 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+20:36:19.682 [GameThread] INFO  o.f.core.internal.command.DbValidate - Successfully validated 15 migrations (execution time 00:00.026s)
+20:36:19.699 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Current version of schema `game_alunity`: 15
+20:36:19.701 [GameThread] INFO  o.f.core.internal.command.DbMigrate - Schema `game_alunity` is up to date. No migration necessary.
+20:36:21.935 [GameThread] INFO  i.a.m.c.ControllerRepository - Loaded 7 controllers.
+20:36:21.973 [GameThread] INFO  i.a.m.e.p.m.g.GroupIronmanRepository - Loaded 0 group ironman groups.
+20:36:22.253 [GameThread] INFO  i.a.m.entity.player.save.PlayerSave - Loaded 18 Player Save Entries.
+20:36:23.038 [GameThread] INFO  io.alunity.model.definitions.ShopDef - Loaded 51 shops.
+20:36:23.206 [GameThread] INFO  io.alunity.model.definitions.NpcDef - Loaded 9474 npc definitions.
+20:36:39.385 [player-save-backup-0] INFO  i.a.m.entity.player.save.PlayerSave - Saved 0 online users.
+20:36:41.714 [io-worker-0] INFO  net.dv8tion.jda.api.JDA - Login Successful!
+20:36:41.984 [JDA MainWS-ReadThread] INFO  n.d.j.i.requests.WebSocketClient - Connected to WebSocket
+20:36:42.166 [JDA MainWS-ReadThread] INFO  net.dv8tion.jda.api.JDA - Finished Loading!
+20:36:42.223 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:36:51.526 [io-worker-0] ERROR io.alunity.util.discord.Discord - No discord channel found with name: server-sync
+20:36:51.790 [pool-9-thread-1] INFO  i.alunity.net.login.RS2LoginProtocol - Player login queued [name=scott, mac=, ip=127.0.0.1:64031, time=430ms]
+20:37:10.513 [GameThread] INFO  io.alunity.GameThread - Status [runtime=0m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=16ms, handshakes-per-tick=0, memory=425.7 MB/614 MB]
+20:37:40.584 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=13ms, handshakes-per-tick=0, memory=397.6 MB/614 MB]
+20:37:53.841 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.845 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.845 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeString(Stream.java:310)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:734)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.845 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordA(Stream.java:140)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:735)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.846 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.846 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.846 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeString(Stream.java:310)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:734)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.851 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordA(Stream.java:140)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:735)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.851 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.853 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.853 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeString(Stream.java:310)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:734)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.853 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordA(Stream.java:140)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:735)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.853 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.859 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.860 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeString(Stream.java:310)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:734)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.860 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordA(Stream.java:140)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:735)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.861 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.861 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.861 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeString(Stream.java:310)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:734)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.865 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordA(Stream.java:140)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:735)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.865 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.865 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.866 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeString(Stream.java:310)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:734)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.866 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordA(Stream.java:140)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:735)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:47)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.867 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:337)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:50)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.869 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:337)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:50)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.869 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeString(Stream.java:310)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:734)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:337)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:50)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.869 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordA(Stream.java:140)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:735)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:337)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:50)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.870 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:337)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:51)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.870 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:733)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:337)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:51)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.876 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeString(Stream.java:310)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:734)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:337)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:51)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.876 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordA(Stream.java:140)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:735)
+	at io.alunity.model.entity.player.PlayerAssistant.sendFrame126(PlayerAssistant.java:718)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:341)
+	at io.alunity.model.entity.player.PlayerAssistant.sendString(PlayerAssistant.java:337)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:51)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.877 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:340)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.878 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:340)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.878 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:341)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.878 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:342)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.884 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.884 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.884 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.884 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.884 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.884 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.884 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.884 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.889 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.889 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.889 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.889 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:52)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.890 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:226)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:340)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.890 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.util.Stream.createFrameVarSizeWord(Stream.java:228)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:340)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.890 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:341)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.892 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:342)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.892 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.892 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.892 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.892 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.893 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.893 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.901 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:353)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.901 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.901 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:350)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.901 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeDWord_v2(Stream.java:172)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:351)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.901 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.901 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:350)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.901 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeDWord_v2(Stream.java:172)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:351)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.903 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndianA(Stream.java:134)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:356)
+	at io.alunity.model.items.ItemAssistant.sendItemContainer(ItemAssistant.java:335)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:55)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.904 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrame(Stream.java:206)
+	at io.alunity.model.entity.player.PlayerAssistant.sendConfig(PlayerAssistant.java:4193)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:58)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.904 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeWordBigEndian(Stream.java:262)
+	at io.alunity.model.entity.player.PlayerAssistant.sendConfig(PlayerAssistant.java:4194)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:58)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.904 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeByte(Stream.java:251)
+	at io.alunity.model.entity.player.PlayerAssistant.sendConfig(PlayerAssistant.java:4195)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:58)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.904 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.createFrame(Stream.java:206)
+	at io.alunity.model.entity.player.PlayerAssistant.showInterface(PlayerAssistant.java:878)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:59)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:37:53.904 [Thread-9] ERROR io.alunity.util.Stream - Non-game thread is writing packets thread=Thread-9 {}
+java.lang.Exception: null
+	at io.alunity.util.Stream.ensureCapacity(Stream.java:433)
+	at io.alunity.util.Stream.writeUnsignedWord(Stream.java:256)
+	at io.alunity.model.entity.player.PlayerAssistant.showInterface(PlayerAssistant.java:879)
+	at io.alunity.content.donationrewards.DonationRewards.openInterface(DonationRewards.java:59)
+	at io.alunity.sql.Donation.run(Donation.java:64)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+20:38:11.193 [GameThread] INFO  io.alunity.GameThread - Status [runtime=1m 30s, connections=1, players=1, uniques=1, npcs=3295, reserved-heights=0, average-cycle-time=12ms, handshakes-per-tick=0, memory=365.4 MB/614 MB]

@@ -1,0 +1,1 @@
+package io.alunity.content.minigames.barrows;

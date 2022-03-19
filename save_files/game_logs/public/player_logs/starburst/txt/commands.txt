@@ -1,0 +1,68 @@
+[CommandLog] [2022-01-19T20:12:30.6875211] starburst typed command close at X: 3090 Y:3486
+[CommandLog] [2022-01-19T20:12:31.8915251] starburst typed command tele 3102 3499 at X: 3090 Y:3486
+[CommandLog] [2022-01-19T20:13:38.0640502] starburst typed command item 299 50000# at X: 3119 Y:3505
+[CommandLog] [2022-01-19T20:13:48.8941358] starburst typed command item 299::itemdedede at X: 3119 Y:3505
+[CommandLog] [2022-01-19T20:13:49.4951531] starburst typed command close at X: 3119 Y:3505
+[CommandLog] [2022-01-19T20:14:05.1332677] starburst typed command item 299 50000 at X: 3119 Y:3505
+[CommandLog] [2022-01-19T20:15:25.7489224] starburst typed command tele 3101 3500 at X: 3110 Y:3507
+[CommandLog] [2022-01-19T20:15:26.9499304] starburst typed command tele 3092 3494 at X: 3101 Y:3500
+[CommandLog] [2022-01-19T20:15:39.6750351] starburst typed command empty at X: 3808 Y:9755
+[CommandLog] [2022-01-19T20:15:42.6830649] starburst typed command hpray at X: 3808 Y:9755
+[CommandLog] [2022-01-19T20:15:44.4870729] starburst typed command max at X: 3808 Y:9755
+[CommandLog] [2022-01-19T20:16:34.419484] starburst typed command hpray at X: 3872 Y:9942
+[CommandLog] [2022-01-19T20:16:38.0305157] starburst typed command hpray at X: 3872 Y:9942
+[CommandLog] [2022-01-19T20:18:32.3454564] starburst typed command item 773 1 at X: 3872 Y:9947
+[CommandLog] [2022-01-19T20:18:56.4026231] starburst typed command tele 3874 9958 at X: 3869 Y:9957
+[CommandLog] [2022-01-19T20:19:28.276809] starburst typed command tele 3876 9958 at X: 3869 Y:9957
+[CommandLog] [2022-01-19T20:19:31.8818296] starburst typed command tele 3871 9952 at X: 3878 Y:9958
+[CommandLog] [2022-01-19T20:20:06.7880462] starburst typed command tele 3867 9946 at X: 3869 Y:9948
+[CommandLog] [2022-01-19T20:20:10.3950696] starburst typed command tele 3864 9945 at X: 3867 Y:9946
+[CommandLog] [2022-01-19T20:20:42.2772769] starburst typed command teleto scott at X: 3869 Y:9952
+[CommandLog] [2022-01-19T20:20:51.9063377] starburst typed command home at X: 3866 Y:9951
+[CommandLog] [2022-01-19T20:21:53.2607669] starburst typed command tele 3182 4446 at X: 3174 Y:4445
+[CommandLog] [2022-01-19T20:21:58.0757959] starburst typed command tele 3192 4446 at X: 3186 Y:4446
+[CommandLog] [2022-01-19T20:22:03.4848334] starburst typed command tele 3190 4431 at X: 3192 Y:4446
+[CommandLog] [2022-01-19T20:22:07.0948582] starburst typed command tele 3177 4427 at X: 3190 Y:4431
+[CommandLog] [2022-01-19T20:22:51.605185] starburst typed command tele 3270 4448 at X: 3284 Y:4447
+[CommandLog] [2022-01-19T20:22:58.2212333] starburst typed command tele 3297 4264 at X: 3298 Y:4276
+[CommandLog] [2022-01-19T20:22:59.4242375] starburst typed command tele 3293 4258 at X: 3297 Y:4264
+[CommandLog] [2022-01-19T20:23:19.2813889] starburst typed command tele 3299 4277 at X: 3296 Y:4262
+[CommandLog] [2022-01-19T20:23:46.3515965] starburst typed command tele 3279 4296 at X: 3279 Y:4302
+[CommandLog] [2022-01-19T20:23:46.3526288] starburst typed command tele 3279 4295 at X: 3279 Y:4302
+[CommandLog] [2022-01-19T20:23:55.9816676] starburst typed command tele 3170 4395 at X: 3170 Y:4385
+[CommandLog] [2022-01-19T20:24:42.8980316] starburst typed command tele 3237 4325 at X: 3237 Y:4311
+[CommandLog] [2022-01-19T20:24:45.2980425] starburst typed command tele 3229 4327 at X: 3237 Y:4325
+[CommandLog] [2022-01-19T20:27:05.4611643] starburst typed command hunllef at X: 3229 Y:4325
+[CommandLog] [2022-01-19T20:27:13.2852257] starburst typed command getid crystal at X: 3162 Y:12428
+[CommandLog] [2022-01-19T20:27:40.3514465] starburst typed command getid crystallin at X: 3162 Y:12428
+[CommandLog] [2022-01-19T20:27:44.5634845] starburst typed command item 23951 at X: 3162 Y:12428
+[CommandLog] [2022-01-19T20:28:11.0266932] starburst typed command item 20997 1 at X: 1170 Y:9939
+[CommandLog] [2022-01-19T20:28:23.0627982] starburst typed command getid dragon arrow at X: 1170 Y:9939
+[CommandLog] [2022-01-19T20:28:26.6718284] starburst typed command item 11212 5000 at X: 1170 Y:9939
+[CommandLog] [2022-01-19T20:28:50.741022] starburst typed command wildyevent at X: 3277 Y:6050
+[CommandLog] [2022-01-19T20:29:25.6293264] starburst typed command teleto scott at X: 3307 Y:3931
+[CommandLog] [2022-01-19T20:29:31.6493671] starburst typed command tele 3091 3505 at X: 3090 Y:3488
+[CommandLog] [2022-01-19T20:29:34.0563812] starburst typed command tele 3093 3500 at X: 3091 Y:3505
+[CommandLog] [2022-01-19T20:29:36.4644051] starburst typed command tele 3091 3504 at X: 3093 Y:3500
+[CommandLog] [2022-01-19T20:29:43.6804673] starburst typed command tele 3093 3498 at X: 3091 Y:3504
+[CommandLog] [2022-01-19T20:29:52.6985386] starburst typed command tele 3078 3498 at X: 3091 Y:3500
+[CommandLog] [2022-01-19T20:30:16.759734] starburst typed command close at X: 3075 Y:3497
+[CommandLog] [2022-01-19T20:31:56.0265865] starburst typed command tele 3079 3509 at X: 3070 Y:3499
+[CommandLog] [2022-02-03T23:39:21.3066583] starburst typed command players at X: 3093 Y:3499
+[CommandLog] [2022-02-03T23:39:31.606332] starburst typed command teleto scott at X: 3093 Y:3499
+[CommandLog] [2022-02-03T23:45:18.8176849] starburst typed command raids at X: 3092 Y:3491
+[CommandLog] [2022-02-03T23:48:31.3386884] starburst typed command tele 3308 5261 at X: 3317 Y:5258
+[CommandLog] [2022-02-03T23:48:35.5517922] starburst typed command tele 3307 5265 at X: 3308 Y:5261
+[CommandLog] [2022-02-03T23:48:36.1554358] starburst typed command tele 3305 5267 at X: 3307 Y:5265
+[CommandLog] [2022-02-03T23:48:36.7647256] starburst typed command tele 3310 5268 at X: 3305 Y:5267
+[CommandLog] [2022-02-03T23:48:45.2320038] starburst typed command tele 3310 5293 at X: 3311 Y:5282
+[CommandLog] [2022-02-03T23:48:45.2320038] starburst typed command tele 3310 5293 at X: 3311 Y:5282
+[CommandLog] [2022-02-03T23:48:45.8300593] starburst typed command tele 3309 5304 at X: 3310 Y:5293
+[CommandLog] [2022-02-03T23:52:18.8858187] starburst typed command item 995 2147000000 at X: 3280 Y:5174
+[CommandLog] [2022-02-03T23:52:31.6094071] starburst typed command bank at X: 3281 Y:5167
+[CommandLog] [2022-02-03T23:53:54.5433195] starburst typed command gambling at X: 3281 Y:5166
+[CommandLog] [2022-02-03T23:53:56.35771] starburst typed command home at X: 3281 Y:5166
+[CommandLog] [2022-02-03T23:53:59.9867806] starburst typed command teleto scott at X: 3281 Y:5166
+[CommandLog] [2022-02-03T23:59:01.3254493] starburst typed command home at X: 3299 Y:5188
+[CommandLog] [2022-02-03T23:59:04.9598798] starburst typed command leaveraids at X: 3299 Y:5188
+[CommandLog] [2022-02-03T23:59:11.6274763] starburst typed command home at X: 3033 Y:6068

@@ -1,0 +1,722 @@
+[CommandLog] [2021-09-09T12:19:25.8939097] leviticus typed command tele 3106 3479 at X: 3095 Y:3492
+[CommandLog] [2021-09-09T12:19:26.4954563] leviticus typed command tele 3108 3465 at X: 3106 Y:3479
+[CommandLog] [2021-09-09T12:19:27.0980034] leviticus typed command tele 3108 3453 at X: 3108 Y:3465
+[CommandLog] [2021-09-09T12:19:28.3010965] leviticus typed command tele 3107 3441 at X: 3108 Y:3453
+[CommandLog] [2021-09-09T12:19:28.9016418] leviticus typed command tele 3104 3431 at X: 3107 Y:3441
+[CommandLog] [2021-09-09T12:19:29.5021874] leviticus typed command tele 3098 3437 at X: 3104 Y:3431
+[CommandLog] [2021-09-09T12:19:29.5021874] leviticus typed command tele 3098 3438 at X: 3104 Y:3431
+[CommandLog] [2021-09-09T12:19:30.1047348] leviticus typed command tele 3092 3445 at X: 3098 Y:3438
+[CommandLog] [2021-09-09T12:19:30.1057357] leviticus typed command tele 3092 3445 at X: 3098 Y:3438
+[CommandLog] [2021-09-09T12:19:30.1057357] leviticus typed command tele 3092 3445 at X: 3098 Y:3438
+[CommandLog] [2021-09-09T12:19:30.1057357] leviticus typed command tele 3092 3445 at X: 3098 Y:3438
+[CommandLog] [2021-09-09T12:19:30.7082832] leviticus typed command tele 3087 3452 at X: 3092 Y:3445
+[CommandLog] [2021-09-09T12:19:30.709284] leviticus typed command tele 3089 3453 at X: 3092 Y:3445
+[CommandLog] [2021-09-09T12:19:30.709284] leviticus typed command tele 3089 3453 at X: 3092 Y:3445
+[CommandLog] [2021-09-09T12:19:31.3108304] leviticus typed command tele 3086 3461 at X: 3089 Y:3453
+[CommandLog] [2021-09-09T12:19:31.3118313] leviticus typed command tele 3086 3461 at X: 3089 Y:3453
+[CommandLog] [2021-09-09T12:19:33.1194733] leviticus typed command tele 3086 3474 at X: 3086 Y:3461
+[CommandLog] [2021-09-09T12:19:33.7160151] leviticus typed command tele 3086 3486 at X: 3086 Y:3474
+[CommandLog] [2021-09-09T12:19:34.3165608] leviticus typed command tele 3087 3495 at X: 3086 Y:3486
+[CommandLog] [2021-09-09T12:19:35.5226562] leviticus typed command tele 3090 3503 at X: 3087 Y:3495
+[CommandLog] [2021-09-09T12:19:36.1252036] leviticus typed command tele 3090 3511 at X: 3090 Y:3503
+[CommandLog] [2021-09-09T12:19:37.3262947] leviticus typed command tele 3105 3499 at X: 3090 Y:3511
+[CommandLog] [2021-09-09T12:19:37.928842] leviticus typed command tele 3119 3497 at X: 3105 Y:3499
+[CommandLog] [2021-09-09T12:19:38.5323901] leviticus typed command tele 3132 3497 at X: 3119 Y:3497
+[CommandLog] [2021-09-09T12:19:39.1319348] leviticus typed command tele 3145 3501 at X: 3132 Y:3497
+[CommandLog] [2021-09-09T12:19:39.7334811] leviticus typed command tele 3153 3492 at X: 3145 Y:3501
+[CommandLog] [2021-09-09T12:19:40.3390314] leviticus typed command tele 3162 3484 at X: 3153 Y:3492
+[CommandLog] [2021-09-09T12:19:40.9395769] leviticus typed command tele 3171 3476 at X: 3162 Y:3484
+[CommandLog] [2021-09-09T12:19:41.5411233] leviticus typed command tele 3176 3463 at X: 3171 Y:3476
+[CommandLog] [2021-09-09T12:19:42.1456725] leviticus typed command tele 3178 3464 at X: 3176 Y:3463
+[CommandLog] [2021-09-09T12:19:42.1456725] leviticus typed command tele 3185 3455 at X: 3176 Y:3463
+[CommandLog] [2021-09-09T12:19:42.7452172] leviticus typed command tele 3191 3445 at X: 3185 Y:3455
+[CommandLog] [2021-09-09T12:19:43.3487653] leviticus typed command tele 3190 3436 at X: 3191 Y:3445
+[CommandLog] [2021-09-09T12:19:43.94831] leviticus typed command tele 3200 3424 at X: 3190 Y:3436
+[CommandLog] [2021-09-09T12:19:44.5498563] leviticus typed command tele 3212 3415 at X: 3200 Y:3424
+[CommandLog] [2021-09-09T12:19:45.1544054] leviticus typed command tele 3224 3418 at X: 3212 Y:3415
+[CommandLog] [2021-09-09T12:19:45.7549513] leviticus typed command tele 3226 3424 at X: 3224 Y:3418
+[CommandLog] [2021-09-09T12:21:27.9177816] leviticus typed command tele 3213 3416 at X: 3215 Y:3429
+[CommandLog] [2021-09-09T12:21:28.5183273] leviticus typed command tele 3210 3402 at X: 3213 Y:3416
+[CommandLog] [2021-09-09T12:21:29.1188728] leviticus typed command tele 3209 3388 at X: 3210 Y:3402
+[CommandLog] [2021-09-09T12:21:29.1188728] leviticus typed command tele 3209 3388 at X: 3210 Y:3402
+[CommandLog] [2021-09-09T12:21:29.7194182] leviticus typed command tele 3208 3374 at X: 3209 Y:3388
+[CommandLog] [2021-09-09T12:21:30.3219656] leviticus typed command tele 3206 3380 at X: 3208 Y:3374
+[CommandLog] [2021-09-09T12:21:30.9225111] leviticus typed command tele 3208 3392 at X: 3206 Y:3380
+[CommandLog] [2021-09-09T12:23:20.2863789] leviticus typed command tele 3213 3376 at X: 3212 Y:3386
+[CommandLog] [2021-09-09T12:23:20.2863789] leviticus typed command tele 3213 3375 at X: 3212 Y:3386
+[CommandLog] [2021-09-09T12:23:20.2863789] leviticus typed command tele 3213 3375 at X: 3212 Y:3386
+[CommandLog] [2021-09-09T12:23:23.2916135] leviticus typed command telle 3200 3200 at X: 3213 Y:3375
+[CommandLog] [2021-09-09T12:23:25.0952518] leviticus typed command tele 3200 3200 at X: 3213 Y:3375
+[CommandLog] [2021-09-09T12:23:26.2983451] leviticus typed command tele 3207 3210 at X: 3200 Y:3200
+[CommandLog] [2021-09-09T12:23:27.5019421] leviticus typed command tele 3214 3217 at X: 3207 Y:3210
+[CommandLog] [2021-09-09T12:23:28.7030332] leviticus typed command tele 3221 3223 at X: 3214 Y:3217
+[CommandLog] [2021-09-09T12:23:29.3035786] leviticus typed command tele 3231 3226 at X: 3221 Y:3223
+[CommandLog] [2021-09-09T12:23:29.9051251] leviticus typed command tele 3226 3234 at X: 3231 Y:3226
+[CommandLog] [2021-09-09T12:23:34.7124921] leviticus typed command tele 3233 3227 at X: 3229 Y:3232
+[CommandLog] [2021-09-09T12:23:35.3150395] leviticus typed command tele 3236 3218 at X: 3233 Y:3227
+[CommandLog] [2021-09-09T12:23:35.9155852] leviticus typed command tele 3244 3212 at X: 3236 Y:3218
+[CommandLog] [2021-09-09T12:23:37.7172214] leviticus typed command tele 3242 3201 at X: 3244 Y:3212
+[CommandLog] [2021-09-09T12:24:13.7594763] leviticus typed command tele 3241 3211 at X: 3238 Y:3198
+[CommandLog] [2021-09-09T12:24:13.7594763] leviticus typed command tele 3241 3211 at X: 3238 Y:3198
+[CommandLog] [2021-09-09T12:24:13.7594763] leviticus typed command tele 3241 3211 at X: 3238 Y:3198
+[CommandLog] [2021-09-09T12:24:14.3600218] leviticus typed command tele 3244 3224 at X: 3241 Y:3211
+[CommandLog] [2021-09-09T12:24:14.3600218] leviticus typed command tele 3244 3224 at X: 3241 Y:3211
+[CommandLog] [2021-09-09T12:24:14.9625694] leviticus typed command tele 3247 3234 at X: 3244 Y:3224
+[CommandLog] [2021-09-09T12:24:14.9625694] leviticus typed command tele 3247 3234 at X: 3244 Y:3224
+[CommandLog] [2021-09-09T12:24:15.5631146] leviticus typed command tele 3246 3246 at X: 3247 Y:3234
+[CommandLog] [2021-09-09T12:24:15.5631146] leviticus typed command tele 3246 3246 at X: 3247 Y:3234
+[CommandLog] [2021-09-09T12:24:15.5641155] leviticus typed command tele 3246 3246 at X: 3247 Y:3234
+[CommandLog] [2021-09-09T12:24:16.1666628] leviticus typed command tele 3245 3258 at X: 3246 Y:3246
+[CommandLog] [2021-09-09T12:24:16.1666628] leviticus typed command tele 3245 3258 at X: 3246 Y:3246
+[CommandLog] [2021-09-09T12:24:16.1666628] leviticus typed command tele 3245 3258 at X: 3246 Y:3246
+[CommandLog] [2021-09-09T12:24:16.1666628] leviticus typed command tele 3245 3258 at X: 3246 Y:3246
+[CommandLog] [2021-09-09T12:24:16.7672084] leviticus typed command tele 3243 3270 at X: 3245 Y:3258
+[CommandLog] [2021-09-09T12:24:16.7672084] leviticus typed command tele 3242 3270 at X: 3245 Y:3258
+[CommandLog] [2021-09-09T12:24:17.3677538] leviticus typed command tele 3239 3282 at X: 3242 Y:3270
+[CommandLog] [2021-09-09T12:24:17.3677538] leviticus typed command tele 3239 3282 at X: 3242 Y:3270
+[CommandLog] [2021-09-09T12:24:17.3677538] leviticus typed command tele 3239 3282 at X: 3242 Y:3270
+[CommandLog] [2021-09-09T12:24:17.9682997] leviticus typed command tele 3236 3294 at X: 3239 Y:3282
+[CommandLog] [2021-09-09T12:24:17.9682997] leviticus typed command tele 3236 3294 at X: 3239 Y:3282
+[CommandLog] [2021-09-09T12:24:17.9682997] leviticus typed command tele 3236 3294 at X: 3239 Y:3282
+[CommandLog] [2021-09-09T12:24:18.5708468] leviticus typed command tele 3233 3306 at X: 3236 Y:3294
+[CommandLog] [2021-09-09T12:24:18.5708468] leviticus typed command tele 3233 3306 at X: 3236 Y:3294
+[CommandLog] [2021-09-09T12:24:18.5708468] leviticus typed command tele 3233 3306 at X: 3236 Y:3294
+[CommandLog] [2021-09-09T12:24:19.1728987] leviticus typed command tele 3230 3318 at X: 3233 Y:3306
+[CommandLog] [2021-09-09T12:24:19.1728987] leviticus typed command tele 3231 3318 at X: 3233 Y:3306
+[CommandLog] [2021-09-09T12:24:19.776447] leviticus typed command tele 3231 3330 at X: 3231 Y:3318
+[CommandLog] [2021-09-09T12:24:19.776447] leviticus typed command tele 3233 3330 at X: 3231 Y:3318
+[CommandLog] [2021-09-09T12:24:19.776447] leviticus typed command tele 3234 3330 at X: 3231 Y:3318
+[CommandLog] [2021-09-09T12:24:20.37399] leviticus typed command tele 3236 3342 at X: 3234 Y:3330
+[CommandLog] [2021-09-09T12:24:20.37399] leviticus typed command tele 3234 3342 at X: 3234 Y:3330
+[CommandLog] [2021-09-09T12:24:20.37399] leviticus typed command tele 3230 3342 at X: 3234 Y:3330
+[CommandLog] [2021-09-09T12:24:20.9745354] leviticus typed command tele 3226 3354 at X: 3230 Y:3342
+[CommandLog] [2021-09-09T12:24:20.9745354] leviticus typed command tele 3226 3354 at X: 3230 Y:3342
+[CommandLog] [2021-09-09T12:24:20.9745354] leviticus typed command tele 3226 3354 at X: 3230 Y:3342
+[CommandLog] [2021-09-09T12:24:21.5750808] leviticus typed command tele 3222 3366 at X: 3226 Y:3354
+[CommandLog] [2021-09-09T12:24:21.5750808] leviticus typed command tele 3222 3366 at X: 3226 Y:3354
+[CommandLog] [2021-09-09T12:24:22.1756262] leviticus typed command tele 3218 3378 at X: 3222 Y:3366
+[CommandLog] [2021-09-09T12:24:22.1756262] leviticus typed command tele 3218 3378 at X: 3222 Y:3366
+[CommandLog] [2021-09-09T12:24:22.1756262] leviticus typed command tele 3218 3378 at X: 3222 Y:3366
+[CommandLog] [2021-09-09T12:24:22.7761718] leviticus typed command tele 3212 3389 at X: 3218 Y:3378
+[CommandLog] [2021-09-09T12:24:22.7761718] leviticus typed command tele 3209 3388 at X: 3218 Y:3378
+[CommandLog] [2021-09-09T12:24:22.7761718] leviticus typed command tele 3209 3388 at X: 3218 Y:3378
+[CommandLog] [2021-09-09T12:24:23.9782639] leviticus typed command tele 3209 3392 at X: 3209 Y:3388
+[CommandLog] [2021-09-09T12:24:25.7799003] leviticus typed command tele 3210 3397 at X: 3209 Y:3392
+[CommandLog] [2021-09-09T12:24:26.3804459] leviticus typed command tele 3209 3388 at X: 3210 Y:3397
+[CommandLog] [2021-09-09T12:24:26.9809914] leviticus typed command tele 3209 3394 at X: 3209 Y:3388
+[CommandLog] [2021-09-09T12:24:32.9934529] leviticus typed command tele 3212 3404 at X: 3209 Y:3394
+[CommandLog] [2021-09-09T12:24:33.5939983] leviticus typed command tele 3212 3415 at X: 3212 Y:3404
+[CommandLog] [2021-09-09T12:24:34.1945442] leviticus typed command tele 3212 3426 at X: 3212 Y:3415
+[CommandLog] [2021-09-09T12:24:34.1945442] leviticus typed command tele 3212 3426 at X: 3212 Y:3415
+[CommandLog] [2021-09-09T12:24:34.1945442] leviticus typed command tele 3212 3426 at X: 3212 Y:3415
+[CommandLog] [2021-09-09T12:24:34.7950894] leviticus typed command tele 3211 3427 at X: 3212 Y:3426
+[CommandLog] [2021-09-09T12:24:35.395635] leviticus typed command tele 3206 3429 at X: 3211 Y:3427
+[CommandLog] [2021-09-09T12:24:35.9961805] leviticus typed command tele 3204 3419 at X: 3206 Y:3429
+[CommandLog] [2021-09-09T12:24:35.9961805] leviticus typed command tele 3206 3417 at X: 3206 Y:3429
+[CommandLog] [2021-09-09T12:24:35.9961805] leviticus typed command tele 3207 3416 at X: 3206 Y:3429
+[CommandLog] [2021-09-09T12:24:35.9961805] leviticus typed command tele 3207 3416 at X: 3206 Y:3429
+[CommandLog] [2021-09-09T12:24:36.596726] leviticus typed command tele 3208 3403 at X: 3207 Y:3416
+[CommandLog] [2021-09-09T12:24:36.596726] leviticus typed command tele 3208 3403 at X: 3207 Y:3416
+[CommandLog] [2021-09-09T12:24:37.1972715] leviticus typed command tele 3209 3390 at X: 3208 Y:3403
+[CommandLog] [2021-09-09T12:24:37.797817] leviticus typed command tele 3210 3377 at X: 3209 Y:3390
+[CommandLog] [2021-09-09T12:24:37.797817] leviticus typed command tele 3210 3377 at X: 3209 Y:3390
+[CommandLog] [2021-09-09T12:24:37.797817] leviticus typed command tele 3210 3377 at X: 3209 Y:3390
+[CommandLog] [2021-09-09T12:24:38.3983626] leviticus typed command tele 3211 3364 at X: 3210 Y:3377
+[CommandLog] [2021-09-09T12:24:38.3983626] leviticus typed command tele 3211 3364 at X: 3210 Y:3377
+[CommandLog] [2021-09-09T12:24:38.3983626] leviticus typed command tele 3211 3364 at X: 3210 Y:3377
+[CommandLog] [2021-09-09T12:24:38.9989081] leviticus typed command tele 3212 3351 at X: 3211 Y:3364
+[CommandLog] [2021-09-09T12:24:38.9989081] leviticus typed command tele 3212 3351 at X: 3211 Y:3364
+[CommandLog] [2021-09-09T12:24:38.9989081] leviticus typed command tele 3212 3351 at X: 3211 Y:3364
+[CommandLog] [2021-09-09T12:24:39.5994538] leviticus typed command tele 3213 3338 at X: 3212 Y:3351
+[CommandLog] [2021-09-09T12:24:39.5994538] leviticus typed command tele 3213 3338 at X: 3212 Y:3351
+[CommandLog] [2021-09-09T12:24:40.1999993] leviticus typed command tele 3213 3347 at X: 3213 Y:3338
+[CommandLog] [2021-09-09T12:24:40.1999993] leviticus typed command tele 3213 3349 at X: 3213 Y:3338
+[CommandLog] [2021-09-09T12:24:40.1999993] leviticus typed command tele 3213 3349 at X: 3213 Y:3338
+[CommandLog] [2021-09-09T12:24:40.7995437] leviticus typed command tele 3213 3360 at X: 3213 Y:3349
+[CommandLog] [2021-09-09T12:24:40.7995437] leviticus typed command tele 3213 3360 at X: 3213 Y:3349
+[CommandLog] [2021-09-09T12:24:40.7995437] leviticus typed command tele 3213 3360 at X: 3213 Y:3349
+[CommandLog] [2021-09-09T12:24:41.4000894] leviticus typed command tele 3213 3371 at X: 3213 Y:3360
+[CommandLog] [2021-09-09T12:24:41.4000894] leviticus typed command tele 3213 3371 at X: 3213 Y:3360
+[CommandLog] [2021-09-09T12:24:41.4000894] leviticus typed command tele 3213 3371 at X: 3213 Y:3360
+[CommandLog] [2021-09-09T12:24:42.0006349] leviticus typed command tele 3213 3382 at X: 3213 Y:3371
+[CommandLog] [2021-09-09T12:24:42.0006349] leviticus typed command tele 3213 3382 at X: 3213 Y:3371
+[CommandLog] [2021-09-09T12:24:42.0006349] leviticus typed command tele 3213 3382 at X: 3213 Y:3371
+[CommandLog] [2021-09-09T12:24:42.604183] leviticus typed command tele 3210 3391 at X: 3213 Y:3382
+[CommandLog] [2021-09-09T12:24:43.2047286] leviticus typed command tele 3206 3394 at X: 3210 Y:3391
+[CommandLog] [2021-09-09T12:24:43.8052742] leviticus typed command tele 3200 3398 at X: 3206 Y:3394
+[CommandLog] [2021-09-09T12:24:44.4058196] leviticus typed command tele 3194 3402 at X: 3200 Y:3398
+[CommandLog] [2021-09-09T12:24:45.0063651] leviticus typed command tele 3186 3407 at X: 3194 Y:3402
+[CommandLog] [2021-09-09T12:24:45.6069106] leviticus typed command tele 3178 3412 at X: 3186 Y:3407
+[CommandLog] [2021-09-09T12:24:46.2074562] leviticus typed command tele 3184 3407 at X: 3178 Y:3412
+[CommandLog] [2021-09-09T12:24:46.8080019] leviticus typed command tele 3192 3402 at X: 3184 Y:3407
+[CommandLog] [2021-09-09T12:24:47.4075463] leviticus typed command tele 3199 3398 at X: 3192 Y:3402
+[CommandLog] [2021-09-09T12:24:48.0080917] leviticus typed command tele 3206 3394 at X: 3199 Y:3398
+[CommandLog] [2021-09-09T12:24:48.6086373] leviticus typed command tele 3212 3392 at X: 3206 Y:3394
+[CommandLog] [2021-09-09T12:24:49.2091829] leviticus typed command tele 3210 3391 at X: 3212 Y:3392
+[CommandLog] [2021-09-09T12:24:49.8097284] leviticus typed command tele 3208 3389 at X: 3210 Y:3391
+[CommandLog] [2021-09-09T12:24:50.410274] leviticus typed command tele 3208 3397 at X: 3208 Y:3389
+[CommandLog] [2021-09-09T12:25:34.282126] leviticus typed command tele 3200 3200 at X: 3209 Y:3390
+[CommandLog] [2021-09-09T12:25:35.4832169] leviticus typed command tele 3207 3205 at X: 3200 Y:3200
+[CommandLog] [2021-09-09T12:25:36.0837626] leviticus typed command tele 3213 3213 at X: 3207 Y:3205
+[CommandLog] [2021-09-09T12:25:36.6843083] leviticus typed command tele 3219 3224 at X: 3213 Y:3213
+[CommandLog] [2021-09-09T12:25:36.6843083] leviticus typed command tele 3219 3224 at X: 3213 Y:3213
+[CommandLog] [2021-09-09T12:25:37.284854] leviticus typed command tele 3226 3233 at X: 3219 Y:3224
+[CommandLog] [2021-09-09T12:25:37.284854] leviticus typed command tele 3227 3232 at X: 3219 Y:3224
+[CommandLog] [2021-09-09T12:25:39.6870355] leviticus typed command tele 3226 3243 at X: 3227 Y:3232
+[CommandLog] [2021-09-09T12:25:40.287581] leviticus typed command tele 3223 3253 at X: 3226 Y:3243
+[CommandLog] [2021-09-09T12:25:46.2950382] leviticus typed command tele 3096 3486 at X: 3090 Y:3488
+[CommandLog] [2021-09-09T12:25:46.8955836] leviticus typed command tele 3093 3482 at X: 3096 Y:3486
+[CommandLog] [2021-09-09T12:25:48.6972202] leviticus typed command tele 3092 3469 at X: 3093 Y:3482
+[CommandLog] [2021-09-09T12:25:49.8983112] leviticus typed command tele 3098 3465 at X: 3092 Y:3469
+[CommandLog] [2021-09-09T12:25:50.4988568] leviticus typed command tele 3096 3452 at X: 3098 Y:3465
+[CommandLog] [2021-09-09T12:25:50.4988568] leviticus typed command tele 3094 3451 at X: 3098 Y:3465
+[CommandLog] [2021-09-09T12:25:50.4988568] leviticus typed command tele 3093 3451 at X: 3098 Y:3465
+[CommandLog] [2021-09-09T12:25:51.1014042] leviticus typed command tele 3088 3437 at X: 3093 Y:3451
+[CommandLog] [2021-09-09T12:25:51.1014042] leviticus typed command tele 3088 3438 at X: 3093 Y:3451
+[CommandLog] [2021-09-09T12:25:51.7039514] leviticus typed command tele 3082 3431 at X: 3088 Y:3438
+[CommandLog] [2021-09-09T12:25:52.304497] leviticus typed command tele 3079 3423 at X: 3082 Y:3431
+[CommandLog] [2021-09-09T12:25:52.9050425] leviticus typed command tele 3081 3413 at X: 3079 Y:3423
+[CommandLog] [2021-09-09T12:25:53.505588] leviticus typed command tele 3088 3420 at X: 3081 Y:3413
+[CommandLog] [2021-09-09T12:25:53.505588] leviticus typed command tele 3086 3421 at X: 3081 Y:3413
+[CommandLog] [2021-09-09T12:25:54.1061336] leviticus typed command tele 3089 3430 at X: 3086 Y:3421
+[CommandLog] [2021-09-09T12:25:54.1061336] leviticus typed command tele 3089 3430 at X: 3086 Y:3421
+[CommandLog] [2021-09-09T12:25:54.1061336] leviticus typed command tele 3089 3430 at X: 3086 Y:3421
+[CommandLog] [2021-09-09T12:25:54.1061336] leviticus typed command tele 3089 3430 at X: 3086 Y:3421
+[CommandLog] [2021-09-09T12:25:54.7096819] leviticus typed command tele 3092 3439 at X: 3089 Y:3430
+[CommandLog] [2021-09-09T12:25:54.7096819] leviticus typed command tele 3092 3439 at X: 3089 Y:3430
+[CommandLog] [2021-09-09T12:25:54.7096819] leviticus typed command tele 3091 3439 at X: 3089 Y:3430
+[CommandLog] [2021-09-09T12:25:55.3102273] leviticus typed command tele 3093 3448 at X: 3091 Y:3439
+[CommandLog] [2021-09-09T12:25:55.3102273] leviticus typed command tele 3093 3448 at X: 3091 Y:3439
+[CommandLog] [2021-09-09T12:25:55.3102273] leviticus typed command tele 3093 3448 at X: 3091 Y:3439
+[CommandLog] [2021-09-09T12:25:55.9107731] leviticus typed command tele 3094 3457 at X: 3093 Y:3448
+[CommandLog] [2021-09-09T12:25:55.9117737] leviticus typed command tele 3094 3457 at X: 3093 Y:3448
+[CommandLog] [2021-09-09T12:25:56.5113183] leviticus typed command tele 3095 3466 at X: 3094 Y:3457
+[CommandLog] [2021-09-09T12:25:56.5113183] leviticus typed command tele 3095 3466 at X: 3094 Y:3457
+[CommandLog] [2021-09-09T12:25:57.7124094] leviticus typed command tele 3093 3475 at X: 3095 Y:3466
+[CommandLog] [2021-09-09T12:27:25.4135894] leviticus typed command tele 3088 3494 at X: 3090 Y:3470
+[CommandLog] [2021-09-09T12:35:32.6572734] leviticus typed command tele 3102 3483 at X: 3089 Y:3493
+[CommandLog] [2021-09-09T12:35:32.6572734] leviticus typed command tele 3099 3483 at X: 3089 Y:3493
+[CommandLog] [2021-09-09T12:35:33.2618226] leviticus typed command tele 3109 3474 at X: 3099 Y:3483
+[CommandLog] [2021-09-09T12:35:33.2618226] leviticus typed command tele 3109 3474 at X: 3099 Y:3483
+[CommandLog] [2021-09-09T12:35:33.2618226] leviticus typed command tele 3109 3474 at X: 3099 Y:3483
+[CommandLog] [2021-09-09T12:35:33.862368] leviticus typed command tele 3119 3465 at X: 3109 Y:3474
+[CommandLog] [2021-09-09T12:35:33.862368] leviticus typed command tele 3119 3465 at X: 3109 Y:3474
+[CommandLog] [2021-09-09T12:35:33.862368] leviticus typed command tele 3119 3465 at X: 3109 Y:3474
+[CommandLog] [2021-09-09T12:35:34.4629136] leviticus typed command tele 3129 3456 at X: 3119 Y:3465
+[CommandLog] [2021-09-09T12:35:34.4629136] leviticus typed command tele 3129 3456 at X: 3119 Y:3465
+[CommandLog] [2021-09-09T12:35:34.4629136] leviticus typed command tele 3129 3456 at X: 3119 Y:3465
+[CommandLog] [2021-09-09T12:35:35.0634591] leviticus typed command tele 3139 3447 at X: 3129 Y:3456
+[CommandLog] [2021-09-09T12:35:35.0634591] leviticus typed command tele 3139 3447 at X: 3129 Y:3456
+[CommandLog] [2021-09-09T12:35:35.0634591] leviticus typed command tele 3139 3447 at X: 3129 Y:3456
+[CommandLog] [2021-09-09T12:35:35.0634591] leviticus typed command tele 3139 3447 at X: 3129 Y:3456
+[CommandLog] [2021-09-09T12:35:35.6640044] leviticus typed command tele 3149 3438 at X: 3139 Y:3447
+[CommandLog] [2021-09-09T12:35:35.6640044] leviticus typed command tele 3149 3438 at X: 3139 Y:3447
+[CommandLog] [2021-09-09T12:35:36.2645501] leviticus typed command tele 3159 3429 at X: 3149 Y:3438
+[CommandLog] [2021-09-09T12:35:36.2645501] leviticus typed command tele 3159 3429 at X: 3149 Y:3438
+[CommandLog] [2021-09-09T12:35:36.2645501] leviticus typed command tele 3159 3429 at X: 3149 Y:3438
+[CommandLog] [2021-09-09T12:35:36.8650956] leviticus typed command tele 3169 3420 at X: 3159 Y:3429
+[CommandLog] [2021-09-09T12:35:36.8650956] leviticus typed command tele 3169 3420 at X: 3159 Y:3429
+[CommandLog] [2021-09-09T12:35:36.8650956] leviticus typed command tele 3169 3420 at X: 3159 Y:3429
+[CommandLog] [2021-09-09T12:35:37.4676429] leviticus typed command tele 3179 3418 at X: 3169 Y:3420
+[CommandLog] [2021-09-09T12:35:37.4676429] leviticus typed command tele 3180 3421 at X: 3169 Y:3420
+[CommandLog] [2021-09-09T12:35:37.4676429] leviticus typed command tele 3180 3422 at X: 3169 Y:3420
+[CommandLog] [2021-09-09T12:35:38.0681884] leviticus typed command tele 3191 3423 at X: 3180 Y:3422
+[CommandLog] [2021-09-09T12:35:38.0681884] leviticus typed command tele 3191 3422 at X: 3180 Y:3422
+[CommandLog] [2021-09-09T12:35:38.6687341] leviticus typed command tele 3202 3422 at X: 3191 Y:3422
+[CommandLog] [2021-09-09T12:35:38.6687341] leviticus typed command tele 3202 3422 at X: 3191 Y:3422
+[CommandLog] [2021-09-09T12:35:38.6687341] leviticus typed command tele 3201 3418 at X: 3191 Y:3422
+[CommandLog] [2021-09-09T12:35:39.2692795] leviticus typed command tele 3210 3414 at X: 3201 Y:3418
+[CommandLog] [2021-09-09T12:35:39.2692795] leviticus typed command tele 3207 3410 at X: 3201 Y:3418
+[CommandLog] [2021-09-09T12:35:39.2692795] leviticus typed command tele 3207 3409 at X: 3201 Y:3418
+[CommandLog] [2021-09-09T12:35:39.869825] leviticus typed command tele 3213 3400 at X: 3207 Y:3409
+[CommandLog] [2021-09-09T12:35:39.869825] leviticus typed command tele 3213 3400 at X: 3207 Y:3409
+[CommandLog] [2021-09-09T12:35:39.869825] leviticus typed command tele 3210 3401 at X: 3207 Y:3409
+[CommandLog] [2021-09-09T12:35:40.4718771] leviticus typed command tele 3211 3393 at X: 3210 Y:3401
+[CommandLog] [2021-09-09T12:35:41.0744244] leviticus typed command tele 3208 3387 at X: 3211 Y:3393
+[CommandLog] [2021-09-09T12:35:41.6749699] leviticus typed command tele 3209 3380 at X: 3208 Y:3387
+[CommandLog] [2021-09-09T12:35:41.6749699] leviticus typed command tele 3210 3380 at X: 3208 Y:3387
+[CommandLog] [2021-09-09T12:35:42.2755155] leviticus typed command tele 3213 3372 at X: 3210 Y:3380
+[CommandLog] [2021-09-09T12:35:42.2755155] leviticus typed command tele 3214 3371 at X: 3210 Y:3380
+[CommandLog] [2021-09-09T12:35:42.876061] leviticus typed command tele 3217 3361 at X: 3214 Y:3371
+[CommandLog] [2021-09-09T12:35:42.876061] leviticus typed command tele 3217 3361 at X: 3214 Y:3371
+[CommandLog] [2021-09-09T12:35:42.876061] leviticus typed command tele 3217 3361 at X: 3214 Y:3371
+[CommandLog] [2021-09-09T12:35:43.4766066] leviticus typed command tele 3220 3351 at X: 3217 Y:3361
+[CommandLog] [2021-09-09T12:35:43.4766066] leviticus typed command tele 3219 3351 at X: 3217 Y:3361
+[CommandLog] [2021-09-09T12:35:44.0771521] leviticus typed command tele 3217 3359 at X: 3219 Y:3351
+[CommandLog] [2021-09-09T12:35:44.0771521] leviticus typed command tele 3217 3361 at X: 3219 Y:3351
+[CommandLog] [2021-09-09T12:35:44.0771521] leviticus typed command tele 3216 3362 at X: 3219 Y:3351
+[CommandLog] [2021-09-09T12:35:44.0771521] leviticus typed command tele 3216 3362 at X: 3219 Y:3351
+[CommandLog] [2021-09-09T12:35:44.6776977] leviticus typed command tele 3212 3373 at X: 3216 Y:3362
+[CommandLog] [2021-09-09T12:35:44.6776977] leviticus typed command tele 3212 3372 at X: 3216 Y:3362
+[CommandLog] [2021-09-09T12:35:44.6776977] leviticus typed command tele 3212 3372 at X: 3216 Y:3362
+[CommandLog] [2021-09-09T12:35:45.2782431] leviticus typed command tele 3208 3382 at X: 3212 Y:3372
+[CommandLog] [2021-09-09T12:35:45.2782431] leviticus typed command tele 3208 3382 at X: 3212 Y:3372
+[CommandLog] [2021-09-09T12:35:45.2782431] leviticus typed command tele 3208 3382 at X: 3212 Y:3372
+[CommandLog] [2021-09-09T12:35:45.8787886] leviticus typed command tele 3204 3392 at X: 3208 Y:3382
+[CommandLog] [2021-09-09T12:35:45.8787886] leviticus typed command tele 3204 3392 at X: 3208 Y:3382
+[CommandLog] [2021-09-09T12:35:46.4793342] leviticus typed command tele 3204 3383 at X: 3204 Y:3392
+[CommandLog] [2021-09-09T12:35:46.4793342] leviticus typed command tele 3205 3382 at X: 3204 Y:3392
+[CommandLog] [2021-09-09T12:35:46.4793342] leviticus typed command tele 3207 3380 at X: 3204 Y:3392
+[CommandLog] [2021-09-09T12:35:47.0798798] leviticus typed command tele 3210 3367 at X: 3207 Y:3380
+[CommandLog] [2021-09-09T12:35:47.0798798] leviticus typed command tele 3207 3366 at X: 3207 Y:3380
+[CommandLog] [2021-09-09T12:35:47.0798798] leviticus typed command tele 3207 3366 at X: 3207 Y:3380
+[CommandLog] [2021-09-09T12:35:47.6804252] leviticus typed command tele 3210 3353 at X: 3207 Y:3366
+[CommandLog] [2021-09-09T12:35:47.6804252] leviticus typed command tele 3210 3353 at X: 3207 Y:3366
+[CommandLog] [2021-09-09T12:35:47.6804252] leviticus typed command tele 3210 3353 at X: 3207 Y:3366
+[CommandLog] [2021-09-09T12:35:48.2809707] leviticus typed command tele 3213 3340 at X: 3210 Y:3353
+[CommandLog] [2021-09-09T12:35:48.2809707] leviticus typed command tele 3213 3340 at X: 3210 Y:3353
+[CommandLog] [2021-09-09T12:35:48.2809707] leviticus typed command tele 3213 3340 at X: 3210 Y:3353
+[CommandLog] [2021-09-09T12:35:48.8815162] leviticus typed command tele 3216 3327 at X: 3213 Y:3340
+[CommandLog] [2021-09-09T12:35:48.8815162] leviticus typed command tele 3216 3327 at X: 3213 Y:3340
+[CommandLog] [2021-09-09T12:35:49.4820619] leviticus typed command tele 3219 3314 at X: 3216 Y:3327
+[CommandLog] [2021-09-09T12:35:49.4820619] leviticus typed command tele 3219 3314 at X: 3216 Y:3327
+[CommandLog] [2021-09-09T12:35:49.4820619] leviticus typed command tele 3218 3314 at X: 3216 Y:3327
+[CommandLog] [2021-09-09T12:35:50.0826077] leviticus typed command tele 3220 3301 at X: 3218 Y:3314
+[CommandLog] [2021-09-09T12:35:50.0826077] leviticus typed command tele 3220 3301 at X: 3218 Y:3314
+[CommandLog] [2021-09-09T12:35:50.6831529] leviticus typed command tele 3222 3288 at X: 3220 Y:3301
+[CommandLog] [2021-09-09T12:35:50.6831529] leviticus typed command tele 3222 3288 at X: 3220 Y:3301
+[CommandLog] [2021-09-09T12:35:51.2836982] leviticus typed command tele 3224 3275 at X: 3222 Y:3288
+[CommandLog] [2021-09-09T12:35:51.2836982] leviticus typed command tele 3224 3275 at X: 3222 Y:3288
+[CommandLog] [2021-09-09T12:35:51.2836982] leviticus typed command tele 3224 3275 at X: 3222 Y:3288
+[CommandLog] [2021-09-09T12:35:51.8842436] leviticus typed command tele 3226 3262 at X: 3224 Y:3275
+[CommandLog] [2021-09-09T12:35:51.8842436] leviticus typed command tele 3226 3262 at X: 3224 Y:3275
+[CommandLog] [2021-09-09T12:35:51.8842436] leviticus typed command tele 3226 3262 at X: 3224 Y:3275
+[CommandLog] [2021-09-09T12:35:52.4847894] leviticus typed command tele 3228 3249 at X: 3226 Y:3262
+[CommandLog] [2021-09-09T12:35:52.4847894] leviticus typed command tele 3228 3249 at X: 3226 Y:3262
+[CommandLog] [2021-09-09T12:35:53.0853351] leviticus typed command tele 3230 3236 at X: 3228 Y:3249
+[CommandLog] [2021-09-09T12:35:53.0853351] leviticus typed command tele 3230 3236 at X: 3228 Y:3249
+[CommandLog] [2021-09-09T12:35:53.0853351] leviticus typed command tele 3230 3236 at X: 3228 Y:3249
+[CommandLog] [2021-09-09T12:35:53.6858805] leviticus typed command tele 3232 3223 at X: 3230 Y:3236
+[CommandLog] [2021-09-09T12:35:53.6858805] leviticus typed command tele 3232 3223 at X: 3230 Y:3236
+[CommandLog] [2021-09-09T12:35:54.2864259] leviticus typed command tele 3236 3227 at X: 3232 Y:3223
+[CommandLog] [2021-09-09T12:35:59.0907901] leviticus typed command tele 3231 3239 at X: 3234 Y:3226
+[CommandLog] [2021-09-09T12:36:02.6940632] leviticus typed command tele 3230 3228 at X: 3232 Y:3240
+[CommandLog] [2021-09-09T12:36:03.294609] leviticus typed command tele 3229 3213 at X: 3230 Y:3228
+[CommandLog] [2021-09-09T12:36:04.4956997] leviticus typed command tele 3238 3213 at X: 3229 Y:3213
+[CommandLog] [2021-09-09T12:36:05.0962455] leviticus typed command tele 3224 3215 at X: 3238 Y:3213
+[CommandLog] [2021-09-09T12:36:05.6967909] leviticus typed command tele 3227 3215 at X: 3224 Y:3215
+[CommandLog] [2021-09-09T12:46:58.8939785] leviticus typed command tele 1908 5706 at X: 3090 Y:3493
+[CommandLog] [2021-09-09T12:47:01.2961604] leviticus typed command tele 1907 5692 at X: 1908 Y:5706
+[CommandLog] [2021-09-09T12:47:01.896706] leviticus typed command tele 1899 5685 at X: 1907 Y:5692
+[CommandLog] [2021-09-09T12:47:02.4972515] leviticus typed command tele 1891 5678 at X: 1899 Y:5685
+[CommandLog] [2021-09-09T12:47:03.6983426] leviticus typed command up at X: 1891 Y:5678
+[CommandLog] [2021-09-09T12:47:05.4999793] leviticus typed command mypos at X: 1891 Y:5678
+[CommandLog] [2021-09-09T12:47:07.9021612] leviticus typed command pos at X: 1891 Y:5678
+[CommandLog] [2021-09-09T12:47:12.710529] leviticus typed command tele 1891 5678 1 at X: 1891 Y:5678
+[CommandLog] [2021-09-09T12:47:14.5121655] leviticus typed command tele 1882 5670 at X: 1891 Y:5678
+[CommandLog] [2021-09-09T12:47:21.7187118] leviticus typed command tele 1891 5678 2 at X: 1880 Y:5672
+[CommandLog] [2021-09-09T12:47:24.1208939] leviticus typed command tele 1886 5671 at X: 1891 Y:5678
+[CommandLog] [2021-09-09T12:48:37.4109731] leviticus typed command tele 3227 5922 at X: 3090 Y:3488
+[CommandLog] [2021-09-09T12:48:42.8158828] leviticus typed command tele 3239 5923 at X: 3229 Y:5926
+[CommandLog] [2021-09-09T12:48:42.8158828] leviticus typed command tele 3239 5922 at X: 3229 Y:5926
+[CommandLog] [2021-09-09T12:48:42.8158828] leviticus typed command tele 3240 5923 at X: 3229 Y:5926
+[CommandLog] [2021-09-09T12:48:43.4174292] leviticus typed command tele 3252 5921 at X: 3240 Y:5923
+[CommandLog] [2021-09-09T12:48:43.41843] leviticus typed command tele 3252 5921 at X: 3240 Y:5923
+[CommandLog] [2021-09-09T12:48:43.41843] leviticus typed command tele 3252 5921 at X: 3240 Y:5923
+[CommandLog] [2021-09-09T12:48:44.0169737] leviticus typed command tele 3262 5921 at X: 3252 Y:5921
+[CommandLog] [2021-09-09T12:48:44.0169737] leviticus typed command tele 3261 5922 at X: 3252 Y:5921
+[CommandLog] [2021-09-09T12:48:44.0169737] leviticus typed command tele 3261 5922 at X: 3252 Y:5921
+[CommandLog] [2021-09-09T12:48:44.0169737] leviticus typed command tele 3261 5922 at X: 3252 Y:5921
+[CommandLog] [2021-09-09T12:48:44.6175192] leviticus typed command tele 3270 5923 at X: 3261 Y:5922
+[CommandLog] [2021-09-09T12:48:44.6175192] leviticus typed command tele 3270 5923 at X: 3261 Y:5922
+[CommandLog] [2021-09-09T12:48:44.6175192] leviticus typed command tele 3270 5923 at X: 3261 Y:5922
+[CommandLog] [2021-09-09T12:48:45.2180649] leviticus typed command tele 3279 5924 at X: 3270 Y:5923
+[CommandLog] [2021-09-09T12:48:45.2180649] leviticus typed command tele 3279 5924 at X: 3270 Y:5923
+[CommandLog] [2021-09-09T12:48:45.8201165] leviticus typed command tele 3288 5925 at X: 3279 Y:5924
+[CommandLog] [2021-09-09T12:48:45.8201165] leviticus typed command tele 3288 5925 at X: 3279 Y:5924
+[CommandLog] [2021-09-09T12:48:46.4206619] leviticus typed command tele 3289 5932 at X: 3288 Y:5925
+[CommandLog] [2021-09-09T12:48:46.4206619] leviticus typed command tele 3289 5932 at X: 3288 Y:5925
+[CommandLog] [2021-09-09T12:48:50.6259876] leviticus typed command tele 3300 5934 at X: 3289 Y:5932
+[CommandLog] [2021-09-09T12:48:50.6259876] leviticus typed command tele 3301 5933 at X: 3289 Y:5932
+[CommandLog] [2021-09-09T12:48:50.6259876] leviticus typed command tele 3301 5933 at X: 3289 Y:5932
+[CommandLog] [2021-09-09T12:48:50.6259876] leviticus typed command tele 3301 5932 at X: 3289 Y:5932
+[CommandLog] [2021-09-09T12:48:51.226533] leviticus typed command tele 3315 5931 at X: 3301 Y:5932
+[CommandLog] [2021-09-09T12:48:51.226533] leviticus typed command tele 3315 5931 at X: 3301 Y:5932
+[CommandLog] [2021-09-09T12:48:51.226533] leviticus typed command tele 3315 5931 at X: 3301 Y:5932
+[CommandLog] [2021-09-09T12:48:51.226533] leviticus typed command tele 3315 5931 at X: 3301 Y:5932
+[CommandLog] [2021-09-09T12:48:51.8270787] leviticus typed command tele 3328 5931 at X: 3315 Y:5931
+[CommandLog] [2021-09-09T12:48:51.8270787] leviticus typed command tele 3328 5931 at X: 3315 Y:5931
+[CommandLog] [2021-09-09T12:48:52.4276241] leviticus typed command tele 3342 5930 at X: 3328 Y:5931
+[CommandLog] [2021-09-09T12:48:52.4276241] leviticus typed command tele 3342 5930 at X: 3328 Y:5931
+[CommandLog] [2021-09-09T12:48:52.4276241] leviticus typed command tele 3342 5930 at X: 3328 Y:5931
+[CommandLog] [2021-09-09T12:48:53.0281697] leviticus typed command tele 3356 5929 at X: 3342 Y:5930
+[CommandLog] [2021-09-09T12:48:53.0281697] leviticus typed command tele 3356 5929 at X: 3342 Y:5930
+[CommandLog] [2021-09-09T12:48:53.0281697] leviticus typed command tele 3356 5929 at X: 3342 Y:5930
+[CommandLog] [2021-09-09T12:48:53.0281697] leviticus typed command tele 3356 5929 at X: 3342 Y:5930
+[CommandLog] [2021-09-09T12:48:53.6287153] leviticus typed command tele 3370 5928 at X: 3356 Y:5929
+[CommandLog] [2021-09-09T12:48:53.6287153] leviticus typed command tele 3370 5928 at X: 3356 Y:5929
+[CommandLog] [2021-09-09T12:49:03.8399907] leviticus typed command tele 3362 5925 at X: 3370 Y:5928
+[CommandLog] [2021-09-09T12:49:13.4557254] leviticus typed command tele 3372 5924 at X: 3362 Y:5925
+[CommandLog] [2021-09-09T12:49:13.4557254] leviticus typed command tele 3373 5926 at X: 3362 Y:5925
+[CommandLog] [2021-09-09T12:49:13.4557254] leviticus typed command tele 3374 5929 at X: 3362 Y:5925
+[CommandLog] [2021-09-09T12:49:14.0562709] leviticus typed command tele 3387 5933 at X: 3374 Y:5929
+[CommandLog] [2021-09-09T12:49:14.0562709] leviticus typed command tele 3386 5934 at X: 3374 Y:5929
+[CommandLog] [2021-09-09T12:49:14.0562709] leviticus typed command tele 3386 5935 at X: 3374 Y:5929
+[CommandLog] [2021-09-09T12:49:14.0562709] leviticus typed command tele 3386 5935 at X: 3374 Y:5929
+[CommandLog] [2021-09-09T12:49:14.6568164] leviticus typed command tele 3398 5941 at X: 3386 Y:5935
+[CommandLog] [2021-09-09T12:49:14.6568164] leviticus typed command tele 3398 5941 at X: 3386 Y:5935
+[CommandLog] [2021-09-09T12:49:14.6568164] leviticus typed command tele 3398 5941 at X: 3386 Y:5935
+[CommandLog] [2021-09-09T12:49:14.6568164] leviticus typed command tele 3398 5942 at X: 3386 Y:5935
+[CommandLog] [2021-09-09T12:49:15.2573619] leviticus typed command tele 3410 5949 at X: 3398 Y:5942
+[CommandLog] [2021-09-09T12:49:15.2573619] leviticus typed command tele 3409 5949 at X: 3398 Y:5942
+[CommandLog] [2021-09-09T12:49:15.8579076] leviticus typed command tele 3420 5957 at X: 3409 Y:5949
+[CommandLog] [2021-09-09T12:49:15.8579076] leviticus typed command tele 3422 5953 at X: 3409 Y:5949
+[CommandLog] [2021-09-09T12:49:15.8579076] leviticus typed command tele 3425 5946 at X: 3409 Y:5949
+[CommandLog] [2021-09-09T12:49:16.4584531] leviticus typed command tele 3441 5940 at X: 3425 Y:5946
+[CommandLog] [2021-09-09T12:49:16.4584531] leviticus typed command tele 3440 5940 at X: 3425 Y:5946
+[CommandLog] [2021-09-09T12:49:16.4584531] leviticus typed command tele 3439 5942 at X: 3425 Y:5946
+[CommandLog] [2021-09-09T12:49:17.0589985] leviticus typed command tele 3453 5938 at X: 3439 Y:5942
+[CommandLog] [2021-09-09T12:49:17.0589985] leviticus typed command tele 3452 5938 at X: 3439 Y:5942
+[CommandLog] [2021-09-09T12:49:17.659544] leviticus typed command tele 3465 5934 at X: 3452 Y:5938
+[CommandLog] [2021-09-09T12:49:17.659544] leviticus typed command tele 3465 5934 at X: 3452 Y:5938
+[CommandLog] [2021-09-09T12:49:17.659544] leviticus typed command tele 3464 5938 at X: 3452 Y:5938
+[CommandLog] [2021-09-09T12:49:17.659544] leviticus typed command tele 3464 5945 at X: 3452 Y:5938
+[CommandLog] [2021-09-09T12:49:18.2600896] leviticus typed command tele 3476 5952 at X: 3464 Y:5945
+[CommandLog] [2021-09-09T12:49:18.2600896] leviticus typed command tele 3476 5952 at X: 3464 Y:5945
+[CommandLog] [2021-09-09T12:49:18.2600896] leviticus typed command tele 3475 5952 at X: 3464 Y:5945
+[CommandLog] [2021-09-09T12:49:18.860635] leviticus typed command tele 3479 5968 at X: 3475 Y:5952
+[CommandLog] [2021-09-09T12:49:18.860635] leviticus typed command tele 3479 5969 at X: 3475 Y:5952
+[CommandLog] [2021-09-09T12:49:19.4611806] leviticus typed command tele 3491 5973 at X: 3479 Y:5969
+[CommandLog] [2021-09-09T12:49:19.4611806] leviticus typed command tele 3494 5970 at X: 3479 Y:5969
+[CommandLog] [2021-09-09T12:49:19.4611806] leviticus typed command tele 3495 5968 at X: 3479 Y:5969
+[CommandLog] [2021-09-09T12:49:20.0617263] leviticus typed command tele 3510 5966 at X: 3495 Y:5968
+[CommandLog] [2021-09-09T12:49:20.0617263] leviticus typed command tele 3510 5966 at X: 3495 Y:5968
+[CommandLog] [2021-09-09T12:49:20.0617263] leviticus typed command tele 3510 5966 at X: 3495 Y:5968
+[CommandLog] [2021-09-09T12:49:20.6622718] leviticus typed command tele 3525 5964 at X: 3510 Y:5966
+[CommandLog] [2021-09-09T12:49:20.6622718] leviticus typed command tele 3525 5964 at X: 3510 Y:5966
+[CommandLog] [2021-09-09T12:49:20.6622718] leviticus typed command tele 3525 5964 at X: 3510 Y:5966
+[CommandLog] [2021-09-09T12:49:21.2628173] leviticus typed command tele 3540 5962 at X: 3525 Y:5964
+[CommandLog] [2021-09-09T12:49:21.2628173] leviticus typed command tele 3540 5962 at X: 3525 Y:5964
+[CommandLog] [2021-09-09T12:49:21.8633626] leviticus typed command tele 3554 5959 at X: 3540 Y:5962
+[CommandLog] [2021-09-09T12:49:21.8633626] leviticus typed command tele 3554 5959 at X: 3540 Y:5962
+[CommandLog] [2021-09-09T12:49:21.8633626] leviticus typed command tele 3554 5959 at X: 3540 Y:5962
+[CommandLog] [2021-09-09T12:49:22.4639084] leviticus typed command tele 3568 5956 at X: 3554 Y:5959
+[CommandLog] [2021-09-09T12:49:22.4639084] leviticus typed command tele 3568 5956 at X: 3554 Y:5959
+[CommandLog] [2021-09-09T12:49:22.4639084] leviticus typed command tele 3564 5949 at X: 3554 Y:5959
+[CommandLog] [2021-09-09T12:49:23.0644537] leviticus typed command tele 3573 5937 at X: 3564 Y:5949
+[CommandLog] [2021-09-09T12:49:23.0644537] leviticus typed command tele 3573 5937 at X: 3564 Y:5949
+[CommandLog] [2021-09-09T12:49:23.6649991] leviticus typed command tele 3582 5925 at X: 3573 Y:5937
+[CommandLog] [2021-09-09T12:49:23.6649991] leviticus typed command tele 3582 5925 at X: 3573 Y:5937
+[CommandLog] [2021-09-09T12:49:23.6649991] leviticus typed command tele 3573 5930 at X: 3573 Y:5937
+[CommandLog] [2021-09-09T12:49:24.2645441] leviticus typed command tele 3572 5923 at X: 3573 Y:5930
+[CommandLog] [2021-09-09T12:49:24.2645441] leviticus typed command tele 3572 5922 at X: 3573 Y:5930
+[CommandLog] [2021-09-09T12:49:24.2645441] leviticus typed command tele 3581 5933 at X: 3573 Y:5930
+[CommandLog] [2021-09-09T12:49:24.8650894] leviticus typed command tele 3590 5938 at X: 3581 Y:5933
+[CommandLog] [2021-09-09T12:49:24.8650894] leviticus typed command tele 3589 5941 at X: 3581 Y:5933
+[CommandLog] [2021-09-09T12:49:24.8650894] leviticus typed command tele 3589 5942 at X: 3581 Y:5933
+[CommandLog] [2021-09-09T12:49:25.4656349] leviticus typed command tele 3596 5952 at X: 3589 Y:5942
+[CommandLog] [2021-09-09T12:49:30.2735063] leviticus typed command tele 3712 6075 at X: 3596 Y:5952
+[CommandLog] [2021-09-09T12:49:36.8795072] leviticus typed command tele 3562 6089 at X: 3712 Y:6075
+[CommandLog] [2021-09-09T12:49:40.4827802] leviticus typed command coords at X: 3562 Y:6089
+[CommandLog] [2021-09-09T12:49:47.6963328] leviticus typed command tele 3270 6083 at X: 3562 Y:6089
+[CommandLog] [2021-09-09T12:49:49.4979693] leviticus typed command tele 3266 6080 at X: 3270 Y:6083
+[CommandLog] [2021-09-09T12:49:51.2996059] leviticus typed command tele 3265 6070 at X: 3266 Y:6080
+[CommandLog] [2021-09-09T12:49:51.2996059] leviticus typed command tele 3271 6073 at X: 3266 Y:6080
+[CommandLog] [2021-09-09T12:49:51.9001514] leviticus typed command tele 3272 6063 at X: 3271 Y:6073
+[CommandLog] [2021-09-09T12:49:52.5006972] leviticus typed command tele 3268 6049 at X: 3272 Y:6063
+[CommandLog] [2021-09-09T12:49:52.5006972] leviticus typed command tele 3268 6049 at X: 3272 Y:6063
+[CommandLog] [2021-09-09T12:49:53.1012425] leviticus typed command tele 3274 6041 at X: 3268 Y:6049
+[CommandLog] [2021-09-09T12:49:53.1012425] leviticus typed command tele 3274 6041 at X: 3268 Y:6049
+[CommandLog] [2021-09-09T12:49:53.7017881] leviticus typed command tele 3271 6049 at X: 3274 Y:6041
+[CommandLog] [2021-09-09T12:49:57.906111] leviticus typed command tele 3273 6051 at X: 3271 Y:6049
+[CommandLog] [2021-09-09T12:54:45.7802163] leviticus typed command tele 3585 5947 at X: 3100 Y:3501
+[CommandLog] [2021-09-09T12:54:52.9867625] leviticus typed command tele 3555 6103 at X: 3585 Y:5947
+[CommandLog] [2021-09-09T12:56:08.1000057] leviticus typed command tele 3718 6074 at X: 3099 Y:3495
+[CommandLog] [2021-09-09T12:56:41.7395628] leviticus typed command home at X: 3718 Y:6074
+[CommandLog] [2021-09-09T13:02:06.2733989] leviticus typed command item 25729 1 at X: 3096 Y:3492
+[CommandLog] [2021-09-09T13:02:54.3320626] leviticus typed command item 995 100m at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:02:56.7342445] leviticus typed command item 995 100 at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:02:59.1364265] leviticus typed command item 995 10 at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:03:00.3375175] leviticus typed command empty at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:03:20.1670355] leviticus typed command empty at X: 3094 Y:3492
+[CommandLog] [2021-09-09T13:05:39.1162715] leviticus typed command item 8865 at X: 3096 Y:3491
+[CommandLog] [2021-09-09T13:05:51.1321863] leviticus typed command item 8851 at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:05:57.1376415] leviticus typed command item 8849: at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:06:00.1403693] leviticus typed command item 8849 at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:06:02.5445529] leviticus typed command item 8848 at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:06:06.7483718] leviticus typed command item 8847 at X: 3095 Y:3492
+[CommandLog] [2021-09-09T13:42:02.7993195] leviticus typed command tele 3106 3495 at X: 3095 Y:3497
+[CommandLog] [2021-09-09T13:42:03.3998655] leviticus typed command tele 3118 3485 at X: 3106 Y:3495
+[CommandLog] [2021-09-09T13:42:03.3998655] leviticus typed command tele 3117 3484 at X: 3106 Y:3495
+[CommandLog] [2021-09-09T13:42:03.3998655] leviticus typed command tele 3116 3484 at X: 3106 Y:3495
+[CommandLog] [2021-09-09T13:42:03.400866] leviticus typed command tele 3115 3483 at X: 3106 Y:3495
+[CommandLog] [2021-09-09T13:42:04.0004105] leviticus typed command tele 3124 3471 at X: 3115 Y:3483
+[CommandLog] [2021-09-09T13:42:04.0004105] leviticus typed command tele 3124 3472 at X: 3115 Y:3483
+[CommandLog] [2021-09-09T13:42:04.0004105] leviticus typed command tele 3124 3473 at X: 3115 Y:3483
+[CommandLog] [2021-09-09T13:42:04.0004105] leviticus typed command tele 3124 3473 at X: 3115 Y:3483
+[CommandLog] [2021-09-09T13:42:04.6009559] leviticus typed command tele 3133 3464 at X: 3124 Y:3473
+[CommandLog] [2021-09-09T13:42:04.6009559] leviticus typed command tele 3133 3464 at X: 3124 Y:3473
+[CommandLog] [2021-09-09T13:42:04.6009559] leviticus typed command tele 3134 3464 at X: 3124 Y:3473
+[CommandLog] [2021-09-09T13:42:05.2015015] leviticus typed command tele 3144 3455 at X: 3134 Y:3464
+[CommandLog] [2021-09-09T13:42:05.2015015] leviticus typed command tele 3144 3455 at X: 3134 Y:3464
+[CommandLog] [2021-09-09T13:42:05.8020471] leviticus typed command tele 3154 3446 at X: 3144 Y:3455
+[CommandLog] [2021-09-09T13:42:05.8020471] leviticus typed command tele 3154 3446 at X: 3144 Y:3455
+[CommandLog] [2021-09-09T13:42:05.8020471] leviticus typed command tele 3154 3446 at X: 3144 Y:3455
+[CommandLog] [2021-09-09T13:42:05.8020471] leviticus typed command tele 3154 3446 at X: 3144 Y:3455
+[CommandLog] [2021-09-09T13:42:06.4025925] leviticus typed command tele 3164 3437 at X: 3154 Y:3446
+[CommandLog] [2021-09-09T13:42:06.4025925] leviticus typed command tele 3164 3437 at X: 3154 Y:3446
+[CommandLog] [2021-09-09T13:42:06.4025925] leviticus typed command tele 3164 3437 at X: 3154 Y:3446
+[CommandLog] [2021-09-09T13:42:07.003138] leviticus typed command tele 3174 3428 at X: 3164 Y:3437
+[CommandLog] [2021-09-09T13:42:07.003138] leviticus typed command tele 3174 3428 at X: 3164 Y:3437
+[CommandLog] [2021-09-09T13:42:07.003138] leviticus typed command tele 3174 3428 at X: 3164 Y:3437
+[CommandLog] [2021-09-09T13:42:07.6036835] leviticus typed command tele 3184 3419 at X: 3174 Y:3428
+[CommandLog] [2021-09-09T13:42:07.6036835] leviticus typed command tele 3184 3419 at X: 3174 Y:3428
+[CommandLog] [2021-09-09T13:42:08.2042292] leviticus typed command tele 3193 3410 at X: 3184 Y:3419
+[CommandLog] [2021-09-09T13:42:08.2042292] leviticus typed command tele 3193 3410 at X: 3184 Y:3419
+[CommandLog] [2021-09-09T13:42:08.2042292] leviticus typed command tele 3193 3410 at X: 3184 Y:3419
+[CommandLog] [2021-09-09T13:42:08.8047745] leviticus typed command tele 3202 3401 at X: 3193 Y:3410
+[CommandLog] [2021-09-09T13:42:08.8047745] leviticus typed command tele 3202 3401 at X: 3193 Y:3410
+[CommandLog] [2021-09-09T13:42:08.8047745] leviticus typed command tele 3202 3401 at X: 3193 Y:3410
+[CommandLog] [2021-09-09T13:42:08.8047745] leviticus typed command tele 3202 3401 at X: 3193 Y:3410
+[CommandLog] [2021-09-09T13:42:09.4053201] leviticus typed command tele 3208 3390 at X: 3202 Y:3401
+[CommandLog] [2021-09-09T13:42:09.4053201] leviticus typed command tele 3207 3390 at X: 3202 Y:3401
+[CommandLog] [2021-09-09T13:42:11.2069567] leviticus typed command tele 3206 3396 at X: 3208 Y:3392
+[CommandLog] [2021-09-09T13:42:13.0085932] leviticus typed command tele 3210 3391 at X: 3206 Y:3396
+[CommandLog] [2021-09-09T14:15:19.1872244] leviticus typed command tele 1 1 at X: 3211 Y:3392
+[CommandLog] [2021-09-09T14:15:26.3967732] leviticus typed command tele 3100 3487 at X: 3090 Y:3492
+[CommandLog] [2021-09-09T14:15:26.9973187] leviticus typed command tele 3109 3479 at X: 3100 Y:3487
+[CommandLog] [2021-09-09T14:15:27.5978642] leviticus typed command tele 3118 3470 at X: 3109 Y:3479
+[CommandLog] [2021-09-09T14:15:27.5978642] leviticus typed command tele 3118 3470 at X: 3109 Y:3479
+[CommandLog] [2021-09-09T14:15:28.1984097] leviticus typed command tele 3128 3461 at X: 3118 Y:3470
+[CommandLog] [2021-09-09T14:15:28.7989552] leviticus typed command tele 3139 3455 at X: 3128 Y:3461
+[CommandLog] [2021-09-09T14:15:28.7989552] leviticus typed command tele 3139 3455 at X: 3128 Y:3461
+[CommandLog] [2021-09-09T14:15:29.399501] leviticus typed command tele 3150 3449 at X: 3139 Y:3455
+[CommandLog] [2021-09-09T14:15:29.399501] leviticus typed command tele 3150 3449 at X: 3139 Y:3455
+[CommandLog] [2021-09-09T14:15:29.399501] leviticus typed command tele 3150 3449 at X: 3139 Y:3455
+[CommandLog] [2021-09-09T14:15:30.0000464] leviticus typed command tele 3161 3443 at X: 3150 Y:3449
+[CommandLog] [2021-09-09T14:15:30.6005922] leviticus typed command tele 3172 3437 at X: 3161 Y:3443
+[CommandLog] [2021-09-09T14:15:30.6005922] leviticus typed command tele 3172 3437 at X: 3161 Y:3443
+[CommandLog] [2021-09-09T14:15:30.6005922] leviticus typed command tele 3172 3437 at X: 3161 Y:3443
+[CommandLog] [2021-09-09T14:15:31.2021378] leviticus typed command tele 3183 3431 at X: 3172 Y:3437
+[CommandLog] [2021-09-09T14:15:31.2021378] leviticus typed command tele 3183 3431 at X: 3172 Y:3437
+[CommandLog] [2021-09-09T14:15:31.8046856] leviticus typed command tele 3193 3424 at X: 3183 Y:3431
+[CommandLog] [2021-09-09T14:15:31.8046856] leviticus typed command tele 3190 3424 at X: 3183 Y:3431
+[CommandLog] [2021-09-09T14:15:32.4052311] leviticus typed command tele 3196 3415 at X: 3190 Y:3424
+[CommandLog] [2021-09-09T14:15:32.4052311] leviticus typed command tele 3196 3415 at X: 3190 Y:3424
+[CommandLog] [2021-09-09T14:15:32.4052311] leviticus typed command tele 3196 3415 at X: 3190 Y:3424
+[CommandLog] [2021-09-09T14:15:33.0057767] leviticus typed command tele 3202 3406 at X: 3196 Y:3415
+[CommandLog] [2021-09-09T14:15:33.0057767] leviticus typed command tele 3202 3406 at X: 3196 Y:3415
+[CommandLog] [2021-09-09T14:15:33.0057767] leviticus typed command tele 3202 3406 at X: 3196 Y:3415
+[CommandLog] [2021-09-09T14:15:33.6063223] leviticus typed command tele 3208 3397 at X: 3202 Y:3406
+[CommandLog] [2021-09-09T14:15:33.6063223] leviticus typed command tele 3208 3397 at X: 3202 Y:3406
+[CommandLog] [2021-09-09T14:15:35.4079587] leviticus typed command tele 3212 3407 at X: 3208 Y:3397
+[CommandLog] [2021-09-09T14:15:35.4079587] leviticus typed command tele 3212 3408 at X: 3208 Y:3397
+[CommandLog] [2021-09-09T14:15:35.4079587] leviticus typed command tele 3211 3409 at X: 3208 Y:3397
+[CommandLog] [2021-09-09T14:15:36.0085041] leviticus typed command tele 3214 3421 at X: 3211 Y:3409
+[CommandLog] [2021-09-09T14:15:36.0085041] leviticus typed command tele 3214 3421 at X: 3211 Y:3409
+[CommandLog] [2021-09-09T14:15:36.6090497] leviticus typed command tele 3211 3434 at X: 3214 Y:3421
+[CommandLog] [2021-09-09T14:15:37.2095952] leviticus typed command tele 3208 3447 at X: 3211 Y:3434
+[CommandLog] [2021-09-09T14:15:37.2095952] leviticus typed command tele 3208 3447 at X: 3211 Y:3434
+[CommandLog] [2021-09-09T14:15:37.8101407] leviticus typed command tele 3207 3462 at X: 3208 Y:3447
+[CommandLog] [2021-09-09T14:15:37.8101407] leviticus typed command tele 3208 3462 at X: 3208 Y:3447
+[CommandLog] [2021-09-09T14:15:37.8121425] leviticus typed command tele 3208 3462 at X: 3208 Y:3447
+[CommandLog] [2021-09-09T14:15:43.2150504] leviticus typed command home at X: 3208 Y:3462
+[CommandLog] [2021-09-09T14:16:50.4836605] leviticus typed command tele 3200 3200 at X: 3092 Y:3496
+[CommandLog] [2021-09-09T14:16:59.4963535] leviticus typed command hom at X: 3200 Y:3200
+[CommandLog] [2021-09-09T14:17:00.6974445] leviticus typed command home at X: 3200 Y:3200
+[CommandLog] [2021-09-09T14:17:51.1673084] leviticus typed command tele 3200 3200 at X: 3091 Y:3490
+[CommandLog] [2021-09-09T14:17:54.7745852] leviticus typed command ome at X: 3200 Y:3200
+[CommandLog] [2021-09-09T14:18:03.7837688] leviticus typed command tele 1 1 at X: 3200 Y:3200
+[CommandLog] [2021-09-09T14:18:04.3843147] leviticus typed command home at X: 1 Y:1
+[CommandLog] [2021-09-09T14:18:42.8207334] leviticus typed command item 995 100 at X: 3096 Y:3492
+[CommandLog] [2021-09-09T14:18:45.2229153] leviticus typed command item 995 100m at X: 3096 Y:3492
+[CommandLog] [2021-09-09T14:23:02.3285209] leviticus typed command tele 3102 3482 at X: 3096 Y:3492
+[CommandLog] [2021-09-09T14:23:02.9290664] leviticus typed command tele 3106 3472 at X: 3102 Y:3482
+[CommandLog] [2021-09-09T14:23:06.5338452] leviticus typed command tele 3200 3200 at X: 3106 Y:3472
+[CommandLog] [2021-09-09T14:23:08.3374838] leviticus typed command tele 3208 3206 at X: 3200 Y:3200
+[CommandLog] [2021-09-09T14:23:08.9380291] leviticus typed command tele 3217 3211 at X: 3208 Y:3206
+[CommandLog] [2021-09-09T14:23:09.5385748] leviticus typed command tele 3227 3216 at X: 3217 Y:3211
+[CommandLog] [2021-09-09T14:23:09.5385748] leviticus typed command tele 3227 3216 at X: 3217 Y:3211
+[CommandLog] [2021-09-09T14:23:10.1391203] leviticus typed command tele 3235 3224 at X: 3227 Y:3216
+[CommandLog] [2021-09-09T14:23:10.7396657] leviticus typed command tele 3239 3235 at X: 3235 Y:3224
+[CommandLog] [2021-09-09T14:23:10.7396657] leviticus typed command tele 3228 3236 at X: 3235 Y:3224
+[CommandLog] [2021-09-09T14:23:11.3407159] leviticus typed command tele 3226 3247 at X: 3228 Y:3236
+[CommandLog] [2021-09-09T14:23:11.9412613] leviticus typed command tele 3224 3259 at X: 3226 Y:3247
+[CommandLog] [2021-09-09T14:23:12.541807] leviticus typed command tele 3222 3271 at X: 3224 Y:3259
+[CommandLog] [2021-09-09T14:23:12.541807] leviticus typed command tele 3222 3271 at X: 3224 Y:3259
+[CommandLog] [2021-09-09T14:23:13.1423523] leviticus typed command tele 3220 3283 at X: 3222 Y:3271
+[CommandLog] [2021-09-09T14:23:13.1423523] leviticus typed command tele 3220 3283 at X: 3222 Y:3271
+[CommandLog] [2021-09-09T14:23:13.1423523] leviticus typed command tele 3220 3283 at X: 3222 Y:3271
+[CommandLog] [2021-09-09T14:23:13.7428979] leviticus typed command tele 3218 3296 at X: 3220 Y:3283
+[CommandLog] [2021-09-09T14:23:13.7428979] leviticus typed command tele 3222 3296 at X: 3220 Y:3283
+[CommandLog] [2021-09-09T14:23:14.3434434] leviticus typed command tele 3224 3309 at X: 3222 Y:3296
+[CommandLog] [2021-09-09T14:23:14.3434434] leviticus typed command tele 3224 3309 at X: 3222 Y:3296
+[CommandLog] [2021-09-09T14:23:14.3434434] leviticus typed command tele 3224 3309 at X: 3222 Y:3296
+[CommandLog] [2021-09-09T14:23:14.9439891] leviticus typed command tele 3224 3322 at X: 3224 Y:3309
+[CommandLog] [2021-09-09T14:23:14.9439891] leviticus typed command tele 3223 3322 at X: 3224 Y:3309
+[CommandLog] [2021-09-09T14:23:14.9439891] leviticus typed command tele 3223 3322 at X: 3224 Y:3309
+[CommandLog] [2021-09-09T14:23:15.5450407] leviticus typed command tele 3222 3335 at X: 3223 Y:3322
+[CommandLog] [2021-09-09T14:23:15.5450407] leviticus typed command tele 3221 3335 at X: 3223 Y:3322
+[CommandLog] [2021-09-09T14:23:16.1455862] leviticus typed command tele 3219 3348 at X: 3221 Y:3335
+[CommandLog] [2021-09-09T14:23:16.1455862] leviticus typed command tele 3219 3348 at X: 3221 Y:3335
+[CommandLog] [2021-09-09T14:23:16.1455862] leviticus typed command tele 3220 3347 at X: 3221 Y:3335
+[CommandLog] [2021-09-09T14:23:16.7461317] leviticus typed command tele 3219 3359 at X: 3220 Y:3347
+[CommandLog] [2021-09-09T14:23:16.7461317] leviticus typed command tele 3219 3359 at X: 3220 Y:3347
+[CommandLog] [2021-09-09T14:23:16.7461317] leviticus typed command tele 3219 3359 at X: 3220 Y:3347
+[CommandLog] [2021-09-09T14:23:17.3466773] leviticus typed command tele 3218 3371 at X: 3219 Y:3359
+[CommandLog] [2021-09-09T14:23:17.3466773] leviticus typed command tele 3218 3371 at X: 3219 Y:3359
+[CommandLog] [2021-09-09T14:23:17.3466773] leviticus typed command tele 3218 3371 at X: 3219 Y:3359
+[CommandLog] [2021-09-09T14:23:17.9472226] leviticus typed command tele 3217 3383 at X: 3218 Y:3371
+[CommandLog] [2021-09-09T14:23:17.9472226] leviticus typed command tele 3214 3382 at X: 3218 Y:3371
+[CommandLog] [2021-09-09T14:23:18.5477684] leviticus typed command tele 3210 3393 at X: 3214 Y:3382
+[CommandLog] [2021-09-09T14:23:18.5477684] leviticus typed command tele 3210 3393 at X: 3214 Y:3382
+[CommandLog] [2021-09-09T14:23:18.5477684] leviticus typed command tele 3210 3393 at X: 3214 Y:3382
+[CommandLog] [2021-09-09T14:23:19.1483139] leviticus typed command tele 3206 3404 at X: 3210 Y:3393
+[CommandLog] [2021-09-09T14:23:20.3494046] leviticus typed command tele 3208 3394 at X: 3206 Y:3404
+[CommandLog] [2021-09-09T14:23:20.9499504] leviticus typed command tele 3210 3385 at X: 3208 Y:3394
+[CommandLog] [2021-09-09T14:23:22.1510415] leviticus typed command tele 3209 3393 at X: 3210 Y:3385
+[CommandLog] [2021-09-09T14:23:38.3712798] leviticus typed command tele 3206 3404 at X: 3210 Y:3395
+[CommandLog] [2021-09-09T14:23:38.3712798] leviticus typed command tele 3200 3407 at X: 3210 Y:3395
+[CommandLog] [2021-09-09T14:23:38.9718255] leviticus typed command tele 3192 3409 at X: 3200 Y:3407
+[CommandLog] [2021-09-09T14:23:39.5723708] leviticus typed command tele 3181 3415 at X: 3192 Y:3409
+[CommandLog] [2021-09-09T14:23:40.1729164] leviticus typed command tele 3170 3421 at X: 3181 Y:3415
+[CommandLog] [2021-09-09T14:23:42.5771004] leviticus typed command tele 3167 3430 at X: 3170 Y:3423
+[CommandLog] [2021-09-09T14:24:14.4155347] leviticus typed command anim 1887 at X: 3167 Y:3430
+[CommandLog] [2021-09-09T14:24:17.4222747] leviticus typed command gfx 1887 at X: 3167 Y:3430
+[CommandLog] [2021-09-09T14:24:22.2256381] leviticus typed command tele 3174 3431 at X: 3170 Y:3429
+[CommandLog] [2021-09-09T14:24:28.2330951] leviticus typed command anim 8998 at X: 3174 Y:3431
+[CommandLog] [2021-09-09T14:24:37.2477879] leviticus typed command ::anim 8998 at X: 3174 Y:3431
+[CommandLog] [2021-09-09T14:24:42.6526974] leviticus typed command object 41558 at X: 3174 Y:3431
+[CommandLog] [2021-09-09T14:25:21.7041792] leviticus typed command object 41742 at X: 3173 Y:3436
+[CommandLog] [2021-09-09T14:25:26.5110497] leviticus typed command object 41741 at X: 3172 Y:3439
+[CommandLog] [2021-09-09T14:25:31.3154138] leviticus typed command tele 3176 3454 at X: 3175 Y:3443
+[CommandLog] [2021-09-09T14:25:31.9159594] leviticus typed command tele 3163 3460 at X: 3176 Y:3454
+[CommandLog] [2021-09-09T14:25:32.516505] leviticus typed command tele 3163 3469 at X: 3163 Y:3460
+[CommandLog] [2021-09-09T14:25:33.1170504] leviticus typed command tele 3173 3467 at X: 3163 Y:3469
+[CommandLog] [2021-09-09T14:25:33.1170504] leviticus typed command tele 3173 3468 at X: 3163 Y:3469
+[CommandLog] [2021-09-09T14:25:33.7175959] leviticus typed command tele 3166 3474 at X: 3173 Y:3468
+[CommandLog] [2021-09-09T14:25:33.7175959] leviticus typed command tele 3165 3474 at X: 3173 Y:3468
+[CommandLog] [2021-09-09T14:25:34.918687] leviticus typed command tele 3178 3472 at X: 3165 Y:3474
+[CommandLog] [2021-09-09T14:28:21.8998833] leviticus typed command tele 3104 3498 at X: 3092 Y:3499
+[CommandLog] [2021-09-09T14:28:23.1009745] leviticus typed command tele 3118 3490 at X: 3104 Y:3498
+[CommandLog] [2021-09-09T14:28:23.7015201] leviticus typed command tele 3130 3487 at X: 3118 Y:3490
+[CommandLog] [2021-09-09T14:28:24.3020654] leviticus typed command tele 3142 3484 at X: 3130 Y:3487
+[CommandLog] [2021-09-09T14:28:24.902611] leviticus typed command tele 3154 3481 at X: 3142 Y:3484
+[CommandLog] [2021-09-09T14:28:26.7042477] leviticus typed command tele 3163 3479 at X: 3154 Y:3481
+[CommandLog] [2021-09-09T14:28:27.3047937] leviticus typed command tele 3177 3476 at X: 3163 Y:3479
+[CommandLog] [2021-09-09T14:30:05.2287544] leviticus typed command tele 3151 3498 at X: 3159 Y:3486
+[CommandLog] [2021-09-09T14:30:05.8292999] leviticus typed command tele 3142 3511 at X: 3151 Y:3498
+[CommandLog] [2021-09-09T14:30:06.4298456] leviticus typed command tele 3134 3519 at X: 3142 Y:3511
+[CommandLog] [2021-09-09T14:30:07.0303911] leviticus typed command tele 3138 3512 at X: 3134 Y:3519
+[CommandLog] [2021-09-09T14:30:08.231482] leviticus typed command tele 3143 3509 at X: 3138 Y:3512
+[CommandLog] [2021-09-09T14:48:34.4822194] leviticus typed command teletome leviticus1 at X: 3182 Y:3473
+[CommandLog] [2021-09-09T15:01:43.4319657] leviticus typed command bank at X: 3182 Y:3473
+[CommandLog] [2021-09-09T15:13:33.3018936] leviticus typed command object 26764 at X: 3094 Y:3500
+[CommandLog] [2021-09-09T15:14:30.4302914] leviticus typed command object 26764 at X: 3094 Y:3500
+[CommandLog] [2021-09-09T15:23:13.0216379] leviticus typed command tele 3086 3509 at X: 3098 Y:3508
+[CommandLog] [2021-09-09T15:23:14.2227291] leviticus typed command tele 3096 3500 at X: 3086 Y:3509
+[CommandLog] [2021-09-09T15:23:17.2254566] leviticus typed command tele 3107 3498 at X: 3096 Y:3500
+[CommandLog] [2021-09-09T15:23:17.826002] leviticus typed command tele 3121 3497 at X: 3107 Y:3498
+[CommandLog] [2021-09-09T15:23:18.4270533] leviticus typed command tele 3114 3490 at X: 3121 Y:3497
+[CommandLog] [2021-09-09T15:23:19.0275986] leviticus typed command tele 3103 3486 at X: 3114 Y:3490
+[CommandLog] [2021-09-09T15:23:19.6281444] leviticus typed command tele 3097 3485 at X: 3103 Y:3486
+[CommandLog] [2021-09-09T15:23:20.8292354] leviticus typed command tele 3105 3488 at X: 3097 Y:3485
+[CommandLog] [2021-09-09T15:23:21.4297812] leviticus typed command tele 3113 3486 at X: 3105 Y:3488
+[CommandLog] [2021-09-09T15:23:22.0303263] leviticus typed command tele 3125 3487 at X: 3113 Y:3486
+[CommandLog] [2021-09-09T15:23:22.0303263] leviticus typed command tele 3126 3488 at X: 3113 Y:3486
+[CommandLog] [2021-09-09T15:23:22.0303263] leviticus typed command tele 3125 3487 at X: 3113 Y:3486
+[CommandLog] [2021-09-09T15:23:22.6308717] leviticus typed command tele 3137 3488 at X: 3125 Y:3487
+[CommandLog] [2021-09-09T15:23:22.6308717] leviticus typed command tele 3137 3487 at X: 3125 Y:3487
+[CommandLog] [2021-09-09T15:23:22.6308717] leviticus typed command tele 3136 3485 at X: 3125 Y:3487
+[CommandLog] [2021-09-09T15:23:22.6308717] leviticus typed command tele 3136 3485 at X: 3125 Y:3487
+[CommandLog] [2021-09-09T15:23:23.2324182] leviticus typed command tele 3147 3483 at X: 3136 Y:3485
+[CommandLog] [2021-09-09T15:23:23.2324182] leviticus typed command tele 3147 3483 at X: 3136 Y:3485
+[CommandLog] [2021-09-09T15:23:23.8319627] leviticus typed command tele 3158 3480 at X: 3147 Y:3483
+[CommandLog] [2021-09-09T15:23:23.8319627] leviticus typed command tele 3158 3481 at X: 3147 Y:3483
+[CommandLog] [2021-09-09T15:23:25.0350557] leviticus typed command tele 3167 3471 at X: 3158 Y:3481
+[CommandLog] [2021-09-09T15:23:26.2381484] leviticus typed command tele 3181 3474 at X: 3167 Y:3471
+[CommandLog] [2021-09-09T15:32:34.9756853] leviticus typed command bank at X: 3184 Y:3473
+[CommandLog] [2021-09-09T16:08:11.4159469] leviticus typed command tele 3036 4772 at X: 3038 Y:4767
+[CommandLog] [2021-09-09T16:08:12.0164925] leviticus typed command tele 3031 4781 at X: 3036 Y:4772
+[CommandLog] [2021-09-09T16:08:13.818129] leviticus typed command tele 3038 4785 at X: 3031 Y:4781
+[CommandLog] [2021-09-09T16:12:39.3798904] leviticus typed command tele 3101 3484 at X: 3090 Y:3488
+[CommandLog] [2021-09-09T16:12:39.3798904] leviticus typed command tele 3101 3484 at X: 3090 Y:3488
+[CommandLog] [2021-09-09T16:12:39.9814364] leviticus typed command tele 3112 3480 at X: 3101 Y:3484
+[CommandLog] [2021-09-09T16:12:39.9824372] leviticus typed command tele 3114 3481 at X: 3101 Y:3484
+[CommandLog] [2021-09-09T16:12:39.9824372] leviticus typed command tele 3115 3483 at X: 3101 Y:3484
+[CommandLog] [2021-09-09T16:12:39.9824372] leviticus typed command tele 3115 3484 at X: 3101 Y:3484
+[CommandLog] [2021-09-09T16:12:40.5839843] leviticus typed command tele 3129 3485 at X: 3115 Y:3484
+[CommandLog] [2021-09-09T16:12:40.5839843] leviticus typed command tele 3129 3485 at X: 3115 Y:3484
+[CommandLog] [2021-09-09T16:12:40.5839843] leviticus typed command tele 3129 3485 at X: 3115 Y:3484
+[CommandLog] [2021-09-09T16:12:41.1845296] leviticus typed command tele 3142 3485 at X: 3129 Y:3485
+[CommandLog] [2021-09-09T16:12:41.1855306] leviticus typed command tele 3142 3484 at X: 3129 Y:3485
+[CommandLog] [2021-09-09T16:12:41.7860761] leviticus typed command tele 3158 3485 at X: 3142 Y:3484
+[CommandLog] [2021-09-09T16:12:41.7860761] leviticus typed command tele 3158 3485 at X: 3142 Y:3484
+[CommandLog] [2021-09-09T16:12:41.7860761] leviticus typed command tele 3157 3484 at X: 3142 Y:3484
+[CommandLog] [2021-09-09T16:12:42.3866219] leviticus typed command tele 3171 3483 at X: 3157 Y:3484
+[CommandLog] [2021-09-09T16:12:42.3876225] leviticus typed command tele 3169 3480 at X: 3157 Y:3484
+[CommandLog] [2021-09-09T16:12:42.9891689] leviticus typed command tele 3161 3473 at X: 3169 Y:3480
+[CommandLog] [2021-09-09T16:12:42.9891689] leviticus typed command tele 3158 3473 at X: 3169 Y:3480
+[CommandLog] [2021-09-09T16:12:44.1927675] leviticus typed command tele 3149 3473 at X: 3158 Y:3473
+[CommandLog] [2021-09-09T16:12:45.9944042] leviticus typed command tele 3165 3475 at X: 3149 Y:3473
+[CommandLog] [2021-09-09T16:12:46.5949496] leviticus typed command tele 3179 3474 at X: 3165 Y:3475
+[CommandLog] [2021-09-10T04:12:35.3196017] leviticus typed command leaderboards at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:22:10.5206929] leviticus typed command leaderboards at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:36:10.9112424] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:41:17.4012627] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:43:04.5321104] leviticus typed command interface 22823 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:43:14.1628589] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:45:53.1032849] leviticus typed command inteface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:45:59.1287581] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:49:06.9959361] leviticus typed command inteface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:49:11.2117656] leviticus typed command :interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:49:20.8430191] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:50:38.5030769] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:51:14.0038297] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:53:21.0408148] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:53:52.3357467] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:54:37.4792584] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:55:47.2986909] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:56:11.3545431] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:56:30.604534] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:56:55.8639835] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:58:09.9222662] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T04:59:02.8743667] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:00:43.9301733] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:02:35.2708264] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:03:57.1302022] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:04:38.6429206] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:05:11.1414414] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:06:55.873093] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:07:37.9988628] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:09:07.0387558] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:10:40.9100339] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:11:30.2733815] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:12:46.6677856] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:13:50.4612475] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:14:19.9300161] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:18:37.3984271] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:20:19.6863527] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:21:36.0747415] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:23:08.1148611] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:23:38.8027458] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:26:27.8513294] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:27:46.0503636] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:28:20.9445659] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:29:33.7652279] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:30:00.2332704] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:31:46.7034892] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:33:11.5395601] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:34:43.0006522] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:35:11.8783886] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:39:49.8158993] leviticus typed command interface 22723 at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:40:22.9059574] leviticus typed command drops at X: 3038 Y:4785
+[CommandLog] [2021-09-10T05:40:51.185646] leviticus typed command bank at X: 2674 Y:3709
+[CommandLog] [2021-09-10T05:42:43.7003654] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:43:25.8256308] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:45:35.7867057] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:46:47.9942971] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:47:18.6651575] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:47:51.1671866] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:48:23.0411404] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:49:02.7442053] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:49:31.6204359] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:51:03.6635588] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T05:52:16.4527106] leviticus typed command interface 22723 at X: 2686 Y:3712
+[CommandLog] [2021-09-10T19:11:26.3389114] leviticus typed command home at X: 2676 Y:3713
+[CommandLog] [2021-09-10T19:11:29.9451875] leviticus typed command leaderboards at X: 3091 Y:3490
+[CommandLog] [2021-09-10T19:13:15.2493512] leviticus typed command leaderboards at X: 3091 Y:3490
+[CommandLog] [2021-09-10T19:20:40.6600896] leviticus typed command leaderboards at X: 3091 Y:3490
+[CommandLog] [2021-09-10T19:22:46.2317038] leviticus typed command leaderboards at X: 3091 Y:3490
+[CommandLog] [2021-09-10T19:30:57.5911597] leviticus typed command leaderboards at X: 3091 Y:3490
+[CommandLog] [2021-09-10T19:37:22.0093944] leviticus typed command leaderboards at X: 3092 Y:3495

@@ -1,0 +1,14 @@
+19:44:13.931 [GameThread] INFO  io.alunity.Server - Server state: TEST_PUBLIC
+19:44:14.434 [GameThread] INFO  o.f.c.i.license.VersionPrinter - Flyway Community Edition 5.2.4 by Boxfuse
+19:44:14.783 [GameThread] INFO  o.f.c.i.database.DatabaseFactory - Database: jdbc:mysql://92.204.221.12/game_alunity (MySQL 5.6)
+19:44:14.967 [GameThread] ERROR io.alunity.Server - An error occurred while starting the server.
+org.flywaydb.core.api.FlywayException: Validate failed: Detected failed migration to version 13 (create leaderboard tables)
+	at org.flywaydb.core.Flyway.doValidate(Flyway.java:1482)
+	at org.flywaydb.core.Flyway.access$100(Flyway.java:85)
+	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1364)
+	at org.flywaydb.core.Flyway$1.execute(Flyway.java:1356)
+	at org.flywaydb.core.Flyway.execute(Flyway.java:1711)
+	at org.flywaydb.core.Flyway.migrate(Flyway.java:1356)
+	at io.alunity.Server.loadData(Server.java:139)
+	at io.alunity.Server.lambda$main$0(Server.java:177)
+	at io.alunity.GameThread.run(GameThread.java:81)

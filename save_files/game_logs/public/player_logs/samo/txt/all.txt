@@ -1,0 +1,221 @@
+[ConnectionLog] [2022-02-21T21:14:06.3181634] Logged in
+[ClickButtonLog] [2022-02-21T21:14:35.802434] Clicked: 94242, new: false
+[ClickButtonLog] [2022-02-21T21:14:49.0385308] Clicked: 9157, new: false
+[ClickButtonLog] [2022-02-21T21:14:50.8425466] Clicked: 9157, new: false
+[ClickButtonLog] [2022-02-21T21:14:55.0535849] Clicked: 9157, new: false
+[PublicChatLog] [2022-02-21T21:14:58.0656096] Sec
+[ClickButtonLog] [2022-02-21T21:15:19.7228002] Clicked: 9154, new: false
+[ConnectionLog] [2022-02-21T21:15:52.7960858] Logged in
+[PublicChatLog] [2022-02-21T21:15:55.8031116] Yallah
+[PublicChatLog] [2022-02-21T21:16:25.8723637] Ok
+[CommandLog] [2022-02-21T21:17:07.9957309] samo typed command master at X: 3093 Y:3490
+[ClickButtonLog] [2022-02-21T21:17:11.6067592] Clicked: 22230, new: false
+[ClickButtonLog] [2022-02-21T21:17:12.810774] Clicked: 89061, new: false
+[ClickButtonLog] [2022-02-21T21:17:15.2137891] Clicked: 9154, new: false
+[ConnectionLog] [2022-02-21T21:17:17.0178087] Logged in
+[PublicChatLog] [2022-02-21T21:17:32.6539412] Ja man
+[ClickButtonLog] [2022-02-21T21:18:18.3653314] Clicked: 47002, new: false
+[ClickButtonLog] [2022-02-21T21:18:20.1703465] Clicked: 47002, new: false
+[ClickButtonLog] [2022-02-21T21:18:20.773352] Clicked: 11015, new: false
+[ClickButtonLog] [2022-02-21T21:18:55.6696548] Clicked: 250002, new: false
+[ClickButtonLog] [2022-02-21T21:19:31.7489681] Clicked: 13092, new: false
+[ClickButtonLog] [2022-02-21T21:19:32.3509748] Clicked: 13218, new: false
+[ClickButtonLog] [2022-02-21T21:19:34.756993] Clicked: 13218, new: false
+[ItemFlowerPokerTradeLog] [2022-02-21T21:19:34.7669947] Flower pokered with [scott] (login name) Received [[]] Given [[GameItem{name=Volatile nightmare staff, id=24424, amount=1}]]
+[ClickButtonLog] [2022-02-21T21:20:01.8252313] Clicked: 94047, new: false
+[PublicChatLog] [2022-02-21T21:20:11.4483032] Wo gibt es commandos
+[PublicChatLog] [2022-02-21T21:20:14.4543276] Fur owner
+[PublicChatLog] [2022-02-21T21:20:16.2583423] Items
+[PublicChatLog] [2022-02-21T21:20:18.062359] Und alles
+[PublicChatLog] [2022-02-21T21:20:44.5365841] Items
+[PublicChatLog] [2022-02-21T21:20:48.7476192] Ja aber muss doch wissen
+[PublicChatLog] [2022-02-21T21:20:50.5546363] Was ich kann
+[PublicChatLog] [2022-02-21T21:20:52.3586527] Und was es gibt
+[CommandLog] [2022-02-21T21:21:19.4269014] samo typed command getid scythe at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:21:26.0439562] samo typed command item 22325 at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:21:38.0840595] samo typed command getid boots at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:22:03.3462744] samo typed command item 6921 1 at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:22:08.7613201] samo typed command item 6920 at X: 3110 Y:3515
+[CommandLog] [2022-02-21T21:23:07.1188224] samo typed command getid pets at X: 3113 Y:3507
+[CommandLog] [2022-02-21T21:23:11.9348676] samo typed command getid pet at X: 3113 Y:3507
+[CommandLog] [2022-02-21T21:23:29.3850167] samo typed command item 30110  at X: 3113 Y:3507
+[CommandLog] [2022-02-21T21:23:40.8161185] samo typed command getid pet at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:23:48.6341809] samo typed command item kratos at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:23:54.6552385] samo typed command getid kratos at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:23:59.4702771] samo typed command item 30122 1 at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:24:19.3314445] samo typed command getid bandos at X: 3115 Y:3507
+[CommandLog] [2022-02-21T21:24:30.1575376] samo typed command item 12482 1 at X: 3115 Y:3507
+[CommandLog] [2022-02-21T21:24:39.7906253] samo typed command item 12483  at X: 3115 Y:3507
+[CommandLog] [2022-02-21T21:25:06.2588485] samo typed command getid cape at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:25:21.8989928] samo typed command item 33052 1 at X: 3117 Y:3507
+[CommandLog] [2022-02-21T21:25:44.1561857] samo typed command item 1052  at X: 3114 Y:3508
+[CommandLog] [2022-02-21T21:25:48.3742159] samo typed command item 2413  at X: 3114 Y:3508
+[CommandLog] [2022-02-21T21:26:00.4173136] samo typed command getid fire at X: 3112 Y:3507
+[CommandLog] [2022-02-21T21:26:13.050421] samo typed command item 10637 1 at X: 3112 Y:3507
+[CommandLog] [2022-02-21T21:26:26.8905413] samo typed command item 10566 1 at X: 3112 Y:3507
+[ItemDroppedLog] [2022-02-21T21:26:30.5055731] Dropped GameItem{name=Fire cape, id=10566, amount=1} at Position{x=3112, y=3507, z=0}
+[ItemPickupLog] [2022-02-21T21:26:31.7055843] Picked up GameItem{name=Fire cape, id=10566, amount=1} at Position{x=3112, y=3507, z=0}, owner samo
+[PublicChatLog] [2022-02-21T21:27:23.44303] Wieso
+[PublicChatLog] [2022-02-21T21:27:29.4540949] Kann ich kein fire cape anziehne ?
+[CommandLog] [2022-02-21T21:27:46.8992292] samo typed command item 6570 1 at X: 3095 Y:3499
+[PublicChatLog] [2022-02-21T21:27:51.1102633] Ahh
+[PublicChatLog] [2022-02-21T21:27:55.923306] Und ich will geile sachen
+[PublicChatLog] [2022-02-21T21:28:00.1333433] Mit diesen stab
+[CommandLog] [2022-02-21T21:28:14.5694662] samo typed command item 21295 1 at X: 3095 Y:3500
+[PublicChatLog] [2022-02-21T21:28:22.3865371] Diesen stab
+[PublicChatLog] [2022-02-21T21:28:23.5925455] Was ich anhabe
+[PublicChatLog] [2022-02-21T21:28:27.8035817] Will ich noch geile items dazu anziehen
+[PublicChatLog] [2022-02-21T21:28:41.0366988] Ja
+[PublicChatLog] [2022-02-21T21:28:45.8487365] Will aber sachen noch dazu
+[ClickObjectLog] [2022-02-21T21:28:49.456769] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[CommandLog] [2022-02-21T21:29:07.5029239] samo typed command spec at X: 2676 Y:3714
+[PublicChatLog] [2022-02-21T21:29:18.9290211] Will noch geile sachen dazu
+[PublicChatLog] [2022-02-21T21:29:24.9400755] Wo sind staff items
+[CommandLog] [2022-02-21T21:29:26.7440915] samo typed command spec at X: 2674 Y:3713
+[CommandLog] [2022-02-21T21:29:52.0023063] samo typed command getid claws at X: 2676 Y:3715
+[CommandLog] [2022-02-21T21:29:56.2163458] samo typed command item 20784 1 at X: 2676 Y:3715
+[CommandLog] [2022-02-21T21:30:11.2644759] samo typed command getid arma at X: 2675 Y:3713
+[CommandLog] [2022-02-21T21:30:16.075513] samo typed command item 20593 1 at X: 2675 Y:3713
+[CommandLog] [2022-02-21T21:30:32.3146547] samo typed command item 11803 1 at X: 2675 Y:3711
+[CommandLog] [2022-02-21T21:30:39.5407191] samo typed command item 11802 1 at X: 2675 Y:3711
+[PublicChatLog] [2022-02-21T21:31:33.6811888] Puhh
+[PublicChatLog] [2022-02-21T21:31:36.0872038] Die hits
+[PublicChatLog] [2022-02-21T21:31:39.093228] Muss du patchen
+[PublicChatLog] [2022-02-21T21:32:23.0116068] Realistische hits bree
+[PublicChatLog] [2022-02-21T21:32:26.6236382] Wenn leute pken z.B
+[PublicChatLog] [2022-02-21T21:34:19.7306067] Was muss den noch gemacht werden?
+[PublicChatLog] [2022-02-21T21:34:23.9406458] Damit der server online geht?
+[PublicChatLog] [2022-02-21T21:35:14.4820774] Ja pvp
+[PublicChatLog] [2022-02-21T21:35:18.090113] Ist sehr gut
+[PublicChatLog] [2022-02-21T21:35:28.3171976] Alles insgestamt?
+[PublicChatLog] [2022-02-21T21:35:30.1232192] 200?
+[PublicChatLog] [2022-02-21T21:35:55.9914421] Dann such
+[PublicChatLog] [2022-02-21T21:35:59.5974682] Mal fr ende monat
+[PublicChatLog] [2022-02-21T21:36:03.2085033] Paar die das machen
+[PublicChatLog] [2022-02-21T21:36:40.5148207] Du willst jetzt erstmal 3-4 monate sparen und nichts machen ?
+[CommandLog] [2022-02-21T21:37:05.1830352] samo typed command givemod s at X: 2676 Y:3715
+[CommandLog] [2022-02-21T21:37:19.6261593] samo typed command giveadmin scott at X: 2676 Y:3715
+[ClickButtonLog] [2022-02-21T21:37:41.8863438] Clicked: 9157, new: false
+[PublicChatLog] [2022-02-21T21:37:47.9043983] Der kostet 1200 euro=?
+[CommandLog] [2022-02-21T21:38:29.4167615] samo typed command hp at X: 3868 Y:9952
+[CommandLog] [2022-02-21T21:38:33.6237916] samo typed command god at X: 3869 Y:9952
+[CommandLog] [2022-02-21T21:38:38.4348336] samo typed command god at X: 3869 Y:9952
+[PublicChatLog] [2022-02-21T21:38:41.4408598] Geht nicht
+[CommandLog] [2022-02-21T21:38:43.2438752] samo typed command god at X: 3869 Y:9952
+[DeathLog] [2022-02-21T21:38:49.2639272] Position{x=3865, y=9947, z=0}
+[CommandLog] [2022-02-21T21:38:57.0829931] samo typed command hpray at X: 3865 Y:9953
+[CommandLog] [2022-02-21T21:39:13.3276401] samo typed command teleto scott at X: 3873 Y:9956
+[PublicChatLog] [2022-02-21T21:39:28.3667711] Ya
+[CommandLog] [2022-02-21T21:40:21.915229] samo typed command wildyevent at X: 3090 Y:3492
+[ClickButtonLog] [2022-02-21T21:40:23.1182393] Clicked: 39964, new: true
+[ConnectionLog] [2022-02-21T21:41:25.6867785] Logged in
+[PublicChatLog] [2022-02-21T21:41:35.9128644] Haa
+[PublicChatLog] [2022-02-21T21:41:40.1259083] Spiel ist heangen geblieben
+[PublicChatLog] [2022-02-21T21:41:44.9369434] Wo ich dich angegriffen habe
+[PublicChatLog] [2022-02-21T21:42:05.3921186] Nein
+[ClickButtonLog] [2022-02-21T21:42:15.6272092] Clicked: 13092, new: false
+[ClickButtonLog] [2022-02-21T21:42:16.2232127] Clicked: 13218, new: false
+[ClickButtonLog] [2022-02-21T21:42:18.0272292] Clicked: 13218, new: false
+[ItemTradeLog] [2022-02-21T21:42:18.0322301] Traded with [scott] (login name) Received [[]] Given [[GameItem{name=Seren's Key, id=6792, amount=2}]]
+[ClickObjectLog] [2022-02-21T21:42:29.4543225] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2022-02-21T21:42:31.2603383] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[PublicChatLog] [2022-02-21T21:42:39.0784067] Ahh
+[ClickButtonLog] [2022-02-21T21:42:49.2994949] Clicked: 23721, new: true
+[DailyRewardLog] [2022-02-21T21:42:49.303494] Claimed daily reward ImmutableItem{name=Experience Lamp, id=2528, amount=1} on day 0
+[ClickButtonLog] [2022-02-21T21:42:50.5045064] Clicked: 23721, new: true
+[ClickButtonLog] [2022-02-21T21:42:50.5045064] Clicked: 23721, new: true
+[PublicChatLog] [2022-02-21T21:42:58.9305759] Ahh
+[ClickButtonLog] [2022-02-21T21:43:04.3436249] Clicked: 47002, new: false
+[ClickButtonLog] [2022-02-21T21:43:06.1516386] Clicked: 11015, new: false
+[PublicChatLog] [2022-02-21T21:43:42.8529607] Jaa
+[PublicChatLog] [2022-02-21T21:43:43.4539602] Man
+[PublicChatLog] [2022-02-21T21:44:13.5292209] Das ist heftig
+[PublicChatLog] [2022-02-21T21:44:35.7954097] Ja
+[CommandLog] [2022-02-21T21:46:36.7014503] samo typed command donate at X: 3074 Y:3498
+[CommandLog] [2022-02-21T21:46:39.7014745] samo typed command donate at X: 3074 Y:3498
+[CommandLog] [2022-02-21T21:46:42.7085006] samo typed command donator at X: 3074 Y:3498
+[CommandLog] [2022-02-21T21:46:46.3175343] samo typed command shops at X: 3074 Y:3498
+[CommandLog] [2022-02-21T21:46:47.5195424] samo typed command home at X: 3074 Y:3498
+[ClickObjectLog] [2022-02-21T21:47:12.7827616] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2022-02-21T21:47:14.5887746] Clicked: 130131, new: false
+[ClickButtonLog] [2022-02-21T21:47:20.0018226] Clicked: 250002, new: false
+[ClickObjectLog] [2022-02-21T21:47:21.2068317] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-21T21:47:24.8168643] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2022-02-21T21:47:27.225885] Clicked: 130131, new: false
+[ClickButtonLog] [2022-02-21T21:47:37.4529716] Clicked: 250002, new: false
+[ClickButtonLog] [2022-02-21T21:48:55.6566455] Clicked: 2173, new: false
+[ClickButtonLog] [2022-02-21T21:48:56.8616598] Clicked: 2173, new: false
+[ClickButtonLog] [2022-02-21T21:48:58.0616657] Clicked: 153239, new: false
+[ClickButtonLog] [2022-02-21T21:48:58.6636705] Clicked: 153239, new: false
+[ClickButtonLog] [2022-02-21T21:48:59.2656762] Clicked: 153236, new: false
+[ClickButtonLog] [2022-02-21T21:48:59.8686842] Clicked: 153236, new: false
+[ClickButtonLog] [2022-02-21T21:48:59.8686842] Clicked: 77115, new: false
+[ClickButtonLog] [2022-02-21T21:49:01.0716928] Clicked: 77115, new: false
+[ClickButtonLog] [2022-02-21T21:49:02.2747024] Clicked: 77109, new: false
+[ClickButtonLog] [2022-02-21T21:49:03.4797143] Clicked: 21247, new: false
+[ClickButtonLog] [2022-02-21T21:49:04.0787177] Clicked: 2173, new: false
+[ClickButtonLog] [2022-02-21T21:49:05.2867358] Clicked: 21247, new: false
+[ClickButtonLog] [2022-02-21T21:49:05.8857347] Clicked: 2173, new: false
+[ClickButtonLog] [2022-02-21T21:49:07.087742] Clicked: 2173, new: false
+[ClickButtonLog] [2022-02-21T21:49:08.8897595] Clicked: 77109, new: false
+[ClickButtonLog] [2022-02-21T21:49:09.4927652] Clicked: 2173, new: false
+[ClickButtonLog] [2022-02-21T21:49:09.4927652] Clicked: 21244, new: false
+[ClickButtonLog] [2022-02-21T21:49:10.0927804] Clicked: 21244, new: false
+[ClickButtonLog] [2022-02-21T21:49:10.6947739] Clicked: 21243, new: false
+[ClickButtonLog] [2022-02-21T21:49:11.2957793] Clicked: 21244, new: false
+[ClickButtonLog] [2022-02-21T21:49:11.896785] Clicked: 21241, new: false
+[ClickButtonLog] [2022-02-21T21:49:15.5068139] Clicked: 21243, new: false
+[ClickButtonLog] [2022-02-21T21:49:16.1098226] Clicked: 2173, new: false
+[ClickButtonLog] [2022-02-21T21:49:16.709835] Clicked: 21245, new: false
+[ClickButtonLog] [2022-02-21T21:49:16.709835] Clicked: 21244, new: false
+[ClickButtonLog] [2022-02-21T21:49:17.3118302] Clicked: 21241, new: false
+[ClickButtonLog] [2022-02-21T21:49:17.9118367] Clicked: 21245, new: false
+[ClickObjectLog] [2022-02-21T21:54:08.4773334] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickObjectLog] [2022-02-21T21:54:19.898431] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickButtonLog] [2022-02-21T21:54:21.1004417] Clicked: 1017, new: false
+[ClickButtonLog] [2022-02-21T21:54:39.1466068] Clicked: 108005, new: false
+[ClickButtonLog] [2022-02-21T21:54:45.16165] Clicked: 108012, new: false
+[ClickObjectLog] [2022-02-21T21:54:49.3716891] Clicked object WorldObject{x=3084, y=3513, height=0, id=4483, type=10, face=2} option 1
+[ClickObjectLog] [2022-02-21T21:54:53.5837234] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickButtonLog] [2022-02-21T21:54:54.1827283] Clicked: 1017, new: false
+[OutlastEntranceExitLog] [2022-02-21T21:54:54.183728] Enter outlast, stored skills=[SkillExperience{skill=Attack, experience=13,041,418}, SkillExperience{skill=Defence, experience=13,041,418}, SkillExperience{skill=Strength, experience=13,419,418}, SkillExperience{skill=Hitpoints, experience=13,499,742}, SkillExperience{skill=Ranged, experience=13,034,436}, SkillExperience{skill=Prayer, experience=13,034,436}, SkillExperience{skill=Magic, experience=14,034,936}], inventory=[SlottedItem{name=Farming 200M Cape, id=33052, amount=1}, SlottedItem{name=Fire cape, id=6570, amount=1}, SlottedItem{name=Iron platebody, id=1115, amount=1}, SlottedItem{name=Iron platelegs, id=1067, amount=1}, SlottedItem{name=Iron full helm, id=1153, amount=1}, SlottedItem{name=Large enriched bone, id=21551, amount=1}, SlottedItem{name=Dragon boots, id=11840, amount=1}, SlottedItem{name=Armadyl godsword, id=11803, amount=1}, SlottedItem{name=Armadyl godsword, id=20593, amount=1}, SlottedItem{name=Infinity boots, id=6920, amount=1}, SlottedItem{name=Dragon hunter lance, id=22978, amount=1}], equipment=[SlottedItem{name=Neitiznot faceguard, id=24271, amount=1}, SlottedItem{name=Infernal cape, id=21295, amount=1}, SlottedItem{name=Amulet of torture (or), id=20366, amount=1}, SlottedItem{name=Volatile nightmare staff, id=24424, amount=1}, SlottedItem{name=Bandos chestplate, id=11832, amount=1}, SlottedItem{name=Bandos tassets, id=11834, amount=1}, SlottedItem{name=Primordial boots, id=13239, amount=1}]
+[ClickButtonLog] [2022-02-21T21:54:54.7834525] Clicked: 1017, new: false
+[ClickButtonLog] [2022-02-21T21:55:17.6421122] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:55:18.2451175] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:55:18.2451175] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:58:38.5739226] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:58:44.5919738] Clicked: 48009, new: false
+[ClickButtonLog] [2022-02-21T21:58:55.4230727] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:58:56.0200748] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:58:56.0200748] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:59:17.0747888] Clicked: 2173, new: false
+[ClickButtonLog] [2022-02-21T21:59:17.6757945] Clicked: 21244, new: false
+[ClickButtonLog] [2022-02-21T21:59:18.2777987] Clicked: 21243, new: false
+[ClickButtonLog] [2022-02-21T21:59:33.9109429] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:59:33.9119371] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:59:34.5119417] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:59:34.5119417] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T21:59:48.9580668] Clicked: 21244, new: false
+[ClickButtonLog] [2022-02-21T22:00:28.6584657] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T22:00:39.4925677] Clicked: 118098, new: false
+[ClickButtonLog] [2022-02-21T22:00:46.1036157] Clicked: 118098, new: false
+[OutlastEntranceExitLog] [2022-02-21T22:00:53.3466816] Exit outlast, restored skills=[], inventory=[SlottedItem{name=Farming 200M Cape, id=33052, amount=1}, SlottedItem{name=Fire cape, id=6570, amount=1}, SlottedItem{name=Iron platebody, id=1115, amount=1}, SlottedItem{name=Iron platelegs, id=1067, amount=1}, SlottedItem{name=Iron full helm, id=1153, amount=1}, SlottedItem{name=Large enriched bone, id=21551, amount=1}, SlottedItem{name=Dragon boots, id=11840, amount=1}, SlottedItem{name=Armadyl godsword, id=11803, amount=1}, SlottedItem{name=Armadyl godsword, id=20593, amount=1}, SlottedItem{name=Infinity boots, id=6920, amount=1}, SlottedItem{name=Dragon hunter lance, id=22978, amount=1}], equipment=[SlottedItem{name=Neitiznot faceguard, id=24271, amount=1}, SlottedItem{name=Infernal cape, id=21295, amount=1}, SlottedItem{name=Amulet of torture (or), id=20366, amount=1}, SlottedItem{name=Volatile nightmare staff, id=24424, amount=1}, SlottedItem{name=Bandos chestplate, id=11832, amount=1}, SlottedItem{name=Bandos tassets, id=11834, amount=1}, SlottedItem{name=Primordial boots, id=13239, amount=1}]
+[ClickButtonLog] [2022-02-21T22:01:10.7768314] Clicked: 250002, new: false
+[ClickButtonLog] [2022-02-21T22:01:21.0089189] Clicked: 250002, new: false
+[ClickButtonLog] [2022-02-21T22:01:34.8410382] Clicked: 250002, new: false
+[CommandLog] [2022-02-21T22:02:18.1444198] samo typed command getid  at X: 3094 Y:3495
+[CommandLog] [2022-02-21T22:02:22.3564494] samo typed command getid mys at X: 3094 Y:3495
+[ClickButtonLog] [2022-02-21T22:02:30.7815204] Clicked: 250002, new: false
+[ClickButtonLog] [2022-02-21T22:02:30.7815204] Clicked: 250002, new: false
+[CommandLog] [2022-02-21T22:02:31.3815218] samo typed command item 6828 1 at X: 3094 Y:3495
+[ClickButtonLog] [2022-02-21T22:02:33.7875461] Clicked: 183156, new: false
+[ClickButtonLog] [2022-02-21T22:02:47.6276637] Clicked: 183155, new: false
+[ClickButtonLog] [2022-02-21T22:02:59.0542249] Clicked: 9179, new: false
+[ClickButtonLog] [2022-02-21T22:03:05.6772903] Clicked: 183156, new: false
+[ClickButtonLog] [2022-02-21T22:03:19.5093988] Clicked: 183156, new: false
+[ClickButtonLog] [2022-02-21T22:03:20.1094135] Clicked: 183155, new: false
+[ClickObjectLog] [2022-02-21T22:03:21.3174373] Clicked object WorldObject{x=3094, y=3495, height=0, id=10061, type=0, face=2} option 1
+[ClickButtonLog] [2022-02-21T22:03:58.6047347] Clicked: 14067, new: false
+[ClickButtonLog] [2022-02-21T22:04:19.6619175] Clicked: 47002, new: false
+[ClickButtonLog] [2022-02-21T22:04:21.4659412] Clicked: 11015, new: false
+[ClickButtonLog] [2022-02-21T22:04:21.4669327] Clicked: 11015, new: false

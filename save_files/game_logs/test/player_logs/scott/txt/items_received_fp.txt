@@ -1,0 +1,1 @@
+[ItemFlowerPokerTradeLog] [2021-11-07T00:49:28.8783091] Flower pokered with [scott123] (login name) Received [[GameItem{name=Eldritch nightmare staff, id=24425, amount=1}]] Given [[]]

@@ -1,0 +1,22 @@
+[ConnectionLog] [2021-11-14T19:58:22.1046534] Logged in
+[ClickButtonLog] [2021-11-14T19:58:39.0657938] Clicked: 94242, new: false
+[ClickButtonLog] [2021-11-14T19:58:42.0728159] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-14T19:58:44.477835] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-14T19:58:46.8838564] Clicked: 9157, new: false
+[ClickObjectLog] [2021-11-14T19:59:14.7290883] Clicked object WorldObject{x=3077, y=3495, height=0, id=29064, type=10, face=3} option 1
+[ClickButtonLog] [2021-11-14T19:59:17.1401126] Clicked: 73159, new: false
+[ClickButtonLog] [2021-11-14T19:59:17.7411132] Clicked: 73151, new: false
+[ClickButtonLog] [2021-11-14T19:59:18.342126] Clicked: 73153, new: false
+[ClickButtonLog] [2021-11-14T19:59:24.9591709] Clicked: 50423, new: true
+[ClickButtonLog] [2021-11-14T19:59:25.5601756] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-14T19:59:26.178177] Clicked: 50419, new: true
+[ClickButtonLog] [2021-11-14T19:59:26.178177] Clicked: 50417, new: true
+[ClickButtonLog] [2021-11-14T19:59:26.7641844] Clicked: 50421, new: true
+[ClickButtonLog] [2021-11-14T19:59:28.5732014] Clicked: 50417, new: true
+[ClickObjectLog] [2021-11-14T19:59:38.8322879] Clicked object WorldObject{x=3102, y=3486, height=0, id=6097, type=10, face=0} option 1
+[ClickButtonLog] [2021-11-14T19:59:41.8383154] Clicked: 22946, new: true
+[ClickButtonLog] [2021-11-14T19:59:44.2463308] Clicked: 22950, new: true
+[ClickButtonLog] [2021-11-14T19:59:44.2473311] Clicked: 22950, new: true
+[ClickButtonLog] [2021-11-14T19:59:45.4493476] Clicked: 22946, new: true
+[ClickButtonLog] [2021-11-14T19:59:45.4493476] Clicked: 22942, new: true
+[ClickButtonLog] [2021-11-14T19:59:46.0523483] Clicked: 22940, new: true

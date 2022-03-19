@@ -1,0 +1,20 @@
+{
+  "votes": {
+    "scott": {
+      "voteCount": 0,
+      "firstVoteTimestamp": 0,
+      "dayStreak": 1,
+      "bluePoints": 0,
+      "redPoints": 0,
+      "prizeSlot": 0
+    }
+  },
+  "startTime": {
+    "seconds": 1647375741,
+    "nanos": 541435900
+  },
+  "finishTime": 1647980541541,
+  "lastWeeksTopVoters": [
+    "scott [0]"
+  ]
+}

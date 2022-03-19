@@ -1,0 +1,16 @@
+{
+  "attributes": {},
+  "intMap": {},
+  "doubleMap": {},
+  "booleanMap": {},
+  "longMap": {},
+  "stringMap": {
+    "leaderboard_last_select": "2021-11-14"
+  },
+  "listMap": {
+    "starters": [
+      "127.0.0.1"
+    ]
+  },
+  "hashSetMap": {}
+}

@@ -1,0 +1,25 @@
+{
+  "attributes": {},
+  "intMap": {},
+  "doubleMap": {},
+  "booleanMap": {},
+  "longMap": {},
+  "stringMap": {
+    "leaderboard_last_select": "2021-11-06"
+  },
+  "listMap": {
+    "starters": [
+      "5.175.19.214",
+      "5.175.19.214"
+    ],
+    "referalls": [],
+    "starters_gim": [
+      "5.175.19.214"
+    ]
+  },
+  "hashSetMap": {
+    "referalls_map": [
+      "5.175.19.214"
+    ]
+  }
+}

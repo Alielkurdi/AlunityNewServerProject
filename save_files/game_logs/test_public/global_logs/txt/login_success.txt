@@ -1,0 +1,2 @@
+[LoginLog] [2021-11-14T19:58:21.7066463] Queued, loginTime=248ms: player[loginName=scott, displayName=Scott, ip=127.0.0.1, mac=127.0.0.1, uuid=c9688532-e26b-4cb9-923f-72332e66c622]
+[LoginLog] [2021-11-14T19:58:22.3386511] Logged in: player[loginName=scott, displayName=Scott, ip=127.0.0.1, mac=127.0.0.1, uuid=c9688532-e26b-4cb9-923f-72332e66c622]

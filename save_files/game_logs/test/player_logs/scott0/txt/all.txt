@@ -1,0 +1,29 @@
+[ConnectionLog] [2021-11-07T14:04:10.7557313] Logged in
+[ClickButtonLog] [2021-11-07T14:04:16.8289942] Clicked: 95007, new: false
+[ClickButtonLog] [2021-11-07T14:04:19.2619415] Clicked: 94242, new: false
+[ClickButtonLog] [2021-11-07T14:04:22.9102384] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T14:04:31.9854806] Clicked: 9168, new: false
+[ClickButtonLog] [2021-11-07T14:04:54.9944885] Clicked: 9128, new: false
+[CommandLog] [2021-11-07T14:05:02.268402] scott0 typed command staff at X: 3092 Y:3491
+[ClickButtonLog] [2021-11-07T14:05:07.7218343] Clicked: 52054, new: false
+[ClickButtonLog] [2021-11-07T14:05:10.7481369] Clicked: 9128, new: false
+[ClickButtonLog] [2021-11-07T14:05:11.357524] Clicked: 9125, new: false
+[ClickButtonLog] [2021-11-07T14:05:11.357524] Clicked: 9126, new: false
+[ClickButtonLog] [2021-11-07T14:05:11.9538728] Clicked: 9128, new: false
+[ClickButtonLog] [2021-11-07T14:05:13.1733953] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-07T17:18:17.1464701] Logged in
+[ClickButtonLog] [2021-11-07T17:18:55.107568] Clicked: 9154, new: false
+[ConnectionLog] [2021-11-07T17:19:09.5200539] Logged in
+[CommandLog] [2021-11-07T17:19:12.5404574] scott0 typed command max at X: 3035 Y:6067
+[ClickButtonLog] [2021-11-07T17:19:19.772105] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T17:19:34.8585984] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:38.4739273] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:39.0685717] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:39.6772949] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:39.6772949] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:40.2781268] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:40.2781268] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:40.2781268] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:40.8732581] Clicked: 9158, new: false
+[ClickButtonLog] [2021-11-07T17:19:41.4778964] Clicked: 9157, new: false
+[ClickButtonLog] [2021-11-07T17:19:49.9116951] Clicked: 83158, new: false

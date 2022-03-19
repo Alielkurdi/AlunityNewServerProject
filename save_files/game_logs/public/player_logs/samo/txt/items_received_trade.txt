@@ -1,0 +1,1 @@
+[ItemTradeLog] [2022-02-21T21:42:18.0322301] Traded with [scott] (login name) Received [[]] Given [[GameItem{name=Seren's Key, id=6792, amount=2}]]

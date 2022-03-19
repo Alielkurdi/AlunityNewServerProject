@@ -1,0 +1,432 @@
+[ClickButtonLog] [2021-08-17T12:39:10.3872136] Clicked: 94242, new: false
+[ClickButtonLog] [2021-08-17T12:39:12.1898604] Clicked: 9157, new: false
+[ClickButtonLog] [2021-08-17T12:39:13.3909506] Clicked: 9157, new: false
+[ClickButtonLog] [2021-08-17T12:39:14.5920504] Clicked: 9157, new: false
+[ClickObjectLog] [2021-08-17T12:39:27.2125466] Clicked object WorldObject{x=3094, y=3505, height=0, id=2996, type=10, face=2} option 1
+[ClickObjectLog] [2021-08-17T12:39:29.0211883] Clicked object WorldObject{x=3091, y=3505, height=0, id=30720, type=10, face=0} option 1
+[ClickObjectLog] [2021-08-17T12:39:31.4253832] Clicked object WorldObject{x=3094, y=3505, height=0, id=2996, type=10, face=2} option 1
+[CommandLog] [2021-08-17T12:39:33.832073] leviticus typed command vpanel at X: 3098 Y:3503
+[ClickButtonLog] [2021-08-17T12:39:38.6409516] Clicked: 94100, new: false
+[ClickButtonLog] [2021-08-17T12:39:41.0476414] Clicked: 94106, new: false
+[ClickButtonLog] [2021-08-17T12:39:41.6481865] Clicked: 94112, new: false
+[ClickButtonLog] [2021-08-17T12:39:42.2482366] Clicked: 94118, new: false
+[ClickButtonLog] [2021-08-17T12:48:18.1683278] Clicked: 250002, new: false
+[ClickObjectLog] [2021-08-17T12:48:20.5845211] Clicked object WorldObject{x=3084, y=3513, height=0, id=4483, type=10, face=2} option 1
+[ClickObjectLog] [2021-08-17T12:48:30.8053044] Clicked object WorldObject{x=3080, y=3512, height=0, id=7127, type=11, face=0} option 1
+[ClickButtonLog] [2021-08-17T12:48:33.2094867] Clicked: 9167, new: false
+[ClickButtonLog] [2021-08-17T12:48:35.6116836] Clicked: 9169, new: false
+[ClickButtonLog] [2021-08-17T12:48:35.6116836] Clicked: 9168, new: false
+[ClickObjectLog] [2021-08-17T12:48:36.8127738] Clicked object WorldObject{x=3079, y=3509, height=0, id=31622, type=10, face=3} option 1
+[ClickButtonLog] [2021-08-17T12:48:39.217957] Clicked: 1017, new: false
+[OutlastItemStoreLog] [2021-08-17T12:48:39.217957] Player entered outlast, items stored : [inventory=[]] [equipment=[]]
+[ClickObjectLog] [2021-08-17T12:48:50.6333286] Clicked object WorldObject{x=3323, y=4942, height=0, id=26738, type=10, face=0} option 1
+[OutlastSmuggleLog] [2021-08-17T12:48:51.834432] Items lost [[GameItem{name=Dragon dagger, id=1216, amount=1}, GameItem{name=Super combat potion(4), id=12696, amount=1}, GameItem{name=Saradomin brew(4), id=6686, amount=1}, GameItem{name=Super restore(4), id=3025, amount=1}, GameItem{name=Super restore(4), id=3025, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Cooked karambwan, id=3145, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Cooked karambwan, id=3145, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Cooked karambwan, id=3145, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Cooked karambwan, id=3145, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Cooked karambwan, id=3145, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Shark, id=386, amount=1}, GameItem{name=Mind rune, id=558, amount=400}, GameItem{name=Lunar ore, id=9076, amount=160}, GameItem{name=Nature rune, id=561, amount=80}, GameItem{name=Helm of neitiznot, id=10828, amount=1}, GameItem{name=Fire cape, id=6570, amount=1}, GameItem{name=Amulet of glory(4), id=1712, amount=1}, GameItem{name=Abyssal whip, id=4151, amount=1}, GameItem{name=Fighter torso, id=10551, amount=1}, GameItem{name=Rune defender, id=8850, amount=1}, GameItem{name=unknown item -1, id=-1, amount=-1}, GameItem{name=Rune platelegs, id=1079, amount=1}, GameItem{name=unknown item -1, id=-1, amount=-1}, GameItem{name=Gloves, id=7462, amount=1}, GameItem{name=Dragon boots, id=11840, amount=1}, GameItem{name=unknown item -1, id=-1, amount=-1}, GameItem{name=Ring of recoil, id=2550, amount=1}, GameItem{name=unknown item -1, id=-1, amount=-1}]] location [Position{x=3080, y=3510, z=0}]
+[OutlastStatLogger] [2021-08-17T12:48:51.835433] leviticus left the lobby DidStatsGetChecked=Yes SavedAttackXP=0
+[OutlastItemStoreLog] [2021-08-17T12:48:51.8364338] Player exited outlast, items restored : [inventory=[]] [equipment=[]]
+[ClickObjectLog] [2021-08-17T12:49:02.0492259] Clicked object WorldObject{x=3075, y=3502, height=0, id=12768, type=10, face=2} option 1
+[ClickObjectLog] [2021-08-17T12:49:03.8508868] Clicked object WorldObject{x=3074, y=3502, height=0, id=30087, type=10, face=2} option 1
+[ClickObjectLog] [2021-08-17T12:49:06.8556297] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-08-17T12:49:15.2797917] Clicked: 130133, new: false
+[ClickObjectLog] [2021-08-17T12:49:17.0849486] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 2
+[ClickButtonLog] [2021-08-17T12:49:26.1151684] Clicked: 250002, new: false
+[CommandLog] [2021-08-17T12:49:29.7189441] leviticus typed command item 22325 1000 at X: 3074 Y:3497
+[ClickObjectLog] [2021-08-17T12:49:31.5205795] Clicked object WorldObject{x=3074, y=3495, height=0, id=33320, type=10, face=1} option 1
+[ClickButtonLog] [2021-08-17T12:49:34.5278144] Clicked: 130133, new: false
+[ClickButtonLog] [2021-08-17T12:49:36.331452] Clicked: 9167, new: false
+[FireOfExchangeLog] [2021-08-17T12:49:36.3384578] Burned GameItem{name=Scythe of vitur, id=22325, amount=28}
+[ClickButtonLog] [2021-08-17T12:49:37.5345436] Clicked: 130131, new: false
+[ShopBuyLog] [2021-08-17T12:49:51.9666813] Bought GameItem{name=Kratos, id=30022, amount=1} from Item Exchange Shop with id 171
+[ClickButtonLog] [2021-08-17T12:50:29.2275459] Clicked: 166007, new: false
+[ClickButtonLog] [2021-08-17T12:50:29.8280913] Clicked: 166008, new: false
+[ClickButtonLog] [2021-08-17T12:50:29.8280913] Clicked: 166009, new: false
+[ClickButtonLog] [2021-08-17T12:50:32.2297768] Clicked: 162080, new: false
+[ClickButtonLog] [2021-08-17T12:50:32.8303219] Clicked: 166056, new: false
+[ClickButtonLog] [2021-08-17T12:50:33.4313719] Clicked: 162080, new: false
+[ClickButtonLog] [2021-08-17T12:50:38.8388006] Clicked: 166006, new: false
+[ClickButtonLog] [2021-08-17T12:50:40.0398906] Clicked: 166028, new: false
+[ClickButtonLog] [2021-08-17T12:50:58.0722807] Clicked: 166013, new: false
+[ClickObjectLog] [2021-08-17T12:51:07.0899706] Clicked object WorldObject{x=3106, y=3479, height=0, id=13287, type=10, face=2} option 1
+[ClickButtonLog] [2021-08-17T12:51:09.4931521] Clicked: 166009, new: false
+[ClickButtonLog] [2021-08-17T12:51:10.0936975] Clicked: 166008, new: false
+[ClickButtonLog] [2021-08-17T12:51:10.0936975] Clicked: 166007, new: false
+[ClickButtonLog] [2021-08-17T12:51:10.6942423] Clicked: 166008, new: false
+[ClickButtonLog] [2021-08-17T12:51:11.2947876] Clicked: 166048, new: false
+[ClickButtonLog] [2021-08-17T12:51:12.5083942] Clicked: 209054, new: false
+[ClickButtonLog] [2021-08-17T12:51:14.3135381] Clicked: 209110, new: false
+[ClickButtonLog] [2021-08-17T12:51:14.9156015] Clicked: 209108, new: false
+[ClickButtonLog] [2021-08-17T12:51:16.1196947] Clicked: 209110, new: false
+[ClickButtonLog] [2021-08-17T12:51:17.3237875] Clicked: 209112, new: false
+[ClickButtonLog] [2021-08-17T12:51:18.5248778] Clicked: 209106, new: false
+[ClickButtonLog] [2021-08-17T12:51:18.5248778] Clicked: 209104, new: false
+[ClickButtonLog] [2021-08-17T12:51:19.1254228] Clicked: 209102, new: false
+[ClickButtonLog] [2021-08-17T12:51:19.7259679] Clicked: 209104, new: false
+[ClickButtonLog] [2021-08-17T12:51:43.1687941] Clicked: 50419, new: true
+[ClickButtonLog] [2021-08-17T12:51:43.1687941] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-17T12:51:43.7693389] Clicked: 50423, new: true
+[ClickButtonLog] [2021-08-17T12:51:44.369884] Clicked: 50417, new: true
+[ClickButtonLog] [2021-08-17T12:51:48.5777431] Clicked: 50419, new: true
+[ClickButtonLog] [2021-08-17T12:51:49.7808454] Clicked: 74107, new: false
+[ClickButtonLog] [2021-08-17T12:51:52.1850276] Clicked: 90188, new: false
+[ClickButtonLog] [2021-08-17T12:51:52.1870301] Clicked: 90188, new: false
+[ClickButtonLog] [2021-08-17T12:51:53.9901715] Clicked: 90090, new: false
+[ClickButtonLog] [2021-08-17T12:52:03.6059456] Clicked: 74122, new: false
+[ClickButtonLog] [2021-08-17T12:52:06.0086319] Clicked: 175247, new: false
+[ClickButtonLog] [2021-08-17T12:52:07.2097221] Clicked: 175220, new: false
+[ClickButtonLog] [2021-08-17T12:52:07.8132701] Clicked: 175217, new: false
+[ClickButtonLog] [2021-08-17T12:52:08.4138151] Clicked: 175214, new: false
+[ClickButtonLog] [2021-08-17T12:52:09.0158668] Clicked: 175211, new: false
+[ClickButtonLog] [2021-08-17T12:52:10.2189587] Clicked: 74142, new: false
+[ClickButtonLog] [2021-08-17T12:52:14.428284] Clicked: 74132, new: false
+[ClickButtonLog] [2021-08-17T12:52:15.030335] Clicked: 74127, new: false
+[ClickButtonLog] [2021-08-17T12:52:17.4335289] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-17T12:52:19.8367232] Clicked: 24979, new: true
+[ClickButtonLog] [2021-08-17T12:52:21.0388142] Clicked: 25005, new: true
+[ClickButtonLog] [2021-08-17T12:52:27.0523062] Clicked: 24927, new: true
+[ClickButtonLog] [2021-08-17T12:52:36.0705054] Clicked: 25915, new: true
+[ClickButtonLog] [2021-08-17T12:52:51.6972078] Clicked: 25941, new: true
+[ClickButtonLog] [2021-08-17T12:52:52.2977533] Clicked: 25954, new: true
+[CommandLog] [2021-08-17T12:52:56.5060905] leviticus typed command master at X: 3101 Y:3494
+[CommandLog] [2021-08-17T12:53:01.9125031] leviticus typed command max at X: 3106 Y:3488
+[ClickButtonLog] [2021-08-17T12:53:06.1318494] Clicked: 25954, new: true
+[ClickButtonLog] [2021-08-17T12:53:16.9526962] Clicked: 9154, new: false
+[ClickButtonLog] [2021-08-17T12:53:21.7645696] Clicked: 50423, new: true
+[ClickButtonLog] [2021-08-17T12:53:23.5662049] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-17T12:53:24.167751] Clicked: 50419, new: true
+[ClickButtonLog] [2021-08-17T12:53:24.7683067] Clicked: 50417, new: true
+[ClickButtonLog] [2021-08-17T12:53:25.3688519] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-17T12:53:27.1705605] Clicked: 25954, new: true
+[ClickButtonLog] [2021-08-17T12:53:30.1803057] Clicked: 183156, new: false
+[ClickButtonLog] [2021-08-17T12:53:47.6116658] Clicked: 9157, new: false
+[ItemDroppedLog] [2021-08-17T12:53:51.8244899] Dropped GameItem{name=10,000 FoE Point Certificate, id=691, amount=1} at Position{x=3099, y=3495, z=0}
+[ClickObjectLog] [2021-08-17T12:53:53.6216263] Clicked object WorldObject{x=3099, y=3495, height=0, id=10061, type=0, face=0} option 1
+[ItemPickupLog] [2021-08-17T12:53:56.6263681] Picked up GameItem{name=10,000 FoE Point Certificate, id=691, amount=1} at Position{x=3099, y=3495, z=0}, owner leviticus
+[ClickObjectLog] [2021-08-17T12:54:11.6455586] Clicked object WorldObject{x=3086, y=3493, height=0, id=36062, type=10, face=0} option 1
+[ClickButtonLog] [2021-08-17T12:54:15.2488294] Clicked: 39721, new: true
+[ClickButtonLog] [2021-08-17T12:54:16.4504369] Clicked: 39736, new: true
+[ClickButtonLog] [2021-08-17T12:54:17.6515441] Clicked: 44750, new: true
+[CommandLog] [2021-08-23T21:42:55.6438868] leviticus typed command debug at X: 2779 Y:4842
+[CommandLog] [2021-08-23T21:42:58.0448136] leviticus typed command debug at X: 2779 Y:4842
+[PublicChatLog] [2021-08-23T21:43:17.3041742] Rrrrrd
+[ClickButtonLog] [2021-08-23T21:43:53.9884014] Clicked: 75010, new: false
+[ClickButtonLog] [2021-08-23T21:43:54.5945246] Clicked: 75010, new: false
+[ClickButtonLog] [2021-08-23T21:43:56.9942838] Clicked: 75010, new: false
+[ClickButtonLog] [2021-08-23T21:43:57.5963376] Clicked: 75010, new: false
+[ClickButtonLog] [2021-08-23T21:43:58.1969284] Clicked: 75010, new: false
+[ClickButtonLog] [2021-08-23T21:43:58.1969284] Clicked: 75010, new: false
+[CommandLog] [2021-08-23T21:44:01.8073935] leviticus typed command unjail leviticus at X: 2083 Y:4464
+[ClickButtonLog] [2021-08-23T21:44:04.8117912] Clicked: 75010, new: false
+[CommandLog] [2021-08-23T21:44:36.6826909] leviticus typed command debug at X: 3094 Y:3495
+[CommandLog] [2021-08-23T21:44:40.895072] leviticus typed command debug at X: 3094 Y:3495
+[ClickButtonLog] [2021-08-23T21:45:13.3745347] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-23T21:45:15.1812116] Clicked: 84051, new: false
+[ClickButtonLog] [2021-08-23T21:45:15.7837586] Clicked: 84053, new: false
+[ClickButtonLog] [2021-08-23T21:45:16.3843176] Clicked: 84055, new: false
+[ClickButtonLog] [2021-08-23T21:45:16.9863708] Clicked: 84051, new: false
+[ClickButtonLog] [2021-08-23T21:45:19.9961379] Clicked: 84071, new: false
+[ClickButtonLog] [2021-08-23T21:47:01.6071051] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-23T21:47:03.4098098] Clicked: 84057, new: false
+[ClickButtonLog] [2021-08-23T21:47:04.0118627] Clicked: 197008, new: false
+[ClickButtonLog] [2021-08-23T21:47:04.6149141] Clicked: 197008, new: false
+[ClickButtonLog] [2021-08-23T21:47:07.6206776] Clicked: 84071, new: false
+[ClickButtonLog] [2021-08-23T21:47:07.6206776] Clicked: 84071, new: false
+[ClickButtonLog] [2021-08-23T23:56:19.1697877] Clicked: 50419, new: true
+[ClickButtonLog] [2021-08-23T23:56:19.7703326] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-23T23:56:20.372383] Clicked: 50423, new: true
+[ClickButtonLog] [2021-08-23T23:56:20.372383] Clicked: 50419, new: true
+[ClickButtonLog] [2021-08-23T23:56:21.5744744] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-23T23:56:31.7963351] Clicked: 25551, new: true
+[ClickButtonLog] [2021-08-23T23:56:32.9974254] Clicked: 25551, new: true
+[ClickButtonLog] [2021-08-23T23:56:40.2059689] Clicked: 24927, new: true
+[ClickObjectLog] [2021-08-23T23:56:41.4090609] Clicked object WorldObject{x=3100, y=3468, height=0, id=8356, type=10, face=2} option 1
+[ClickButtonLog] [2021-08-23T23:56:43.2096954] Clicked: 50423, new: true
+[ClickButtonLog] [2021-08-23T23:56:45.6123804] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-23T23:56:48.6181093] Clicked: 166028, new: false
+[ClickButtonLog] [2021-08-23T23:56:51.6213406] Clicked: 166007, new: false
+[ClickButtonLog] [2021-08-23T23:56:52.2218858] Clicked: 166008, new: false
+[ClickButtonLog] [2021-08-23T23:56:52.2218858] Clicked: 166006, new: false
+[ClickButtonLog] [2021-08-23T23:57:09.654721] Clicked: 166007, new: false
+[ClickButtonLog] [2021-08-23T23:57:10.2592698] Clicked: 166008, new: false
+[ClickButtonLog] [2021-08-23T23:57:10.2602712] Clicked: 166009, new: false
+[ClickButtonLog] [2021-08-23T23:57:10.8568123] Clicked: 166006, new: false
+[ClickButtonLog] [2021-08-23T23:57:13.2639974] Clicked: 50417, new: true
+[ClickButtonLog] [2021-08-23T23:57:15.0691403] Clicked: 50419, new: true
+[ClickButtonLog] [2021-08-23T23:57:16.8727776] Clicked: 74107, new: false
+[ClickButtonLog] [2021-08-23T23:57:19.2769601] Clicked: 74112, new: false
+[ClickButtonLog] [2021-08-23T23:57:27.0930775] Clicked: 74122, new: false
+[ClickButtonLog] [2021-08-23T23:57:28.8997171] Clicked: 175214, new: false
+[ClickButtonLog] [2021-08-23T23:57:28.8997171] Clicked: 175220, new: false
+[ClickButtonLog] [2021-08-23T23:57:29.5017683] Clicked: 175223, new: false
+[ClickButtonLog] [2021-08-23T23:57:30.1023135] Clicked: 175226, new: false
+[ClickButtonLog] [2021-08-23T23:57:31.9079526] Clicked: 176003, new: false
+[ClickButtonLog] [2021-08-23T23:57:32.508511] Clicked: 176000, new: false
+[ClickButtonLog] [2021-08-23T23:57:34.3141502] Clicked: 175223, new: false
+[ClickButtonLog] [2021-08-23T23:57:34.9146952] Clicked: 175223, new: false
+[ClickButtonLog] [2021-08-23T23:57:34.9146952] Clicked: 175220, new: false
+[ClickButtonLog] [2021-08-23T23:57:35.5152404] Clicked: 175217, new: false
+[ClickButtonLog] [2021-08-23T23:57:36.1157855] Clicked: 175214, new: false
+[ClickButtonLog] [2021-08-23T23:57:36.7163309] Clicked: 175211, new: false
+[ClickButtonLog] [2021-08-23T23:57:40.3266078] Clicked: 74132, new: false
+[ClickButtonLog] [2021-08-23T23:57:41.5327026] Clicked: 74122, new: false
+[ClickButtonLog] [2021-08-23T23:57:43.9393919] Clicked: 74137, new: false
+[ClickButtonLog] [2021-08-23T23:57:48.7497583] Clicked: 74142, new: false
+[ClickButtonLog] [2021-08-23T23:57:51.1659514] Clicked: 74137, new: false
+[ClickButtonLog] [2021-08-23T23:57:54.7717313] Clicked: 74127, new: false
+[ClickButtonLog] [2021-08-23T23:58:00.1906679] Clicked: 74157, new: false
+[ClickButtonLog] [2021-08-23T23:58:09.2128576] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-23T23:58:10.4139479] Clicked: 50417, new: true
+[ClickButtonLog] [2021-08-23T23:58:12.818635] Clicked: 50421, new: true
+[ClickButtonLog] [2021-08-23T23:58:13.41918] Clicked: 24501, new: true
+[ClickButtonLog] [2021-08-23T23:58:14.0197253] Clicked: 24601, new: true
+[ClickButtonLog] [2021-08-23T23:58:17.0254536] Clicked: 24503, new: true
+[ClickButtonLog] [2021-08-23T23:58:18.8310929] Clicked: 25057, new: true
+[ClickButtonLog] [2021-08-23T23:58:38.7006771] Clicked: 25954, new: true
+[ClickButtonLog] [2021-08-23T23:58:38.7006771] Clicked: 25915, new: true
+[ClickButtonLog] [2021-08-23T23:58:39.303224] Clicked: 24927, new: true
+[ClickObjectLog] [2021-08-23T23:58:39.9037691] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickObjectLog] [2021-08-23T23:58:42.915503] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-08-23T23:58:44.1195961] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-23T23:58:58.5642287] Clicked: 226198, new: false
+[ClickButtonLog] [2021-08-23T23:58:59.164787] Clicked: 226186, new: false
+[ClickButtonLog] [2021-08-23T23:59:45.5103811] Clicked: 226154, new: false
+[ClickButtonLog] [2021-08-23T23:59:47.319023] Clicked: 73245, new: false
+[ClickButtonLog] [2021-08-23T23:59:49.7252072] Clicked: 73245, new: false
+[ClickButtonLog] [2021-08-23T23:59:55.7391703] Clicked: 20174, new: false
+[ClickButtonLog] [2021-08-24T00:00:04.1638324] Clicked: 226253, new: false
+[ClickButtonLog] [2021-08-24T00:00:05.3679252] Clicked: 227008, new: false
+[ClickButtonLog] [2021-08-24T00:00:08.3756696] Clicked: 226251, new: false
+[ClickButtonLog] [2021-08-24T00:00:09.5767598] Clicked: 226186, new: false
+[ClickButtonLog] [2021-08-24T00:00:16.7923097] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-24T00:00:17.3928548] Clicked: 73249, new: false
+[ClickButtonLog] [2021-08-24T00:00:17.9933999] Clicked: 73249, new: false
+[ClickButtonLog] [2021-08-24T00:00:17.9933999] Clicked: 73249, new: false
+[ClickButtonLog] [2021-08-24T00:00:26.42105] Clicked: 226186, new: false
+[CommandLog] [2021-08-26T17:37:03.2686005] leviticus typed command preset at X: 3095 Y:3490
+[ClickButtonLog] [2021-08-26T17:37:07.483932] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T17:37:09.2892272] Clicked: 84051, new: false
+[ClickButtonLog] [2021-08-26T17:37:09.2902281] Clicked: 84053, new: false
+[ClickButtonLog] [2021-08-26T17:37:11.0943714] Clicked: 84055, new: false
+[ClickButtonLog] [2021-08-26T17:37:11.701923] Clicked: 84057, new: false
+[ClickButtonLog] [2021-08-26T17:58:59.8651218] Clicked: 84071, new: false
+[ClickObjectLog] [2021-08-26T18:03:19.3169439] Clicked object WorldObject{x=3096, y=3497, height=0, id=10060, type=0, face=3} option 1
+[ClickObjectLog] [2021-08-26T18:04:07.4001524] Clicked object WorldObject{x=3094, y=3494, height=0, id=10061, type=0, face=2} option 1
+[ClickObjectLog] [2021-08-26T18:04:11.0109353] Clicked object WorldObject{x=3099, y=3494, height=0, id=10061, type=0, face=0} option 1
+[ClickObjectLog] [2021-08-26T18:04:11.6154841] Clicked object WorldObject{x=3099, y=3494, height=0, id=10061, type=0, face=0} option 1
+[ClickButtonLog] [2021-08-26T18:04:27.252902] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:04:29.657727] Clicked: 84057, new: false
+[ClickButtonLog] [2021-08-26T18:04:30.2597777] Clicked: 84062, new: false
+[CommandLog] [2021-08-26T18:04:35.070164] leviticus typed command item 995 325k at X: 3097 Y:3492
+[CommandLog] [2021-08-26T18:04:39.2810353] leviticus typed command item 995 325000 at X: 3097 Y:3492
+[ClickButtonLog] [2021-08-26T18:04:42.8888258] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:04:44.089916] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:04:45.8965559] Clicked: 84051, new: false
+[ClickButtonLog] [2021-08-26T18:04:47.098666] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-26T18:04:50.104914] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:04:51.9065494] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:04:53.1131487] Clicked: 84057, new: false
+[ClickButtonLog] [2021-08-26T18:04:54.3152399] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-26T18:05:03.9355182] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:05:03.9355182] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:05:04.5360636] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:05:05.1366087] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:05:05.1406119] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:05:05.1406119] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-26T18:05:05.7451608] Clicked: 226162, new: false
+[CommandLog] [2021-08-26T18:07:31.2736882] leviticus typed command item 995 1000000 at X: 3095 Y:3491
+[ClickObjectLog] [2021-08-26T18:07:33.0803536] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-08-26T18:07:34.2839648] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:07:35.486066] Clicked: 84057, new: false
+[ClickButtonLog] [2021-08-26T18:07:36.6876612] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-26T18:07:40.2979572] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:07:41.4990472] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:07:42.7021501] Clicked: 84053, new: false
+[ClickButtonLog] [2021-08-26T18:07:43.9057476] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-26T18:07:50.5187683] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:07:50.5187683] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:07:52.3234266] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:08:07.3582149] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:08:07.9607619] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-26T18:12:16.4973166] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-26T18:12:18.3089885] Clicked: 196242, new: false
+[ClickButtonLog] [2021-08-26T18:12:20.1126524] Clicked: 84065, new: false
+[ClickButtonLog] [2021-08-26T18:12:23.1179303] Clicked: 196242, new: false
+[ClickButtonLog] [2021-08-26T18:12:24.3225291] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-26T18:12:43.5816676] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-26T18:12:44.1822128] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-26T18:12:45.3868269] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-26T18:12:45.3868269] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:17:08.6148535] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:17:08.6248624] Clicked: 226162, new: false
+[ClickObjectLog] [2021-08-27T14:17:23.0530302] Clicked object WorldObject{x=3097, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-08-27T14:17:25.4577183] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-27T14:17:27.2618608] Clicked: 197008, new: false
+[ClickButtonLog] [2021-08-27T14:17:29.0644973] Clicked: 84062, new: false
+[ClickObjectLog] [2021-08-27T14:17:56.1312077] Clicked object WorldObject{x=3096, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-08-27T14:17:57.3338165] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:17:57.9363634] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-27T14:17:59.7420304] Clicked: 197008, new: false
+[ClickButtonLog] [2021-08-27T14:18:00.9451444] Clicked: 84065, new: false
+[CommandLog] [2021-08-27T14:18:18.3766241] leviticus typed command item 995 1000000 at X: 3097 Y:3492
+[ClickButtonLog] [2021-08-27T14:18:19.5802401] Clicked: 84053, new: false
+[ClickButtonLog] [2021-08-27T14:18:20.1837878] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-27T14:18:24.9981854] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:18:26.2017823] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-27T14:18:27.4028821] Clicked: 197008, new: false
+[ClickButtonLog] [2021-08-27T14:18:28.0054393] Clicked: 84062, new: false
+[ClickObjectLog] [2021-08-27T14:18:34.0189073] Clicked object WorldObject{x=3097, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-08-27T14:18:35.2250021] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:18:36.4296005] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-27T14:18:49.0666389] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-27T14:18:50.2702356] Clicked: 84053, new: false
+[CommandLog] [2021-08-27T14:18:57.4853288] leviticus typed command item 995 1000000 at X: 3097 Y:3492
+[ClickButtonLog] [2021-08-27T14:18:58.6874192] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-27T14:19:02.3042276] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:19:02.9072799] Clicked: 226170, new: false
+[CommandLog] [2021-08-27T14:19:11.3269841] leviticus typed command item 995 1000000 at X: 3097 Y:3492
+[ClickButtonLog] [2021-08-27T14:19:16.1413899] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:19:16.7429358] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-27T14:19:17.346484] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-27T14:19:17.947029] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:19:19.7531915] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-27T14:19:20.9602875] Clicked: 197008, new: false
+[ClickButtonLog] [2021-08-27T14:19:21.5623385] Clicked: 84062, new: false
+[ClickObjectLog] [2021-08-27T14:19:25.7702039] Clicked object WorldObject{x=3097, y=3492, height=0, id=10060, type=0, face=1} option 1
+[ClickButtonLog] [2021-08-27T14:19:26.9717993] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:19:27.5743559] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-27T14:19:27.5753568] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:19:28.1804121] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-27T14:20:24.1106356] Clicked: 9154, new: false
+[ClickButtonLog] [2021-08-27T14:20:54.1595179] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-27T14:20:55.9641667] Clicked: 197008, new: false
+[ClickButtonLog] [2021-08-27T14:20:56.5672207] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-27T14:20:59.584464] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:21:00.1830283] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-27T14:22:30.3816274] Clicked: 74003, new: false
+[ClickButtonLog] [2021-08-27T14:22:32.1865717] Clicked: 197008, new: false
+[ClickButtonLog] [2021-08-27T14:22:32.7888208] Clicked: 84062, new: false
+[ClickButtonLog] [2021-08-27T14:22:41.8015892] Clicked: 226162, new: false
+[ClickButtonLog] [2021-08-27T14:22:44.8123314] Clicked: 226170, new: false
+[ClickButtonLog] [2021-08-27T14:22:44.8143333] Clicked: 226170, new: false
+[CommandLog] [2021-08-27T23:41:15.9918908] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:06:20.6825491] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:08:37.7210183] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:11:12.8264563] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:12:49.0355813] leviticus typed command interface 18830 at X: 3097 Y:3492
+[CommandLog] [2021-08-28T00:13:31.7005963] leviticus typed command :interface 18830 at X: 3095 Y:3492
+[CommandLog] [2021-08-28T00:13:35.9124431] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:16:27.2365894] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:18:33.4615358] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:19:07.1692845] leviticus typed command nterface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:19:10.1740216] leviticus typed command inter at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:19:11.9756758] leviticus typed command inter 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:19:15.5814646] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:22:16.5598615] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:22:58.6473346] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:23:59.3628957] leviticus typed command inteface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:24:04.1722962] leviticus typed command interface 18830 at X: 3096 Y:3491
+[ClickButtonLog] [2021-08-28T00:27:05.7030498] Clicked: 50419, new: true
+[CommandLog] [2021-08-28T00:28:32.8691483] leviticus typed command interface 18830 at X: 3096 Y:3491
+[ClickButtonLog] [2021-08-28T00:28:35.2723314] Clicked: 73149, new: false
+[ClickButtonLog] [2021-08-28T00:28:36.4744232] Clicked: 73149, new: false
+[ClickButtonLog] [2021-08-28T00:28:37.0749685] Clicked: 73153, new: false
+[ClickButtonLog] [2021-08-28T00:28:37.6755244] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-28T00:28:51.5007606] Clicked: 73153, new: false
+[ClickButtonLog] [2021-08-28T00:28:52.1013062] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-28T00:28:52.7028527] Clicked: 73149, new: false
+[ClickButtonLog] [2021-08-28T00:28:53.3039044] Clicked: 73145, new: false
+[ClickButtonLog] [2021-08-28T00:29:42.581928] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-28T00:29:43.1824734] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-28T00:29:43.783019] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-28T00:29:44.3855663] Clicked: 73153, new: false
+[ClickButtonLog] [2021-08-28T00:29:44.9876181] Clicked: 73145, new: false
+[CommandLog] [2021-08-28T00:32:27.9034509] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:33:42.4399992] leviticus typed command interface 18830 at X: 3096 Y:3491
+[ClickButtonLog] [2021-08-28T00:33:58.6658471] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-28T00:33:59.2684033] Clicked: 73149, new: false
+[ClickButtonLog] [2021-08-28T00:33:59.8724561] Clicked: 73161, new: false
+[CommandLog] [2021-08-28T00:45:58.2988641] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:49:04.0668995] leviticus typed command interface 18830 at X: 3096 Y:3491
+[ClickButtonLog] [2021-08-28T00:49:06.4736002] Clicked: 73166, new: false
+[ClickButtonLog] [2021-08-28T00:49:07.6766932] Clicked: 73166, new: false
+[ClickButtonLog] [2021-08-28T00:49:08.280851] Clicked: 73170, new: false
+[ClickButtonLog] [2021-08-28T00:49:08.280851] Clicked: 73174, new: false
+[ClickButtonLog] [2021-08-28T00:49:08.280851] Clicked: 73182, new: false
+[CommandLog] [2021-08-28T00:52:14.5971349] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T00:53:02.1026006] leviticus typed command interface 18830 at X: 3096 Y:3491
+[ClickButtonLog] [2021-08-28T00:53:13.529593] Clicked: 73161, new: false
+[ClickButtonLog] [2021-08-28T00:53:14.1316448] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-28T00:53:15.3327453] Clicked: 73153, new: false
+[ClickButtonLog] [2021-08-28T00:53:15.3327453] Clicked: 73149, new: false
+[CommandLog] [2021-08-28T01:06:33.037268] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:10:00.4074705] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:16:54.5791121] leviticus typed command interfce 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:16:56.9843246] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:18:48.1890656] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:20:21.9880281] leviticus typed command interface 18830 at X: 3096 Y:3491
+[ClickButtonLog] [2021-08-28T01:22:01.1730418] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-28T01:22:01.7750925] Clicked: 73149, new: false
+[CommandLog] [2021-08-28T01:23:06.1001542] leviticus typed command interface 18830 at X: 3096 Y:3491
+[ClickButtonLog] [2021-08-28T01:24:45.2774932] Clicked: 73161, new: false
+[ClickButtonLog] [2021-08-28T01:24:45.2774932] Clicked: 73161, new: false
+[CommandLog] [2021-08-28T01:25:30.3726719] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:26:01.049983] leviticus typed command interface 18830 at X: 3096 Y:3491
+[CommandLog] [2021-08-28T01:26:44.9506877] leviticus typed command interface 18830 at X: 3096 Y:3491
+[ClickButtonLog] [2021-08-30T11:23:15.2087257] Clicked: 73153, new: false
+[ClickButtonLog] [2021-08-30T11:23:15.8092714] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-30T11:23:15.8102722] Clicked: 73161, new: false
+[ClickButtonLog] [2021-08-30T11:23:16.4098169] Clicked: 73149, new: false
+[ClickButtonLog] [2021-08-31T12:56:17.1913445] Clicked: 73166, new: false
+[ClickButtonLog] [2021-08-31T12:56:18.3924352] Clicked: 73149, new: false
+[ClickButtonLog] [2021-08-31T12:56:18.992981] Clicked: 73153, new: false
+[ClickButtonLog] [2021-08-31T12:56:19.5935261] Clicked: 73157, new: false
+[ClickButtonLog] [2021-08-31T12:56:19.5935261] Clicked: 73161, new: false
+[ClickButtonLog] [2021-08-31T12:56:20.7981246] Clicked: 73161, new: false
+[CommandLog] [2021-09-01T12:43:49.5264996] leviticus typed command interface 18830 at X: 3096 Y:3492
+[ClickButtonLog] [2021-09-01T12:44:22.6226532] Clicked: 73161, new: false
+[ClickButtonLog] [2021-09-01T12:44:23.2252005] Clicked: 73149, new: false
+[ClickButtonLog] [2021-09-02T02:10:37.7827001] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-02T02:10:38.3832597] Clicked: 73168, new: false
+[ClickButtonLog] [2021-09-02T02:10:41.3860338] Clicked: 73168, new: false
+[ClickButtonLog] [2021-09-02T02:10:41.9865793] Clicked: 73170, new: false
+[ClickButtonLog] [2021-09-02T02:27:31.5047844] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-02T02:27:32.1058354] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-02T02:27:32.1058354] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-02T02:27:33.3094331] Clicked: 73184, new: false
+[ClickButtonLog] [2021-09-02T02:30:13.1441095] Clicked: 73184, new: false
+[ClickButtonLog] [2021-09-02T02:32:19.3296679] Clicked: 50419, new: true
+[ClickButtonLog] [2021-09-02T02:32:19.3306688] Clicked: 50417, new: true
+[ClickObjectLog] [2021-09-02T02:32:25.3451716] Clicked object WorldObject{x=3094, y=3495, height=0, id=10061, type=0, face=2} option 1
+[ClickObjectLog] [2021-09-02T02:32:26.5462771] Clicked object WorldObject{x=3094, y=3494, height=0, id=10061, type=0, face=2} option 1
+[ClickObjectLog] [2021-09-02T02:32:27.1473293] Clicked object WorldObject{x=3094, y=3495, height=0, id=10061, type=0, face=2} option 1
+[CommandLog] [2021-09-02T02:32:38.5672984] leviticus typed command iunterface 18830 at X: 3097 Y:3497
+[CommandLog] [2021-09-02T02:32:40.9704942] leviticus typed command interface 18830 at X: 3097 Y:3497
+[ClickButtonLog] [2021-09-02T02:32:45.1803374] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-02T02:32:45.7824032] Clicked: 73184, new: false
+[ClickButtonLog] [2021-09-02T02:32:46.9900055] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-02T02:32:48.7936439] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-02T02:32:49.9957515] Clicked: 73184, new: false
+[ClickButtonLog] [2021-09-02T02:32:50.5978165] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-02T02:32:51.1983619] Clicked: 73168, new: false
+[ClickButtonLog] [2021-09-02T02:32:52.403962] Clicked: 73184, new: false
+[ClickButtonLog] [2021-09-02T02:32:53.6075599] Clicked: 73184, new: false
+[ClickButtonLog] [2021-09-02T02:32:53.6075599] Clicked: 73180, new: false
+[ClickButtonLog] [2021-09-02T02:32:54.2101071] Clicked: 73178, new: false
+[ClickButtonLog] [2021-09-02T02:32:54.2111085] Clicked: 73176, new: false
+[ClickButtonLog] [2021-09-02T02:32:54.8136556] Clicked: 73174, new: false
+[ClickButtonLog] [2021-09-02T02:32:54.8136556] Clicked: 73172, new: false
+[ClickButtonLog] [2021-09-02T02:32:55.4142011] Clicked: 73170, new: false
+[ClickButtonLog] [2021-09-02T02:32:55.4142011] Clicked: 73168, new: false
+[ClickButtonLog] [2021-09-05T17:58:06.4838302] Clicked: 9154, new: false
+[ClickButtonLog] [2021-09-05T17:59:23.6006112] Clicked: 9154, new: false
+[ClickButtonLog] [2021-09-05T17:59:30.8176711] Clicked: 9154, new: false
+[CommandLog] [2021-09-07T19:42:37.7175591] leviticus typed command leaderboard at X: 3093 Y:3493
+[CommandLog] [2021-09-07T19:42:42.5234396] leviticus typed command leaderboard at X: 3092 Y:3493
+[CommandLog] [2021-09-07T19:43:22.2119971] leviticus typed command leaderboards at X: 3092 Y:3493
+[ClickButtonLog] [2021-09-07T19:43:24.0146346] Clicked: 73149, new: false
+[ClickButtonLog] [2021-09-07T19:43:24.6161809] Clicked: 73153, new: false
+[ClickButtonLog] [2021-09-07T19:43:25.2167268] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-07T19:43:26.4178178] Clicked: 73166, new: false
+[ClickButtonLog] [2021-09-07T19:49:42.5745277] Clicked: 73157, new: false
+[ClickButtonLog] [2021-09-07T19:49:43.1770749] Clicked: 73161, new: false
+[ClickButtonLog] [2021-09-07T19:49:43.7776206] Clicked: 73153, new: false
+[ClickButtonLog] [2021-09-07T19:49:44.3811689] Clicked: 73149, new: false
+[ClickButtonLog] [2021-09-07T20:00:49.9369294] Clicked: 73166, new: false
